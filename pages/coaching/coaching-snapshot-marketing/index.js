@@ -157,7 +157,6 @@ export default function BrowseCourses() {
                             <p>Select the number that best represents the extent to which you do the following (Use the line chart below as a guide.):</p>
                             <div className='clearfix'></div>
                             <div className='mainlinec'>
-
                                 <div className='sboxp'>
                                     <div className='sbox'>
                                         <hr className='hrleft'></hr>
