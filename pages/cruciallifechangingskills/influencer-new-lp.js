@@ -151,8 +151,7 @@ export default function BrowseCourses(){
                         <input type="text" name='designation' placeholder="Designation"/> 
                         </div>
 
-                        
-
+                
                         <div class="col-md-6 col-6">
                         <select name='slot' required>
                             <option value="">Pick any Slot*</option>                            
