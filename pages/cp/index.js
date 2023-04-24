@@ -360,6 +360,7 @@ export default function JoinOurPartnerNetworkLP() {
                         </div>
 
                         <div className='col-sm-4'>
+                            <a href='/team/meghna-goyal'>
                             <div className='teamf'>
                                 <div className='teamimgc'>
                                     <img src="/assets/img/team/meghna.jpg" alt="image" />
@@ -369,6 +370,7 @@ export default function JoinOurPartnerNetworkLP() {
                                     <h4>Associate Director Sales (Ken Blanchard & Crucial Learning)</h4>
                                 </div>
                             </div>
+                            </a>
                         </div>
 
                         {/* <div className='col-sm-4'>
