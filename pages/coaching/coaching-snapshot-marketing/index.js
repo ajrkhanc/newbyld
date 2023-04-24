@@ -164,7 +164,7 @@ export default function BrowseCourses() {
                                         <span>1</span>
                                         <p>Strongly Disagree</p>
                                     </div>
-                                    <div className='sbox'>
+                                    <div className='sbox'> 
                                         <hr></hr>
                                         <span>2</span>
                                         <p>Disagree</p>
