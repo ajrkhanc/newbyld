@@ -17,7 +17,7 @@ export default function Header() {
 
 
            
-<div className="full-width-header">            
+<div className="full-width-header">
             <header id="rs-header" className="rs-header style2 header-transparent">                
                 
                
