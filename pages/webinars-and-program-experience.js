@@ -149,16 +149,16 @@ export default function WebinarsAndProgramExperience(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 5th April, 2023</span>
+                                <span>Webinar 24th May, 2023</span>
                             </div>
                             <div className='eventbottom'>
-                                <h3>Everything DISC- Overview - Virtual Course Preview</h3>
+                                <h3>Everything Work of Leaders Virtual Course Preview</h3>
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
                     </div>
 
-                    <div className='col-sm-4'>
+                    {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -184,7 +184,7 @@ export default function WebinarsAndProgramExperience(){
                                 <a className="eventbtn" href='/tirian-lp'>Reserve Your Seat</a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -280,9 +280,9 @@ export default function WebinarsAndProgramExperience(){
                                                 {/* <option value="The Power of Habit – February 15th, 2023">The Power of Habit – February 15th, 2023</option>
                                                <option value="The Five Behaviors®️ Team Development – February 17th, 2023">The Five Behaviors®️ Team Development – February 17th, 2023</option> */}
                                                 
-                                                <option value="Everything DISC - Overview – April 5th, 2023">Everything DISC - Overview – April 5th, 2023</option>
-                                                <option value="Virtual Training Apollo3 – Friday, April 14th, 2023">Virtual Training Apollo3 – Friday, April 14th, 2023</option>
-                                                <option value="Harnessing Creative Intelligence – Friday, April 14th, 2023">Harnessing Creative Intelligence – Friday, April 14th, 2023</option>
+                                                <option value="Everything Work of Leaders Virtual Course Preview – 24th May, 2023">Everything Work of Leaders Virtual Course Preview – 24th May, 2023</option>
+                                                
+                                                
                                                 <option value="Five Behaviour - Overview, Virtual Course Preview, 26th April 2023">Five Behaviour - Overview, Virtual Course Preview, 26th April 2023</option>
                                                 <option value="3rd May 2023 - Everything DiSC Workplace® on Catalyst™">3rd May 2023 - Everything DiSC Workplace® on Catalyst™</option>
                                             </select>
