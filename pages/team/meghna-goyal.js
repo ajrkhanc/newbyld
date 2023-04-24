@@ -20,7 +20,7 @@ export default function Dtci() {
                             </div>
                             <div class="col-lg-7">
                                 <div class="con-info">
-                                    <span class="designation-info">Principal Advisor</span>
+                                    <span class="designation-info">Principal Advisor, Industries : Pharma, FMCG, E-commerce</span>
                                     <h2 class="title">Meghna Goyal</h2>
                                     <div class="short-desc text-justify">
                                         Professional Experience: 21 years of experience in corporate sales in the training and recruitment industry. In her current role as the Principal Advisor at BYLD Group, her focus is on FMCG, Pharma and Ecommerce sectors.
