@@ -367,7 +367,7 @@ export default function JoinOurPartnerNetworkLP() {
                                 </div>
                                 <div className='teamfro'>
                                     <h3>Meghna Goyal</h3>
-                                    <h4>Principal Advisor, Industries : Pharma, FMCG, E-commerce</h4>
+                                    <h4>Principal Advisor - Pharma, FMCG, E-commerce</h4>
                                 </div>
                             </div>
                             </a>
