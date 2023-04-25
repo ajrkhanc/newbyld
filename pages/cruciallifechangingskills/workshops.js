@@ -134,10 +134,37 @@ export default function Workshops(){
                        </div>
                     </div>
 
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content gtdcolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
 
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content phothemecolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                            <h4 className='pbb-20'>THE POWER OF HABIT</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> August 24th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
 
-                    
-                    {/* <div class="col-md-4 workshop-col"> 
+                    <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
@@ -146,8 +173,39 @@ export default function Workshops(){
                             </div>
                             <h5 className='eventt'>Workshop</h5>
                              <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> March 23rd - 24th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10.00 AM to 4.30 PM</h6>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> September 13th - 14th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
+
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content gtdcolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> September 28th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
+
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                            <h4>CRUCIAL CONVERSATIONS</h4>
+                            <p>for Accountability</p>
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> October 5th - 6th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                             <a href='#registered'><button class="register">REGISTER NOW</button></a>
                             </div>
                        </div>
@@ -162,12 +220,32 @@ export default function Workshops(){
                             </div>
                             <h5 className='eventt'>Workshop</h5>
                              <div class="col-md-12 workshop-date green-col"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> March 29th - 30th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10.00 AM to 4.30 PM</h6>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 15th - 16th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                             <a href='#registered'><button class="register">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div> */}
+                    </div>
+
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content phothemecolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                            <h4 className='pbb-20'>THE POWER OF HABIT</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 29th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
+
+
+
+                    
+                  
 
                     
                     
@@ -247,9 +325,13 @@ export default function Workshops(){
                                             <option value="Crucial Conversations for Accountability - May 25th - 26th, 2023">Crucial Conversations for Accountability - May 25th - 26th, 2023</option>
                                             <option value="Influencer - June 22nd - 23rd, 2023">Influencer - June 22nd - 23rd, 2023</option>
                                             <option value="The Power of Habit - July 13th, 2023">The Power of Habit - July 13th, 2023</option>
-                                            
-                                            
-                                            
+                                            <option value="Getting Things Done - July 27th, 2023">Getting Things Done - July 27th, 2023</option>
+                                            <option value="The Power of Habit - August 24th, 2023">The Power of Habit - August 24th, 2023</option>
+                                            <option value="Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023">Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023</option>                                      
+                                            <option value="Getting Things Done - September 28th, 2023">Getting Things Done - September 28th, 2023</option>                                           
+                                            <option value="Crucial Conversations for Accountability - MOctober 5th - 6th, 2023">Crucial Conversations for Accountability - October 5th - 6th, 2023</option>
+                                            <option value="Influencer - November 15th - 16th, 2023">Influencer - November 15th - 16th, 2023</option>
+                                            <option value="The Power of Habit - November 29th, 2023">The Power of Habit - November 29th, 2023</option>
                                         </select>
                                     </div>
                                     <div class="col-md-6 col-6">                                        
