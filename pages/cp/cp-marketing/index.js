@@ -119,37 +119,48 @@ export default function BrowseCourses() {
                                     <div className='sbox'>
                                         <hr className='hrleft'></hr>
                                         <span>1</span>
-                                        <p>Strongly Disagree</p>
+                                        <p>1 = (Not Fast Enough)</p>
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
-                                        <span>2</span>
-                                        <p>Disagree</p>
+                                        <span>2</span>                                        
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
                                         <span>3</span>
-                                        <p>Somewhat Disagree</p>
+                                        
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
                                         <span>4</span>
-                                        <p>Neither Agree nor Disagree</p>
+                                        
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
                                         <span>5</span>
-                                        <p>Somewhat Agree</p>
+                                     
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
-                                        <span>6</span>
-                                        <p>Agree</p>
+                                        <span>6</span>                                  
                                     </div>
                                     <div className='sbox'>
+                                        <hr></hr>
+                                        <span>7</span>                                  
+                                    </div>
+                                    <div className='sbox'>
+                                        <hr></hr>
+                                        <span>8</span>                                  
+                                    </div>
+                                    <div className='sbox'>
+                                        <hr></hr>
+                                        <span>9</span>                                  
+                                    </div>
+
+                                    <div className='sbox'>
                                         <hr className='hrright'></hr>
-                                        <span>7</span>
-                                        <p>Strongly Agree</p>
+                                        <span>10</span>
+                                        <p>10 = ( Fast Enough)</p>
                                     </div>
                                 </div>
                             </div>
