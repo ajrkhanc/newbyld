@@ -22,36 +22,30 @@ export default function Dtci() {
                                 <div class="con-info">
                                     <h2 class="title">Ronald Soans</h2>
                                     <span class="designation-info mbb-0">Principal Advisor - Pharma, FMCG, E-commerce</span>
-
                                     <div className="sec-title3 mbb-0 text-left rs-estimate">
-                                        <h4 className="countertoph2 text-left">Area of Expertise:</h4>
+                                        <h4 className="countertoph2 text-left">Certifications:</h4>
                                         <ul className='estimate-info mtt-5'>
-                                            <li>Leadership Development </li>
-                                            <li>Relationship Coaching</li>
-                                            <li>Performance Coaching</li>
-                                            <li>Interpersonal Skills</li>
-                                            <li>Talent Development</li>
-                                            <li>Business Development</li>
+                                            <li>ICF Accredited Coach (ACSTH)</li>
+                                            <li>ACDP Certified Coach</li>
+                                            <li>Inside Out Coaching certified Senior Trainer</li>
+                                            <li>Certified Master Trainer for Everything DiSC- Psychometric assessment</li>
+                                            <li>Certified Facilitator on Lumina Assessments</li>
+                                            <li>Facilitator for Leadership Solutions from Ken Blanchard Companies such as Situational Leadership II, Legendary Service, Whale done, Core Leadership Skills.</li>
+                                            <li>Game based Learning of Eagles Flight ( Rattle Snake Canyon) & Gaminar</li>
+                                            <li>DTCI Certified –Dialogue Works, Performance Management, Coaching With Passion, CSP</li>
+                                            <li>Master trainer in outbound solutions</li>
                                         </ul>
                                     </div>
 
-                                    <div className="sec-title3 mbb-0 text-left rs-estimate">
-                                        <h4 className="countertoph2 text-left">SKILLS:</h4>
-                                        <ul className='estimate-info mtt-5'>
-                                            <li>Motivation</li>
-                                            <li>Empathy</li>
-                                            <li>Trustability</li>
-                                            <li>Communicator</li>
-                                            <li>Linguist</li>
-                                        </ul>
-                                    </div>
+
+
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-12 pr-55 md-pr-15">
+                        <div class="col-lg-7 pr-55 md-pr-15">
                             <div class="project-con">
                                 <h4 className="countertoph2 text-left">Biography</h4>
                                 <p class="mbb-0 text-justify">
@@ -59,18 +53,34 @@ export default function Dtci() {
                                 </p>
                             </div>
 
+                            <div class="project-con">
+                                <h4 className="countertoph2 text-left">Major Projects</h4>
+                                <p class="mbb-0 text-justify">
+                                    Setting up operations of new divisions as a project and handing over the management teams to take it to new heights, Tata Liebert – Distribution Channel for West India, Hita Technologies – Entire operation for West India, BPE India – Entire operation for West India, TRP Consultants Pvt. Ltd – Complete operations in Mumbai and now with DOOR since the last 20plus years . Currently Heading business operations of inside sales and Business partners at a National level.
+                                </p>
+                                <h4 className="countertoph2 text-left">Interests</h4>
+                                <p class="mbb-0 text-justify">
+                                    Compering, Event management, people motivation & problem solving, Fishing, Rowing & Cricket
+                                </p>
+
+                                <h4 className="countertoph2 text-left">SKILLS;</h4>
+                                <p class="mbb-0 text-justify">
+                                    Motivation, Empathy, Trustability, Communicator, Linguist
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-5 md-mt-55">
+
                             <div className="sec-title3 mbb-0 text-left rs-estimate">
-                                <h4 className="countertoph2 text-left">certifications:</h4>
+                                <h4 className="countertoph2 text-left">Area of Expertise:</h4>
                                 <ul className='estimate-info mtt-5'>
-                                    <li>ICF Accredited Coach (ACSTH)</li>
-                                    <li>ACDP Certified Coach</li>
-                                    <li>Inside Out Coaching certified Senior Trainer</li>
-                                    <li>Certified Master Trainer for Everything DiSC- Psychometric assessment</li>
-                                    <li>Certified Facilitator on Lumina Assessments</li>
-                                    <li>Facilitator for Leadership Solutions from Ken Blanchard Companies such as Situational Leadership II, Legendary Service, Whale done, Core Leadership Skills.</li>
-                                    <li>Game based Learning of Eagles Flight ( Rattle Snake Canyon) & Gaminar</li>
-                                    <li>DTCI Certified –Dialogue Works, Performance Management, Coaching With Passion, CSP</li>
-                                    <li>Master trainer in outbound solutions</li>
+                                    <li>Leadership Development </li>
+                                    <li>Relationship Coaching</li>
+                                    <li>Performance Coaching</li>
+                                    <li>Interpersonal Skills</li>
+                                    <li>Talent Development</li>
+                                    <li>Business Development</li>
                                 </ul>
                             </div>
 
@@ -83,42 +93,8 @@ export default function Dtci() {
                                 </ul>
                             </div>
 
-                            <div class="project-con">
-                                <h4 className="countertoph2 text-left">Major Projects</h4>
-                                <p class="mbb-0 text-justify">
-                                Setting up operations of new divisions as a project and handing over the management teams to take it to new heights, Tata Liebert – Distribution Channel for West India, Hita Technologies – Entire operation for West India, BPE India – Entire operation for West India, TRP Consultants Pvt. Ltd – Complete operations in Mumbai and now with DOOR since the last 20plus years . Currently Heading business operations of inside sales and Business partners at a National level.
-                                </p>
-                                <h4 className="countertoph2 text-left">Interests</h4>
-                                <p class="mbb-10 text-justify">
-                                Compering, Event management, people motivation & problem solving, Fishing, Rowing & Cricket
-                                </p>
-                            </div>
+
                         </div>
-                        {/* <div class="col-lg-5 md-mt-55">
-                            <div className="sec-title3 mbb-35 text-left rs-estimate">
-                                <h4 className="countertoph2 text-left">Core Skill Tags:</h4>
-                                <ul className='estimate-info mtt-5'>
-                                    <li>B2B Sales</li>
-                                    <li>End-to-end business development</li>
-                                    <li>Consultative Sales </li>
-                                    <li>Key Account Management</li>
-                                    <li>Persuasion & Negotiation</li>
-                                </ul>
-                            </div>
-
-                            <div className="sec-title3 mbb-35 text-left rs-estimate">
-                                <h4 className="countertoph2 text-left">Notable Clients:</h4>
-                                <ul className='estimate-info mtt-5'>
-                                    <li>Siemens </li>
-                                    <li>Alkem Laboratories</li>
-                                    <li>Asian Paints </li>
-                                    <li>Mercedes</li>
-                                    <li>Syngenta</li>
-                                </ul>
-                            </div>
-
-
-                        </div> */}
                     </div>
                 </div>
             </div>
