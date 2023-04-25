@@ -2635,12 +2635,12 @@ html {
 
 .sbox span {
   background: #3474af;
-  width: 28px;
-  height: 28px;
+  width: 26px;
+  height: 26px;
   display: block;
   color: #fff;
   border-radius: 50px;
-  line-height: 28px;
+  line-height: 24px;
   margin: auto;
 }
 
