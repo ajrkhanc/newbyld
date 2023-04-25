@@ -160,7 +160,7 @@ export default function BrowseCourses(){
                         <div class="col-md-6 col-6">
                         <select name='slot' required>
                             <option value="">Pick any Slot*</option>                            
-                            <option value="The Power of Habit – February 15th, 2023">The Power of Habit – February 15th, 2023</option>
+                            <option value="The Power of Habit – June 9th, 2023">The Power of Habit – June 9th, 2023</option>
                         </select>
                         </div>
 
@@ -224,9 +224,9 @@ export default function BrowseCourses(){
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
                             <h4 className='pbb-20'>THE POWER OF HABIT</h4>                            
                             </div>
-                            <h5 className='eventt'>Webinar</h5>
+                            <h5 className='eventt'>POH Virtual Course Preview</h5>
                              <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> February 15th, 2023</h6>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 9th, 2023</h6>
                             <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 04.00 PM to 05:00 PM</h6>
                             <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
                             </div>
