@@ -30,7 +30,7 @@ export default function BrowseCourses() {
 
 
         var xhr = new XMLHttpRequest();
-        xhr.open('POST', 'http://localhost:3000/api/cp-assessment');
+        xhr.open('POST', 'https://byldblogs.vercel.app/api/cp-assessment');
         xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
         xhr.send('q1=' + q1 +
             '&q2=' + q2 +
@@ -69,7 +69,7 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment)
 
                         window.setTimeout(function () {
-                            window.location.href = `/coaching/coaching-snapshot-marketing/${newnameurl}`
+                            window.location.href = `/cp/cp-marketing/${newnameurl}`
                         }, 1000);  
                 }
 

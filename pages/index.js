@@ -6,7 +6,7 @@ import Slider from "react-slick";
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 
 export async function getServerSideProps() {
-   const res = await fetch('https://byldnewspr.onrender.com/api/posts')
+   const res = await fetch('https://byldnewspr.vercel.app/api/posts')
    const posts = await res.json()
 
    return {
