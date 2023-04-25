@@ -336,6 +336,7 @@ export default function JoinOurPartnerNetworkLP() {
                         </div>
                         
                         <div className='col-sm-4'>
+                            <a href='/team/amarvijayy-taandur'>
                             <div className='teamf'>
                                 <div className='teamimgc'>
                                     <img src="/assets/img/team/amar1.jpg" alt="image" />
@@ -345,9 +346,11 @@ export default function JoinOurPartnerNetworkLP() {
                                     <h4>Principal Advisor - Civil, Infra, Heavy Engineering, Power and Automotive</h4>
                                 </div>
                             </div>
+                            </a>
                         </div>
 
                         <div className='col-sm-4'>
+                            <a href='/team/ronald-soans'>
                             <div className='teamf'>
                                 <div className='teamimgc'>
                                     <img src="/assets/img/team/ronald1.jpg" alt="image" />
@@ -357,6 +360,7 @@ export default function JoinOurPartnerNetworkLP() {
                                     <h4>Principal Advisor - IT, ITES, Consulting and BFSI</h4>
                                 </div>
                             </div>
+                            </a>
                         </div>
 
                         <div className='col-sm-4'>

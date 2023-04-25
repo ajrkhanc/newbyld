@@ -20,8 +20,8 @@ export default function Dtci() {
                             </div>
                             <div class="col-lg-7">
                                 <div class="con-info">
-                                    <span class="designation-info">Principal Advisor - Pharma, FMCG, E-commerce</span>
-                                    <h2 class="title">Meghna Goyal</h2>
+                                <h2 class="title">Meghna Goyal</h2>
+                                    <span class="designation-info mbb-20">Principal Advisor - Pharma, FMCG, E-commerce</span>                                    
                                     <div class="short-desc text-justify">
                                         Professional Experience: 21 years of experience in corporate sales in the training and recruitment industry. In her current role as the Principal Advisor at BYLD Group, her focus is on FMCG, Pharma and Ecommerce sectors.
                                     </div>
@@ -29,9 +29,6 @@ export default function Dtci() {
                                         Meghna has a keen ability to understand the needs of her clients and map them to the appropriate solutions. This has helped her build a strong relationship as a trusted advisor who can provide effective solutions to complex problems and has a track record of successfully growing key accounts and expanding business in new markets.
                                     </div>
                                     <div class="ps-informations">
-                                        <ul class="social-info">                                      
-                                            <li><a target='_blank' href="https://www.linkedin.com/in/meghna-goyal-442560b"><i class="fa fa-linkedin"></i></a></li>
-                                        </ul>
                                         <h4 className="countertoph2 text-left">Education:</h4>
                                         <ul class="personal-info">
                                             <li>
