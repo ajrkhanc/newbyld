@@ -227,7 +227,7 @@ export default function BrowseCourses(){
                             <h5 className='eventt'>POH Virtual Course Preview</h5>
                              <div class="col-md-12 workshop-date"> 
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 9th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 04.00 PM to 05:00 PM</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3.00 PM to 5:00 PM</h6>
                             <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
                             </div>
                        </div>
