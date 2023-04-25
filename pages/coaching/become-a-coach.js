@@ -136,29 +136,28 @@ export default function Home() {
                 <ModalBody>
 
                     <form id="contactForm" className='clientcornner ptt-5 pbb-0' onSubmit={submit}>
-                        <div className="row">
-                            <div className="col-sm-12 mb-12">
-                                <input type="text" name="name" placeholder="Name*" required />
+                        <div className="row mmcform">
+                            <div className="col-sm-6 mb-12">
+                                <input type="text" className='borrr' name="name" placeholder="Name*" required />
+                            </div>
+                            <div className="col-sm-6 mb-12">
+                                <input type="text" className='borrr' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                             </div>
                             <div className="col-sm-12 mb-12">
-                                <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
-                            </div>
-                            <div className="col-sm-12 mb-12">
-                                <input type="email" name="email" placeholder="Professional/Personal Email Address*" required />
-                            </div>
-
-
-                            <div className="col-sm-12 mb-12">
-                                <input type="text" name="organization" placeholder="Organization*" required />
-                            </div>
-                            <div className="col-sm-12 mb-12">
-                                <input type="text" name="designation" placeholder="Designation*" required />
+                                <input type="email" className='borrr' name="email" placeholder="Professional/Personal Email Address*" required />
                             </div>
 
+
                             <div className="col-sm-12 mb-12">
-                                <select>
-                                    <option value=''>Pick up any Slot*</option>
-                                    <option value='22 April 2023'>22 April 2023</option>
+                                <input type="text" className='borrr' name="organization" placeholder="Organization*" required />
+                            </div>
+                            <div className="col-sm-12 mb-12">
+                                <input type="text" className='borrr' name="designation" placeholder="Designation*" required />
+                            </div>
+
+                            <div className="col-sm-12 mb-12">
+                                <select className='borrr'>
+                                    <option value=''>Pick up any Slot*</option>                                 
                                     <option value='10 June 2023'>10 June 2023</option>
                                     <option value='29 July 2023'>29 July 2023</option>
                                     <option value='16 September 2023'>16 September 2023</option>
@@ -514,32 +513,6 @@ export default function Home() {
                             <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Our Upcoming Training schedule</h2>
                         </div>
                         <div className='clearfix'></div>
-                        <div className='col-sm-6'>
-
-                            <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
-                                <div className='dateside'>
-                                    <div className='datefont'>
-                                        22<br></br> April
-                                    </div>
-                                </div>
-                                <div className='textsidec'>
-                                    <div className='eventi'>
-                                    ICF Coach Certification 
-                                    </div>
-                                    <div className='timed'>
-                                        <ul>
-                                            <li><i className='fa fa-th-large'>DCA Batch 39</i></li>
-                                            <li><i className='fa fa-clock-o'>10:00 am to 4:00 pm</i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div className='booknowside'>
-                                <a>Book Now</a>
-                                </div>
-                            </div>
-
-                        </div>
 
                         <div className='col-sm-6'>
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
@@ -550,7 +523,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                    ICF Coach Certification 
+                                        ICF Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -561,7 +534,7 @@ export default function Home() {
                                 </div>
 
                                 <div className='booknowside'>
-                                <a>Book Now</a>
+                                    <a>Book Now</a>
                                 </div>
                             </div>
                         </div>
@@ -575,7 +548,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                    ICF Coach Certification 
+                                        ICF Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -586,7 +559,7 @@ export default function Home() {
                                 </div>
 
                                 <div className='booknowside'>
-                                <a>Book Now</a>
+                                    <a>Book Now</a>
                                 </div>
                             </div>
                         </div>
@@ -600,7 +573,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                    ICF Coach Certification
+                                        ICF Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -611,7 +584,7 @@ export default function Home() {
                                 </div>
 
                                 <div className='booknowside'>
-                                <a>Book Now</a>
+                                    <a>Book Now</a>
                                 </div>
                             </div>
                         </div>
@@ -625,7 +598,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                    ICF Coach Certification
+                                        ICF Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -636,7 +609,7 @@ export default function Home() {
                                 </div>
 
                                 <div className='booknowside'>
-                                <a>Book Now</a>
+                                    <a>Book Now</a>
                                 </div>
                             </div>
                         </div>
@@ -649,7 +622,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                    ICF Coach Certification
+                                        ICF Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -660,7 +633,7 @@ export default function Home() {
                                 </div>
 
                                 <div className='booknowside'>
-                                <a>Book Now</a>
+                                    <a>Book Now</a>
                                 </div>
                             </div>
                         </div>
@@ -674,7 +647,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                    ICF Coach Certification
+                                        ICF Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -689,7 +662,7 @@ export default function Home() {
                                 </div>
                             </div>
                         </div>
-                    
+
 
                         {/* <div className='col-sm-12'>
                             <div>
@@ -753,61 +726,59 @@ export default function Home() {
 
             <div id='know-more' class="homecon ptt-60 zinc">
                 <div class="container">
-                    <div className='row'>
-                        <div className='col-sm-3'>
-                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Get in touch</h2>
-                        </div>
-                        <div className='col-sm-9'>
-                            <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                                Avail the development stream that is essential for your professional requirement. For more information, feel free to fill the form and we will get back to you
-                            </p>
-                        </div>
-                    </div>
+                    <div class="row">
+                        <div className='col-sm-8'>
+                            <div className='row'>
+                                <div className='col-sm-12 text-center'>
+                                <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Get in touch</h2>
+                                </div>
+                                <div class="col-md-6 md-mb-50">
+                                    <div class="contact-img wow fadeInUp delay-0-2s animated animateUP">
+                                        <img src="/assets/img/homeb/contactl.png" alt="Contact" />
+                                    </div>
 
-                    <div class="row y-middle">
-                        <div class="col-lg-4 md-mb-50">
-                            <div class="contact-img wow fadeInUp delay-0-2s animated animateUP">
-                                <img src="/assets/img/homeb/contactl.png" alt="Contact" />
-                            </div>
 
-                            
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="contact-wrap">
-                                <div className="bannerform wow fadeInUp delay-0-2s animated animateUP">
-                                    <form id="contact-form" className='clientcornner ptt-40 pbb-20' onSubmit={registerUser}>
-                                        <div className="row">
-                                            <div className="col-sm-6 mb-12">
-                                                <input className='borrr' type="text" name="name" placeholder="Enter Name*" required />
-                                            </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="contact-wrap">
+                                        <div className="bannerform wow fadeInUp delay-0-2s animated animateUP">
+                                            <form id="contact-form" className='clientcornner ptt-40 pbb-20' onSubmit={registerUser}>
+                                                <div className="row">
+                                                    <div className="col-sm-6 mb-12">
+                                                        <input className='borrr' type="text" name="name" placeholder="Enter Name*" required />
+                                                    </div>
 
-                                            <div className="col-sm-6 mb-12">
-                                                <input className='borrr' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
-                                            </div>
-                                            <div className="col-sm-12 mb-12">
-                                                <input className='borrr' type="email" name="email" placeholder="Professional/Personal Email Address*" required />
-                                            </div>
-                                            <div className="col-sm-12 mb-12">
-                                                <input className='borrr' type="text" name="organization" placeholder="Organization" />
-                                            </div>
-                                            <div className="col-sm-12 mb-12">
-                                                <input className='borrr' type="text" name="designation" placeholder="Designation*" required />
-                                            </div>
-                                            
-                                            <div className="col-lg-12 mb-12">
-                                                <input id="submitbuttonform" className="clientcornnerbtn bord0" type="submit" value="Submit" />
-                                            </div>
-                                            <p id="showlabel" style={{ display: "none" }}></p>
+                                                    <div className="col-sm-6 mb-12">
+                                                        <input className='borrr' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                                                    </div>
+                                                    <div className="col-sm-12 mb-12">
+                                                        <input className='borrr' type="email" name="email" placeholder="Professional/Personal Email Address*" required />
+                                                    </div>
+                                                    <div className="col-sm-12 mb-12">
+                                                        <input className='borrr' type="text" name="organization" placeholder="Organization" />
+                                                    </div>
+                                                    <div className="col-sm-12 mb-12">
+                                                        <input className='borrr' type="text" name="designation" placeholder="Designation*" required />
+                                                    </div>
+
+                                                    <div className="col-lg-12 mb-12">
+                                                        <input id="submitbuttonform" className="clientcornnerbtn bord0" type="submit" value="Submit" />
+                                                    </div>
+                                                    <p id="showlabel" style={{ display: "none" }}></p>
+                                                </div>
+                                            </form>
                                         </div>
-                                    </form>
+                                    </div>
                                 </div>
                             </div>
                         </div>
 
+
                         <div className='col-lg-4'>
-                        <div>
-                                <h4 className='policyh4'>Policies</h4>
-                                <ul className='mpolicyes'>
+                        <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Policies</h2>
+                            <div>
+                                {/* <h4 className='policyh4'></h4> */}
+                                <ul className='mpolicyes dcd'>
                                     <li>
                                         <a href='/policies/byld-group-and-coach-candidate-partial-completion-policy'>Partial Completion Policy</a>
                                     </li>
@@ -822,7 +793,7 @@ export default function Home() {
                                     </li>
                                     <li>
                                         <a href='/policies/ethical-marketing-policy'>Ethical Marketing Practice</a>
-                                    </li> 
+                                    </li>
                                 </ul>
                             </div>
                         </div>

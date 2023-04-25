@@ -1133,6 +1133,14 @@ h6 {
     top: -45% !important;
 }
 
+.mmcform .borrr {
+    border: 0px !important;
+    border-bottom: 1px solid #00000040 !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-bottom: 12px;
+}
+
 /* Policyes */
 .headeing2{
     font-size: 30px !important;
@@ -1180,4 +1188,18 @@ h6 {
         padding: 10px 10px;
         border-radius: 28px;
         font-size: 14px;
+    }
+
+    .dcd li{
+        display: block;
+        float: unset;
+    }
+
+
+    /* model bg*/
+    .modal {
+        background-image: url(/assets/img/homeb/contact-bg-2.jpg);
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: cover;
     }
