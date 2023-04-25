@@ -17,12 +17,12 @@ export default function Home() {
 
     const registerUser = async event => {
         event.preventDefault()
-        document.getElementById("submitbuttonform").value = "Submitting form...."
+        document.getElementById("submitbuttonform").value = "Submitting...."
         const xhttp = new XMLHttpRequest();
         xhttp.onload = function () {
             console.log(this.responseText);
         }
-        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/11/feedback');
+        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/124/feedback');
         xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
         xhttp.onreadystatechange = function () {
             if (xhttp.readyState == 4) {
@@ -41,25 +41,21 @@ export default function Home() {
         };
         xhttp.send("name=" + event.target.name.value +
             "&email=" + event.target.email.value +
-            "&tel=" + event.target.phone.value +
-            "&location=" + event.target.Location.value +
-            "&Company=" + event.target.organization.value +
-            "&Designation=" + event.target.designation.value +
-            "&Product=" + event.target.product.value +
-            "&referredby=" + event.target.referredby.value +
-            "&textarea=" + event.target.leadsquared_Notes.value)
+            "&phone=" + event.target.phone.value +
+            "&organization=" + event.target.organization.value +
+            "&designation=" + event.target.designation.value)
 
     }
 
 
     const submit = async event => {
         event.preventDefault()
-        document.getElementById("submitbuttonform").value = "Submitting form...."
+        document.getElementById("submitbuttonformc").value = "Submitting...."
         const xhttp = new XMLHttpRequest();
         xhttp.onload = function () {
             console.log(this.responseText);
         }
-        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/79/feedback');
+        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/125/feedback');
         xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
         xhttp.onreadystatechange = function () {
             if (xhttp.readyState == 4) {
@@ -76,17 +72,17 @@ export default function Home() {
                 }
             }
         };
-        xhttp.send("fname=" + event.target.fname.value +
+        xhttp.send("name=" + event.target.name.value +
             "&email=" + event.target.email.value +
             "&phone=" + event.target.phone.value +
-            "&company=" + event.target.company.value +
+            "&organization=" + event.target.organization.value +
             "&designation=" + event.target.designation.value +
-            "&howdidyouknowaboutus=" + event.target.howdidyouknowaboutus.value +
-            "&leadsquared_Notes=" + event.target.leadsquared_Notes.value)
+            "&slot=" + event.target.slot.value +
+            "&leadsquared-mx_Business_Entity=" + event.target.Business_Entity.value )
 
     }
 
-
+    
     const [modalOpen, setModalOpen] = React.useState(false);
 
     return (
@@ -156,7 +152,7 @@ export default function Home() {
                             </div>
 
                             <div className="col-sm-12 mb-12">
-                                <select className='borrr'>
+                                <select className='borrr' name='slot' required>
                                     <option value=''>Pick up any Slot*</option>                                 
                                     <option value='10 June 2023'>10 June 2023</option>
                                     <option value='29 July 2023'>29 July 2023</option>
@@ -172,7 +168,7 @@ export default function Home() {
                                 <input type="text" name="Business_Entity" value="ICF" required />
                             </div>
                             <div className="col-lg-12 mb-12 text-center">
-                                <input id='submitbuttonform' className="clientcornnerbtn" type="submit" value="Register" />
+                                <input id='submitbuttonformc' className="clientcornnerbtn" type="submit" value="Register" />
                             </div>
                             <p id="showlabel" style={{ display: "none" }}></p>
                         </div>
