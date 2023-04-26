@@ -9,9 +9,9 @@ export default function Dtci() {
                 <title>Meghna Goyal | Team | BYLD Group</title>
                 <meta name="description" content="DTCI offers leadership and management courses to facilitate change management, coaching culture, and effective organizational change and development. To know more, check out the page." />
             </Head>
-            <div class="rs-team-Single pt-100 pb-100 md-pt-80 md-pb-60">
+            <div class="rs-team-Single ptt-50 pbb-40 md-pt-80 md-pb-60">
                 <div class="container custom">
-                    <div class="btm-info-team">
+                    <div class="btm-info-team mbb-30">
                         <div class="row align-items-center">
                             <div class="col-lg-5 md-mb-50">
                                 <div class="images-part">
@@ -20,12 +20,12 @@ export default function Dtci() {
                             </div>
                             <div class="col-lg-7">
                                 <div class="con-info">
-                                <h2 class="title">Meghna Goyal</h2>
-                                    <span class="designation-info mbb-20">Principal Advisor - Pharma, FMCG, E-commerce</span>                                    
-                                    <div class="short-desc text-justify">
+                                <h2 class="title mbb-5">Meghna Goyal</h2>
+                                    <span class="designation-info mbb-5">Principal Advisor - Pharma, FMCG, E-commerce</span>                                    
+                                    <div class="short-desc text-justify mbb-10">
                                         Professional Experience: 21 years of experience in corporate sales in the training and recruitment industry. In her current role as the Principal Advisor at BYLD Group, her focus is on FMCG, Pharma and Ecommerce sectors.
                                     </div>
-                                    <div class="short-desc text-justify">
+                                    <div class="short-desc text-justify mbb-10">
                                         Meghna has a keen ability to understand the needs of her clients and map them to the appropriate solutions. This has helped her build a strong relationship as a trusted advisor who can provide effective solutions to complex problems and has a track record of successfully growing key accounts and expanding business in new markets.
                                     </div>
                                     <div class="ps-informations">

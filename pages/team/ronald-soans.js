@@ -9,9 +9,9 @@ export default function Dtci() {
                 <title>Ronald Soans | Team | BYLD Group</title>
                 <meta name="description" content="Ronald Soans" />
             </Head>
-            <div class="rs-team-Single pt-100 pb-100 md-pt-80 md-pb-60">
+            <div class="rs-team-Single ptt-50 pbb-40 md-pt-80 md-pb-60">
                 <div class="container custom">
-                    <div class="btm-info-team">
+                    <div class="btm-info-team mbb-30">
                         <div class="row align-items-center">
                             <div class="col-lg-5 md-mb-50">
                                 <div class="images-part">
@@ -20,8 +20,11 @@ export default function Dtci() {
                             </div>
                             <div class="col-lg-7">
                                 <div class="con-info">
-                                    <h2 class="title">Ronald Soans</h2>
+                                    <h2 class="title mbb-0">Ronald Soans</h2>
                                     <span class="designation-info mbb-0">Principal Advisor - Pharma, FMCG, E-commerce</span>
+                                    <p className='mbb-0 text-justify'>
+                                    Over 3 decades of experience in Leadership Consulting, Coaching , Soft Skills Facilitation, Sales Development, Hiring, Sales, Channel Management & assessment solutions
+                                    </p>
                                     <div className="sec-title3 mbb-0 text-left rs-estimate">
                                         <h4 className="countertoph2 text-left">Certifications:</h4>
                                         <ul className='estimate-info mtt-5'>
@@ -46,12 +49,12 @@ export default function Dtci() {
                     </div>
                     <div class="row">
                         <div class="col-lg-7 pr-55 md-pr-15">
-                            <div class="project-con">
+                            {/* <div class="project-con">
                                 <h4 className="countertoph2 text-left">Biography</h4>
                                 <p class="mbb-0 text-justify">
                                     Over 3 decades of experience in Leadership Consulting, Coaching , Soft Skills Facilitation, Sales Development, Hiring, Sales, Channel Management & assessment solutions
                                 </p>
-                            </div>
+                            </div> */}
 
                             <div class="project-con">
                                 <h4 className="countertoph2 text-left">Major Projects</h4>
