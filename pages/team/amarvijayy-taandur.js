@@ -49,14 +49,14 @@ export default function Dtci() {
                             <div class="project-con">
                                 <h4 className="countertoph2 text-left">Biography</h4>
 
-                                <p className='text-justify'>
+                                <p className='text-justify mbb-10'>
                                     In his current role as the Principal Advisor at BYLD Group, his focus is on Power, Automobiles, Civil and Infrastructure sectors. With several certifications to his credit, he is a certified Facilitator in SLII in a Swiss Multinational Corporation and has a very vast experience in training like Organizational Behaviour, Management Development Program and Organizational Development Program.
                                 </p>
 
-                                <p className='text-justify'>
+                                <p className='text-justify mbb-10'>
                                     Amar is an ACSTH (ICF) Certified Coach and is into Executive Coaching. To his credit, he is also a Certified Facilitator in Wiley Everything DiSC and Crucial Learning’s Crucial Conversation for Mastering Dialogue, Certified Senior Facilitator in Inside Out Coaching and Wiley 5 Behaviors.
                                 </p>
-                                <p className='text-justify'>
+                                <p className='text-justify mbb-10'>
                                     He has established and spearheaded the Leadership Development Academy in South East Asia, and has led and conducted several leadership and management programs in Europ and South East Asia. With expertise in Strategic Thinking, Amar has been a facilitator for change and learning, and has successfully navigated his trainees towards desired outcomes. Training encompasses coaching, critiquing, mentoring and teaching, and Amar has achieved applaudable results in inheriting and abiding to these virtues encouraging each trainee as a partner along the way. His enthusiasm for learning and imparting knowledge, being absorbent of changes, has always helped simplify the content into teachable and relatable chunks of information.
                                 </p>
                             </div>
