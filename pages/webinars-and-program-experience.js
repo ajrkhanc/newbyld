@@ -145,18 +145,7 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 24th May, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                                <h3>Everything Work of Leaders Virtual Course Preview</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
+                    
 
                     {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -186,19 +175,7 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar Wednesday, 26th April 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 11 am - 12 pm</h4>
-                                <h3>Five Behaviour - Overview, Virtual Course Preview</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
+                    
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -209,6 +186,34 @@ export default function WebinarsAndProgramExperience(){
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 3:00 pm - 4:00 pm</h4>
                                 <h3>Everything DiSC Workplace<sup>®</sup> on Catalyst™</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar 24th May, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 11:00 AM - 12:00 PM</h4>
+                                <h3>Everything Work of Leaders Virtual Course Preview</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar Wednesday, 7th June 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 3:00 pm - 4:00 pm</h4>
+                                <h3>Everything DiSC Management</h3>
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
@@ -281,10 +286,8 @@ export default function WebinarsAndProgramExperience(){
                                                <option value="The Five Behaviors®️ Team Development – February 17th, 2023">The Five Behaviors®️ Team Development – February 17th, 2023</option> */}
                                                 
                                                 <option value="Everything Work of Leaders Virtual Course Preview – 24th May, 2023">Everything Work of Leaders Virtual Course Preview – 24th May, 2023</option>
-                                                
-                                                
-                                                <option value="Five Behaviour - Overview, Virtual Course Preview, 26th April 2023">Five Behaviour - Overview, Virtual Course Preview, 26th April 2023</option>
                                                 <option value="3rd May 2023 - Everything DiSC Workplace® on Catalyst™">3rd May 2023 - Everything DiSC Workplace® on Catalyst™</option>
+                                                <option value="Everything DiSC Management, 7th June 2023">Everything DiSC Management, 7th June 2023</option>
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">

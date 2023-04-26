@@ -54,26 +54,7 @@ export default function Workshops(){
                         <div className="heading-border-line center-style"></div>
                     </div>
                     </div>
-                    <div className='clearfix'></div>                    
-
-                    
-
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span> April 27th - 28th, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                                <h3>Crucial Life Changing Skills Online Workshop</h3>
-                                <a target="_blank" className="eventbtn" href='/cruciallifechangingskills/workshops/'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    
-
-                    
+                    <div className='clearfix'></div>
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -110,6 +91,32 @@ export default function Workshops(){
                             <div className='eventbottom'>
                                 <h3>DISC Train-the-Trainer (TTT)</h3>
                                 <a target="_blank" className="eventbtn" href='/everythingdisc/everything-disc-ttt-vt-lp/'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span> May 25th - 26th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a target="_blank" className="eventbtn" href='/cruciallifechangingskills/workshops/'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span> June 22nd - 23rd, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a target="_blank" className="eventbtn" href='/cruciallifechangingskills/workshops/'>Reserve Your Seat</a>
                             </div>
                         </div>
                     </div>
@@ -156,10 +163,11 @@ export default function Workshops(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                {/* <option value="February 17th, 2023 - The Power of Habit">February 17th, 2023 - The Power of Habit</option> */}
                                                 <option value="The SLII Experience™ - Virtual, May 8th to 9th, 2023">The SLII Experience™ - Virtual, May 8th to 9th, 2023</option>
                                                 <option value='The SLII Experience™ - T4T, May 10th to 11th, 2023'>The SLII Experience™ - T4T, May 10th to 11th, 2023</option>
                                                 <option value="15th - 19th May, 2023 - DISC Train-the-Trainer (TTT)">15th - 19th May, 2023 - DISC Train-the-Trainer (TTT)</option>
+                                                <option value="Crucial Conversations for Accountability - May 25th - 26th, 2023">Crucial Conversations for Accountability - May 25th - 26th, 2023</option>
+                                                <option value="Influencer - June 22nd - 23rd, 2023">Influencer - June 22nd - 23rd, 2023</option>
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">
