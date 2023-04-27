@@ -323,7 +323,7 @@ export default function Home() {
                                             <ul>
                                                 <li>Self-confidence</li>
                                                 <li>Awareness of your emotional  state</li>
-                                                <li>Recognizing how your behavior impacts othres</li>
+                                                <li>Recognizing how your behavior impacts others</li>
                                                 <li>Paying attention to how others influence your emotional state</li>
                                             </ul>
                                         </td>
@@ -352,7 +352,7 @@ export default function Home() {
                                             <h3>Relationship Management</h3>
                                             <ul>
                                                 <li>Getting along well with others</li>
-                                                <li>Handling conflict effenctively</li>
+                                                <li>Handling conflict effectively</li>
                                                 <li>Clearly expressing ideas/information</li>
                                                 <li>Using sensitivity to another persons feeling (empathy) to manage interactions successfully</li>
                                             </ul>
