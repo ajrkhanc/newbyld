@@ -147,8 +147,13 @@ export default function Header() {
                                                             <li><a href="/workshops">Workshops</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li>
-                                                        <a href="/blog">BLOG</a>
+                                                    <li className="menu-item-has-children">
+                                                        <a href="#">RESOURCES</a>
+                                                        <ul className="sub-menu">
+                                                            <li><a href="/blog">Blogs</a></li>
+                                                            <li><a href="/ebook">E-books</a></li>
+                                                            <li><a href="/white-paper">White Paper</a></li>
+                                                        </ul>
                                                     </li>
                                                     <li className="menu-item-has-children">
                                                         <a href="#">MEDIA</a>
@@ -335,8 +340,13 @@ export default function Header() {
                                     <li><a href="/workshops">Workshops</a></li>
                                 </ul>
                             </li>
-                            <li>
-                                <a href="/blog">BLOG</a>
+                            <li className="menu-item-has-children">
+                                <a href="#">RESOURCES</a>
+                                <ul className="sub-menu">
+                                    <li><a href="/blog">Blogs</a></li>
+                                    <li><a href="/ebook">E-books</a></li>
+                                    <li><a href="/white-paper">White Paper</a></li>
+                                </ul>
                             </li>
                             <li className="menu-item-has-children">
                                 <a href="#">MEDIA</a>
