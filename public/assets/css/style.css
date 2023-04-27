@@ -2771,6 +2771,23 @@ body .search-modal .close:hover {
   white-space: nowrap;
   vertical-align: middle;
 }
+
+.rs-breadcrumbs .breadcrumbs-inner .watermark {
+  position: absolute;
+  font-size: 200px;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: poppins, sans-serif;
+  opacity: 0.1;
+  width: 100%;
+  color: inherit;
+  white-space: nowrap;
+  vertical-align: middle;
+  position: fixed;
+  color: #3373af;
+  left: 0px;
+    text-align: center;
+}
 .rs-breadcrumbs .breadcrumbs-inner .sub-text {
   font-size: 18px;
   line-height: 30px;
