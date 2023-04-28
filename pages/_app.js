@@ -196,7 +196,7 @@ export default function MyApp({ Component, pageProps, router }) {
           />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
 
-          <script
+          <script type="application/ld+json"
             dangerouslySetInnerHTML={{
               __html: `
               {
@@ -288,7 +288,7 @@ export default function MyApp({ Component, pageProps, router }) {
           />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
 
-          <script
+          <script type="application/ld+json"
             dangerouslySetInnerHTML={{
               __html: `
               {
