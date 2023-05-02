@@ -37,6 +37,16 @@ export default function Books(){
                             </div>
                         </div>
 
+                        <div className="col-sm-4">
+                           <div className="innervideoshd ebookst text-center">
+                               <a href='/white-paper/alignment-through-purpose-driven-innovation'>
+                               <img src='/assets/img/white-paper/alignment-through-purpose-driven-innovation.jpg' alt="books"/>
+                               <h4 className=''>Alignment for responsible & purpose-driven innovation</h4>
+                               <h3 className='ebookbtn'>Read White Paper</h3>
+                               </a>
+                            </div>
+                        </div>
+
                         {/* <div className="col-sm-4">
                            <div className="innervideoshd ebookst">
                                <a href='/everythingdisc/ebook/agility-unlocked'>

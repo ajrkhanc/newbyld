@@ -119,7 +119,7 @@ export default function BrowseCourses() {
                                     <div className='sbox'>
                                         <hr className='hrleft'></hr>
                                         <span>1</span>
-                                        <p>1 = (Not Fast Enough)</p>
+                                        <p>Not Fast Enough</p>
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
@@ -160,7 +160,7 @@ export default function BrowseCourses() {
                                     <div className='sbox'>
                                         <hr className='hrright'></hr>
                                         <span>10</span>
-                                        <p>10 = ( Fast Enough)</p>
+                                        <p>Fast Enough</p>
                                     </div>
                                 </div>
                             </div>

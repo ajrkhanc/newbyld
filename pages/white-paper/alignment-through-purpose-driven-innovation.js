@@ -18,7 +18,7 @@ export default function Ebookpage(){
 
                     document.getElementById("showlabel").style.display = "block";
                     setTimeout(function() {
-                        window.open("/assets/pdf/what-it-means-to-be-an-ambidextrous-innovation-leader.pdf", "_blank")
+                        window.open("/assets/pdf/alignment-through-purpose-driven-innovation.pdf")
                      }, 3000);
 
                 } else {
@@ -38,8 +38,8 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>What it means to be an ambidextrous innovation leader - BYLD Group</title>
-            <meta name="description" content="What it means to be an ambidextrous innovation leader"/> 
+            <title>Alignment for responsible & purpose-driven innovation</title>
+            <meta name="description" content="Alignment for responsible & purpose-driven innovation"/> 
           </Head>
 
           <div className="rs-services">
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">What it means to be an ambidextrous innovation leader</h4>
+                      <h4 className="countertoph2 text-center font30">Alignment for responsible & purpose-driven innovation</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         
@@ -61,9 +61,9 @@ export default function Ebookpage(){
                 <div className="row rs-vertical-middle">                    
                     <div className="col-lg-6 pr-0">
                         <div className='onlyshd'>
-                        <h4 className="countertoph2 text-left font24">The findings</h4>
+                        <h4 className="countertoph2 text-left font24">By Gaia Grant (PhD), with Dr Suresh Cuganesan and Dr Eric Knight</h4>
                         <p className='mall5'>
-                        The initial finding of the research program supported the idea that ‘ambidexterity’ is important for innovation. It was identified that being able to balance key innovation paradoxes successfully assists with leadership ambidexterity, and that identifying unique innovation orientations can provide valuable feedback for leading innovation. This approach enables greater agility for sustainability in a rapidly changing world. 
+                        Gaia Grant, Suresh Cuganesan and Eric Knight are lecturers and researchers at the University of Sydney Business School in the Discipline of Strategy, Innovation and Entrepreneurship, focusing on research into innovation paradoxes and ambidexterity for socially responsible and sustainable innovation. Gaia is also the Managing Director of Tirian International Consulting, the author of a number of books including ‘The Innovation Race:
                         </p>
                         </div>
                     </div>
@@ -90,7 +90,7 @@ export default function Ebookpage(){
                                             <input type="text" name="organization" placeholder="Organization (Optional)" />
                                         </div>                                       
                                         <div className="col-sm-12 mb-12 d-none">
-                                            <input type="text" name="formname" value="What it means to be an ambidextrous innovation leader"/>
+                                            <input type="text" name="formname" value="Alignment for responsible & purpose-driven innovation"/>
                                         </div>
                                         <div className="col-sm-12 mb-12 d-none">
                                             <input type="text" name="Business_Entity" value="Coaching"/>
