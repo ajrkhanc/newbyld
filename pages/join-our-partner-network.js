@@ -4,7 +4,7 @@ export default function JoinOurPartnerNetworkLP() {
 
     const registerUser = async event => {
         event.preventDefault()
-        document.getElementById("submitbuttonform").value = "Submitting form...."
+        document.getElementById("submitbuttonform").value = "Submitting...."
         const xhttp = new XMLHttpRequest();
         xhttp.onload = function () {
             console.log(this.responseText);
@@ -30,7 +30,8 @@ export default function JoinOurPartnerNetworkLP() {
             "&email=" + event.target.email.value +
             "&phone=" + event.target.phone.value +
             "&Occupation=" + event.target.occupation.value +           
-            "&wheredidyoucome=" + event.target.howdidyouknowaboutus.value)
+            "&wheredidyoucome=" + event.target.howdidyouknowaboutus.value +
+            "&intrestedin=" + event.target.intrestedin.value)
 
     }
 
@@ -141,6 +142,14 @@ export default function JoinOurPartnerNetworkLP() {
                                                     <option value="Instagram">Instagram</option>
                                                     <option value="Twitter">Twitter</option>
                                                 </select>
+                                            </div>
+
+                                            <div className="col-lg-12 mb-12">
+                                            <select name="intrestedin" required>
+                                                <option value="">Pick up any Slot*</option>                                                
+                                                <option value="May 12th 2023 - 11:00 PM - 12:00 PM">May 12th 2023 - 11:00 PM - 12:00 PM</option>
+                                                <option value="June 2nd 2023 - 11:00 PM - 12:00 PM">June 2nd 2023 - 11:00 PM - 12:00 PM</option>
+                                            </select>
                                             </div>
 
                                             <div className="col-lg-12 mb-12">
@@ -444,52 +453,53 @@ export default function JoinOurPartnerNetworkLP() {
 
 
 
+            <section className='ptt-20 pbb-20'>
+            <div className='container'>
+                <div className='row'>
+                    <div className='col-sm-12'>
+                    <div className="sec-title3 mbb-35">
+                        <h4 className="countertoph2 text-center font30">To get more insights, register for any of the upcoming sessions below:</h4>                        
+                    </div>
+                    </div>
+                    <div className='clearfix'></div>
 
-            {/* <section className='ptt-20 pbb-20'>
-                <div className='container'>
-                    <div className='row'>
-                        <div className='col-sm-12'>
-                            <div className="sec-title3 mbb-35">
-                                <h4 className="countertoph2 text-center font30">To get more insights, register for any of the upcoming sessions below:</h4>
-                            </div>
-                        </div>
-                        <div className='clearfix'></div>
+                    
 
+                    
 
-
-                        <div className='col-sm-4'>
+                    <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 18th January 2023</span>
+                                <span>Webinar 12th May 2023</span>
                             </div>
                             
                             <div className='eventbottom'>
                                 <h3 className='hhd'>BYLD Partner Network Briefing</h3>
                                 <h5>Time: 11:00 PM - 12:00 PM</h5>
-                                <a className="eventbtn" href='#'>REGISTER NOW</a>
+                                <a className="eventbtn" href='#GetinTouch'>REGISTER NOW</a>
                             </div>
                         </div>
                     </div>
 
-                        <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Webinar 15th February 2023</span>
-                                </div>
-
-                                <div className='eventbottom'>
-                                    <h3 className='hhd'>BYLD Partner Network Briefing</h3>
-                                    <h5>Time: 11:00 PM - 12:00 PM</h5>
-                                    <a className="eventbtn" href='#'>REGISTER NOW</a>
-                                </div>
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar 2nd June 2023</span>
+                            </div>
+                            
+                            <div className='eventbottom'>
+                                <h3 className='hhd'>BYLD Partner Network Briefing</h3>
+                                <h5>Time: 11:00 PM - 12:00 PM</h5>
+                                <a className="eventbtn" href='#GetinTouch'>REGISTER NOW</a>
                             </div>
                         </div>
-
                     </div>
+
                 </div>
-            </section> */}
+            </div>
+        </section>
 
 
         </>

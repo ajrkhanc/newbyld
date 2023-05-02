@@ -132,13 +132,11 @@ export default function BrowseCourses() {
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
-                                        <span>4</span>
-                                        
+                                        <span>4</span>                                        
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
-                                        <span>5</span>
-                                     
+                                        <span>5</span>                                     
                                     </div>
                                     <div className='sbox'>
                                         <hr></hr>
