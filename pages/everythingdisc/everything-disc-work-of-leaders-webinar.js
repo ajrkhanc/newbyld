@@ -124,7 +124,7 @@ export default function EDSalesWorkshop() {
                                             <div className="col-sm-6 mb-12">
                                                 <select name="slot" required>
                                                     <option value="">Pick up any Slot*</option>
-                                                    <option value="January 6th, 2023 Everything DiSC Work of Leaders Webinar">January 6th, 2023 Everything DiSC Work of Leaders Webinar</option>
+                                                    <option value="May 24th, 2023 Everything DiSC Work of Leaders Webinar">May 24th, 2023 Everything DiSC Work of Leaders Webinar</option>
                                                 </select>
                                             </div>
                                             <div className="col-sm-6 mb-12">
