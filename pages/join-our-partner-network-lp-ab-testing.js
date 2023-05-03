@@ -107,8 +107,8 @@ export default function JoinOurPartnerNetworkLP(){
                                         <div className="col-lg-12 mb-12">
                                         <select name="intrestedin" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="May 12th 2023 - 11:00 PM - 12:00 PM">May 12th 2023 - 11:00 PM - 12:00 PM</option>
-                                                <option value="June 2nd 2023 - 11:00 PM - 12:00 PM">June 2nd 2023 - 11:00 PM - 12:00 PM</option>
+                                                <option value="May 12th 2023 - 11:00 AM - 12:00 PM">May 12th 2023 - 11:00 AM - 12:00 PM</option>
+                                                <option value="June 2nd 2023 - 11:00 AM - 12:00 PM">June 2nd 2023 - 11:00 AM - 12:00 PM</option>
                                             </select>
                                         </div>
                                         
@@ -177,7 +177,7 @@ export default function JoinOurPartnerNetworkLP(){
                             
                             <div className='eventbottom'>
                                 <h3 className='hhd'>BYLD Partner Network Briefing</h3>
-                                <h5>Time: 11:00 PM - 12:00 PM</h5>
+                                <h5>Time: 11:00 AM - 12:00 PM</h5>
                                 <a className="eventbtn" href='#'>REGISTER NOW</a>
                             </div>
                         </div>
@@ -192,7 +192,7 @@ export default function JoinOurPartnerNetworkLP(){
                             
                             <div className='eventbottom'>
                                 <h3 className='hhd'>BYLD Partner Network Briefing</h3>
-                                <h5>Time: 11:00 PM - 12:00 PM</h5>
+                                <h5>Time: 11:00 AM - 12:00 PM</h5>
                                 <a className="eventbtn" href='#'>REGISTER NOW</a>
                             </div>
                         </div>
