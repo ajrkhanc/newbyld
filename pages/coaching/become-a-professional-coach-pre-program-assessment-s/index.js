@@ -69,7 +69,7 @@ export default function BrowseCourses() {
                         '&phone=' + phone)
 
                     window.setTimeout(function () {
-                        window.location.href = `/coaching/become-a-professional-coach-pre-program-assessment/${newnameurl}`
+                        window.location.href = `/coaching/become-a-professional-coach-pre-program-assessment-s/${newnameurl}`
                     }, 3000);                    
 
                 }

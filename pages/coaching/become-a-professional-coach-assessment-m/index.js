@@ -71,7 +71,7 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment)
 
                     window.setTimeout(function () {
-                        window.location.href = `/coaching/become-a-professional-coach-marketing/${newnameurl}`
+                        window.location.href = `/coaching/become-a-professional-coach-assessment-m/${newnameurl}`
                     }, 2500);
 
                 }

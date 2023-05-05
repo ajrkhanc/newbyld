@@ -107,7 +107,7 @@ export default function BrowseCourses() {
         document.getElementById("response").innerHTML = "Assessment Result"
 
         window.setTimeout(function () {
-          window.location.href = `/cruciallifechangingskills/assessment/influencer-assessment-sales/${newnameurl}`
+          window.location.href = `/cruciallifechangingskills/assessment/influencer-assessment-m/${newnameurl}`
         }, 1000);
 
       }
@@ -128,7 +128,7 @@ export default function BrowseCourses() {
         xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
    
-        var Assessment ="Influecer Assessment Form Sales"
+        var Assessment ="Influecer Assessment Form Marketing" 
         xhttp.send("name=" + event.target.name.value +
         '&email=' + email +
         '&phone=' + phone +
@@ -149,11 +149,11 @@ export default function BrowseCourses() {
       <Head>
         <title>Influencer Assessment | Crucial Learning</title>
         <meta name="description" content="The Influencer Assessment is used to determine your influence skills. The questions examine methods you use to lead and help others change. Complete the quiz to see your level of influence." />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-GF55PKMMPH"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-5TDL6QRXQ5"></script>
         <script
                     dangerouslySetInnerHTML={{
                         __html: `
-                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-GF55PKMMPH');
+                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-5TDL6QRXQ5');
           `,
                     }}
                 />
@@ -651,8 +651,8 @@ export default function BrowseCourses() {
                       <input className='form-control' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                     </div>
 
-                    <div className="col-sm-6 mb-12 d-none">
-                      <input className='form-control' type="text" value="Null" name="organization" placeholder="Organization*" required />
+                    <div className="col-sm-6 mb-12">
+                      <input className='form-control' type="text" name="organization" placeholder="Organization*" required />
                     </div>
 
 

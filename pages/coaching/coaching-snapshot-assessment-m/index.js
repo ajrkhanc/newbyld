@@ -112,7 +112,7 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment)
 
                         window.setTimeout(function () {
-                            window.location.href = `/coaching/coaching-snapshot-marketing/${newnameurl}`
+                            window.location.href = `/coaching/coaching-snapshot-assessment-m/${newnameurl}`
                         }, 1000);  
                 }
 

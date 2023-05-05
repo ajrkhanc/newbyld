@@ -149,7 +149,7 @@ export default function BrowseCourses() {
                 document.getElementById("response").innerHTML = "Assessment Result"
 
                 window.setTimeout(function () {
-                    window.location.href = `/cruciallifechangingskills/assessment/what-would-you-do-assessment-marketing/${newnameurl}`
+                    window.location.href = `/cruciallifechangingskills/assessment/what-would-you-do-assessment-s/${newnameurl}`
                 }, 1000);
 
             }
@@ -173,7 +173,7 @@ export default function BrowseCourses() {
         xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
    
-        var Assessment ="What Would You Do Assessment Form Marketing"
+        var Assessment ="What Would You Do Assessment Form Sales"
         xhttp.send("name=" + event.target.name.value +
         '&email=' + email +
         '&phone=' + phone +
@@ -190,7 +190,7 @@ export default function BrowseCourses() {
             <Head>
                 <title>What Would You Do Assessment | Crucial Learning</title>
                 <meta name="description" content="The What Would You Do assessment reveals your natural tendencies when confronted with a gap in expectation or performance. See where you stand by taking this assessment." />
-                <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z80L406ZCP"></script>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-38DGXG48J1"></script>
                 <script
                     dangerouslySetInnerHTML={{
                         __html: `
@@ -198,7 +198,7 @@ export default function BrowseCourses() {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-Z80L406ZCP');
+  gtag('config', 'G-38DGXG48J1');
           `,
                     }}
                 />
@@ -302,17 +302,17 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                     </div>
 
                                     <div className='row inpuut'>
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                         </div>
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="email" name="email" placeholder="Your Email*" required />
                                         </div>
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                         </div>
 
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-6 mb-12 d-none">
                                             <input className='form-control' type="text" name="organization" placeholder="Organization*" required />
                                         </div>
 

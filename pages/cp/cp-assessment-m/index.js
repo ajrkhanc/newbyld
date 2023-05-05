@@ -69,7 +69,7 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment)
 
                         window.setTimeout(function () {
-                            window.location.href = `/cp/cp-marketing/${newnameurl}`
+                            window.location.href = `/cp/cp-assessment-m/${newnameurl}`
                         }, 1000);  
                 }
 

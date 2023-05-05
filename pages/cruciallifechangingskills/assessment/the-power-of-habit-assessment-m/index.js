@@ -64,7 +64,7 @@ export default function BrowseCourses() {
                 document.getElementById("response").innerHTML = "Assessment Result"
 
                 window.setTimeout(function () {
-                    window.location.href = `/cruciallifechangingskills/assessment/the-power-of-habit-assessment-marketing/${newnameurl}`
+                    window.location.href = `/cruciallifechangingskills/assessment/the-power-of-habit-assessment-m/${newnameurl}`
                 }, 1000);
 
             }

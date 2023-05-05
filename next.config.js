@@ -16,6 +16,18 @@ module.exports = {
       },
 
       {
+        source: '/coaching/become-a-professional-coach-marketing',
+        destination: '/coaching/become-a-professional-coach-assessment-m',
+        permanent: true,
+      },
+
+      {
+        source: '/coaching/become-a-professional-coach-pre-program-assessment',
+        destination: '/coaching/become-a-professional-coach-pre-program-assessment-s',
+        permanent: true,
+      },
+
+      {
         source: '/cruciallifechangingskills/assessment/gtd-assessment',
         destination: '/cruciallifechangingskills/assessment/gtd-assessment-marketing',
         permanent: true,
@@ -64,6 +76,13 @@ module.exports = {
       },
 
       {
+        source: '/coaching/coaching-snapshot-marketing',
+        destination: '/coaching/coaching-snapshot-assessment-m',
+        permanent: true,
+      },
+
+
+      {
         source: '/coaching/coaching-snapshot-internal-assessment',
         destination: '/coaching/coaching-snapshot-sales',
         permanent: true,
@@ -76,8 +95,49 @@ module.exports = {
       },
 
       {
+        source: '/coaching/become-a-professional-coach-pre-program-assessment',
+        destination: '/coaching/become-a-professional-coach-pre-program-assessment-s',
+        permanent: true,
+      },
+
+      {
         source: '/coaching/coaching-snapshot-sales',
         destination: '/coaching/coaching-snapshot-pre-program-assessment',
+        permanent: true,
+      },
+
+      {
+        source: '/cp/cp-marketing',
+        destination: '/cp-assessment-m',
+        permanent: true,
+      },
+
+      {
+        source: '/jenson-8/jenson-8-survey-marketing',
+        destination: '/jenson-8/jenson-8-survey-assessment-m',
+        permanent: true,
+      },
+
+      {
+        source: '/jenson-8/jenson-8-survey-sales',
+        destination: '/jenson-8/jenson-8-survey-assessment-s',
+        permanent: true,
+      },
+
+
+      {
+        source: '/leader-behaviour-assessment-marketing',
+        destination: '/leader-behaviour-assessment-m',
+        permanent: true,
+      },
+      {
+        source: '/leader-behaviour-assessment-sales',
+        destination: '/leader-behaviour-assessment-s',
+        permanent: true,
+      },
+      {
+        source: '/leader-behaviour-assessment-self-sales',
+        destination: '/leader-behaviour-assessment-s-s',
         permanent: true,
       },
 

@@ -81,7 +81,7 @@ export default function Home() {
                 document.getElementById("response").innerHTML = "View Assessment"
 
                 window.setTimeout(function () {
-                    window.location.href = `/cruciallifechangingskills/assessment/gtd-assessment-marketing/${newnameurl}`
+                    window.location.href = `/cruciallifechangingskills/assessment/gtd-assessment-m/${newnameurl}`
                 }, 1000);
 
             }

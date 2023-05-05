@@ -698,7 +698,7 @@ export default function MyApp({ Component, pageProps, router }) {
 
   }
 
-  else if (router.pathname.startsWith('/coaching/become-a-professional-coach-marketing')) {
+  else if (router.pathname.startsWith('/coaching/become-a-professional-coach-assessment-m')) {
 
     return (
       <CoachingA>
@@ -753,7 +753,7 @@ export default function MyApp({ Component, pageProps, router }) {
 
   }
 
-  else if (router.pathname.startsWith('/coaching/become-a-professional-coach-pre-program-assessment')) {
+  else if (router.pathname.startsWith('/coaching/become-a-professional-coach-pre-program-assessment-s')) {
 
     return (
       <CoachingA>
@@ -809,7 +809,7 @@ export default function MyApp({ Component, pageProps, router }) {
   }
 
 
-  else if (router.pathname.startsWith('/coaching/coaching-snapshot-pre-program-assessment/')) {
+  else if (router.pathname.startsWith('/coaching/coaching-snapshot-pre-program-assessment-s/')) {
 
     return (
       <COSR>
@@ -863,7 +863,7 @@ export default function MyApp({ Component, pageProps, router }) {
     )
 
   }
-  else if (router.pathname.startsWith('/coaching/coaching-snapshot-pre-program-assessment')) {
+  else if (router.pathname.startsWith('/coaching/coaching-snapshot-pre-program-assessment-s')) {
 
     return (
       <CoachingA>
@@ -920,7 +920,7 @@ export default function MyApp({ Component, pageProps, router }) {
 
 
 
-  else if (router.pathname.startsWith('/coaching/coaching-snapshot-marketing/')) {
+  else if (router.pathname.startsWith('/coaching/coaching-snapshot-assessment-m/')) {
 
     return (
       <COSR>
@@ -975,7 +975,7 @@ export default function MyApp({ Component, pageProps, router }) {
 
   }
 
-  else if (router.pathname.startsWith('/coaching/coaching-snapshot-marketing')) {
+  else if (router.pathname.startsWith('/coaching/coaching-snapshot-assessment-m')) {
 
     return (
       <COS>
@@ -1094,7 +1094,7 @@ gtag('config', 'G-5PXTTR960E');
 
   }
 
-  else if (router.pathname.startsWith('/leader-behaviour-assessment-sales/')) {
+  else if (router.pathname.startsWith('/leader-behaviour-assessment-s/')) {
 
     return (
       <COSR>
@@ -1149,7 +1149,7 @@ gtag('config', 'G-5PXTTR960E');
 
   }
 
-  else if (router.pathname.startsWith('/leader-behaviour-assessment-self-sales')) {
+  else if (router.pathname.startsWith('/leader-behaviour-assessment-s-s')) {
 
     return (
       <Leaderbehaviourassessment>
@@ -1204,7 +1204,7 @@ gtag('config', 'G-5PXTTR960E');
     )
 
   }
-  else if (router.pathname.startsWith('/leader-behaviour-assessment-sales')) {
+  else if (router.pathname.startsWith('/leader-behaviour-assessment-s')) {
 
     return (
       <Leaderbehaviourassessment>
@@ -1438,7 +1438,7 @@ gtag('config', 'G-5PXTTR960E');
   }
 
 
-  else if (router.pathname.startsWith('/leader-behaviour-assessment-marketing')) {
+  else if (router.pathname.startsWith('/leader-behaviour-assessment-m')) {
 
     return (
       <Leaderbehaviourassessment>
