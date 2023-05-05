@@ -192,7 +192,7 @@ export default function BrowseCourses() {
                                     <h3>Character</h3>
                                 </div>
                             </div>
-                            <div className='col-sm-12'>
+                            <div className='col-sm-12 bespokeradiobtn'>
                                 <div className='fcol1'>
                                     <h2>
                                     01. My key stakeholders respect my point of view in discussions.                                </h2>
@@ -428,7 +428,7 @@ export default function BrowseCourses() {
                                     <h3>Substance</h3>
                                 </div>
                             </div>
-                            <div className='col-sm-12'>
+                            <div className='col-sm-12 bespokeradiobtn'>
                                 
                             <div className='fcol1'>
                                     <h2>06. I am able to put my professional and personal life in context of what i am passionate about in long term.</h2>
@@ -659,7 +659,7 @@ export default function BrowseCourses() {
                                 </div>
                             </div>
                             <div className='col-sm-12'>
-                            <div className='fcol1'>
+                            <div className='fcol1 bespokeradiobtn'>
                                     <h2>11. I bring my best version to work in all my interactions with my stakeholders</h2>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q11" value="1" id="q11a" required />
@@ -703,7 +703,7 @@ export default function BrowseCourses() {
                                     </div>
                                 </div>
 
-                                <div className='fcol1'>
+                                <div className='fcol1 bespokeradiobtn'>
                                     <h2>12. My style of interaction is flexible to person and situation</h2>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q12" value="1" id="q12a" required />
@@ -747,7 +747,7 @@ export default function BrowseCourses() {
                                     </div>
                                 </div>
 
-                                <div className='fcol1'>
+                                <div className='fcol1 bespokeradiobtn'>
                                     <h2>13. People appreciate my style for being able to balance between advocacy (speaking my mind) and Inquiry (Asking other's mind)</h2>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q13" value="1" id="q13a" required />
@@ -791,7 +791,7 @@ export default function BrowseCourses() {
                                     </div>
                                 </div>
 
-                                <div className='fcol1'>
+                                <div className='fcol1 bespokeradiobtn'>
                                     <h2>14. Others not only value me for what i know but also for how deal with them.</h2>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q14" value="1" id="q14a" required />
@@ -835,7 +835,7 @@ export default function BrowseCourses() {
                                     </div>
                                 </div>
 
-                                <div className='fcol1'>
+                                <div className='fcol1 bespokeradiobtn'>
                                     <h2>15. My online presence (Social Media) is same as offline style.</h2>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q15" value="1" id="q15a" required />
