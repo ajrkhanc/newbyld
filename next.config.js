@@ -51,6 +51,84 @@ module.exports = {
         permanent: true,
       },
 
+
+
+
+
+
+
+
+
+
+
+
+      {
+        source: '/cruciallifechangingskills/assessment/gtd-assessment-marketing',
+        destination: '/cruciallifechangingskills/assessment/gtd-assessment-m',
+        permanent: true,
+      },
+
+      {
+        source: '/cruciallifechangingskills/assessment/gtd-assessment-sales',
+        destination: '/cruciallifechangingskills/assessment/gtd-assessment-s',
+        permanent: true,
+      },
+
+     
+
+      {
+        source: '/cruciallifechangingskills/assessment/influencer-assessment-marketing',
+        destination: '/cruciallifechangingskills/assessment/influencer-assessment-m',
+        permanent: true,
+      },
+
+      {
+        source: '/cruciallifechangingskills/assessment/influencer-assessment-sales',
+        destination: '/cruciallifechangingskills/assessment/influencer-assessment-s',
+        permanent: true,
+      },
+
+      {
+        source: '/cruciallifechangingskills/assessment/the-power-of-habit-assessment-marketing',
+        destination: '/cruciallifechangingskills/assessment/the-power-of-habit-assessment-m',
+        permanent: true,
+      },
+
+      {
+        source: '/cruciallifechangingskills/assessment/the-power-of-habit-assessment-sales',
+        destination: '/cruciallifechangingskills/assessment/the-power-of-habit-assessment-s',
+        permanent: true,
+      },
+
+      {
+        source: '/cruciallifechangingskills/assessment/what-would-you-do-assessment-marketing',
+        destination: '/cruciallifechangingskills/assessment/what-would-you-do-assessment-m',
+        permanent: true,
+      },
+
+      {
+        source: '/cruciallifechangingskills/assessment/what-would-you-do-assessment-sales',
+        destination: '/cruciallifechangingskills/assessment/what-would-you-do-assessment-s',
+        permanent: true,
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       {
         source: '/jenson-8/jenson-8-survey',
         destination: '/jenson-8/jenson-8-survey-marketing',
