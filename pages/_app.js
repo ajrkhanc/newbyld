@@ -690,6 +690,33 @@ export default function MyApp({ Component, pageProps, router }) {
             }}
           />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
+
+          <script type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: `
+              {
+                "@context": "https://schema.org",
+                "@type": "Corporation",
+                "name": "Eagle's Flight India",
+                "url": "https://byldgroup.com/eaglesflightindia",
+                "logo": "https://www.eaglesflight.com/asia/wp-content/uploads/2021/09/cropped-EAGLES-FLIGHT-LOGO_WITHOUT_2-1.jpeg",
+                "sameAs": [
+                  "https://www.facebook.com/BYLDExperientialLearning",
+                  "https://twitter.com/ByldLearnings",
+                  "https://www.instagram.com/byld_experientiallearning/",
+                  "https://www.youtube.com/@BYLDexperientiallearning",
+                  "https://www.linkedin.com/company/byld-experiential-learning/",
+                  "https://in.pinterest.com/eaglesflighti/",
+                  "https://soundcloud.com/eaglesflight-india",
+                  "https://www.tumblr.com/eagle-flights-india",
+                  "https://en.wikipedia.org/w/index.php?title=Special:Homepage&source=personaltoolslink&namespace=-1",
+                  "https://github.com/eaglesflightindia",
+                  "https://byldgroup.com/eaglesflightindia"
+                ]
+              }
+            `,
+            }}
+          />
         </Head>
 
         <Component {...pageProps} />
