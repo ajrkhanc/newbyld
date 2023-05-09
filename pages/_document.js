@@ -45,7 +45,6 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-
           <script src="/assets/js/jquery.min.js"></script>
           <script src="/assets/js/owl.carousel.min.js"></script>
           <script src="/assets/js/wow.js"></script>
