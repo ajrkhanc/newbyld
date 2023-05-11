@@ -152,7 +152,7 @@ export default function CoachCertificationLP(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="slot" required>
                                                 <option value="">Interested In*</option>
-                                                <option value="May 12th 2023, Time: 4:00 AM 5:00 PM">May 12th 2023, Time: 4:00 AM 5:00 PM</option>
+                                                
                                                 <option value="July 12th 2023, Time: 4:00 AM 5:00 PM">July 12th 2023, Time: 4:00 AM 5:00 PM</option>
                                             </select>
                                         </div>
@@ -186,7 +186,7 @@ export default function CoachCertificationLP(){
 
                     
 
-                    <div className='col-sm-4'>
+                    {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -197,7 +197,7 @@ export default function CoachCertificationLP(){
                                 <a className="eventbtn" href='#REGISTER'>REGISTER NOW</a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
