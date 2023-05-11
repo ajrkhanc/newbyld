@@ -434,7 +434,7 @@ export default function JoinOurPartnerNetworkLP() {
                         </div>
                         <div className='col-sm-5'>
                             <div>
-                                <h2 className='callhc'>Want to Contact US</h2>
+                                <h2 className='callhc'>Become a Partner</h2>
                                 <div className='calc'>
                                 <a href='tel:1800-102-1345' className='dblocc'>1800-102-1345</a><br></br>
                                 <a href='mailto:info@byldgroup.com' className='dblocc'>info@byldgroup.com</a>
