@@ -29,7 +29,7 @@ export default function JoinOurPartnerNetworkLP() {
         xhttp.send("fname=" + event.target.fname.value +
             "&email=" + event.target.email.value +
             "&phone=" + event.target.phone.value +
-            "&Occupation=" + event.target.occupation.value +           
+            "&Occupation=" + event.target.occupation.value +
             "&wheredidyoucome=" + event.target.howdidyouknowaboutus.value +
             "&intrestedin=" + event.target.intrestedin.value)
 
@@ -111,7 +111,7 @@ export default function JoinOurPartnerNetworkLP() {
                                                 <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                             </div>
                                             <div className="col-lg-12 mb-12">
-                                            <input type="text" name="occupation" placeholder="Occupation*" required />
+                                                <input type="text" name="occupation" placeholder="Occupation*" required />
                                                 {/* <select name="occupation" required>
                                                     <option value="">Occupation*</option>
                                                     <option value="HR Professional">HR Professional</option>
@@ -145,11 +145,11 @@ export default function JoinOurPartnerNetworkLP() {
                                             </div>
 
                                             <div className="col-lg-12 mb-12">
-                                            <select name="intrestedin" required>
-                                                <option value="">Pick up any Slot*</option>                                                
-                                                <option value="May 12th 2023 - 11:00 AM - 12:00 PM">May 12th 2023 - 11:00 AM - 12:00 PM</option>
-                                                <option value="June 2nd 2023 - 11:00 AM - 12:00 PM">June 2nd 2023 - 11:00 AM - 12:00 PM</option>
-                                            </select>
+                                                <select name="intrestedin" required>
+                                                    <option value="">Pick up any Slot*</option>
+                                                    <option value="May 12th 2023 - 11:00 AM - 12:00 PM">May 12th 2023 - 11:00 AM - 12:00 PM</option>
+                                                    <option value="June 2nd 2023 - 11:00 AM - 12:00 PM">June 2nd 2023 - 11:00 AM - 12:00 PM</option>
+                                                </select>
                                             </div>
 
                                             <div className="col-lg-12 mb-12">
@@ -290,28 +290,28 @@ export default function JoinOurPartnerNetworkLP() {
             </section>
 
 
-            <div class="rs-process style1 ptt-50 pbb-50 ptpagepro joinfont">                
+            <div class="rs-process style1 ptt-50 pbb-50 ptpagepro joinfont">
                 <div class="container custom2">
                     <div class="process-effects-layer pbb-40">
                         <div class="row">
-                        <div className='col-sm-12'>
-                            <div class="sec-title3 text-center mb-30 pbb-30">
-                                <h2 class="title color2 ncc">Roadmap to Become Your Own Boss!</h2>
-                                <div class="heading-border-line center-style"></div>
+                            <div className='col-sm-12'>
+                                <div class="sec-title3 text-center mb-30 pbb-30">
+                                    <h2 class="title color2 ncc">Roadmap to Become Your Own Boss!</h2>
+                                    <div class="heading-border-line center-style"></div>
+                                </div>
                             </div>
-                        </div>
-                        <div className='clearfix'></div>
+                            <div className='clearfix'></div>
 
                             <div class="col">
                                 <div class="rs-addon-number">
                                     <div class="number-part">
                                         <div class="number-image">
-                                            <img src="/assets/img/icon/ic1.png" alt="Process"/>
+                                            <img src="/assets/img/icon/ic1.png" alt="Process" />
                                         </div>
                                         <div class="number-text">
                                             <div class="number-area"> <span class="number-prefix"> 1 </span></div>
                                             <div class="number-title"><h3 class="title"> Interested in <br></br>partnership</h3></div>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -320,12 +320,12 @@ export default function JoinOurPartnerNetworkLP() {
                                 <div class="rs-addon-number">
                                     <div class="number-part">
                                         <div class="number-image">
-                                            <img src="/assets/img/icon/ic2.png" alt="Process"/>
+                                            <img src="/assets/img/icon/ic2.png" alt="Process" />
                                         </div>
                                         <div class="number-text">
                                             <div class="number-area"> <span class="number-prefix"> 2 </span></div>
                                             <div class="number-title"><h3 class="title">Introductory<br></br> meeting</h3></div>
-                                            
+
                                         </div>
                                     </div>
                                 </div>
@@ -334,12 +334,12 @@ export default function JoinOurPartnerNetworkLP() {
                                 <div class="rs-addon-number">
                                     <div class="number-part">
                                         <div class="number-image">
-                                            <img src="/assets/img/icon/ic3.png" alt="Process"/>
+                                            <img src="/assets/img/icon/ic3.png" alt="Process" />
                                         </div>
                                         <div class="number-text">
                                             <div class="number-area"> <span class="number-prefix"> 3 </span></div>
                                             <div class="number-title"><h3 class="title">MOU</h3></div>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -348,12 +348,12 @@ export default function JoinOurPartnerNetworkLP() {
                                 <div class="rs-addon-number">
                                     <div class="number-part">
                                         <div class="number-image">
-                                            <img src="/assets/img/icon/ic4.png" alt="Process"/>
+                                            <img src="/assets/img/icon/ic4.png" alt="Process" />
                                         </div>
                                         <div class="number-text">
                                             <div class="number-area"> <span class="number-prefix"> 4 </span></div>
                                             <div class="number-title"><h3 class="title">Business planning <br></br>meeting</h3></div>
-                                          
+
                                         </div>
                                     </div>
                                 </div>
@@ -362,12 +362,12 @@ export default function JoinOurPartnerNetworkLP() {
                                 <div class="rs-addon-number">
                                     <div class="number-part">
                                         <div class="number-image">
-                                            <img src="/assets/img/icon/ic5.png" alt="Process"/>
+                                            <img src="/assets/img/icon/ic5.png" alt="Process" />
                                         </div>
                                         <div class="number-text">
                                             <div class="number-area"> <span class="number-prefix"> 5 </span></div>
                                             <div class="number-title"><h3 class="title">Kickstart your <br></br>Journey </h3></div>
-                                          
+
                                         </div>
                                     </div>
                                 </div>
@@ -427,7 +427,23 @@ export default function JoinOurPartnerNetworkLP() {
                 </div>
             </section>
 
-
+            <section className='calltoact ptt-10 pbb-10 joinfont'>
+                <div className='container ptt-50 pbb-100'>
+                    <div className='row align-items-center'>
+                        <div className='col-sm-7'>
+                        </div>
+                        <div className='col-sm-5'>
+                            <div>
+                                <h2 className='callhc'>Want to Contact US</h2>
+                                <div className='calc'>
+                                <a href='tel:1800-102-1345' className='dblocc'>1800-102-1345</a><br></br>
+                                <a href='mailto:info@byldgroup.com' className='dblocc'>info@byldgroup.com</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
 
             <section className='join6 ptt-100 pbb-100 joinfont'>
@@ -449,57 +465,59 @@ export default function JoinOurPartnerNetworkLP() {
                 </div>
             </section>
 
+            
+
 
 
 
 
             <section className='ptt-20 pbb-20'>
-            <div className='container'>
-                <div className='row'>
-                    <div className='col-sm-12'>
-                    <div className="sec-title3 mbb-35">
-                        <h4 className="countertoph2 text-center font30">To get more insights, register for any of the upcoming sessions below:</h4>                        
-                    </div>
-                    </div>
-                    <div className='clearfix'></div>
-
-                    
-
-                    
-
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 12th May 2023</span>
-                            </div>
-                            
-                            <div className='eventbottom'>
-                                <h3 className='hhd'>BYLD Partner Network Briefing</h3>
-                                <h5>Time: 11:00 AM - 12:00 PM</h5>
-                                <a className="eventbtn" href='#GetinTouch'>REGISTER NOW</a>
+                <div className='container'>
+                    <div className='row'>
+                        <div className='col-sm-12'>
+                            <div className="sec-title3 mbb-35">
+                                <h4 className="countertoph2 text-center font30">To get more insights, register for any of the upcoming sessions below:</h4>
                             </div>
                         </div>
-                    </div>
+                        <div className='clearfix'></div>
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 2nd June 2023</span>
-                            </div>
-                            
-                            <div className='eventbottom'>
-                                <h3 className='hhd'>BYLD Partner Network Briefing</h3>
-                                <h5>Time: 11:00 AM - 12:00 PM</h5>
-                                <a className="eventbtn" href='#GetinTouch'>REGISTER NOW</a>
+
+
+
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar 12th May 2023</span>
+                                </div>
+
+                                <div className='eventbottom'>
+                                    <h3 className='hhd'>BYLD Partner Network Briefing</h3>
+                                    <h5>Time: 11:00 AM - 12:00 PM</h5>
+                                    <a className="eventbtn" href='#GetinTouch'>REGISTER NOW</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar 2nd June 2023</span>
+                                </div>
+
+                                <div className='eventbottom'>
+                                    <h3 className='hhd'>BYLD Partner Network Briefing</h3>
+                                    <h5>Time: 11:00 AM - 12:00 PM</h5>
+                                    <a className="eventbtn" href='#GetinTouch'>REGISTER NOW</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
                 </div>
-            </div>
-        </section>
+            </section>
 
 
         </>

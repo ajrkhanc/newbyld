@@ -4289,3 +4289,30 @@ table td {
     line-height: 28px;
     padding-right: 20px;
 }
+
+.calltoact {
+  background: url(/assets/img/banner/call-to-a-bg.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 450px;
+}
+
+.calc {
+text-align: center;
+}
+
+.calc a{
+  background: #fcb040;
+  color: #fff;
+  padding: 5px 20px 10px 20px;
+  margin: 15px 0px;
+  border-radius: 30px;
+  display: inline-block;
+  font-size: 20px;
+}
+.callhc{
+  text-align: center;
+  color: white;
+}
