@@ -1047,8 +1047,8 @@ export default function Home() {
                         <div className='col-sm-4'>
                             <div className='formhh'>
                                 <div className="bannerform msddd">
-                                    <h3>Enroll for Our Upcoming Complimentary Webinar</h3>
-                                    <h3>15th April 11 AM - 12 PM</h3>
+                                    <h3>Enroll in our ICF Coach Certification Batch 40</h3>
+                                    <h3>10 June 10:00 am to 4:00 pm</h3>
                                     <form id="contactForm" className='clientcornner ptt-5 pbb-0' onSubmit={submit}>
                                         <div className="row">
                                             <div className="col-sm-6 mb-12">
