@@ -64,7 +64,7 @@ export default function WebinarsAndProgramExperience(){
                                 <span>Webinar May 3rd, 2023</span>
                             </div>
                             <div className='eventbottom'>
-                                <h3>Everything DiSC Workplace<sup>®</sup> on Catalyst™</h3>
+                                <h3>Everything DiSC Management</h3>
                                 <a className="eventbtn" target="_blank" href='/everythingdisc/everything-disc-productive-conflict-webinar'>Reserve Your Seat</a>
                             </div>
                         </div>

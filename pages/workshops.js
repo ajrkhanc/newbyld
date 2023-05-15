@@ -60,10 +60,10 @@ export default function Workshops(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>May 8th to 9th, 2023</span>
+                                <span>May 26th 2023</span>
                             </div>
                             <div className='eventbottom'>
-                                <h3>The SLII Experience™ - Virtual</h3>
+                                <h3>Coaching Essentials<sup>®</sup></h3>
                                 <a target="_blank" className="eventbtn" href='https://blanchardinternational.co.in/events-workshops/virtual-public-workshop'>Reserve Your Seat</a>
                             </div>
                         </div>
@@ -73,10 +73,10 @@ export default function Workshops(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>May 10th to 11th, 2023</span>
+                                <span>June 8th, 2023</span>
                             </div>
                             <div className='eventbottom'>
-                                <h3>The SLII Experience™ - T4T</h3>
+                                <h3>Blanchard Management Essentials<sup>®</sup></h3>
                                 <a target="_blank" className="eventbtn" href='https://blanchardinternational.co.in/events-workshops/virtual-public-workshop'>Reserve Your Seat</a>
                             </div>
                         </div>
@@ -163,8 +163,8 @@ export default function Workshops(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="The SLII Experience™ - Virtual, May 8th to 9th, 2023">The SLII Experience™ - Virtual, May 8th to 9th, 2023</option>
-                                                <option value='The SLII Experience™ - T4T, May 10th to 11th, 2023'>The SLII Experience™ - T4T, May 10th to 11th, 2023</option>
+                                                <option value="Coaching Essentials® - May 26th 2023">Coaching Essentials® - May 26th 2023</option>
+                                                <option value='Blanchard Management Essentials® - June 8th, 2023'>Blanchard Management Essentials® - June 8th, 2023</option>
                                                 <option value="15th - 19th May, 2023 - DISC Train-the-Trainer (TTT)">15th - 19th May, 2023 - DISC Train-the-Trainer (TTT)</option>
                                                 <option value="Crucial Conversations for Accountability - May 25th - 26th, 2023">Crucial Conversations for Accountability - May 25th - 26th, 2023</option>
                                                 <option value="Influencer - June 22nd - 23rd, 2023">Influencer - June 22nd - 23rd, 2023</option>

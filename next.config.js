@@ -179,7 +179,7 @@ module.exports = {
       },
 
       {
-        source: '/coaching/coaching-snapshot-sales',
+        source: '/coaching/coaching-snapshot-pre-program-assessment-s',
         destination: '/coaching/coaching-snapshot-pre-program-assessment',
         permanent: true,
       },
