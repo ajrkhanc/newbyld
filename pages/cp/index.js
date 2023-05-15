@@ -89,215 +89,215 @@ export default function JoinOurPartnerNetworkLP() {
 
 
 
-    const whitp1 = async event => {
-        const coursename = 'White Paper';
-        event.preventDefault()
-        document.getElementById("submitbuttonform1").value = "Submitting...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-                    document.getElementById("contactForm").reset();
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function () {
-                        window.location.href = "/assets/pdf/challenges-and-recommendations-for-auto-industry.pdf"
-                    });
+    // const whitp1 = async event => {
+    //     const coursename = 'White Paper';
+    //     event.preventDefault()
+    //     document.getElementById("submitbuttonform1").value = "Submitting...."
+    //     const xhttp = new XMLHttpRequest();
+    //     xhttp.onload = function () {
+    //         console.log(this.responseText);
+    //     }
+    //     xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
+    //     xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+    //     xhttp.onreadystatechange = function () {
+    //         if (xhttp.readyState == 4) {
+    //             if (xhttp.status == 200) {
+    //                 document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+    //                 document.getElementById("contactForm").reset();
+    //                 document.getElementById("showlabel").style.display = "block";
+    //                 window.setTimeout(function () {
+    //                     window.location.href = "/assets/pdf/challenges-and-recommendations-for-auto-industry.pdf"
+    //                 });
 
-                } else {
-                    alert('There was a problem with the request.');
-                }
-            }
-        };
-        xhttp.send("name=" + event.target.name.value +
-        "&youremail=" + event.target.email.value +
-        "&coursename=" + coursename)
-    }
+    //             } else {
+    //                 alert('There was a problem with the request.');
+    //             }
+    //         }
+    //     };
+    //     xhttp.send("name=" + event.target.name.value +
+    //     "&youremail=" + event.target.email.value +
+    //     "&coursename=" + coursename)
+    // }
 
-    const whitp2 = async event => {
-        const coursename = 'White Paper';
-        event.preventDefault()
-        document.getElementById("submitbuttonform2").value = "Submitting...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-                    document.getElementById("contactForm").reset();
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function () {
-                        window.location.href = "/assets/pdf/auto-industry-white-paper.pdf"
-                    });
+    // const whitp2 = async event => {
+    //     const coursename = 'White Paper';
+    //     event.preventDefault()
+    //     document.getElementById("submitbuttonform2").value = "Submitting...."
+    //     const xhttp = new XMLHttpRequest();
+    //     xhttp.onload = function () {
+    //         console.log(this.responseText);
+    //     }
+    //     xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
+    //     xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+    //     xhttp.onreadystatechange = function () {
+    //         if (xhttp.readyState == 4) {
+    //             if (xhttp.status == 200) {
+    //                 document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+    //                 document.getElementById("contactForm").reset();
+    //                 document.getElementById("showlabel").style.display = "block";
+    //                 window.setTimeout(function () {
+    //                     window.location.href = "/assets/pdf/auto-industry-white-paper.pdf"
+    //                 });
 
-                } else {
-                    alert('There was a problem with the request.');
-                }
-            }
-        };
-        xhttp.send("name=" + event.target.name.value +
-        "&youremail=" + event.target.email.value +
-        "&coursename=" + coursename)
-    }
+    //             } else {
+    //                 alert('There was a problem with the request.');
+    //             }
+    //         }
+    //     };
+    //     xhttp.send("name=" + event.target.name.value +
+    //     "&youremail=" + event.target.email.value +
+    //     "&coursename=" + coursename)
+    // }
 
-    const whitp3 = async event => {
-        const coursename = 'White Paper';
-        event.preventDefault()
-        document.getElementById("submitbuttonform3").value = "Submitting...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-                    document.getElementById("contactForm").reset();
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function () {
-                        window.location.href = "/assets/pdf/roadblocks-in-the-growth-path-for-BFSI-Industry.pdf"
-                    });
+    // const whitp3 = async event => {
+    //     const coursename = 'White Paper';
+    //     event.preventDefault()
+    //     document.getElementById("submitbuttonform3").value = "Submitting...."
+    //     const xhttp = new XMLHttpRequest();
+    //     xhttp.onload = function () {
+    //         console.log(this.responseText);
+    //     }
+    //     xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
+    //     xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+    //     xhttp.onreadystatechange = function () {
+    //         if (xhttp.readyState == 4) {
+    //             if (xhttp.status == 200) {
+    //                 document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+    //                 document.getElementById("contactForm").reset();
+    //                 document.getElementById("showlabel").style.display = "block";
+    //                 window.setTimeout(function () {
+    //                     window.location.href = "/assets/pdf/roadblocks-in-the-growth-path-for-BFSI-Industry.pdf"
+    //                 });
 
-                } else {
-                    alert('There was a problem with the request.');
-                }
-            }
-        };
-        xhttp.send("name=" + event.target.name.value +
-        "&youremail=" + event.target.email.value +
-        "&coursename=" + coursename)
-    }
+    //             } else {
+    //                 alert('There was a problem with the request.');
+    //             }
+    //         }
+    //     };
+    //     xhttp.send("name=" + event.target.name.value +
+    //     "&youremail=" + event.target.email.value +
+    //     "&coursename=" + coursename)
+    // }
 
-    const whitp4 = async event => {
-        const coursename = 'White Paper';
-        event.preventDefault()
-        document.getElementById("submitbuttonform4").value = "Submitting...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-                    document.getElementById("contactForm").reset();
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function () {
-                        window.location.href = "/assets/pdf/what-will-spur-BFSI-industry-to-its-next-peak.pdf"
-                    });
+    // const whitp4 = async event => {
+    //     const coursename = 'White Paper';
+    //     event.preventDefault()
+    //     document.getElementById("submitbuttonform4").value = "Submitting...."
+    //     const xhttp = new XMLHttpRequest();
+    //     xhttp.onload = function () {
+    //         console.log(this.responseText);
+    //     }
+    //     xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
+    //     xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+    //     xhttp.onreadystatechange = function () {
+    //         if (xhttp.readyState == 4) {
+    //             if (xhttp.status == 200) {
+    //                 document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+    //                 document.getElementById("contactForm").reset();
+    //                 document.getElementById("showlabel").style.display = "block";
+    //                 window.setTimeout(function () {
+    //                     window.location.href = "/assets/pdf/what-will-spur-BFSI-industry-to-its-next-peak.pdf"
+    //                 });
 
-                } else {
-                    alert('There was a problem with the request.');
-                }
-            }
-        };
-        xhttp.send("name=" + event.target.name.value +
-        "&youremail=" + event.target.email.value +
-        "&coursename=" + coursename)
-    }
+    //             } else {
+    //                 alert('There was a problem with the request.');
+    //             }
+    //         }
+    //     };
+    //     xhttp.send("name=" + event.target.name.value +
+    //     "&youremail=" + event.target.email.value +
+    //     "&coursename=" + coursename)
+    // }
 
-    const whitp5 = async event => {
-        const coursename = 'White Paper';
-        event.preventDefault()
-        document.getElementById("submitbuttonform4").value = "Submitting...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-                    document.getElementById("contactForm").reset();
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function () {
-                        window.location.href = "/assets/pdf/culture-needed-in-an-airline-Industry-to-ride-the-talent-shortage.pdf"
-                    });
+    // const whitp5 = async event => {
+    //     const coursename = 'White Paper';
+    //     event.preventDefault()
+    //     document.getElementById("submitbuttonform4").value = "Submitting...."
+    //     const xhttp = new XMLHttpRequest();
+    //     xhttp.onload = function () {
+    //         console.log(this.responseText);
+    //     }
+    //     xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
+    //     xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+    //     xhttp.onreadystatechange = function () {
+    //         if (xhttp.readyState == 4) {
+    //             if (xhttp.status == 200) {
+    //                 document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+    //                 document.getElementById("contactForm").reset();
+    //                 document.getElementById("showlabel").style.display = "block";
+    //                 window.setTimeout(function () {
+    //                     window.location.href = "/assets/pdf/culture-needed-in-an-airline-Industry-to-ride-the-talent-shortage.pdf"
+    //                 });
 
-                } else {
-                    alert('There was a problem with the request.');
-                }
-            }
-        };
-        xhttp.send("name=" + event.target.name.value +
-        "&youremail=" + event.target.email.value +
-        "&coursename=" + coursename)
-    }
+    //             } else {
+    //                 alert('There was a problem with the request.');
+    //             }
+    //         }
+    //     };
+    //     xhttp.send("name=" + event.target.name.value +
+    //     "&youremail=" + event.target.email.value +
+    //     "&coursename=" + coursename)
+    // }
 
-    const whitp6 = async event => {
-        const coursename = 'White Paper';
-        event.preventDefault()
-        document.getElementById("submitbuttonform4").value = "Submitting...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-                    document.getElementById("contactForm").reset();
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function () {
-                        window.location.href = "/assets/pdf/explain-nature-of-leadership-required-in-a-bfsi-industry.pdf"
-                    });
+    // const whitp6 = async event => {
+    //     const coursename = 'White Paper';
+    //     event.preventDefault()
+    //     document.getElementById("submitbuttonform4").value = "Submitting...."
+    //     const xhttp = new XMLHttpRequest();
+    //     xhttp.onload = function () {
+    //         console.log(this.responseText);
+    //     }
+    //     xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
+    //     xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+    //     xhttp.onreadystatechange = function () {
+    //         if (xhttp.readyState == 4) {
+    //             if (xhttp.status == 200) {
+    //                 document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+    //                 document.getElementById("contactForm").reset();
+    //                 document.getElementById("showlabel").style.display = "block";
+    //                 window.setTimeout(function () {
+    //                     window.location.href = "/assets/pdf/explain-nature-of-leadership-required-in-a-bfsi-industry.pdf"
+    //                 });
 
-                } else {
-                    alert('There was a problem with the request.');
-                }
-            }
-        };
-        xhttp.send("name=" + event.target.name.value +
-        "&youremail=" + event.target.email.value +
-        "&coursename=" + coursename)
-    }
+    //             } else {
+    //                 alert('There was a problem with the request.');
+    //             }
+    //         }
+    //     };
+    //     xhttp.send("name=" + event.target.name.value +
+    //     "&youremail=" + event.target.email.value +
+    //     "&coursename=" + coursename)
+    // }
 
-    const whitp7 = async event => {
-        const coursename = 'White Paper';
-        event.preventDefault()
-        document.getElementById("submitbuttonform4").value = "Submitting...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-                    document.getElementById("contactForm").reset();
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function () {
-                        window.location.href = "/assets/pdf/hr-manage-fear-of-job-loss-among-employees-given-the-lay-off-culture-prevalent-in-it-industry-currently.pdf"
-                    });
+    // const whitp7 = async event => {
+    //     const coursename = 'White Paper';
+    //     event.preventDefault()
+    //     document.getElementById("submitbuttonform4").value = "Submitting...."
+    //     const xhttp = new XMLHttpRequest();
+    //     xhttp.onload = function () {
+    //         console.log(this.responseText);
+    //     }
+    //     xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback');
+    //     xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+    //     xhttp.onreadystatechange = function () {
+    //         if (xhttp.readyState == 4) {
+    //             if (xhttp.status == 200) {
+    //                 document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+    //                 document.getElementById("contactForm").reset();
+    //                 document.getElementById("showlabel").style.display = "block";
+    //                 window.setTimeout(function () {
+    //                     window.location.href = "/assets/pdf/hr-manage-fear-of-job-loss-among-employees-given-the-lay-off-culture-prevalent-in-it-industry-currently.pdf"
+    //                 });
 
-                } else {
-                    alert('There was a problem with the request.');
-                }
-            }
-        };
-        xhttp.send("name=" + event.target.name.value +
-        "&youremail=" + event.target.email.value +
-        "&coursename=" + coursename)
-    }
+    //             } else {
+    //                 alert('There was a problem with the request.');
+    //             }
+    //         }
+    //     };
+    //     xhttp.send("name=" + event.target.name.value +
+    //     "&youremail=" + event.target.email.value +
+    //     "&coursename=" + coursename)
+    // }
 
     return (
         <>
@@ -307,7 +307,7 @@ export default function JoinOurPartnerNetworkLP() {
                 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet"></link>
             </Head>
 
-            <Modal className='toppc mwc500' toggle={() => setModalOpen1(!modalOpen1)} isOpen={modalOpen1} backdrop="static" keyboard={false}>
+            {/* <Modal className='toppc mwc500' toggle={() => setModalOpen1(!modalOpen1)} isOpen={modalOpen1} backdrop="static" keyboard={false}>
                 <button aria-label="Close" className="close popcl" type="button" onClick={() => setModalOpen1(!modalOpen1)}>
                     <span aria-hidden={true}>×</span>
                 </button>
@@ -466,7 +466,7 @@ export default function JoinOurPartnerNetworkLP() {
                         <p id="showlabel" style={{ display: "none" }}></p>
                     </form>
                 </ModalBody>
-            </Modal>
+            </Modal> */}
 
             <section className='cplps1 ptt-50 pbb-50'>
                 <div className='container'>
@@ -676,55 +676,52 @@ export default function JoinOurPartnerNetworkLP() {
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src="/assets/pdf/pdfi/challenges-and-recommendations-for-auto-industry.jpg" />
-                                        {/* <a href='/assets/pdf/challenges-and-recommendations-for-auto-industry.pdf' download>Download White Paper</a> */}
-                                        <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen1(!modalOpen1)}></i>
+                                        <a href='/cp/white-paper'>Download White Paper</a>                                        
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src="/assets/pdf/pdfi/auto-industry-white-paper.jpg" />
-                                        {/* <a href='/assets/pdf/auto-industry-white-paper.pdf' download>Download White Paper</a> */}
-                                        <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen2(!modalOpen2)}></i>
+                                       <a href='/cp/white-paper' downad>Download White Paper</a>
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src="/assets/pdf/pdfi/roadblocks-in-the-growth-path-for-BFSI-Industry.jpg" />
-                                        {/* <a href='/assets/pdf/roadblocks-in-the-growth-path-for-BFSI-Industry.pdf' download>Download White Paper</a> */}
-                                        <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen3(!modalOpen3)}></i>
+                                      <a href='/cp/white-paper'>Download White Paper</a>
+                                        
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src="/assets/pdf/pdfi/what-will-spur-BFSI-industry-to-its-next-peak.jpg" />
-                                        {/* <a href='/assets/pdf/what-will-spur-BFSI-industry-to-its-next-peak.pdf' download>Download White Paper</a> */}
-                                        <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen4(!modalOpen4)}></i>
+                                       <a href='/cp/white-paper'>Download White Paper</a>
+                                        
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src="/assets/pdf/pdfi/culture-needed-in-an-airline-Industry-to-ride-the-talent-shortage.jpg" />
-                                        {/* <a href='/assets/pdf/challenges-and-recommendations-for-auto-industry.pdf' download>Download White Paper</a> */}
-                                        <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen5(!modalOpen5)}></i>
+                                      <a href='/cp/white-paper'>Download White Paper</a>
+                                        
                                     </div>
                                 </div>
-                                
+
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src="/assets/pdf/pdfi/explain-nature-of-leadership-required-in-a-bfsi-industry.jpg" />
-                                        {/* <a href='/assets/pdf/challenges-and-recommendations-for-auto-industry.pdf' download>Download White Paper</a> */}
-                                        <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen6(!modalOpen6)}></i>
+                                        <a href='/cp/white-paper'>Download White Paper</a>                                        
                                     </div>
                                 </div>
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src="/assets/pdf/pdfi/hr-manage-fear-of-job-loss-among-employees-given-the-lay-off-culture-prevalent-in-it-industry-currently.jpg" />
-                                        {/* <a href='/assets/pdf/challenges-and-recommendations-for-auto-industry.pdf' download>Download White Paper</a> */}
-                                        <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen7(!modalOpen7)}></i>
+                                       <a href='/cp/white-paper' download>Download White Paper</a>
+                                        {/* <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen7(!modalOpen7)}></i> */}
                                     </div>
                                 </div>
 
