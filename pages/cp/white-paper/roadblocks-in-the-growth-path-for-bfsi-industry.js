@@ -18,7 +18,7 @@ export default function Ebookpage(){
 
                     document.getElementById("showlabel").style.display = "block";
                     setTimeout(function() {
-                        window.open("/assets/cppdf/the-indian-construction-industry-new-amarvijay-sir.pdf")
+                        window.open("/assets/cppdf/roadblocks-in-the-growth-path-for-bfsi-industry.pdf")
                      });
 
                 } else {
@@ -38,8 +38,8 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>The Indian Construction Industry</title>
-            <meta name="description" content="The Indian Construction Industry"/> 
+            <title>Roadblocks in the growth path for BFSI Industry</title>
+            <meta name="description" content="Roadblocks in the growth path for BFSI Industry"/> 
           </Head>
 
           <div className="rs-services">
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">The Indian Construction Industry</h4>
+                      <h4 className="countertoph2 text-center font30">Roadblocks in the growth path for BFSI Industry</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         
@@ -61,7 +61,7 @@ export default function Ebookpage(){
                 <div className="row rs-vertical-middle">                    
                     <div className="col-lg-6 pr-0">
                         <div className='onlyshd'>
-                        <img src='/assets/img/white-paper/the-indian-construction-industry-new-amarvijay-sir.jpg' alt="books"/>
+                        <img src='/assets/img/white-paper/roadblocks-in-the-growth-path-for-bfsi-industry.jpg' alt="books"/>
                         </div>
                     </div>
                     <div className="col-lg-6 md-pt-50">
@@ -87,7 +87,7 @@ export default function Ebookpage(){
                                             <input type="text" name="organization" placeholder="Organization*" required/>
                                         </div>                                       
                                         <div className="col-sm-12 mb-12 d-none">
-                                            <input type="text" name="formname" value="The Indian Construction Industry"/>
+                                            <input type="text" name="formname" value="Roadblocks in the growth path for BFSI Industry"/>
                                         </div>
                                         <div className="col-sm-12 mb-12 d-none">
                                             <input type="text" name="Business_Entity" value="CONSULTING PRACTICE"/>

@@ -712,6 +712,7 @@ export default function JoinOurPartnerNetworkLP() {
                                         <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen5(!modalOpen5)}></i>
                                     </div>
                                 </div>
+                                
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src="/assets/pdf/pdfi/explain-nature-of-leadership-required-in-a-bfsi-industry.jpg" />

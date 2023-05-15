@@ -18,7 +18,7 @@ export default function Ebookpage(){
 
                     document.getElementById("showlabel").style.display = "block";
                     setTimeout(function() {
-                        window.open("/assets/cppdf/the-indian-construction-industry-new-amarvijay-sir.pdf")
+                        window.open("/assets/cppdf/unlock-the-power-of-experiential-learning-to-maximize-employee.pdf")
                      });
 
                 } else {
@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>The Indian Construction Industry</title>
+            <title>Unlock the power of experiential learning to maximize employee</title>
             <meta name="description" content="The Indian Construction Industry"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">The Indian Construction Industry</h4>
+                      <h4 className="countertoph2 text-center font30">Unlock the power of experiential learning to maximize employee</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         
@@ -61,7 +61,7 @@ export default function Ebookpage(){
                 <div className="row rs-vertical-middle">                    
                     <div className="col-lg-6 pr-0">
                         <div className='onlyshd'>
-                        <img src='/assets/img/white-paper/the-indian-construction-industry-new-amarvijay-sir.jpg' alt="books"/>
+                        <img src='/assets/img/white-paper/unlock-the-power-of-experiential-learning-to-maximize-employee.jpg' alt="books"/>
                         </div>
                     </div>
                     <div className="col-lg-6 md-pt-50">
@@ -87,7 +87,7 @@ export default function Ebookpage(){
                                             <input type="text" name="organization" placeholder="Organization*" required/>
                                         </div>                                       
                                         <div className="col-sm-12 mb-12 d-none">
-                                            <input type="text" name="formname" value="The Indian Construction Industry"/>
+                                            <input type="text" name="formname" value="Unlock the power of experiential learning to maximize employee"/>
                                         </div>
                                         <div className="col-sm-12 mb-12 d-none">
                                             <input type="text" name="Business_Entity" value="CONSULTING PRACTICE"/>
