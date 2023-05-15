@@ -57,23 +57,6 @@ export default function WebinarsAndProgramExperience(){
                     </div>
                     <div className='clearfix'></div>
 
-                    <div className='col-sm-4 d-none'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar May 3rd, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                                <h3>Everything DiSC Management</h3>
-                                <a className="eventbtn" target="_blank" href='/everythingdisc/everything-disc-productive-conflict-webinar'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    
-
 
                     {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -177,19 +160,7 @@ export default function WebinarsAndProgramExperience(){
 
                     
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar Wednesday, 3rd May 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 3:00 pm - 4:00 pm</h4>
-                                <h3>Everything DiSC Workplace<sup>®</sup> on Catalyst™</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
+                    
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -214,6 +185,20 @@ export default function WebinarsAndProgramExperience(){
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 3:00 pm - 4:00 pm</h4>
                                 <h3>Everything DiSC Management</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar 21st June 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 11:00 am - 12:00 am</h4>
+                                <h3>Five Behaviour Team Development</h3>
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
@@ -285,9 +270,9 @@ export default function WebinarsAndProgramExperience(){
                                                 {/* <option value="The Power of Habit – February 15th, 2023">The Power of Habit – February 15th, 2023</option>
                                                <option value="The Five Behaviors®️ Team Development – February 17th, 2023">The Five Behaviors®️ Team Development – February 17th, 2023</option> */}
                                                 
-                                                <option value="Everything Work of Leaders Virtual Course Preview – 24th May, 2023">Everything Work of Leaders Virtual Course Preview – 24th May, 2023</option>
-                                                <option value="3rd May 2023 - Everything DiSC Workplace® on Catalyst™">3rd May 2023 - Everything DiSC Workplace® on Catalyst™</option>
+                                                <option value="Everything Work of Leaders Virtual Course Preview – 24th May, 2023">Everything Work of Leaders Virtual Course Preview – 24th May, 2023</option>                                                
                                                 <option value="Everything DiSC Management, 7th June 2023">Everything DiSC Management, 7th June 2023</option>
+                                                <option value="June 21st 2023 - Five Behaviour Team Development">June 21st 2023 - Five Behaviour Team Development</option>
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">
