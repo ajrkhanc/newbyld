@@ -180,12 +180,6 @@ module.exports = {
 
       {
         source: '/coaching/coaching-snapshot-pre-program-assessment',
-        destination: '/coaching/coaching-snapshot-pre-program-assessment',
-        permanent: true,
-      },
-
-      {
-        source: '/coaching/coaching-snapshot-pre-program-assessment',
         destination: '/coaching/coaching-snapshot-pre-program-assessment-s',
         permanent: true,
       },
