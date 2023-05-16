@@ -33,15 +33,15 @@ export default function Dtci() {
                                         <ul class="personal-info">
                                             <li>
                                                 <span><i class="fa fa-graduation-cap"></i></span>
-                                                <a href="mailto:claire@rstheme.com">Post Graduate Diploma in HR from ICFAI, 2008</a>
+                                                <a href="">Post Graduate Diploma in HR from ICFAI, 2008</a>
                                             </li>
                                             <li>
                                                 <span><i class="fa fa-graduation-cap"></i></span>
-                                                <a href="mailto:claire@rstheme.com">MBA in Sales & Marketing from MET Institute of Management in Mumbai, 2001</a>
+                                                <a href="">MBA in Sales & Marketing from MET Institute of Management in Mumbai, 2001</a>
                                             </li>
                                             <li>
                                                 <span><i class="fa fa-graduation-cap"></i></span>
-                                                <a href="mailto:claire@rstheme.com">BA Economics from Mumbai University, 1999</a>
+                                                <a href="">BA Economics from Mumbai University, 1999</a>
                                             </li>
                                         </ul>
                                     </div>

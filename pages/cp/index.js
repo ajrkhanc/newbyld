@@ -305,6 +305,7 @@ export default function JoinOurPartnerNetworkLP() {
                 <title>Consulting Practice - BYLD Group</title>
                 <meta name="description" content="Welcome to BYLD Group! Join the BYLD Group Partner network, and become our business partner to maximize your growth opportunities. We are the largest group in South Asia offering HR and business productivity solutions for individuals, teams and organizations. Served 300 of 500 Fortune companies. Founded in 1998, backed by 1000+ years of accumulated professional… Continue reading Join our Partner network LP Ab Testing" />
                 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet"></link>
+                <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
             {/* <Modal className='toppc mwc500' toggle={() => setModalOpen1(!modalOpen1)} isOpen={modalOpen1} backdrop="static" keyboard={false}>
@@ -487,6 +488,107 @@ export default function JoinOurPartnerNetworkLP() {
                 </div>
             </section>
 
+            <section id="rs-team" className='style2 solutionrow ptt-60 pbb-60 cpteambg'>
+                <div className='container'>
+                    <div className='row'>                       
+                        <div className='col-sm-12 text-center'>
+                            <h2 class="title pbb-100 mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP pbb-30">Know Our Consulting Practitioners (CPs):</h2>
+                        </div>
+                    </div>
+                    <div className='row zindx'>                       
+                        <div className='col-sm-12'>
+                            <div className='row'>
+                                <div className='col-sm-3'>
+                                    <div className='innerteamc mbb-70'>
+                                        <div className='teamimgc1'>
+                                            <a href="/team/amarvijayy-taandur"><img src="/assets/img/team/amar1.jpg" alt="" /></a>
+                                        </div>
+                                        <div className="team-info">
+                                            <div className="name">
+                                                <a href="/team/amarvijayy-taandur">Amarvijayy Taandur</a>
+                                            </div>
+                                            <span className="post">Principal Advisor - Civil, Infra, Heavy Engineering, Power and Automotive</span>
+                                        </div>
+                                        <div>
+                                            <ul className="social-icon">
+                                                <li><a target="_blank" href="https://www.linkedin.com/in/amarvijayy-taandur-9359334/"><i className="fa fa-linkedin"></i></a></li>
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+
+                                <div className='col-sm-3'>
+                                    <div className='innerteamc mbb-70'>
+                                        <div className='teamimgc1'>
+                                            <a href="/team/ronald-soans"><img src="/assets/img/team/ronald1.jpg" alt="" /></a>
+                                        </div>
+                                        <div className="team-info">
+                                            <div className="name">
+                                                <a href="/team/ronald-soans">Ronald Soans</a>
+                                            </div>
+                                            <span className="post">Principal Advisor - IT, ITES, <br></br>Consulting and BFSI</span>
+                                        </div>
+                                        <div>
+                                            <ul className="social-icon">
+                                                <li><a target="_blank" href="https://www.linkedin.com/in/ronald-soans-4b703412/"><i className="fa fa-linkedin"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div className='col-sm-3'>
+                                    <div className='innerteamc mbb-70'>
+                                        <div className='teamimgc1'>
+                                            <a href="/team/meghna-goyal"><img src="/assets/img/team/meghna.jpg" alt="" /></a>
+                                        </div>
+                                        <div className="team-info">
+                                            <div className="name">
+                                                <a href="/team/meghna-goyal">Meghna Goyal</a>
+                                            </div>
+                                            <span className="post">Principal Advisor - Pharma, <br></br>FMCG, E-commerce</span>
+                                        </div>
+                                        <div>
+                                            <ul className="social-icon">
+                                                <li><a target="_blank" href="https://www.linkedin.com/in/meghna-goyal-442560b/"><i className="fa fa-linkedin"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div className='col-sm-3'>
+                                    <div className='innerteamc mbb-70'>
+                                        <div className='teamimgc1'>
+                                            <a href="/team/monica-sharma"><img src="/assets/img/team/monica.jpg" alt="" /></a>
+                                        </div>
+                                        <div className="team-info">
+                                            <div className="name">
+                                                <a href="/team/monica-sharma">Monica Sharma</a>
+                                            </div>
+                                            <span className="post">Principal Advisor - Banking, Retail, Hospitality, Media and Travel</span>
+                                        </div>
+                                        <div>
+                                            <ul className="social-icon">
+                                                <li><a target="_blank" href="#"><i className="fa fa-linkedin"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='clearfix'></div>
+                    <div className='solutionarrowbox1'>
+                        <img src="/assets/img/homeb/orangearrow.png" />
+                    </div>
+                    <div className='solutionarrowbox2'>
+                        <img src="/assets/img/homeb/bluearrow1.png" />
+                    </div>
+
+                </div>
+            </section>
+
             <section className='cplps2 ptt-50 pbb-50'>
                 <div className='container'>
                     <div className='row'>
@@ -497,7 +599,7 @@ export default function JoinOurPartnerNetworkLP() {
                             </div>
                         </div>
                         
-                        <div className='col-sm-4'>
+                        <div className='col-sm-3'>
                             <a href='/team/amarvijayy-taandur'>
                             <div className='teamf'>
                                 <div className='teamimgc'>
@@ -511,7 +613,7 @@ export default function JoinOurPartnerNetworkLP() {
                             </a>
                         </div>
 
-                        <div className='col-sm-4'>
+                        <div className='col-sm-3'>
                             <a href='/team/ronald-soans'>
                             <div className='teamf'>
                                 <div className='teamimgc'>
@@ -525,7 +627,7 @@ export default function JoinOurPartnerNetworkLP() {
                             </a>
                         </div>
 
-                        <div className='col-sm-4'>
+                        <div className='col-sm-3'>
                             <a href='/team/meghna-goyal'>
                             <div className='teamf'>
                                 <div className='teamimgc'>
