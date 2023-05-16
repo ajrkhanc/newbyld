@@ -60,6 +60,19 @@ export default function Workshops(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
+                                <span> May 25th - 26th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a target="_blank" className="eventbtn" href='/cruciallifechangingskills/workshops/'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
                                 <span>May 26th 2023</span>
                             </div>
                             <div className='eventbottom'>
@@ -86,27 +99,16 @@ export default function Workshops(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>May 15th - 19th, 2023</span>
+                                <span>June 15th - 16th, 2023</span>
                             </div>
                             <div className='eventbottom'>
-                                <h3>DISC Train-the-Trainer (TTT)</h3>
+                                <h3>DISC Train-the-Trainer (TTT), Venue: Gurgaon</h3>
                                 <a target="_blank" className="eventbtn" href='/everythingdisc/everything-disc-ttt-vt-lp/'>Reserve Your Seat</a>
                             </div>
                         </div>
                     </div>
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span> May 25th - 26th, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                                <h3>Crucial Life Changing Skills Online Workshop</h3>
-                                <a target="_blank" className="eventbtn" href='/cruciallifechangingskills/workshops/'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
+                    
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -165,7 +167,7 @@ export default function Workshops(){
                                                 <option value="">Pick up any Slot*</option>                                                
                                                 <option value="Coaching Essentials® - May 26th 2023">Coaching Essentials® - May 26th 2023</option>
                                                 <option value='Blanchard Management Essentials® - June 8th, 2023'>Blanchard Management Essentials® - June 8th, 2023</option>
-                                                <option value="15th - 19th May, 2023 - DISC Train-the-Trainer (TTT)">15th - 19th May, 2023 - DISC Train-the-Trainer (TTT)</option>
+                                                <option value="15th - 16th June, 2023 - DISC Train-the-Trainer (TTT)">15th - 16th June, 2023 - DISC Train-the-Trainer (TTT)</option>
                                                 <option value="Crucial Conversations for Accountability - May 25th - 26th, 2023">Crucial Conversations for Accountability - May 25th - 26th, 2023</option>
                                                 <option value="Influencer - June 22nd - 23rd, 2023">Influencer - June 22nd - 23rd, 2023</option>
                                             </select>
