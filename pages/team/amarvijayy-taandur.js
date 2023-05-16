@@ -74,16 +74,7 @@ export default function Dtci() {
                                     <li>Sales Training & Team Leadership</li>
                                 </ul>
                             </div>
-
-                            <div className="sec-title3 mbb-0 text-left rs-estimate">
-                                <h4 className="countertoph2 text-left">Top Skills:</h4>
-                                <ul className='estimate-info mtt-5'>
-                                    <li>P & L Responsibility</li>
-                                    <li>Sales Management</li>
-                                    <li>Key Account Development</li>
-                                    <li>Strategic Planning</li>
-                                </ul>
-                            </div>
+                            
                         </div>
                         <div class="col-lg-6 md-mt-55">
                             <div className="sec-title3 mbb-0 text-left rs-estimate">
@@ -122,15 +113,12 @@ export default function Dtci() {
                             </div>
 
                             <div className="sec-title3 mbb-0 text-left rs-estimate">
-                                <h4 className="countertoph2 text-left">Certifications:</h4>
+                                <h4 className="countertoph2 text-left">Top Skills:</h4>
                                 <ul className='estimate-info mtt-5'>
-                                    <li>ACSTH Certified Coach (ICF – International Coaching Federation)</li>
-                                    <li>Accountability for Higher Performance</li>
-                                    <li>Certified Senior Facilitator – Inside Out Coaching</li>
-                                    <li>Certified Senior Facilitator – 5 Behaviors</li>
-                                    <li>Crucial Learning Certified Facilitator – Crucial Conversations for Mastering Dialogue</li>
-                                    <li>Certified Facilitator – Everything DiSC Wiley Everything DiSC (Program Agile EQ, Productive Conflict and other programs)</li>
-                                    <li>Persona Global Facilitator for Persuasive Communication and other programs</li>
+                                    <li>P & L Responsibility</li>
+                                    <li>Sales Management</li>
+                                    <li>Key Account Development</li>
+                                    <li>Strategic Planning</li>
                                 </ul>
                             </div>
                         </div>
