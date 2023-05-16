@@ -53,7 +53,7 @@ export default function CouncilofTheMarbleStar(){
                         <img src="/efassets/img/council-of-the-marble-star-logo.png" alt=""/>
                         </div>
                         <div class="btn-part ptt-10 pbb-30">
-                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/gold-of-the-desert-kings_WyD8lsjU-.pdf">
+                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/council-of-the-marble-star_2eCzgG5FF.pdf">
                                  DOWNLOAD BROCHURE
                                 <div class="btn-arrow"></div>
                             </a>
