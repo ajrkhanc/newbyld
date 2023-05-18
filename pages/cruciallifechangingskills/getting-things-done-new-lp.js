@@ -166,7 +166,7 @@ export default function Gettingthingsdone() {
                 </div>
             </section>
 
-            <section className='padd50s' id='registered'>
+            <section className='padd50s' id='registered'>  
                 <div className='container'>
                     <div className='row'>
                         <div className='col-sm-6 alicc'>
