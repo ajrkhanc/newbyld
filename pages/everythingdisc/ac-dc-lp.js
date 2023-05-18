@@ -114,15 +114,14 @@ export default function FIveBgenriclp() {
                                         <div className="col-sm-6 mb-12">
                                             <input type="text" name="organization" placeholder="Organization*" required />
                                         </div>
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-12 mb-12">
                                             <input type="text" name="designation" placeholder="Designation" />
                                         </div>
 
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-6 mb-12 d-none">
                                             <select name="referredby">
-                                                <option value="">Referred By</option>
-                                                <option value="Social Media">Social Media</option>
-                                                <option value="Google Search">Google Search</option>                                                
+                                                <option value="Google ads">Referred By</option>                                                
+                                                <option value="Google Search">Google ads</option>                                                
                                             </select>
                                         </div>
 
