@@ -1024,3 +1024,25 @@ margin-bottom: 5px;
 
 
 
+.edacdc {
+  background: url(/edassets/img/banner/inr_1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.font38 {
+  font-size: 38px !important;
+  line-height: 60px;
+  letter-spacing: 2px;
+}
+
+.font23 {
+  font-size: 29px !important;
+  background: #2092cf;
+  padding: 10px;
+  border-radius: 10px;
+}
+.mbgc{
+  background: #ffffffc9 !important;
+}
