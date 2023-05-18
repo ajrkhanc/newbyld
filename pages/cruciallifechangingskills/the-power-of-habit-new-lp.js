@@ -232,7 +232,7 @@ export default function BrowseCourses(){
                             <h5 className='eventt'>Virtual Course Preview</h5>
                              <div class="col-md-12 workshop-date"> 
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 9th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3.00 PM to 5:00 PM</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5:00 PM</h6>
                             <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
                             </div>
                        </div>
@@ -295,7 +295,7 @@ export default function BrowseCourses(){
                             <h5 className='eventt'>Virtual Course Preview</h5>
                              <div class="col-md-12 workshop-date"> 
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i> December 5th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3.00 PM to 5:00 PM</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5:00 PM</h6>
                             <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
                             </div>
                        </div>
