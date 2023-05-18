@@ -203,7 +203,10 @@ export default function Gettingthingsdone() {
                                 <div class="col-md-12">
                                     <select name='slot' required>
                                         <option value="">Interested In*</option>
-                                        <option value="July 27th, 2023, GTD Workshop">July 27th, 2023, GTD Workshop</option>                                      
+                                        <option value="July 27th, 2023, GTD Workshop">July 27th, 2023, GTD Workshop</option>
+                                        <option value="Getting Things Done - July 27th, 2023">Getting Things Done - July 27th, 2023</option>
+                                        <option value="Getting Things Done - September 28th, 2023">Getting Things Done - September 28th, 2023</option>
+                                        <option value="Getting Things Done - January 11th, 2024">Getting Things Done - January 11th, 2024</option>
                                     </select>
                                 </div>
 
@@ -241,6 +244,77 @@ export default function Gettingthingsdone() {
                         </div>
                     </Slider>
                     </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="workshops">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 contact-title"> 
+                        <h1>Our Upcoming Programs</h1>
+                    </div>
+                          
+                    <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content gtdcolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                                    <h4 className='pbb-20'>Getting Things Done</h4>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> October 23rd, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5:00 PM</h6>
+                                    <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content gtdcolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
+
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content gtdcolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> September 28th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
+
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content gtdcolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 11th, 2024</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>                     
+                                    
                 </div>
             </div>
         </section>
