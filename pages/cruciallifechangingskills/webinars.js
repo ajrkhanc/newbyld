@@ -77,7 +77,7 @@ export default function Webinars() {
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
                                     <h4 className='pbb-20'>THE POWER OF HABIT</h4>
                                 </div>
-                                <h5 className='eventt'>Webinar</h5>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date">
                                     <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 9th, 2023</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM - 5:00 PM</h6>
@@ -92,7 +92,7 @@ export default function Webinars() {
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
                                     <h4>INFLUENCER</h4>
                                 </div>
-                                <h5 className='eventt'>Webinar</h5>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date green-col">
                                     <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 24th, 2023</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM - 5:00 PM</h6>
@@ -107,7 +107,7 @@ export default function Webinars() {
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
                                     <h4 className='pbb-20'>Getting Things Done</h4>
                                 </div>
-                                <h5 className='eventt'>Webinar</h5>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date">
                                     <h6><i class="fa fa-calendar" aria-hidden="true"></i> October 23rd, 2023</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
@@ -122,7 +122,7 @@ export default function Webinars() {
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
                                     <h4 className='pbb-20'>THE POWER OF HABIT</h4>
                                 </div>
-                                <h5 className='eventt'>Webinar</h5>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date">
                                     <h6><i class="fa fa-calendar" aria-hidden="true"></i> December 5th, 2023</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM - 5:00 PM</h6>

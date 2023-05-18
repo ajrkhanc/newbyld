@@ -129,9 +129,9 @@ export default function CoachCertificationLP(){
                                         <div className="col-lg-12 mb-12">
                                             <input type="text" name="designation" placeholder="Designation*" required />
                                         </div>
-                                        <div className="col-sm-12 mb-12">
+                                        <div className="col-sm-12 mb-12 d-none">
                                             <select name="slot" required>
-                                                <option value="">Pick up any Slot*</option>                                                
+                                                <option value="Select">Pick up any Slot*</option>                                                
                                                 {/* <option value="Eagle's Flight Executive Briefing: January 11th, 2023">Eagle's Flight Executive Briefing: January 11th, 2023</option> */}
                                                 {/* <option value="Eagle's Flight Executive Briefing: March 8th, 2023">Eagle's Flight Executive Briefing: March 8th, 2023</option> */}
                                             </select>

@@ -173,10 +173,10 @@ export default function Gettingthingsdone() {
                             <img className='lim' src='/classets/img/gtd.svg' />
                             <h3>Master the Art of Stress-free Productivity</h3>
                             <h4>Relieve the Cognitive Load and Peak the Performance</h4>
-                            <h2>Join the Virtual Course Preview</h2>
+                            <h2>Workshop</h2>
                             <div class="workshop-date">
-                                <h6><i class="fa fa-calendar" aria-hidden="true"></i> April 27th, 2023</h6>
-                                <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4:00 PM to 5:00 PM</h6>
+                                <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
+                                <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                             </div>
                         </div>
                         <div class="col-md-6 form-area">
@@ -203,7 +203,7 @@ export default function Gettingthingsdone() {
                                 <div class="col-md-12">
                                     <select name='slot' required>
                                         <option value="">Interested In*</option>
-                                        <option value="27th April, GTD Virtual Course Preview">27th April, GTD Virtual Course Preview</option>                                      
+                                        <option value="July 27th, 2023, GTD Workshop">July 27th, 2023, GTD Workshop</option>                                      
                                     </select>
                                 </div>
 
