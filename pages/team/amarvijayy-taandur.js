@@ -1,7 +1,42 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import { Button, Modal, ModalBody, ModalFooter } from "reactstrap";
+import React from "react";
 
 export default function Dtci() {
+
+    const [modalOpen1, setModalOpen1] = React.useState(false);
+
+    const whitp1 = async event => {
+        event.preventDefault()
+        document.getElementById("submitb").value = "Submitting...."
+        const xhttp = new XMLHttpRequest();
+        xhttp.onload = function () {
+            console.log(this.responseText);
+        }
+        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/139/feedback');
+        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+        xhttp.onreadystatechange = function () {
+            if (xhttp.readyState == 4) {
+                if (xhttp.status == 200) {
+                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+                    document.getElementById("contactForm").reset();
+                    document.getElementById("showlabel").style.display = "block";
+                    window.setTimeout(function () {
+                        window.location.href = "/thank-you"
+                    });
+
+                } else {
+                    alert('There was a problem with the request.');
+                }
+            }
+        };
+        xhttp.send("name=" + event.target.name.value +
+            "&email=" + event.target.email.value +
+            "&tel=" + event.target.phone.value +            
+            "&Company=" + event.target.organization.value +
+            "&Designation=" + event.target.designation.value)
+    }
 
     return (
         <>
@@ -9,6 +44,41 @@ export default function Dtci() {
                 <title>Amarvijayy Taandur | Team | BYLD Group</title>
                 <meta name="description" content="DTCI offers leadership and management courses to facilitate change management, coaching culture, and effective organizational change and development. To know more, check out the page." />
             </Head>
+
+            <Modal className='toppc mwc500' toggle={() => setModalOpen1(!modalOpen1)} isOpen={modalOpen1} backdrop="static" keyboard={false}>
+                <button aria-label="Close" className="close popcl" type="button" onClick={() => setModalOpen1(!modalOpen1)}>
+                    <span aria-hidden={true}>×</span>
+                </button>
+
+                <ModalBody>
+                    <form id='contactForm' class="row popupfc" onSubmit={whitp1}>
+                        <div className="col-sm-12 mb-12">
+                            <input class="form-control" type="text" name="name" placeholder="Enter Name*" required />
+                        </div>
+                        <div className="col-sm-12 mb-12">
+                            <input class="form-control" type="email" name="email" placeholder="Enter Email*" required />
+                        </div>
+                        <div className="col-sm-12 mb-12">
+                            <input class="form-control" type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                        </div>
+
+                        <div className="col-sm-12 mb-12">
+                            <input class="form-control" type="text" name="organization" placeholder="Organization*" required />
+                        </div>
+                        <div className="col-sm-12 mb-12">
+                            <input class="form-control" type="text" name="designation" placeholder="Designation*" required />
+                        </div>
+
+                        <div class="col-md-12 text-center">
+                            <input id='submitb' class="formbtn" type="submit" value="Submit" />
+                        </div>
+                        <p id="showlabel" style={{ display: "none" }}></p>
+                    </form>
+                </ModalBody>
+            </Modal>
+
+
+
             <div class="rs-team-Single ptt-50 pbb-40 md-pt-80 md-pb-60">
                 <div class="container custom">
                     <div class="btm-info-team mbb-30">
@@ -74,7 +144,7 @@ export default function Dtci() {
                                     <li>Sales Training & Team Leadership</li>
                                 </ul>
                             </div>
-                            
+
                         </div>
                         <div class="col-lg-6 md-mt-55">
                             <div className="sec-title3 mbb-0 text-left rs-estimate">
@@ -125,6 +195,8 @@ export default function Dtci() {
                     </div>
                 </div>
             </div>
+
+            <button className='mcalto' onClick={() => setModalOpen1(!modalOpen1)}>Connect with Us</button>
 
         </>
     )
