@@ -7489,3 +7489,14 @@ table td {
 .width100p{
 	width: 100%;
 }
+
+.slick-dots li.slick-active button:before {
+	opacity: 1 !important;
+	color: #EB7A10 !important;
+  }
+  
+  .slick-dots li button:before {
+	font-size: 15px !important;
+	opacity: 1 !important;
+	color: #2a6db5 !important;
+  }

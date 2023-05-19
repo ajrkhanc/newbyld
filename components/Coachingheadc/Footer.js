@@ -122,7 +122,7 @@ export default function Footer() {
                     <div className="row y-middle">                       
                         <div className="col-lg-12">
                             <div className="copyright text-lg-start text-center ">
-                                <p className='text-center'>© 2022 BYLD Group. All Rights Reserved.</p>
+                                <p className='text-center'>©2023 BYLD Group. All Rights Reserved.</p>
                             </div>
                         </div>
                     </div>

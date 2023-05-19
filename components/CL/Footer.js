@@ -101,7 +101,7 @@ export default function Footer() {
         <section class="footer-copyright-text">
             <div class="container-fluid text-center">
                 <div class="row">                
-                    <div class="footer-copyright col-md-12">© 2022 BYLD Group. All Rights Reserved.</div>            
+                    <div class="footer-copyright col-md-12">©2023 BYLD Group. All Rights Reserved.</div>            
                 </div>           
             </div>
         </section>

@@ -193,7 +193,7 @@ function Footer() {
             <div className="copy-right-area-two">
                <div className="copy-right-text">
                   <p>
-                    © 2022 Blanchardinternational India . All Rights Reserved.
+                    ©2023 Blanchardinternational India . All Rights Reserved.
                   </p>
                </div>
             </div>

@@ -11,29 +11,29 @@ export default function Gettingthingsdone() {
             console.log(this.responseText);
         }
         xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/117/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;"); 
+        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
         xhttp.onreadystatechange = function () {
             if (xhttp.readyState == 4) {
                 if (xhttp.status == 200) {
                     document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-    
+
                     document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function() {
+                    window.setTimeout(function () {
                         window.location.href = "/cruciallifechangingskills/thank-you"
-                     }, 3000);
-    
+                    }, 3000);
+
                 } else {
                     alert('There was a problem with the request.');
                 }
             }
         };
-        xhttp.send("name=" + event.target.name.value +            
+        xhttp.send("name=" + event.target.name.value +
             "&email=" + event.target.email.value +
             "&phone=" + event.target.phone.value +
             "&organization=" + event.target.organization.value +
             "&designation=" + event.target.designation.value +
             "&slot=" + event.target.slot.value)
-    
+
     }
 
     var settings = {
@@ -44,43 +44,81 @@ export default function Gettingthingsdone() {
         slidesToShow: 1,
         slidesToScroll: 1,
         initialSlide: 0,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 3000,
         responsive: [
-          {
-            breakpoint: 1024,
-            settings: {
-              slidesToShow: 1,
-              slidesToScroll: 1,
-              infinite: true,
-              dots: true
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: true
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    initialSlide: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
             }
-          },
-          {
-            breakpoint: 600,
-            settings: {
-              slidesToShow: 1,
-              slidesToScroll: 1,
-              initialSlide: 2
-            }
-          },
-          {
-            breakpoint: 480,
-            settings: {
-              slidesToShow: 1,
-              slidesToScroll: 1
-            }
-          }
         ]
-      };
+    };
+
+    var settings2 = {
+        dots: true,
+        arrows: false,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        initialSlide: 0,
+        autoplay: true,
+        autoplaySpeed: 3000,
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: true
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    initialSlide: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    };
 
     return (
         <>
             <Head>
                 <title>Getting Things Done LP - Crucial Life-Changing Skills</title>
                 <meta name="description" content="Transcend the productivity tips and learn the personal workflow management system via instruction, application, and coaching. This virtual course preview is a perfect introduction for evaluating a course for their team or organization." />
-                <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" /> 
-            <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+                <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+                <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
             </Head>
             <section>
                 <iframe width="100%" height="560" src="https://www.youtube.com/embed/4jUHKOEXEMo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -166,18 +204,47 @@ export default function Gettingthingsdone() {
                 </div>
             </section>
 
-            <section id='registered' className='padd50s'>  
+            <section id='registered' className='padd50s'>
                 <div className='container'>
                     <div className='row'>
                         <div className='col-sm-6 alicc'>
                             <img className='lim' src='/classets/img/gtd.svg' />
                             <h3>Master the Art of Stress-free Productivity</h3>
                             <h4>Relieve the Cognitive Load and Peak the Performance</h4>
-                            <h2>Workshop</h2>
-                            <div class="workshop-date">
-                                <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
-                                <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
-                            </div>
+                            <br></br>
+                            <Slider {...settings2}>
+                                <div>
+                                    <h2>Workshop</h2>
+                                    <div class="workshop-date">
+                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
+                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <h2>Virtual Course Preview</h2>
+                                    <div class="workshop-date">
+                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> October 23rd, 2023</h6>
+                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5:00 PM</h6>
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <h2>Workshop</h2>
+                                    <div class="workshop-date">
+                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> September 28th, 2023</h6>
+                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <h2>Workshop</h2>
+                                    <div class="workshop-date">
+                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 11th, 2024</h6>
+                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    </div>
+                                </div>
+                            </Slider>
                         </div>
                         <div class="col-md-6 form-area">
                             <form id="contactForm" class="row fbd" onSubmit={registerUser}>
@@ -221,57 +288,57 @@ export default function Gettingthingsdone() {
             </section>
 
             <section className='testmonials text-center pbb-50 bgcc'>
-            <div className='container'>
-                <div className='row'>
-                    <div className='col-sm-12'>                        
-                        <h2 className='testmt'>TESTIMONIALS</h2>
-                    </div>
-                    <div className='col-sm-12'>
-                    <Slider {...settings}>
-                        <div className='testmdetails'>
-                            <p className='testtext'>Subject matter was very relevant to our needs and was taught along with suitable demonstrations and examples. Interactive practice sessions and group exercises.Live cases used to explain concepts. Content delivery from the trainer was clear and to the point</p>
-                            <h4 className='testname'>Alstom</h4>
-                            <img className='ratingw' src='/classets/img/five-star-rating.png'/>
-                            <h5 className='compname'>Crucial Conversations </h5>
+                <div className='container'>
+                    <div className='row'>
+                        <div className='col-sm-12'>
+                            <h2 className='testmt'>TESTIMONIALS</h2>
                         </div>
+                        <div className='col-sm-12'>
+                            <Slider {...settings}>
+                                <div className='testmdetails'>
+                                    <p className='testtext'>Subject matter was very relevant to our needs and was taught along with suitable demonstrations and examples. Interactive practice sessions and group exercises.Live cases used to explain concepts. Content delivery from the trainer was clear and to the point</p>
+                                    <h4 className='testname'>Alstom</h4>
+                                    <img className='ratingw' src='/classets/img/five-star-rating.png' />
+                                    <h5 className='compname'>Crucial Conversations </h5>
+                                </div>
 
-                        <div className='testmdetails'>
-                            <p className='testtext'>It was an absolutely engaging and knowledgeable session. There are times when we are at a loss on how to begin a conversation and almost 99% of the time those are important and difficult conversations. This program will help you understand the best way forward towards having those conversations in the most healthy way possible! Kudos to the team of Crucial Learning and a big thumbs up to Mr Jolly for making the session so interactive!</p>
-                            <h4 className='testname'>Rohini Rastogi</h4>
-                            <img className='ratingw' src='/classets/img/five-star-rating.png'/>
-                            <h5 className='compname'>Middleby Celfrost Innovations Pvt. Ltd.</h5>
+                                <div className='testmdetails'>
+                                    <p className='testtext'>It was an absolutely engaging and knowledgeable session. There are times when we are at a loss on how to begin a conversation and almost 99% of the time those are important and difficult conversations. This program will help you understand the best way forward towards having those conversations in the most healthy way possible! Kudos to the team of Crucial Learning and a big thumbs up to Mr Jolly for making the session so interactive!</p>
+                                    <h4 className='testname'>Rohini Rastogi</h4>
+                                    <img className='ratingw' src='/classets/img/five-star-rating.png' />
+                                    <h5 className='compname'>Middleby Celfrost Innovations Pvt. Ltd.</h5>
+                                </div>
+                            </Slider>
                         </div>
-                    </Slider>
                     </div>
                 </div>
-            </div>
-        </section>
+            </section>
 
-        <section class="workshops">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 contact-title"> 
-                        <h1>Our Upcoming Programs</h1>
-                    </div>
-                          
-                    
+            {/* <section class="workshops">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 contact-title">
+                            <h1>Our Upcoming Programs</h1>
+                        </div>
 
-                        <div class="col-md-4 workshop-col"> 
-                       <div class="row workshop-row"> 
-                            <div class="col-md-12 workshop-content gtdcolor"> 
-                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
-                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+
+
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content gtdcolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                                    <h4 className='pbb-20'>Getting Things Done</h4>
+                                </div>
+                                <h5 className='eventt'>Workshop</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                                </div>
                             </div>
-                            <h5 className='eventt'>Workshop</h5>
-                             <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
-                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
-                            </div>
-                       </div>
-                    </div>
+                        </div>
 
-                    <div class="col-md-4 workshop-col">
+                        <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content gtdcolor">
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
@@ -286,39 +353,39 @@ export default function Gettingthingsdone() {
                             </div>
                         </div>
 
-                    <div class="col-md-4 workshop-col"> 
-                       <div class="row workshop-row"> 
-                            <div class="col-md-12 workshop-content gtdcolor"> 
-                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
-                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content gtdcolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                                    <h4 className='pbb-20'>Getting Things Done</h4>
+                                </div>
+                                <h5 className='eventt'>Workshop</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> September 28th, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                                </div>
                             </div>
-                            <h5 className='eventt'>Workshop</h5>
-                             <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> September 28th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
-                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
-                            </div>
-                       </div>
-                    </div>
+                        </div>
 
-                    <div class="col-md-4 workshop-col"> 
-                       <div class="row workshop-row"> 
-                            <div class="col-md-12 workshop-content gtdcolor"> 
-                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
-                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content gtdcolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                                    <h4 className='pbb-20'>Getting Things Done</h4>
+                                </div>
+                                <h5 className='eventt'>Workshop</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 11th, 2024</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                                </div>
                             </div>
-                            <h5 className='eventt'>Workshop</h5>
-                             <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 11th, 2024</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
-                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
-                            </div>
-                       </div>
-                    </div>                     
-                                    
+                        </div>
+
+                    </div>
                 </div>
-            </div>
-        </section>
+            </section> */}
         </>
     )
 }

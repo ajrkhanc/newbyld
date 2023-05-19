@@ -86,7 +86,7 @@ export default function Footer() {
                         <div className="col-lg-12">
                             <div className="copyright text-lg-start text-center ">
                                 <p className='text-center'>
-                                © 2022 By John Wiley & Sons, Inc. The Five Behaviors, Everything DiSC, Everything DiSC Workplace, Everything DiSC Work Of Leaders, Everything 363 For Leaders, Are Trademarks Of John Wiley & Sons, Inc. And Its Affiliated Companies. All Other Trademarks Are The Property Of Their Respective Owners.
+                                ©2023 By John Wiley & Sons, Inc. The Five Behaviors, Everything DiSC, Everything DiSC Workplace, Everything DiSC Work Of Leaders, Everything 363 For Leaders, Are Trademarks Of John Wiley & Sons, Inc. And Its Affiliated Companies. All Other Trademarks Are The Property Of Their Respective Owners.
                                 </p>
                             </div>
                         </div>
