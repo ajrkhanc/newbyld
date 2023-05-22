@@ -21,7 +21,7 @@ export default function DiskTTTLP() {
                     document.getElementById("showlabel").style.display = "block";
 
                     window.setTimeout(function () {
-                        window.location.href = "/everythingdisc/thank-you"
+                        // window.location.href = "/everythingdisc/thank-you"
                     }, 3000);
 
                 } else {
@@ -131,7 +131,7 @@ export default function DiskTTTLP() {
                                             </div>
                                             <div className="col-sm-6 mb-12 d-none">
                                                 <select name="referredby" required>
-                                                    <option value="Linkedin Paid">Linkedin Paid</option>
+                                                    <option value="Google ads">Linkedin Paid</option>
                                                 </select>
                                             </div>
                                             <div className="col-lg-12 mb-12">
