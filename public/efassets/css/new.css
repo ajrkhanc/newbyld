@@ -339,6 +339,11 @@ video {
 .clientcornner input{
     color: hwb(211deg 44.63% 36.66%);
 }
+
+.clientcornner select{
+    color: hwb(211deg 44.63% 36.66%);
+}
+
 #rs-faq{
     background: #f6f6f6;
 }
