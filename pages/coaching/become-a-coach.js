@@ -13,7 +13,8 @@ import React from 'react';
 
 export default function Home() {
 
-
+    const [modalOpen, setModalOpen] = React.useState(false);
+    const [modalOpen2, setModalOpen2] = React.useState(false);
 
     const registerUser = async event => {
         event.preventDefault()
@@ -82,8 +83,41 @@ export default function Home() {
 
     }
 
+
+    const downloadpdf = async event => {
+        event.preventDefault()
+        document.getElementById("hellocc").value = "Downloading...."
+        const xhttp = new XMLHttpRequest();
+        xhttp.onload = function () {
+            console.log(this.responseText);
+        }
+        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/124/feedback');
+        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+        xhttp.onreadystatechange = function () {
+            if (xhttp.readyState == 4) {
+                if (xhttp.status == 200) {
+                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+
+                    document.getElementById("showlabel").style.display = "block";
+                    window.setTimeout(function () {
+                        window.location.href = "/assets/pdf/coaching-brochure.pdf"
+                    }, 3000);
+
+                } else {
+                    alert('There was a problem with the request.');
+                }
+            }
+        };
+        xhttp.send("name=" + event.target.name.value +
+            "&email=" + event.target.email.value +
+            "&phone=" + event.target.phone.value +
+            "&organization=" + event.target.organization.value +
+            "&designation=" + event.target.designation.value)
+
+    }
+
     
-    const [modalOpen, setModalOpen] = React.useState(false);
+    
 
     return (
         <>
@@ -177,6 +211,48 @@ export default function Home() {
 
             </Modal>
 
+            <Modal toggle={() => setModalOpen2(!modalOpen2)} isOpen={modalOpen2} backdrop="static" keyboard={false} className='ccmdc'>
+                <button
+                    aria-label="Close"
+                    className="close popcl"
+                    type="button"
+                    onClick={() => setModalOpen2(!modalOpen2)}
+                >
+                    <span aria-hidden={true}>×</span>
+                </button>
+
+                <ModalBody>
+
+                    <form id="contactForm" className='clientcornner ptt-5 pbb-0' onSubmit={downloadpdf}>
+                        <div className="row mmcform">
+                            <div className="col-sm-6 mb-12">
+                                <input type="text" className='borrr' name="name" placeholder="Name*" required />
+                            </div>
+                            <div className="col-sm-6 mb-12">
+                                <input type="text" className='borrr' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                            </div>
+                            <div className="col-sm-12 mb-12">
+                                <input type="email" className='borrr' name="email" placeholder="Professional/Personal Email Address*" required />
+                            </div>
+
+
+                            <div className="col-sm-12 mb-12">
+                                <input type="text" className='borrr' name="organization" placeholder="Organization*" required />
+                            </div>
+                            <div className="col-sm-12 mb-12">
+                                <input type="text" className='borrr' name="designation" placeholder="Designation*" required />
+                            </div>
+
+                            <div className="col-lg-12 mb-12 text-center">
+                                <input id='hellocc' className="clientcornnerbtn" type="submit" value="Download" />
+                            </div>
+                            <p id="showlabel" style={{ display: "none" }}></p>
+                        </div>
+                    </form>
+                </ModalBody>
+
+            </Modal>
+
             <div class="rs-breadcrumbs lawfirms">
                 <div class="container">
                     <div class="breadcrumb-container theme1 wow fadeInUp delay-0-2s animated animateUP">
@@ -194,7 +270,7 @@ export default function Home() {
                                     People are the best source of solutions to their own problems and aspirations. Coach is there to help and accelerate the journey to destination or solution.
                                 </span>
                                 <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
-                                    <a className="readon2" href="/assets/pdf/coaching-brochure.pdf" download>Download Brochure <div className="btn-arrow ddc"></div></a>
+                                    <a className="readon2" href="#" onClick={() => setModalOpen2(!modalOpen2)}>Download Brochure <div className="btn-arrow ddc"></div></a>
                                 </div>
                             </div>
                         </div>
@@ -519,7 +595,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                        ICF Coach Certification
+                                        ICF Accredited Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -544,7 +620,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                        ICF Coach Certification
+                                        ICF Accredited Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -569,7 +645,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                        ICF Coach Certification
+                                        ICF Accredited Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -594,7 +670,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                        ICF Coach Certification
+                                        ICF Accredited Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -618,7 +694,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                        ICF Coach Certification
+                                        ICF Accredited Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>
@@ -643,7 +719,7 @@ export default function Home() {
                                 </div>
                                 <div className='textsidec'>
                                     <div className='eventi'>
-                                        ICF Coach Certification
+                                        ICF Accredited Coach Certification
                                     </div>
                                     <div className='timed'>
                                         <ul>

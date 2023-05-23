@@ -726,7 +726,7 @@
 //                                 </div>
 //                             </div>
 //                         </div>
-                    
+
 
 //                         {/* <div className='col-sm-12'>
 //                             <div>
@@ -807,7 +807,7 @@
 //                                 <img src="/assets/img/homeb/contactl.png" alt="Contact" />
 //                             </div>
 
-                            
+
 //                         </div>
 //                         <div class="col-lg-4">
 //                             <div class="contact-wrap">
@@ -830,7 +830,7 @@
 //                                             <div className="col-sm-12 mb-12">
 //                                                 <input className='borrr' type="text" name="designation" placeholder="Designation*" required />
 //                                             </div>
-                                            
+
 //                                             <div className="col-lg-12 mb-12">
 //                                                 <input id="submitbuttonform" className="clientcornnerbtn bord0" type="submit" value="Submit" />
 //                                             </div>
@@ -882,7 +882,7 @@ import { Accordion, AccordionItem, AccordionItemHeading, AccordionItemButton, Ac
 import 'react-accessible-accordion/dist/fancy-example.css';
 import { Button, Modal, ModalBody, ModalFooter } from "reactstrap";
 
-export default function Home() { 
+export default function Home() {
 
 
     const [modalOpen1, setModalOpen1] = React.useState(false);
@@ -893,7 +893,8 @@ export default function Home() {
         var phone = event.target.phone.value;
         var organization = event.target.organization.value;
         var designation = event.target.designation.value;
-        var Business_Entity = event.target.Business_Entity.value; 
+        var slot = event.target.slot.value;
+        var Business_Entity = event.target.Business_Entity.value;
 
         event.preventDefault()
         document.getElementById("submitbuttonform").value = "Submitting...."
@@ -901,7 +902,7 @@ export default function Home() {
         xhttp.onload = function () {
             console.log(this.responseText);
         }
-        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/96/feedback');
+        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/141/feedback');
         xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
         xhttp.onreadystatechange = function () {
             if (xhttp.readyState == 4) {
@@ -923,6 +924,7 @@ export default function Home() {
             "&leadsquared-Mobile=" + phone +
             "&leadsquared-Company=" + organization +
             "&leadsquared-JobTitle=" + designation +
+            "&slot=" + slot +
             "&leadsquared-mx_Business_Entity=" + Business_Entity)
     }
 
@@ -1047,8 +1049,8 @@ export default function Home() {
                         <div className='col-sm-4'>
                             <div className='formhh'>
                                 <div className="bannerform msddd">
-                                    <h3>Enroll in our ICF Coach Certification Batch 40</h3>
-                                    <h3>10 June 10:00 am to 4:00 pm</h3>
+                                    <h3>Enroll in our ICF Accredited Coach Certification Batch 40 10 June 10:00 am to 4:00 pm</h3>
+
                                     <form id="contactForm" className='clientcornner ptt-5 pbb-0' onSubmit={submit}>
                                         <div className="row">
                                             <div className="col-sm-6 mb-12">
@@ -1062,11 +1064,23 @@ export default function Home() {
                                             </div>
 
 
-                                            <div className="col-sm-12 mb-12">
+                                            <div className="col-sm-6 mb-12">
                                                 <input type="text" name="organization" placeholder="Organization*" required />
                                             </div>
-                                            <div className="col-sm-12 mb-12">
+                                            <div className="col-sm-6 mb-12">
                                                 <input type="text" name="designation" placeholder="Designation*" required />
+                                            </div>
+
+                                            <div className="col-sm-12 mb-12">
+                                                <select name='slot' required>
+                                                    <option value=''>Pick up any Slot*</option>
+                                                    <option value='10 June 2023'>10 June 2023</option>
+                                                    <option value='29 July 2023'>29 July 2023</option>
+                                                    <option value='16 September 2023'>16 September 2023</option>
+                                                    <option value='25 November 2023'>25 November 2023</option>
+                                                    <option value='27 January 2024'>27 January 2024</option>
+                                                    <option value='09 March 2024'>09 March 2024</option>
+                                                </select>                                                
                                             </div>
 
 
