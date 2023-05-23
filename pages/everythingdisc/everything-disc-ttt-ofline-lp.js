@@ -6,7 +6,7 @@ export default function DiskTTTLP() {
 
     const EDttt = async event => {
         event.preventDefault()
-        document.getElementById("submitbuttonform").value = "Submitting form...."
+        document.getElementById("submitbuttonform").value = "Submitting...."
         const xhttp = new XMLHttpRequest();
         xhttp.onload = function () {
             console.log(this.responseText);
@@ -21,7 +21,7 @@ export default function DiskTTTLP() {
                     document.getElementById("showlabel").style.display = "block";
 
                     window.setTimeout(function () {
-                        window.location.href = "/everythingdisc/thank-you"
+                        window.location.href = "/everythingdisc/thank-you-ofline-lp"
                     }, 3000);
 
                 } else {
