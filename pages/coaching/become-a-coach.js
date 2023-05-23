@@ -32,7 +32,7 @@ export default function Home() {
 
                     document.getElementById("showlabel").style.display = "block";
                     window.setTimeout(function () {
-                        window.location.href = "/thank-you"
+                        window.location.href = "/coaching/thank-you"
                     }, 3000);
 
                 } else {
@@ -65,7 +65,7 @@ export default function Home() {
 
                     document.getElementById("showlabel").style.display = "block";
                     window.setTimeout(function () {
-                        window.location.href = "/thank-you"
+                        window.location.href = "/coaching/thank-you"
                     }, 3000);
 
                 } else {
