@@ -194,7 +194,7 @@ export default function Home() {
                                     People are the best source of solutions to their own problems and aspirations. Coach is there to help and accelerate the journey to destination or solution.
                                 </span>
                                 <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
-                                    <a className="readon2" href="/assets/pdf/BYLD-ACTP-Level-Brochure.pdf" download>Download Brochure <div className="btn-arrow ddc"></div></a>
+                                    <a className="readon2" href="/assets/pdf/coaching-brochure.pdf" download>Download Brochure <div className="btn-arrow ddc"></div></a>
                                 </div>
                             </div>
                         </div>
