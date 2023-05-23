@@ -21,7 +21,7 @@ export default function DiskTTTLP() {
                     document.getElementById("showlabel").style.display = "block";
 
                     window.setTimeout(function () {
-                        // window.location.href = "/everythingdisc/thank-you"
+                        window.location.href = "/everythingdisc/thank-you"
                     }, 3000);
 
                 } else {
