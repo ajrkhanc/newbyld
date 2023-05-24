@@ -86,7 +86,7 @@ export default function Workshops(){
 
                     
 
-                    <div class="col-md-4 workshop-col"> 
+                    {/* <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
@@ -100,7 +100,7 @@ export default function Workshops(){
                             <a href='#registered'><button class="register">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div>
+                    </div> */}
 
 
                     <div class="col-md-4 workshop-col"> 
@@ -398,8 +398,7 @@ export default function Workshops(){
                                     </div>
                                     <div class="col-md-6 col-6">                                        
                                         <select name='slot' required>
-                                            <option value="">Pick any Slot*</option>                                                 
-                                            <option value="Crucial Conversations for Accountability - May 25th - 26th, 2023">Crucial Conversations for Accountability - May 25th - 26th, 2023</option>
+                                            <option value="">Pick any Slot*</option>                                            
                                             <option value="Influencer - June 22nd - 23rd, 2023">Influencer - June 22nd - 23rd, 2023</option>
                                             <option value="The Power of Habit - July 13th, 2023">The Power of Habit - July 13th, 2023</option>
                                             <option value="Getting Things Done - July 27th, 2023">Getting Things Done - July 27th, 2023</option>
