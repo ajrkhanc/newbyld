@@ -21,6 +21,14 @@ export default function BrowseCourses() {
         var q8 = event.target.q8.value;
         var q9 = event.target.q9.value;
         var q10 = event.target.q10.value;
+        var q11 = event.target.q11.value;
+        var q12 = event.target.q12.value;
+        var q13 = event.target.q13.value;
+        var q14 = event.target.q14.value;
+        var q15 = event.target.q15.value;
+        var q16 = event.target.q16.value;
+        var q17 = event.target.q17.value;
+        var q18 = event.target.q18.value;
 
 
 
@@ -28,10 +36,7 @@ export default function BrowseCourses() {
         const email = event.target.email.value;
         const phone = event.target.phone.value;
         const organization = event.target.organization.value;
-        var nameurl = name.replace(/[^a-zA-Z0-9 ]/g, "");
-        nameurl = nameurl.toLowerCase();
-        const newnameurl = nameurl.split(' ').join('-')
-
+       
 
 
         var xhr = new XMLHttpRequest();
@@ -121,7 +126,7 @@ export default function BrowseCourses() {
     return (
         <>
             <Head>
-                <title>CP | CP Marketing Assessment</title>
+                <title>CP | Challenges and Opportunities in Hospitality Industry</title>
                 <meta name="description" content="Circle the number that best represents the extent to which you do the following" />
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-334NQCHLMD"></script>
                 <script
@@ -138,476 +143,93 @@ export default function BrowseCourses() {
             <section className='pbb-40'>
                 <div className='container'>
                     <form name='form1' onSubmit={submitF}>
-                    <span id="error"></span>
+                
                         <div className='row'>
                             <div className='col-sm-12'>
+                                <br></br>
                                 <div className='fh3'>
-                                    <h3>TRUST</h3>
+                                    <h3>Challenges and Opportunities in Hospitality Industry</h3>
                                 </div>
                             </div>
                             <div className='col-sm-12 mradio'>
-                                <div className='fcol1'>
+                                <div className='fcol1 cpover'>
                                     <h2>
-                                        01. How fast is your organisation's response to disruptions?
+                                       What are key metrics of business you use?<sup className='supp'>*</sup> <span className='msups'>(Choose Top three)</span>
                                     </h2>
-                                    <div className='fcolmain'>
-                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle1" value="Bike" />Level 1<br />
-                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle2" value="Bike" />Level 2<br />
-                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle3" value="Bike" />Level 3<br />
-                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle4" value="Bike" />Level 4<br />
-                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle5" value="Bike" />Level 5<br />
-                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle6" value="Bike" />Level 6<br />
-                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle7" value="Bike" />Level 7<br />
-
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="2" id="q1b" required />
-                                        <label for="q1b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="3" id="q1c" required />
-                                        <label for="q1c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="4" id="q1d" required />
-                                        <label for="q1d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="5" id="q1e" required />
-                                        <label for="q1e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="6" id="q1f" required />
-                                        <label for="q1f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="7" id="q1g" required />
-                                        <label for="q1g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="8" id="q1h" required />
-                                        <label for="q1h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="9" id="q1i" required />
-                                        <label for="q1i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q1" value="10" id="q1j" required />
-                                        <label for="q1j">10</label>
-                                    </div>
+                                    <span className='supp' id="error"></span>
+                                    <div className='fcolmain feedbcp10'>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q1" id='q1' value="Occupancy/load factor" /><label for='q1'>Occupancy/load factor</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q2" id="q2" value="Revenue per employee or asset" /><label for="q2">Revenue per employee or asset</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q3" id="q3" value="Net Promoter Score" /><label for="q3">Net Promoter Score</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q4" id="q4" value="Average Occupancy Rate" /><label for="q4">Average Occupancy Rate</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q5" id="q5" value="Revenue Per Available Room (RevPar)" /><label for="q5">Revenue Per Available Room (RevPar)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q6" id="q6" value="Gross operating profit per available room (GOPPAR)" /><label for="q6">Gross operating profit per available room (GOPPAR)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q7" id="q7" value="Market Penetration Index (MPI)" /><label for="q7">Market Penetration Index (MPI)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q8" id="q8" value="Revenue Generation Index (RGI)" /><label for="q8">Revenue Generation Index (RGI)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q9" id="q9" value="Average Daily Rate (ADR)" /><label for="q9">Average Daily Rate (ADR)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q10" id="q10" value="Average Rate Index (ARI)" /><label for="q10">Average Rate Index (ARI)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q11" id="q11" value="MCPB (marketing cost per booking)1" /><label for="q11">MCPB (marketing cost per booking)1</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q12" id="q12" value="Sentiment score on TripAdvisor" /><label for="q12">Sentiment score on TripAdvisor</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q13" id="q13" value="DRR (direct revenue ratio)" /><label for="q13">DRR (direct revenue ratio)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q14" id="q14" value="Website conversion rate" /><label for="q14">Website conversion rate</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q15" id="q15" value="Segmentation - Group/Transient" /><label for="q15">Segmentation - Group/Transient</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q16" id="q16" value="TrevPar (Total revenue per available room)" /><label for="q16">TrevPar (Total revenue per available room)</label></div>                                 
+                                </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                        02. How robust and reliable is supply chain or (service levels)
+                                    How aligned are your development and talent management strategies to the business metrics chosen above?
                                     </h2>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="1" id="q2a" required />
+                                        <input type="radio" name="q17" value="1" id="q2a" required />
                                         <label for="q2a">1</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="2" id="q2b" required />
+                                        <input type="radio" name="q17" value="2" id="q2b" required />
                                         <label for="q2b">2</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="3" id="q2c" required />
+                                        <input type="radio" name="q17" value="3" id="q2c" required />
                                         <label for="q2c">3</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="4" id="q2d" required />
+                                        <input type="radio" name="q17" value="4" id="q2d" required />
                                         <label for="q2d">4</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="5" id="q2e" required />
+                                        <input type="radio" name="q17" value="5" id="q2e" required />
                                         <label for="q2e">5</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="6" id="q2f" required />
+                                        <input type="radio" name="q17" value="6" id="q2f" required />
                                         <label for="q2f">6</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="7" id="q2g" required />
+                                        <input type="radio" name="q17" value="7" id="q2g" required />
                                         <label for="q2g">7</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="8" id="q2h" required />
+                                        <input type="radio" name="q17" value="8" id="q2h" required />
                                         <label for="q2h">8</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="9" id="q2i" required />
+                                        <input type="radio" name="q17" value="9" id="q2i" required />
                                         <label for="q2i">9</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q2" value="10" id="q2j" required />
-                                        <label for="q2j">10</label>
+                                        <input type="radio" name="q17" value="10" id="q2j" required />
+                                        <label for="q2j">10</label>                                  
                                     </div>
                                 </div>
 
-                                <div className='fcol1'>
-                                    <h2>
-                                        03. How agile is your leadership during adversity?
-                                    </h2>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="1" id="q3a" required />
-                                        <label for="q3a">1</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="2" id="q3b" required />
-                                        <label for="q3b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="3" id="q3c" required />
-                                        <label for="q3c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="4" id="q3d" required />
-                                        <label for="q3d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="5" id="q3e" required />
-                                        <label for="q3e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="6" id="q3f" required />
-                                        <label for="q3f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="7" id="q3g" required />
-                                        <label for="q3g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="8" id="q3h" required />
-                                        <label for="q3h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="9" id="q3i" required />
-                                        <label for="q3i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q3" value="10" id="q3j" required />
-                                        <label for="q3j">10</label>
-                                    </div>
-                                </div>
 
-                                <div className='fcol1'>
+                                <div className='fcol1 '>
                                     <h2>
-                                        04. How insulated is your business/industry to macro factors?
+                                    What more needs to be done in order to accelerate the results in your organization? 
                                     </h2>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="1" id="q4a" required />
-                                        <label for="q4a">1</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="2" id="q4b" required />
-                                        <label for="q4b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="3" id="q4c" required />
-                                        <label for="q4c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="4" id="q4d" required />
-                                        <label for="q4d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="5" id="q4e" required />
-                                        <label for="q4e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="6" id="q4f" required />
-                                        <label for="q4f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="7" id="q4g" required />
-                                        <label for="q4g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="8" id="q4h" required />
-                                        <label for="q4h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="9" id="q4i" required />
-                                        <label for="q4i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q4" value="10" id="q4j" required />
-                                        <label for="q4j">10</label>
-                                    </div>
-                                </div>
-
-                                <div className='fcol1'>
-                                    <h2>
-                                        05. How good is the capacity of leaders to influence change?
-                                    </h2>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="1" id="q5a" required />
-                                        <label for="q5a">1</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="2" id="q5b" required />
-                                        <label for="q5b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="3" id="q5c" required />
-                                        <label for="q5c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="4" id="q5d" required />
-                                        <label for="q5d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="5" id="q5e" required />
-                                        <label for="q5e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="6" id="q5f" required />
-                                        <label for="q5f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="7" id="q5g" required />
-                                        <label for="q5g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="8" id="q5h" required />
-                                        <label for="q5h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="9" id="q5i" required />
-                                        <label for="q5i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q5" value="10" id="q5j" required />
-                                        <label for="q5j">10</label>
-                                    </div>
-                                </div>
-
-                                <div className='fcol1'>
-                                    <h2>
-                                        06. How your current culture supports employees to quickly  react to external events?
-                                    </h2>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="1" id="q6a" required />
-                                        <label for="q6a">1</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="2" id="q6b" required />
-                                        <label for="q6b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="3" id="q6c" required />
-                                        <label for="q6c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="4" id="q6d" required />
-                                        <label for="q6d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="5" id="q6e" required />
-                                        <label for="q6e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="6" id="q6f" required />
-                                        <label for="q6f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="7" id="q6g" required />
-                                        <label for="q6g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="8" id="q6h" required />
-                                        <label for="q6h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="9" id="q6i" required />
-                                        <label for="q6i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q6" value="10" id="q6j" required />
-                                        <label for="q6j">10</label>
-                                    </div>
-                                </div>
-
-                                <div className='fcol1'>
-                                    <h2>
-                                        07. How quickly can your organisation manage cost of employees and doing business during adverse situations?
-                                    </h2>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="1" id="q7a" required />
-                                        <label for="q7a">1</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="2" id="q7b" required />
-                                        <label for="q7b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="3" id="q7c" required />
-                                        <label for="q7c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="4" id="q7d" required />
-                                        <label for="q7d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="5" id="q7e" required />
-                                        <label for="q7e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="6" id="q7f" required />
-                                        <label for="q7f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="7" id="q7g" required />
-                                        <label for="q7g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="8" id="q7h" required />
-                                        <label for="q7h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="9" id="q7i" required />
-                                        <label for="q7i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q7" value="10" id="q7j" required />
-                                        <label for="q7j">10</label>
-                                    </div>
-                                </div>
-
-                                <div className='fcol1'>
-                                    <h2>
-                                        08. How goal directed is your culture?
-                                    </h2>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="1" id="q8a" required />
-                                        <label for="q8a">1</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="2" id="q8b" required />
-                                        <label for="q8b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="3" id="q8c" required />
-                                        <label for="q8c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="4" id="q8d" required />
-                                        <label for="q8d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="5" id="q8e" required />
-                                        <label for="q8e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="6" id="q8f" required />
-                                        <label for="q8f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="7" id="q8g" required />
-                                        <label for="q8g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="8" id="q8h" required />
-                                        <label for="q8h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="9" id="q8i" required />
-                                        <label for="q8i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q8" value="10" id="q8j" required />
-                                        <label for="q8j">10</label>
-                                    </div>
-                                </div>
-                                <div className='fcol1'>
-                                    <h2>
-                                        09. How effective are your leaders in terms of critical thinking (well thought)?
-                                    </h2>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="1" id="q9a" required />
-                                        <label for="q9a">1</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="2" id="q9b" required />
-                                        <label for="q9b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="3" id="q9c" required />
-                                        <label for="q9c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="4" id="q9d" required />
-                                        <label for="q9d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="5" id="q9e" required />
-                                        <label for="q9e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="6" id="q9f" required />
-                                        <label for="q9f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="7" id="q9g" required />
-                                        <label for="q9g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="8" id="q9h" required />
-                                        <label for="q9h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="9" id="q9i" required />
-                                        <label for="q9i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q9" value="10" id="q9j" required />
-                                        <label for="q9j">10</label>
-                                    </div>
-                                </div>
-
-                                <div className='fcol1'>
-                                    <h2>
-                                        10. How well people hold each other accountable for best outcomes?
-                                    </h2>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="1" id="q10a" required />
-                                        <label for="q10a">1</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="2" id="q10b" required />
-                                        <label for="q10b">2</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="3" id="q10c" required />
-                                        <label for="q10c">3</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="4" id="q10d" required />
-                                        <label for="q10d">4</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="5" id="q10e" required />
-                                        <label for="q10e">5</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="6" id="q10f" required />
-                                        <label for="q10f">6</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="7" id="q10g" required />
-                                        <label for="q10g">7</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="8" id="q10h" required />
-                                        <label for="q10h">8</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="9" id="q10i" required />
-                                        <label for="q10i">9</label>
-                                    </div>
-                                    <div className='fcolmain'>
-                                        <input type="radio" name="q10" value="10" id="q10j" required />
-                                        <label for="q10j">10</label>
+                                    <div className='fcolmain mtextc'>
+                                    <textarea className="from-control" name="q18" placeholder="Your Answer"></textarea>
                                     </div>
                                 </div>
                             </div>
