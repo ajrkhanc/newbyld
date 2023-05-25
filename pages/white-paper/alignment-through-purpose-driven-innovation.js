@@ -18,7 +18,7 @@ export default function Ebookpage(){
 
                     document.getElementById("showlabel").style.display = "block";
                     setTimeout(function() {
-                        window.open("/assets/pdf/alignment-through-purpose-driven-innovation.pdf")
+                        window.open("/assets/pdf/alignment-through-purpose-driven-innovations.pdf")
                      }, 3000);
 
                 } else {
