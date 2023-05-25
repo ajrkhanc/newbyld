@@ -2,33 +2,37 @@ import Head from 'next/head'
 import React from 'react';
 
 export default function BrowseCourses() {
+    if (typeof window !== "undefined") {
+    var submitCart = document.getElementById("submitbuttonform");
+    var userCart = document.forms["user-cart"];
+    var displayCart = document.getElementById("display-cart");
 
-
-
-
-
+    
+    }
     const submitF = async (event) => {
         event.preventDefault();
+        submitCart.addEventListener("click", submitF);
+
+        var allOptions = userCart.elements["cartitems"];
+      var selectedOptions = [];
+      allOptions.forEach((element) => {
+        if (element.checked) {
+          selectedOptions.push(element.value);
+        }
+      });
+      var cartString = selectedOptions.join(", ");
+    
+        
+
         document.getElementById("submitbuttonform").value = "Submitting";
 
-        var q1 = event.target.q1.value;
-        var q2 = event.target.q2.value;
-        var q3 = event.target.q3.value;
-        var q4 = event.target.q4.value;
-        var q5 = event.target.q5.value;
-        var q6 = event.target.q6.value;
-        var q7 = event.target.q7.value;
-        var q8 = event.target.q8.value;
-        var q9 = event.target.q9.value;
-        var q10 = event.target.q10.value;
-        var q11 = event.target.q11.value;
-        var q12 = event.target.q12.value;
-        var q13 = event.target.q13.value;
-        var q14 = event.target.q14.value;
-        var q15 = event.target.q15.value;
-        var q16 = event.target.q16.value;
+        
         var q17 = event.target.q17.value;
         var q18 = event.target.q18.value;
+
+
+
+
 
 
 
@@ -36,69 +40,40 @@ export default function BrowseCourses() {
         const email = event.target.email.value;
         const phone = event.target.phone.value;
         const organization = event.target.organization.value;
+
+        const xhttp = new XMLHttpRequest();
+        xhttp.onload = function () {
+            console.log(this.responseText);
+        }
+        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/143/feedback');
+        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+        xhttp.onreadystatechange = function () {
+            if (xhttp.readyState == 4) {
+                if (xhttp.status == 200) {
+                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+
+                    document.getElementById("showlabel").style.display = "block";
+                    window.setTimeout(function() {
+                        window.location.href = "/thank-you"
+                     }, 3000);
+
+                } else {
+                    alert('There was a problem with the request.');
+                }
+            }
+        };
+        xhttp.send("q1=" + cartString +
+            "&q17=" + q17 +
+            "&q18=" + q18 +
+            "&name=" + name +
+            "&email=" + email +
+            "&phone=" + phone +
+            "&organization=" + organization)
        
 
 
-        var xhr = new XMLHttpRequest();
-        xhr.open('POST', 'https://byldblogs.vercel.app/api/cp-assessment');
-        xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-        xhr.send('q1=' + q1 +
-            '&q2=' + q2 +
-            '&q3=' + q3 +
-            '&q4=' + q4 +
-            '&q5=' + q5 +
-            '&q6=' + q6 +
-            '&q7=' + q7 +
-            '&q8=' + q8 +
-            '&q9=' + q9 +
-            '&q10=' + q10 +
-            '&name=' + name +
-            '&email=' + email +
-            '&phone=' + phone +
-            '&organization=' + organization +
-            '&newnameurl=' + newnameurl
-        );
-
-        xhr.onreadystatechange = function () {
-
-            if (xhr.status == 200) {
-                var data = JSON.parse(xhr.responseText);
-
-                document.getElementById("response").innerHTML = data.message;
-
-                if (data.status == 0) {
-                    var xhttp = xhr;
-                    xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/61/feedback');
-                    xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-
-                    var Assessment = "Coaching - Coaching Snapshot Assessment Marketing"
-                    xhttp.send("name=" + event.target.name.value +
-                        '&email=' + email +
-                        '&phone=' + phone +
-                        '&organization=' + organization +
-                        '&assessment=' + Assessment)
-
-                    window.setTimeout(function () {
-                        window.location.href = `/cp/cp-assessment-m/${newnameurl}`
-                    }, 1000);
-                }
-
-            }
-            else {
-                document.getElementById("response").innerHTML = "Fetching your result"
-                setTimeout(function () {
-                    document.getElementById("response").innerHTML = "";
-                    document.getElementById("submitbuttonform").value = "Submit";
-                }, 3000);
-            }
-
-        }
-
-
-
-        xhr.onerror = function () {
-            console.log('error');
-        }
+      
+    
     };
 
 
@@ -139,10 +114,9 @@ export default function BrowseCourses() {
 
             </Head>
 
-
             <section className='pbb-40'>
                 <div className='container'>
-                    <form name='form1' onSubmit={submitF}>
+                    <form id="user-cart" name='form1' onSubmit={submitF}>
                 
                         <div className='row'>
                             <div className='col-sm-12'>
@@ -158,22 +132,22 @@ export default function BrowseCourses() {
                                     </h2>
                                     <span className='supp' id="error"></span>
                                     <div className='fcolmain feedbcp10'>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q1" id='q1' value="Occupancy/load factor" /><label for='q1'>Occupancy/load factor</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q2" id="q2" value="Revenue per employee or asset" /><label for="q2">Revenue per employee or asset</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q3" id="q3" value="Net Promoter Score" /><label for="q3">Net Promoter Score</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q4" id="q4" value="Average Occupancy Rate" /><label for="q4">Average Occupancy Rate</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q5" id="q5" value="Revenue Per Available Room (RevPar)" /><label for="q5">Revenue Per Available Room (RevPar)</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q6" id="q6" value="Gross operating profit per available room (GOPPAR)" /><label for="q6">Gross operating profit per available room (GOPPAR)</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q7" id="q7" value="Market Penetration Index (MPI)" /><label for="q7">Market Penetration Index (MPI)</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q8" id="q8" value="Revenue Generation Index (RGI)" /><label for="q8">Revenue Generation Index (RGI)</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q9" id="q9" value="Average Daily Rate (ADR)" /><label for="q9">Average Daily Rate (ADR)</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q10" id="q10" value="Average Rate Index (ARI)" /><label for="q10">Average Rate Index (ARI)</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q11" id="q11" value="MCPB (marketing cost per booking)1" /><label for="q11">MCPB (marketing cost per booking)1</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q12" id="q12" value="Sentiment score on TripAdvisor" /><label for="q12">Sentiment score on TripAdvisor</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q13" id="q13" value="DRR (direct revenue ratio)" /><label for="q13">DRR (direct revenue ratio)</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q14" id="q14" value="Website conversion rate" /><label for="q14">Website conversion rate</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q15" id="q15" value="Segmentation - Group/Transient" /><label for="q15">Segmentation - Group/Transient</label></div>
-                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="q16" id="q16" value="TrevPar (Total revenue per available room)" /><label for="q16">TrevPar (Total revenue per available room)</label></div>                                 
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q1" value="Occupancy/load factor" /><label for='q1'>Occupancy/load factor</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q2" value="Revenue per employee or asset" /><label for="q2">Revenue per employee or asset</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q3" value="Net Promoter Score" /><label for="q3">Net Promoter Score</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q4" value="Average Occupancy Rate" /><label for="q4">Average Occupancy Rate</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q5" value="Revenue Per Available Room (RevPar)" /><label for="q5">Revenue Per Available Room (RevPar)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q6" value="Gross operating profit per available room (GOPPAR)" /><label for="q6">Gross operating profit per available room (GOPPAR)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q7" value="Market Penetration Index (MPI)" /><label for="q7">Market Penetration Index (MPI)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q8" value="Revenue Generation Index (RGI)" /><label for="q8">Revenue Generation Index (RGI)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q9" value="Average Daily Rate (ADR)" /><label for="q9">Average Daily Rate (ADR)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q10" value="Average Rate Index (ARI)" /><label for="q10">Average Rate Index (ARI)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q11" value="MCPB (marketing cost per booking)1" /><label for="q11">MCPB (marketing cost per booking)1</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q12" value="Sentiment score on TripAdvisor" /><label for="q12">Sentiment score on TripAdvisor</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q13" value="DRR (direct revenue ratio)" /><label for="q13">DRR (direct revenue ratio)</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q14" value="Website conversion rate" /><label for="q14">Website conversion rate</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q15" value="Segmentation - Group/Transient" /><label for="q15">Segmentation - Group/Transient</label></div>
+                                        <div className='mcheck'><input class="single-checkbox" className="checkbox" type="checkbox" name="cartitems" id="q16" value="TrevPar (Total revenue per available room)" /><label for="q16">TrevPar (Total revenue per available room)</label></div>                                 
                                 </div>
                                 </div>
 
@@ -253,7 +227,7 @@ export default function BrowseCourses() {
                                         </div>
                                         <div className='col-sm-12'>
                                             <input type="submit" value="Submit" id='submitbuttonform' class="assesmetmain" tabindex="201" />
-                                            <p class="feedbackcolor" id="response"></p>
+                                            <p class="feedbackcolor" id="showlabel"></p>
                                         </div>
                                     </div>
                                 </div>
