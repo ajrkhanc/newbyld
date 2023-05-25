@@ -119,14 +119,12 @@ export default function BrowseCourses() {
                     <form id="user-cart" name='form1' onSubmit={submitF}>
                 
                         <div className='row'>
-                            <div className='col-sm-12'>
-                                <br></br>
-                                <div className='fh3'>
-                                    <h3>Challenges and Opportunities in Hospitality Industry</h3>
-                                </div>
+                            <div className='col-sm-12 text-center'>                            
+                            <h2 className='cacoh'>Challenges and Opportunities in Hospitality Industry</h2>
                             </div>
+                    
                             <div className='col-sm-12 mradio'>
-                                <div className='fcol1 cpover'>
+                                <div className='fcol1 cpover ccf'>
                                     <h2>
                                        What are key metrics of business you use?<sup className='supp'>*</sup> <span className='msups'>(Choose Top three)</span>
                                     </h2>

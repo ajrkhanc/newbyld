@@ -4379,3 +4379,8 @@ text-align: center;
 .supp{
   color: red;
 }
+
+.ccf{
+  border-top: 1px solid #2a6db5;
+  margin-top: 18px;
+}
