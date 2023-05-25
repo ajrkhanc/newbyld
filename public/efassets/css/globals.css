@@ -1,5 +1,12 @@
 /* new single blog css */
 
+.modal {
+  background-image: url(/assets/img/homeb/contact-bg-2.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
 .singlepcss .blog-details .bs-img img{
   border-bottom: 5px solid #505dd3b8;
 }
@@ -1597,4 +1604,12 @@ body .modal.show .modal-dialog {
 
 .flaticon-clock{
   top: -2px;
+}
+.mcdf{
+  position: relative;
+}
+.mcdf .readon2{
+  left: 24px;
+    position: absolute;
+    bottom: 131px;
 }

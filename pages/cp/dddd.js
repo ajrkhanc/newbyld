@@ -95,20 +95,27 @@ export default function BrowseCourses() {
             console.log('error');
         }
     };
-    function chkcontrol(j) {
-    if (typeof document !== 'undefined') {
-        
-            var total=0;
-            for(var i=0; i < document.form1.ckb.length; i++){
-            if(document.form1.ckb[i].checked){
-            total =total +1;}
-            if(total > 3){
-            alert("Please Select only three") 
-            document.form1.ckb[j].checked = false ;
-            return false;
+
+
+    if (typeof window !== "undefined") {
+        var limit = 3;
+        var checked = 0;
+        $('.single-checkbox').on('change', function () {
+            if ($(this).is(':checked'))
+                checked = checked + 1;
+
+            if ($(this).is(':checked') == false)
+                checked = checked - 1;
+
+            if (checked > limit) {
+                this.checked = false;
+                error.textContent = "You Must Select at Least 3";
+                checked = limit;
             }
-            }
-            }
+        });
+
+
+
     }
 
     return (
@@ -125,13 +132,13 @@ export default function BrowseCourses() {
                     }}
                 />
 
-                <script src="/assets/js/cp/cp.js" defer></script>
             </Head>
 
 
             <section className='pbb-40'>
                 <div className='container'>
                     <form name='form1' onSubmit={submitF}>
+                    <span id="error"></span>
                         <div className='row'>
                             <div className='col-sm-12'>
                                 <div className='fh3'>
@@ -144,14 +151,13 @@ export default function BrowseCourses() {
                                         01. How fast is your organisation's response to disruptions?
                                     </h2>
                                     <div className='fcolmain'>
-                                        <input type="checkbox" name='ckb' value='1' onclick={chkcontrol(0)} />
-                                        <input type="checkbox" name='ckb' value='2' onclick={chkcontrol(1)} />
-                                        <input type="checkbox" name='ckb' value='3' onclick={chkcontrol(2)} />
-                                        <input type="checkbox" name='ckb' value='4' onclick={chkcontrol(3)} />
-                                        <input type="checkbox" name='ckb' value='5' onclick={chkcontrol(4)} />
-                                        <input type="checkbox" name='ckb' value='6' onclick={chkcontrol(5)} />
-                                        <input type="checkbox" name='ckb' value='7' onclick={chkcontrol(6)} />
-                                        <input type="checkbox" name='ckb' value='8' onclick={chkcontrol(7)} />
+                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle1" value="Bike" />Level 1<br />
+                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle2" value="Bike" />Level 2<br />
+                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle3" value="Bike" />Level 3<br />
+                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle4" value="Bike" />Level 4<br />
+                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle5" value="Bike" />Level 5<br />
+                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle6" value="Bike" />Level 6<br />
+                                        <input class="single-checkbox" className="checkbox" type="checkbox" name="vehicle7" value="Bike" />Level 7<br />
 
                                     </div>
                                     <div className='fcolmain'>
