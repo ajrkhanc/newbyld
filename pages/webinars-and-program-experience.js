@@ -162,19 +162,7 @@ export default function WebinarsAndProgramExperience(){
 
                     
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 24th May, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 11:00 AM - 12:00 PM</h4>
-                                <h3>Everything Work of Leaders Virtual Course Preview</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
+                    
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -199,6 +187,62 @@ export default function WebinarsAndProgramExperience(){
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 11:00 am - 12:00 am</h4>
                                 <h3>Five Behaviour Team Development</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar 5th July, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
+                                <h3>Everything DiSC Work Productive Conflict</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar 19th July, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 11:00 AM - 12:00 AM</h4>
+                                <h3>Everything DiSC Agile EQ</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar 2nd Auguest, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
+                                <h3>Five Behaviour Personal Development</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar 23rd Auguest, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 11:00 AM - 12:00 AM</h4>
+                                <h3>Lumina Spark</h3>
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
@@ -262,17 +306,13 @@ export default function WebinarsAndProgramExperience(){
                                         </div>
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
-                                                <option value="">Pick up any Slot*</option>
-                                                {/* <option value="6th January 2023 - Everything DiSC Work of Leaders Webinar">6th January 2023 - Everything DiSC Work of Leaders Webinar</option> */}
-
-                                                {/* <option value="Lumina Spark – January 20th, 2023">Lumina Spark – January 20th, 2023</option> */}
-                                                {/* <option value="The Five Behaviors®️ Personal Development – February 3rd, 2023">The Five Behaviors®️ Personal Development – February 3rd, 2023</option> */}
-                                                {/* <option value="The Power of Habit – February 15th, 2023">The Power of Habit – February 15th, 2023</option>
-                                               <option value="The Five Behaviors®️ Team Development – February 17th, 2023">The Five Behaviors®️ Team Development – February 17th, 2023</option> */}
-                                                
-                                                <option value="Everything Work of Leaders Virtual Course Preview – 24th May, 2023">Everything Work of Leaders Virtual Course Preview – 24th May, 2023</option>                                                
+                                                <option value="">Pick up any Slot*</option>                                                
                                                 <option value="Everything DiSC Management, 7th June 2023">Everything DiSC Management, 7th June 2023</option>
                                                 <option value="June 21st 2023 - Five Behaviour Team Development">June 21st 2023 - Five Behaviour Team Development</option>
+                                                <option value="Everything DiSC Work Productive Conflict, 5th July, 2023">Everything DiSC Work Productive Conflict, 5th July, 2023</option>
+                                                <option value="Everything DiSC Agile EQ, 19th July, 2023">Everything DiSC Agile EQ, 19th July, 2023</option>
+                                                <option value="Five Behaviour Personal Development, 2nd Auguest, 2023">Five Behaviour Personal Development, 2nd Auguest, 2023</option>
+                                                <option value="Lumina Spark, 23rd Auguest, 2023">Lumina Spark, 23rd Auguest, 2023</option>
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">

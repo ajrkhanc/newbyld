@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import Sidebar from '../components/Layout/sidebar'
+import Sidebar from '../../components/Layout/sidebar'
 
 export default function Dtci(){
 

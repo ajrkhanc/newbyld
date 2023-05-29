@@ -4377,10 +4377,14 @@ text-align: center;
 }
 
 .supp{
-  color: red;
+  color: rgb(255, 49, 49);
 }
 
 .ccf{
   border-top: 1px solid #2a6db5;
   margin-top: 18px;
+}
+.beafinput{
+  font-size: 16px !important;
+    color: #3373af;
 }

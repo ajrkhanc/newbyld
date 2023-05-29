@@ -173,7 +173,7 @@ export default function BrowseCourses() {
                         <div className='row'>
                             <div className='col-sm-12'>
                                 <div className='fh3'>
-                                    <h3>TRUST</h3>
+                                    <h3>CP Marketing Assessment</h3>
                                 </div>
                             </div>
                             <div className='col-sm-12 mradio'>
