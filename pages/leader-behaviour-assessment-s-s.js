@@ -164,7 +164,7 @@ return (
                                         <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                     </div>
                                     <div className="col-sm-6 mb-12">
-                                        <input className='form-control' type="email" name="email" placeholder="Your Email*" required />
+                                        <input className='form-control' type="email" name="email" placeholder="Work Email/Email*" required />
                                     </div>
                                     <div className="col-sm-6 mb-12">
                                         <input className='form-control' type="text" name="ratingby" placeholder="Name of the Person you are rating" required />

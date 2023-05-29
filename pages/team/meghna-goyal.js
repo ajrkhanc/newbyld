@@ -57,7 +57,7 @@ export default function Dtci() {
                             <input class="form-control" type="text" name="name" placeholder="Enter Name*" required />
                         </div>
                         <div className="col-sm-12 mb-12">
-                            <input class="form-control" type="email" name="email" placeholder="Enter Email*" required />
+                            <input class="form-control" type="email" name="email" placeholder="Work Email/Email*" required />
                         </div>
                         <div className="col-sm-12 mb-12">
                             <input class="form-control" type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />

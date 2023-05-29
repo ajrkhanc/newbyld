@@ -97,7 +97,7 @@ export default function Gettingthingsdone() {
                                     <input type="text" name='name' placeholder="Your Name*" />
                                 </div>
                                 <div class="col-md-6 col-6">
-                                    <input type="email" name='email' placeholder="Your Email*" />
+                                    <input type="email" name='email' placeholder="Work Email/Email*" />
                                 </div>
                                 <div class="col-md-6 col-6">
                                     <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />

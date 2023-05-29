@@ -56,7 +56,7 @@ export default function Courseoverviewcrucialconversationsformasteringdialogue()
                                         <input type="text" name='name' class="form-control" placeholder="Your Name*"/> 
                                     </div>
                                     <div class="col-md-6 col-6">
-                                        <input type="email" name='email' class="form-control" placeholder="Your Email*"/> 
+                                        <input type="email" name='email' class="form-control" placeholder="Work Email/Email*"/> 
                                     </div>
                                     <div class="col-md-6 col-6">
                                     <input type="text" name="phone" class="form-control" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />

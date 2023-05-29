@@ -306,7 +306,7 @@ export default function BrowseCourses() {
                                         </div>
 
                                         <div className="col-sm-4 mb-12">
-                                        <input className='form-control' type="email" name="email" placeholder="Your Email*" required />
+                                        <input className='form-control' type="email" name="email" placeholder="Work Email/Email*" required />
                                         </div>
 
                                         <div className='clearfix'></div>

@@ -138,7 +138,7 @@ export default function BrowseCourses(){
                         </div>
 
                         <div class="col-md-6 col-6">
-                        <input type="email" name='email' placeholder="Your Email*" required/> 
+                        <input type="email" name='email' placeholder="Work Email/Email*" required/> 
                         </div>
 
                         <div class="col-md-6 col-6">

@@ -65,7 +65,7 @@ export default function FIveBWorkshop(){
                                             <input type="text" name="name" placeholder="Your Name*" required />
                                         </div>
                                         <div className="col-md-6 mb-12">
-                                            <input type="text" name="email" placeholder="Your Email*" required />
+                                            <input type="text" name="email" placeholder="Work Email/Email*" required />
                                         </div>
                                         <div className="col-md-6 mb-12">
                                             <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />

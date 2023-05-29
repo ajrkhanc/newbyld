@@ -388,7 +388,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <input className='form-control' type="email" name="email" placeholder="Your Email*" required />
+                                            <input className='form-control' type="email" name="email" placeholder="Work Email/Email*" required />
                                         </div>
                                         <div className="col-sm-4 mb-12 d-none">
                                             <input className='form-control' type="text" name="phone" value='0000000000' maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />

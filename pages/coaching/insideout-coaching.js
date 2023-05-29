@@ -200,7 +200,7 @@ export default function InsideOutCoaching() {
                                             <input type="text" name="lname" placeholder="Last Name*" required />
                                         </div>
                                         <div className="col-sm-12 mb-12">
-                                            <input type="email" name="email" placeholder="Enter Email*" required />
+                                            <input type="email" name="email" placeholder="Work Email/Email*" required />
                                         </div>
                                         <div className="col-sm-12 mb-12">
                                             <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />

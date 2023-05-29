@@ -580,7 +580,7 @@ export default function Home() {
                                             <input type="text" name='name' class="form-control" placeholder="Your Name*" required />
                                         </div>
                                         <div class="col-md-6">
-                                            <input type="email" name="email" class="form-control" placeholder="Your Email*" required />
+                                            <input type="email" name="email" class="form-control" placeholder="Work Email/Email*" required />
                                         </div>
                                         <div class="col-md-6">
                                             <input type="text" name="phone" class="form-control" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />

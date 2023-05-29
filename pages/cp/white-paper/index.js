@@ -153,89 +153,9 @@ export default function Books() {
                                 </a>
                             </div>
                         </div>
-
-                        <div className="col-sm-4">
-                            <div className="innervideoshd ebookst text-center">
-                                <a href='/cp/white-paper/challenges-and-recommendations-for-auto-industry'>
-                                    <img src="/assets/pdf/pdfi/challenges-and-recommendations-for-auto-industry.jpg" />
-                                    <h4 className=''>Driving Change through Learning</h4>
-                                    <h3 className='ebookbtn'>Read White Paper</h3>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="innervideoshd ebookst text-center">
-                                <a href='/cp/white-paper/auto-industry-white-paper'>
-                                    <img src="/assets/pdf/pdfi/auto-industry-white-paper.jpg" />
-                                    <h4 className=''>Driving Change through Learning Unlocking the Potential</h4>
-                                    <h3 className='ebookbtn'>Read White Paper</h3>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="innervideoshd ebookst text-center">
-                                <a href='/cp/white-paper/roadblocks-in-the-growth-path-for-bfsi-Industry2'>
-                                    <img src="/assets/pdf/pdfi/roadblocks-in-the-growth-path-for-BFSI-Industry.jpg" />
-                                    <h4 className=''>Roadblocks in the growth path for BFSI Industry</h4>
-                                    <h3 className='ebookbtn'>Read White Paper</h3>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="innervideoshd ebookst text-center">
-                                <a href='/cp/white-paper/what-will-spur-bfsi-industry-to-its-next-peak'>
-                                <img src="/assets/pdf/pdfi/what-will-spur-BFSI-industry-to-its-next-peak.jpg" />
-                                    <h4 className=''>How ready are you to ride the growth</h4>
-                                    <h3 className='ebookbtn'>Read White Paper</h3>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="innervideoshd ebookst text-center">
-                                <a href='/cp/white-paper/culture-needed-in-an-airline-industry-to-ride-the-talent-shortage'>
-                                <img src="/assets/pdf/pdfi/culture-needed-in-an-airline-Industry-to-ride-the-talent-shortage.jpg" />
-                                    <h4 className=''>Culture Needed in an airline industry to ride the talent shortage</h4>
-                                    <h3 className='ebookbtn'>Read White Paper</h3>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="innervideoshd ebookst text-center">
-                                <a href='/cp/white-paper/explain-nature-of-leadership-required-in-a-bfsi-industry2'>
-                                <img src="/assets/pdf/pdfi/explain-nature-of-leadership-required-in-a-bfsi-industry.jpg" />
-                                    <h4 className=''>Explain Nature of leadership required in a BFSI Industry</h4>
-                                    <h3 className='ebookbtn'>Read White Paper</h3>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="innervideoshd ebookst text-center">
-                                <a href='/cp/white-paper/hr-manage-fear-of-job-loss-industry'>
-                                <img src="/assets/pdf/pdfi/hr-manage-fear-of-job-loss-among-employees-given-the-lay-off-culture-prevalent-in-it-industry-currently.jpg" />
-                                    <h4 className=''>Explain Nature of leadership required in a BFSI Industry</h4>
-                                    <h3 className='ebookbtn'>Read White Paper</h3>
-                                </a>
-                            </div>
-                        </div>
-
-                        
-
-
-
                     </div>
                 </div>
             </div>
-
-
-
-
-
         </>
     )
 }

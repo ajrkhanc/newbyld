@@ -12,7 +12,7 @@ export default function JoinOurPartnerNetworkLP() {
     const [modalOpen5, setModalOpen5] = React.useState(false);
     const [modalOpen6, setModalOpen6] = React.useState(false);
     const [modalOpen7, setModalOpen7] = React.useState(false);
-    
+
 
     var settings = {
         dots: true,
@@ -481,7 +481,7 @@ export default function JoinOurPartnerNetworkLP() {
                         </div>
                         <div className='col-sm-6'>
                             <div>
-                                <img src="https://shtheme.com/demosd/pixer/wp-content/uploads/2019/02/image-3.png" />
+                            <img src="/assets/img/cpb.png" />
                             </div>
                         </div>
                     </div>
@@ -490,12 +490,12 @@ export default function JoinOurPartnerNetworkLP() {
 
             <section id="rs-team" className='style2 solutionrow ptt-60 pbb-60 cpteambg'>
                 <div className='container'>
-                    <div className='row'>                       
+                    <div className='row'>
                         <div className='col-sm-12 text-center'>
                             <h2 class="title pbb-100 mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP pbb-30">Know Our Consulting Practitioners (CPs):</h2>
                         </div>
                     </div>
-                    <div className='row zindx'>                       
+                    <div className='row zindx'>
                         <div className='col-sm-12'>
                             <div className='row'>
                                 <div className='col-sm-3'>
@@ -514,7 +514,7 @@ export default function JoinOurPartnerNetworkLP() {
                                                 <li><a target="_blank" href="https://www.linkedin.com/in/amarvijayy-taandur-9359334/"><i className="fa fa-linkedin"></i></a></li>
                                             </ul>
                                         </div>
-                                        
+
                                     </div>
                                 </div>
 
@@ -666,7 +666,7 @@ export default function JoinOurPartnerNetworkLP() {
                                                 <input type="text" name="fname" placeholder="First Name*" required />
                                             </div>
                                             <div className="col-lg-6 mb-12">
-                                                <input type="email" name="email" placeholder="E-mail*" required />
+                                                <input type="email" name="email" placeholder="Work Email/Email*" required />
                                             </div>
                                             <div className="col-lg-12 mb-12">
                                                 <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
@@ -726,57 +726,51 @@ export default function JoinOurPartnerNetworkLP() {
 
                         <div className='col-sm-12 cld'>
                             <Slider {...settings}>
-                            
-
-
                                 <div className='logoslider'>
                                     <div className='impdf'>
-                                        <img src="/assets/pdf/pdfi/challenges-and-recommendations-for-auto-industry.jpg" />
-                                        <a href='/cp/white-paper'>Download White Paper</a>                                        
+                                        <img src='/assets/img/white-paper/the-indian-construction-industry-new-amarvijay-sir.jpg' alt="books" />
+                                        <a href='/cp/white-paper'>Download White Paper</a>
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
-                                        <img src="/assets/pdf/pdfi/auto-industry-white-paper.jpg" />
-                                       <a href='/cp/white-paper' downad>Download White Paper</a>
+                                        <img src='/assets/img/white-paper/driving-innovation.jpg' alt="books" />
+                                        <a href='/cp/white-paper' downad>Download White Paper</a>
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
-                                        <img src="/assets/pdf/pdfi/roadblocks-in-the-growth-path-for-BFSI-Industry.jpg" />
-                                      <a href='/cp/white-paper'>Download White Paper</a>
-                                        
+                                        <img src='/assets/img/white-paper/issues-in-healthcare.jpg' alt="books" />
+                                        <a href='/cp/white-paper'>Download White Paper</a>
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
-                                        <img src="/assets/pdf/pdfi/what-will-spur-BFSI-industry-to-its-next-peak.jpg" />
-                                       <a href='/cp/white-paper'>Download White Paper</a>
-                                        
+                                        <img src='/assets/img/white-paper/hr-managing-fear.jpg' alt="books" />
+                                        <a href='/cp/white-paper'>Download White Paper</a>
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
-                                        <img src="/assets/pdf/pdfi/culture-needed-in-an-airline-Industry-to-ride-the-talent-shortage.jpg" />
-                                      <a href='/cp/white-paper'>Download White Paper</a>
-                                        
+                                        <img src='/assets/img/white-paper/culture-needed-in-an-airline-industry.jpg' alt="books" />
+                                        <a href='/cp/white-paper'>Download White Paper</a>
                                     </div>
                                 </div>
 
                                 <div className='logoslider'>
                                     <div className='impdf'>
-                                        <img src="/assets/pdf/pdfi/explain-nature-of-leadership-required-in-a-bfsi-industry.jpg" />
-                                        <a href='/cp/white-paper'>Download White Paper</a>                                        
+                                        <img src='/assets/img/white-paper/challenges-in-it-industry-today.jpg' alt="books" />
+                                        <a href='/cp/white-paper'>Download White Paper</a>
                                     </div>
                                 </div>
                                 <div className='logoslider'>
                                     <div className='impdf'>
-                                        <img src="/assets/pdf/pdfi/hr-manage-fear-of-job-loss-among-employees-given-the-lay-off-culture-prevalent-in-it-industry-currently.jpg" />
-                                       <a href='/cp/white-paper' download>Download White Paper</a>
+                                        <img src='/assets/img/white-paper/what-will-spur-bfsi-industry.jpg' alt="books" />
+                                        <a href='/cp/white-paper' download>Download White Paper</a>
                                         {/* <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen7(!modalOpen7)}></i> */}
                                     </div>
                                 </div>

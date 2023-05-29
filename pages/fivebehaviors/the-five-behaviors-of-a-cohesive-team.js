@@ -61,7 +61,7 @@ export default function teamDevelopment(){
                                     <input type="text" name="name" placeholder="Enter Name*" required />
                                 </div>
                                 <div className="col-lg-12 mb-12">
-                                    <input type="email" name="email" placeholder="Enter Email*" required />
+                                    <input type="email" name="email" placeholder="Work Email/Email*" required />
                                 </div>
                                 <div className="col-lg-12 mb-12">
                                     <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
