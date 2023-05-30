@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>Driving Change through Learning Unlocking the Potential</title>
+            <title>Effective Communication Strategies for Successful Learning in Automotive Companies</title>
             <meta name="description" content="The Indian Construction Industry"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">Driving Change through Learning Unlocking the Potential</h4>
+                      <h4 className="countertoph2 text-center font30">Effective Communication Strategies for Successful Learning in Automotive Companies</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         

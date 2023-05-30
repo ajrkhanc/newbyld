@@ -89,7 +89,7 @@ export default function Books() {
 
                         <div className="col-sm-4">
                             <div className="innervideoshd ebookst text-center">
-                                <a href='/cp/white-paper/what-will-spur-bfsi-industry'>
+                                <a href='/cp/white-paper/what-will-supur-bfsi-industry'>
                                     <img src='/assets/img/white-paper/what-will-spur-bfsi-industry.jpg' alt="books" />
                                     <h4 className=''>Embracing the Wave of Growth in the BFSI Industry: Is Your Organization Ready?</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>

@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>Explain Nature of leadership required in a BFSI Industry</title>
+            <title>Building Blocks of Effective Leadership in the BFSI Sector</title>
             <meta name="description" content="Explain Nature of leadership required in a BFSI Industry"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">Explain Nature of leadership required in a BFSI Industry</h4>
+                      <h4 className="countertoph2 text-center font30">Building Blocks of Effective Leadership in the BFSI Sector</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         

@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>Unlock the power of experiential learning to maximize employee</title>
+            <title>Creating Engaging Learning Experiences: The Power of Gamification and Experiential Learning</title>
             <meta name="description" content="The Indian Construction Industry"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">Unlock the power of experiential learning to maximize employee</h4>
+                      <h4 className="countertoph2 text-center font30">Creating Engaging Learning Experiences: The Power of Gamification and Experiential Learning</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         

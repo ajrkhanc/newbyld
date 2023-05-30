@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>HR Managing Fear</title>
+            <title>Fostering Employee Engagement to Alleviate Job Loss Anxiety</title>
             <meta name="description" content="HR Managing Fear"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">HR Managing Fear</h4>
+                      <h4 className="countertoph2 text-center font30">Fostering Employee Engagement to Alleviate Job Loss Anxiety</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         

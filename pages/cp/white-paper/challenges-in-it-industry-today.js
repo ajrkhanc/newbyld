@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>Challenges in IT Industry Today</title>
+            <title>Developing Future-Ready Skill Sets in the IT Industry: Overcoming Challenges</title>
             <meta name="description" content="Challenges in IT Industry Today"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">Challenges in IT Industry Today</h4>
+                      <h4 className="countertoph2 text-center font30">Developing Future-Ready Skill Sets in the IT Industry: Overcoming Challenges</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         

@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>Driving Innovation: Industry 4.0</title>
+            <title>Digital Transformation in India's Automotive Sector: Harnessing the Power of Industry 4.0 and IoT</title>
             <meta name="description" content="Driving Innovation: Industry 4.0"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">Driving Innovation: Industry 4.0</h4>
+                      <h4 className="countertoph2 text-center font30">Digital Transformation in India's Automotive Sector: Harnessing the Power of Industry 4.0 and IoT</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         

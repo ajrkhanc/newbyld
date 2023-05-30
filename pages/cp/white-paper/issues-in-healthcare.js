@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>Issues in Healthcare</title>
+            <title>Empowering Healthcare Professionals: Promoting a Mindset Shift for Quality Care</title>
             <meta name="description" content="Issues in Healthcare"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">Issues in Healthcare</h4>
+                      <h4 className="countertoph2 text-center font30">Empowering Healthcare Professionals: Promoting a Mindset Shift for Quality Care</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         

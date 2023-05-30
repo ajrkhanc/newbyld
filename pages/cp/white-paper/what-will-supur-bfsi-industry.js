@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>What will spur BFSI industry</title>
+            <title>Embracing the Wave of Growth in the BFSI Industry: Is Your Organization Ready?</title>
             <meta name="description" content="What will spur BFSI industry"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">What will spur BFSI industry</h4>
+                      <h4 className="countertoph2 text-center font30">Embracing the Wave of Growth in the BFSI Industry: Is Your Organization Ready?</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         
