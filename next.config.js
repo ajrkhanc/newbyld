@@ -179,8 +179,14 @@ module.exports = {
       },
 
       {
-        source: '/coaching/coaching-snapshot-pre-program-assessment/',
+        source: '/coaching/coaching-snapshot-pre-program-assessment',
         destination: '/coaching/coaching-snapshot-pre-program-assessment-s',
+        permanent: true,
+      },
+
+      {
+        source: '/coaching/coaching-snapshot-pre-program-assessment/:slug',
+        destination: '/coaching/coaching-snapshot-pre-program-assessment-s/:slug', // Matched parameters can be used in the destination
         permanent: true,
       },
 
