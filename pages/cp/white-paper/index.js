@@ -31,7 +31,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/the-indian-construction-industry-new-amarvijay-sir'>
                                     <img src='/assets/img/white-paper/the-indian-construction-industry-new-amarvijay-sir.jpg' alt="books" />
-                                    <h4 className=''>The Indian Construction Industry</h4>
+                                    <h4 className=''>Building a Strong Workforce: Overcoming  Challenges in the Indian Construction Industry</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -41,7 +41,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/driving-innovation'>
                                     <img src='/assets/img/white-paper/driving-innovation.jpg' alt="books" />
-                                    <h4 className=''>Driving Innovation: Industry 4.0</h4>
+                                    <h4 className=''>Digital Transformation in India's Automotive Sector: Harnessing the Power of Industry 4.0 and IoT</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -51,7 +51,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/issues-in-healthcare'>
                                     <img src='/assets/img/white-paper/issues-in-healthcare.jpg' alt="books" />
-                                    <h4 className=''>Issues in Healthcare</h4>
+                                    <h4 className=''>Empowering Healthcare Professionals: Promoting a Mindset Shift for Quality Care</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -61,7 +61,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/hr-managing-fear'>
                                     <img src='/assets/img/white-paper/hr-managing-fear.jpg' alt="books" />
-                                    <h4 className=''>HR Managing Fear</h4>
+                                    <h4 className=''>Fostering Employee Engagement to Alleviate Job Loss Anxiety</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -71,7 +71,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/culture-needed-in-an-airline-industry'>
                                     <img src='/assets/img/white-paper/culture-needed-in-an-airline-industry.jpg' alt="books" />
-                                    <h4 className=''>Culture Needed in an Airline Industry</h4>
+                                    <h4 className=''>Nurturing Continuous Learning: Keeping Skills Sharp in a Rapidly Evolving Industry</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -81,7 +81,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/challenges-in-it-industry-today'>
                                     <img src='/assets/img/white-paper/challenges-in-it-industry-today.jpg' alt="books" />
-                                    <h4 className=''>Challenges in IT Industry Today</h4>
+                                    <h4 className=''>Developing Future-Ready Skill Sets in the IT Industry: Overcoming Challenges</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -91,7 +91,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/what-will-spur-bfsi-industry'>
                                     <img src='/assets/img/white-paper/what-will-spur-bfsi-industry.jpg' alt="books" />
-                                    <h4 className=''>What will spur <br></br>BFSI industry</h4>
+                                    <h4 className=''>Embracing the Wave of Growth in the BFSI Industry: Is Your Organization Ready?</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -101,7 +101,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/challenges-and-recommendations-for-auto-industry-amar-sir'>
                                     <img src='/assets/img/white-paper/challenges-and-recommendations-for-auto-industry-amar-sir.jpg' alt="books" />
-                                    <h4 className=''>Challenges and recommendations for AUTO industry</h4>
+                                    <h4 className=''>Future-proofing the Auto Industry: Challenges and Solutions</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -111,7 +111,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/driving-change-through-learning-unlocking-the-potential'>
                                     <img src='/assets/img/white-paper/driving-change-through-learning-unlocking-the-potential.jpg' alt="books" />
-                                    <h4 className=''>Driving Change through Learning Unlocking the Potential</h4>
+                                    <h4 className=''>Effective Communication Strategies for Successful Learning in Automotive Companies</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -121,7 +121,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/explain-nature-of-leadership-required-in-a-bfsi-industry'>
                                     <img src='/assets/img/white-paper/explain-nature-of-leadership-required-in-a-bfsi-industry.jpg' alt="books" />
-                                    <h4 className=''>Explain Nature of leadership required in a BFSI Industry</h4>
+                                    <h4 className=''>Building Blocks of Effective Leadership in the BFSI Sector</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -130,7 +130,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/roadblocks-in-the-growth-path-for-bfsi-industry'>
                                     <img src='/assets/img/white-paper/roadblocks-in-the-growth-path-for-bfsi-industry.jpg' alt="books" />
-                                    <h4 className=''>Roadblocks in the growth path for BFSI Industry</h4>
+                                    <h4 className=''>Overcoming Obstacles: Navigating Growth in the BFSI Industry</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -139,7 +139,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/unlock-the-power-of-experiential-learning-to-maximize-employee'>
                                     <img src='/assets/img/white-paper/unlock-the-power-of-experiential-learning-to-maximize-employee.jpg' alt="books" />
-                                    <h4 className=''>Unlock the power of experiential learning to maximize employee</h4>
+                                    <h4 className=''>Creating Engaging Learning Experiences: The Power of Gamification and Experiential Learning</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
@@ -148,7 +148,7 @@ export default function Books() {
                             <div className="innervideoshd ebookst text-center">
                                 <a href='/cp/white-paper/pathway-for-it'>
                                     <img src='/assets/img/white-paper/pathway-for-it.jpg' alt="books" />
-                                    <h4 className=''>Pathway For IT Professionals In The Wake of Large Scale Layoffs</h4>
+                                    <h4 className=''>Navigating the Pathway: Opportunities for IT Professionals Amidst Layoffs</h4>
                                     <h3 className='ebookbtn'>Read White Paper</h3>
                                 </a>
                             </div>
