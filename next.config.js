@@ -159,6 +159,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/coaching/coaching-snapshot-marketing/:slug',
+        destination: '/coaching/coaching-snapshot-assessment-m/:slug', // Matched parameters can be used in the destination
+        permanent: true,
+      },
+
 
       {
         source: '/coaching/coaching-snapshot-internal-assessment',
