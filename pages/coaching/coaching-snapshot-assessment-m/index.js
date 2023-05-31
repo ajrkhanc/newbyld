@@ -139,11 +139,11 @@ export default function BrowseCourses() {
             <Head>
                 <title>Coaching | Career Coaching Snapshot</title>
                 <meta name="description" content="Circle the number that best represents the extent to which you do the following" />
-                <script async src="https://www.googletagmanager.com/gtag/js?id=G-334NQCHLMD"></script>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
                 <script
                     dangerouslySetInnerHTML={{
                         __html: `
-              window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-334NQCHLMD');
+                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9D9QEXG1BB');
           `,
                     }}
                 />

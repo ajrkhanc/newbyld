@@ -5,13 +5,12 @@ export default function ThankYou(){
         <>
         <Head>
             <title>Thank You Lp - BYLD Group</title>
-            <meta name="description" content="BYLD is a pioneering name in leadership development, corporate training, assessment, and staffing. Founded in 1998, the company is the largest group in South Asia offering HR and business productivity solutions for individuals, teams, and organizations. It has also served 300 of 500 Fortune companies."/> 
-            <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
+            <meta name="description" content="BYLD is a pioneering name in leadership development, corporate training, assessment, and staffing. Founded in 1998, the company is the largest group in South Asia offering HR and business productivity solutions for individuals, teams, and organizations. It has also served 300 of 500 Fortune companies."/>            
             <script
                     dangerouslySetInnerHTML={{
                         __html: `
-                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9D9QEXG1BB');
-          `,
+                        'conversion', {'send_to': 'AW-358447811/EGnyCJqr7qUYEMP19aoB'});
+                       `,
                     }}
                 />
           </Head>

@@ -116,11 +116,11 @@ export default function BrowseCourses() {
             <Head>
                 <title>Coaching | Become a Professional Coach</title>
                 <meta name="description" content="Coaching | Become a Professional Coach" />
-                <script async src="https://www.googletagmanager.com/gtag/js?id=G-D1R8R6PQ9F"></script>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
                 <script
                     dangerouslySetInnerHTML={{
                         __html: `
-              window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-D1R8R6PQ9F');
+                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9D9QEXG1BB');
           `,
                     }}
                 />

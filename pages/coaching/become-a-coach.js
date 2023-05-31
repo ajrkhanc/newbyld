@@ -127,6 +127,14 @@ export default function Home() {
                 <title>Become a Coach | ICF Certification | BYLD Group</title>
                 <meta name="description" content="BYLD offers ICF certification to help you become a professional coach. We provide the training, support, and resources you need to succeed." />
                 <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
+                <script
+                    dangerouslySetInnerHTML={{
+                        __html: `
+                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9D9QEXG1BB');
+          `,
+                    }}
+                />
                 <script
                     dangerouslySetInnerHTML={{
                         __html: `
