@@ -103,8 +103,9 @@ export default function BrowseCourses() {
 
    
         var Assessment ="The Power of Habit Assessment Form Sales"
-        xhttp.send("name=" + event.target.name.value +
+        xhttp.send("name=" + name +
         '&email=' + email +
+        '&phone=' + phone +
         '&Overall-Score=' + overallresult +
         '&Identify-Lag-in-Habits=' + result1 +
         '&Leave-the-Lag-Behind=' + result2 +
@@ -926,14 +927,14 @@ export default function BrowseCourses() {
                         <div className='col-sm-12'>
                             <div className='fcol1 lastinp ptt-20'>
                                 <div className='row inpuut'>
-                                    <div className="col-sm-6 mb-12">
+                                    <div className="col-sm-4 mb-12">
                                         <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                     </div>
-                                    <div className="col-sm-6 mb-12">
+                                    <div className="col-sm-4 mb-12">
                                         <input className='form-control' type="email" name="email" placeholder="Work Email/Email*" required />
                                     </div>
-                                    <div className="col-sm-4 mb-12 d-none">
-                                        <input className='form-control' type="text" name="phone" value='0000000000' maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                                    <div className="col-sm-4 mb-12">
+                                        <input className='form-control' type="text" name="phone"  maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                     </div>
 
                                     <div className="col-sm-6 mb-12 d-none">

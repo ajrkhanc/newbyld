@@ -136,6 +136,7 @@ export default function Home() {
         var Assessment = "GTD Assessment Form Sales"
         xhttp.send("name=" + event.target.name.value +
             '&email=' + email +
+            '&phone=' + phone +
             '&Overall-Score=' + overall +
             '&Capture=' + Capture +
             '&Clarify=' + Clarify +
@@ -384,14 +385,14 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                     </div>
 
                                     <div className='row inpuut'>
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                         </div>
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="email" name="email" placeholder="Work Email/Email*" required />
                                         </div>
-                                        <div className="col-sm-4 mb-12 d-none">
-                                            <input className='form-control' type="text" name="phone" value='0000000000' maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                                        <div className="col-sm-4 mb-12">
+                                            <input className='form-control' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                         </div>
 
                                         <div className="col-sm-6 mb-12 d-none">
