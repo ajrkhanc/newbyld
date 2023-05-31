@@ -105,7 +105,7 @@ export default function BrowseCourses() {
         const name = event.target.name.value;
         const email = event.target.email.value;
         const phone = event.target.phone.value;
-        const organization = event.target.organization.value;
+        const organization = 'null';
         var nameurl = name.replace(/[^a-zA-Z0-9 ]/g, "");
         nameurl = nameurl.toLowerCase();
         const newnameurl = nameurl.split(' ').join('-')
@@ -174,6 +174,7 @@ export default function BrowseCourses() {
 
    
         var Assessment ="What Would You Do Assessment Form Sales"
+        
         xhttp.send("name=" + event.target.name.value +
         '&email=' + email +
         '&phone=' + phone +
@@ -312,9 +313,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                             <input className='form-control' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                         </div>
 
-                                        <div className="col-sm-6 mb-12 d-none">
-                                            <input className='form-control' type="text" name="organization" placeholder="Organization*" required />
-                                        </div>
+                                      
 
                                         <div className='col-sm-12 text-center'>
                                             <input type="submit" id='submitbuttonform' value="Submit" tabindex="22" class="assesmetmain" />
