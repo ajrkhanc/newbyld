@@ -345,95 +345,95 @@ export default function result({ result }) {
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q6 <= 10)
+                                                                            if (q6 <= 5)
                                                                                 return <span>I lose my temper when I feel frustrated</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q7 <= 10)
+                                                                            if (q7 <= 5)
                                                                                 return <span>I know how to calm myself down when I feel anxious or upset</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q8 <= 10)
+                                                                            if (q8 <= 5)
                                                                                 return <span>I find it difficult to move on when I feel frustrated or unhappy</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q9 <= 10)
+                                                                            if (q9 <= 5)
                                                                                 return <span>I feel that I don’t enjoy my work</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q10 <= 10)
+                                                                            if (q10 <= 5)
                                                                                 return <span>I find it hard to resist the impulse to respond when I feel strongly about an issue(s)</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q11 <= 10)
+                                                                            if (q11 <= 5)
                                                                                 return <span>People have told me that I’m a good listener</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q12 <= 10)
+                                                                            if (q12 <= 5)
                                                                                 return <span>I ask people for feedback on what I do well, and how I can improve</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q13 <= 10)
+                                                                            if (q13 <= 5)
                                                                                 return <span>I use active listening skills when people speak to me</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q14 <= 10)
+                                                                            if (q14 <= 5)
                                                                                 return <span>I find it difficult to read other people’s emotions</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q15 <= 10)
+                                                                            if (q15 <= 5)
                                                                                 return <span>I find it hard to spot the mood in the room when things are not going well</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
-                                                                            if (q16 <= 10)
+                                                                            if (q16 <= 5)
                                                                                 return <span>I find it hard to get people to share what their real motives are</span>
                                                                         })()
                                                                     }
 
                                                                     {
                                                                         (() => {
-                                                                            if (q17 <= 10)
+                                                                            if (q17 <= 5)
                                                                                 return <span>I avoid conflict and negotiations</span>
                                                                         })()
                                                                     }
 
                                                                     {
                                                                         (() => {
-                                                                            if (q18 <= 10)
+                                                                            if (q18 <= 5)
                                                                                 return <span>I set long-term goals and review my progress regularly</span>
                                                                         })()
                                                                     }
 
                                                                     {
                                                                         (() => {
-                                                                            if (q19 <= 10)
+                                                                            if (q19 <= 5)
                                                                                 return <span>I struggle to build rapport with others</span>
                                                                         })()
                                                                     }
 
                                                                     {
                                                                         (() => {
-                                                                            if (q20 <= 10)
+                                                                            if (q20 <= 5)
                                                                                 return <span>I find it hard to get everyone onboard with solutions that would satisfy all</span>
                                                                         })()
                                                                     }
