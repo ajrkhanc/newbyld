@@ -89,7 +89,7 @@ export default function result({ result }) {
                                     var SocialAwareness = parseInt(q11) + parseInt(q12) + parseInt(q13) + parseInt(q14) + parseInt(q15);
                                     var RelationshipManagement = parseInt(q16) + parseInt(q17) + parseInt(q18) + parseInt(q19) + parseInt(q20);
                                     var overall = SelfAwareness + SelfManagement + SocialAwareness + RelationshipManagement;
-                                    var overin10 = (overall / 2).toFixed(2)
+                                    var overin10 = overall / 2
 
                                     var rusultbar = result + px
 
