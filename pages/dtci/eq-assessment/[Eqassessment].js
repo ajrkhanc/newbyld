@@ -441,7 +441,7 @@ export default function result({ result }) {
                                                             </tr>
                                                             <tr>
                                                                 <td className='text-center'>Strength to build on</td>
-                                                                <td className='text-center'>
+                                                                <td className='cckv'>
 
                                                                 {
                                                                         (() => {
