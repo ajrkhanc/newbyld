@@ -607,7 +607,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-60 ajp'>
+                                                        <div className='rs-estimate ptt-80 ajp'>
                                                             <h4 className='tclbg'>Self-Management: Practice managing my emotions.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Tell myself that there are no bad guys, just a bad situation</li>
