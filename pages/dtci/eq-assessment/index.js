@@ -468,7 +468,7 @@ export default function BrowseCourses() {
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I know how to calm myself down when I feel anxious or upset
+                                    I know how to calm myself, when I feel anxious or upset
                                     </h2>
 
                                     <div className='fcolmain'>
@@ -521,7 +521,7 @@ export default function BrowseCourses() {
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I find it difficult to move on when I feel frustrated or unhappy
+                                    I find it difficult to engage, when I feel frustrated or unhappy
                                     </h2>
                                     <div className='fcolmain'>
                                         <label className='beafinput'>Very Often</label>
@@ -572,7 +572,7 @@ export default function BrowseCourses() {
                                 </div>
                                 <div className='fcol1'>
                                     <h2>
-                                    I feel that I don’t enjoy my work
+                                    I often feel, I don’t enjoy my work
                                     </h2>
                                     <div className='fcolmain'>
                                         <label className='beafinput'>Very Often</label>
@@ -624,7 +624,7 @@ export default function BrowseCourses() {
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I find it hard to resist the impulse to respond when I feel strongly about an issue(s)
+                                    I find it hard to resist the impulse to respond when I feel strong emotions
                                     </h2>
                                     <div className='fcolmain'>
                                         <label className='beafinput'>Very Often</label>

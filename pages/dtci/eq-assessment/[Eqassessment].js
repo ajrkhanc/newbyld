@@ -54,9 +54,9 @@ export default function result({ result }) {
             <section className='assesmentpart2 aalpading0 dtcibgc'>
                 <div className='container'>
                     <div className='row align-items-center'>
-                        {/* <div className='col-sm-12 text-center'>
-                            <button class="submit btnnewc"> Download Result </button>
-                        </div> */}
+                        <div className='col-sm-12 text-center'>
+                            <button class="submit btnnewc" onClick={downloadAsPDF}> Download Result </button>
+                        </div>
                         <div className='col-md-1'></div>
                         <div className='col-md-10'>
                             {
@@ -100,7 +100,7 @@ export default function result({ result }) {
 
                                         <div className='demodonload dresult bgcwww' id='demo'>
                                             <div className='row'>
-                                                <div className='col-sm-6 pad00'>
+                                                <div className='col-sm-12 pad00 text-center'>
                                                     <div className='dtcilogol'>
                                                         <img src="/assets/img/byld-logo.svg" alt="" />
                                                     </div>
@@ -108,7 +108,7 @@ export default function result({ result }) {
 
                                                 <div className='col-sm-6 pad00'>
                                                     <div className='dtcilogor'>
-                                                        <img src="/assets/img/dtcilo.jpg" alt="" />
+                                                        
                                                     </div>
                                                 </div>
 
@@ -122,16 +122,17 @@ export default function result({ result }) {
                                                         </div>
 
                                                         <div className='dtciun'>
-                                                            <h2>E<span>Q+</span> <br></br>Extended Report</h2>
-                                                            <span className='lsbtn'>Hi {results.name}</span>
+                                                            {/* <h2>E<span>Q+</span>Extended Report</h2>
+                                                            <h2>Extended Report</h2> */}
+                                                            <span className='lsbtn'>{results.name}</span>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div className='row'>
-                                                <div className='col-sm-8 pad00'>
+                                                <div className='col-sm-9 pad00'>
                                                     <div className='tblcon text-center'>
-                                                        <a href='#'>Table of Contents</a>
+                                                        <span>Table of Contents</span>
                                                     </div>
                                                     <div className='ccmdc'>
                                                         <h4>My <span className='clred'>E</span><span className='clorg'>Q</span>+ Scores ............................................. 3</h4>
@@ -140,22 +141,22 @@ export default function result({ result }) {
                                                         <h4>Strategies to improve <span className='clred'>E</span><span className='clorg'>Q</span>+ Action plan ........... 6</h4>
                                                     </div>
 
-                                                    <div className='ccmdc ptt-30 pbb-60'>
+                                                    <div className='ccmdc ptt-30 pbb-60 pabb1'>
                                                         <h5>1. Improve <span className='clorg'>Self-Awareness</span></h5>
                                                         <h5>2. Improve <span className='clorg'>Self-Management</span></h5>
                                                         <h5>3. Improve <span className='clorg'>Social-Awareness</span></h5>
                                                         <h5>4. Improve <span className='clorg'>Relationship Management</span></h5>
                                                     </div>
                                                 </div>
-                                                <div className='col-sm-4 tmmcolor pad00'></div>
+                                                <div className='col-sm-3 tmmcolor pad00'></div>
                                             </div>
 
 
 
 
-                                            <div className='row'>
+                                            <div className='row hfor'>
                                                 <div className='col-sm-12 pad00'>
-                                                    <div className='ccmdc ptt-10'>
+                                                    <div className='ccmdc ptt-50'>
                                                         <h4>My E<span className='clorg'>Q</span>+ Scores</h4>
                                                         <p>
                                                             Thank you for completing the <span className='clred'>E</span><span className='clorg'>Q</span>+ Self Appraisal. Please bring these scores to the learning program. This program will teach you about emotional intelligence (EQ), reveal what your current skill levels are, and tell you what you can do to improve.
@@ -191,14 +192,14 @@ export default function result({ result }) {
 
 
 
-                                                    <div className='ccmdc ptt-10 ccmdc2'>
-                                                        <h2 className='pbb-10'>What do the Score mean:</h2>
+                                                    <div className='ccmdc ptt-25 ccmdc2'>
+                                                        <h2 className='pbb-0'>What do the Score mean:</h2>
                                                         <table className='tblx1'>
                                                             <tr>
                                                                 <td className='ajoot1'>
                                                                     Scores on the EQ+ Appraisal come from a "normed" sample. That means your scores are based on a comparison to the global population to discover where you fall in each skill area. Read the following descriptions to better understand what your scores mean about your current skill level.
                                                                 </td>
-                                                                <td width='100px' className='ajoot2'>{overin10}{px}</td>
+                                                                <td width='100px' className='ajoot2 text-center'>{overin10}{px}</td>
                                                             </tr>
                                                         </table>
 
@@ -212,36 +213,36 @@ export default function result({ result }) {
                                                             </tr>
                                                             <tr>
                                                                 <td><b>Self-Awareness:</b> Your ability to accurately perceive your emotions and stay aware of them as they happen. This includes keeping on top of how you tend to respond to specific situations and certain people.</td>
-                                                                <td className='text-center'>{SelfAwareness}</td>
+                                                                <td className='text-center'>{SelfAwareness*2}{px}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Self-Management: Your ability to use awareness of your emotions to stay flexible and positively direct your behavior. This means managing your emotional reactions to all situations and people.</td>
-                                                                <td className='text-center'>{SelfManagement}</td>
+                                                                <td className='text-center'>{SelfManagement*2}{px}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Social Awareness: Your ability to accurately pick up on emotions in other people and get what is really going on. This often means understanding what other people are thinking and feeling, even if you don't feel the same way.</td>
-                                                                <td className='text-center'>{SocialAwareness}</td>
+                                                                <td className='text-center'>{SocialAwareness*2}{px}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Relationship Management: Your ability to use awareness of your emotions and the emotions of others to manage interactions successfully. Letting emotional awareness guide clear communication and effective handling of conflict.</td>
-                                                                <td className='text-center'>{RelationshipManagement}</td>
+                                                                <td className='text-center'>{RelationshipManagement*2}{px}</td>
                                                             </tr>
                                                         </table>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <div className='row tmmcolor'>
+                                            <div className='row tmmcolor mtt-10'>
                                                 <div className='col-sm-12 pad00'>
                                                     <div className='tblccl'>
                                                         <table className='tblcx2'>
                                                             <tr>
-                                                                <th width="110px">Score</th>
+                                                                <th width="80px">Score</th>
                                                                 <th>Meaning</th>
                                                             </tr>
 
                                                             <tr>
-                                                                <td className='text-center'>90-100</td>
+                                                                <td className='text-center'>90%-100%</td>
                                                                 <td>
                                                                     <h5>A STRENGTH TO CAPITALIZE ON</h5>
                                                                     <p>
@@ -251,7 +252,7 @@ export default function result({ result }) {
                                                             </tr>
 
                                                             <tr>
-                                                                <td className='text-center'>80-89</td>
+                                                                <td className='text-center'>80%-89%</td>
                                                                 <td>
                                                                     <h5>A STRENGTH TO BUILD ON</h5>
                                                                     <p>
@@ -261,7 +262,7 @@ export default function result({ result }) {
                                                             </tr>
 
                                                             <tr>
-                                                                <td className='text-center'>70-79</td>
+                                                                <td className='text-center'>70%-79%</td>
                                                                 <td>
                                                                     <h5>WITH A LITTLE IMPROVEMENT, THIS COULD BE A STRENGTH</h5>
                                                                     <p>
@@ -271,7 +272,7 @@ export default function result({ result }) {
                                                             </tr>
 
                                                             <tr>
-                                                                <td className='text-center'>60-69</td>
+                                                                <td className='text-center'>60%-69%</td>
                                                                 <td>
                                                                     <h5>SOMETHING YOU SHOULD WORK ON</h5>
                                                                     <p>
@@ -281,7 +282,7 @@ export default function result({ result }) {
                                                             </tr>
 
                                                             <tr>
-                                                                <td className='text-center'>59 and below</td>
+                                                                <td className='text-center'>59% and below</td>
                                                                 <td>
                                                                     <h5>A CONCERN YOU MUST ADDRESS</h5>
                                                                     <p>
@@ -289,14 +290,7 @@ export default function result({ result }) {
                                                                     </p>
                                                                 </td>
                                                             </tr>
-                                                        </table>
-
-                                                        <div className='ajwh'>
-                                                            <h4>My Highest and lowest Score Behaviors</h4>
-                                                            <p>
-                                                                Given below are the items that you chose as lowest (Claimed areas of Development) and highest <br></br>(Claimed areas of Strength)
-                                                            </p>
-                                                        </div>
+                                                        </table>                                                     
                                                     </div>
                                                 </div>
                                             </div>
@@ -306,6 +300,13 @@ export default function result({ result }) {
                                             <div className='row'>
                                                 <div className='col-sm-12 pad00'>
                                                     <div className='ccmdc ptt-50 ccmdc2'>
+                                                    <div className='ajwh'>
+                                                            <h4>My Highest and lowest Score Behaviors</h4>
+                                                            <p>
+                                                                Given below are the items that you chose as lowest (Claimed areas of Development) and highest <br></br>(Claimed areas of Strength)
+                                                            </p>
+                                                        </div>
+
                                                         <table className='tblx1'>
                                                             <tr>
                                                                 <td width='200px' className='text-center'>Areas to Work on</td>
@@ -352,25 +353,25 @@ export default function result({ result }) {
                                                                     {
                                                                         (() => {
                                                                             if (q7 <= 5)
-                                                                                return <span>I know how to calm myself down when I feel anxious or upset</span>
+                                                                                return <span>I know how to calm myself, when I feel anxious or upset</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
                                                                             if (q8 <= 5)
-                                                                                return <span>I find it difficult to move on when I feel frustrated or unhappy</span>
+                                                                                return <span>I find it difficult to engage, when I feel frustrated or unhappy</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
                                                                             if (q9 <= 5)
-                                                                                return <span>I feel that I don’t enjoy my work</span>
+                                                                                return <span>I often feel, I don’t enjoy my work</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
                                                                             if (q10 <= 5)
-                                                                                return <span>I find it hard to resist the impulse to respond when I feel strongly about an issue(s)</span>
+                                                                                return <span>I find it hard to resist the impulse to respond when I feel strong emotions</span>
                                                                         })()
                                                                     }
                                                                     {
@@ -485,25 +486,25 @@ export default function result({ result }) {
                                                                     {
                                                                         (() => {
                                                                             if (q7 == 7 || q7 == 8)
-                                                                                return <span>I know how to calm myself down when I feel anxious or upset</span>
+                                                                                return <span>I know how to calm myself, when I feel anxious or upset</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
                                                                             if (q8 == 7 || q8 == 8)
-                                                                                return <span>I find it difficult to move on when I feel frustrated or unhappy</span>
+                                                                                return <span>I find it difficult to engage, when I feel frustrated or unhappy</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
                                                                             if (q9 == 7 || q9 == 8)
-                                                                                return <span>I feel that I don’t enjoy my work</span>
+                                                                                return <span>I often feel, I don’t enjoy my work</span>
                                                                         })()
                                                                     }
                                                                     {
                                                                         (() => {
                                                                             if (q10 == 7 || q10 == 8)
-                                                                                return <span>I find it hard to resist the impulse to respond when I feel strongly about an issue(s)</span>
+                                                                                return <span>I find it hard to resist the impulse to respond when I feel strong emotions</span>
                                                                         })()
                                                                     }
                                                                     {
@@ -594,7 +595,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate'>
+                                                        <div className='rs-estimate ptt-40'>
                                                             <h4 className='tclbg'>Self-Awareness: Practice keeping a finger on the pulse of my emotions.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Watch for my “triggers”</li>
@@ -606,7 +607,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate'>
+                                                        <div className='rs-estimate ptt-60'>
                                                             <h4 className='tclbg'>Self-Management: Practice managing my emotions.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Tell myself that there are no bad guys, just a bad situation</li>
@@ -618,7 +619,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate'>
+                                                        <div className='rs-estimate ptt-30'>
                                                             <h4 className='tclbg'>Social Awareness: Practice seeing the whole picture. </h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Don’t take notes at my next meeting</li>
@@ -630,7 +631,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate'>
+                                                        <div className='rs-estimate ptt-30'>
                                                             <h4 className='tclbg'>Relationship Management: Meet my needs, their needs, and our needs.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Focus on improving a key relationship in my social network</li>
