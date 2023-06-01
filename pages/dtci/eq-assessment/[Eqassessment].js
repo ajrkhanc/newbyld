@@ -595,7 +595,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-40'>
+                                                        <div className='rs-estimate ptt-40 ajp'>
                                                             <h4 className='tclbg'>Self-Awareness: Practice keeping a finger on the pulse of my emotions.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Watch for my “triggers”</li>
@@ -607,7 +607,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-60'>
+                                                        <div className='rs-estimate ptt-60 ajp'>
                                                             <h4 className='tclbg'>Self-Management: Practice managing my emotions.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Tell myself that there are no bad guys, just a bad situation</li>
@@ -619,7 +619,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-30'>
+                                                        <div className='rs-estimate ptt-30 ajp'>
                                                             <h4 className='tclbg'>Social Awareness: Practice seeing the whole picture. </h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Don’t take notes at my next meeting</li>
@@ -631,7 +631,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-30'>
+                                                        <div className='rs-estimate ptt-30 ajp'>
                                                             <h4 className='tclbg'>Relationship Management: Meet my needs, their needs, and our needs.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Focus on improving a key relationship in my social network</li>

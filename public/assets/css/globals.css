@@ -4629,3 +4629,15 @@ padding-bottom: 11px;
 .hfor h3{
   line-height: 30px;
 }
+
+.ajp .estimate-info li:before {
+ background-color: none !important;
+ top: 4px;
+ width: 17px;
+ height: 17px;
+ background: url(/assets/img/unchecked.png);
+ background-position: top center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ left: -2px;
+}

@@ -7065,7 +7065,7 @@ body .search-modal .close:hover {
   width: 10px;
   height: 10px;
   border-radius: 100%;
-  background: #2A6DB5;
+  background-color: #2A6DB5;
 }
 .rs-estimate .estimate-info li:last-child {
   margin: 0;
