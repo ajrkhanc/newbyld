@@ -40,7 +40,7 @@ export default function BrowseCourses() {
 
 
         var xhr = new XMLHttpRequest();
-        xhr.open('POST', 'http://localhost:3000/api/dtci-assessment');
+        xhr.open('POST', 'https://byldblogs.vercel.app/api/dtci-assessment');
         xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
         xhr.send('q1=' + q1 +
             '&q2=' + q2 +
