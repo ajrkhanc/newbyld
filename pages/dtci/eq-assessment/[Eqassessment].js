@@ -55,7 +55,7 @@ export default function result({ result }) {
                 <div className='container'>
                     <div className='row align-items-center'>
                         <div className='col-sm-12 text-center'>
-                            <button class="submit btnnewc" onClick={downloadAsPDF}> Download Result </button>
+                            <button class="submit btnnewc" onClick={downloadAsPDF}> Download Your Report </button>
                         </div>
                         <div className='col-md-1'></div>
                         <div className='col-md-10'>
