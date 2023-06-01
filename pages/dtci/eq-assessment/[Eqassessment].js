@@ -34,7 +34,7 @@ export default function result({ result }) {
                         Please Submit You Asessement Before.
                     </p>
                     <h6>
-                        <a class="submit" href='/cp/cp-marketing'> Go Back </a>
+                        <a class="submit" href='/dtci/eq-assessment'> Go Back </a>
                     </h6>
                 </div>
             </div>
@@ -123,7 +123,7 @@ export default function result({ result }) {
 
                                                         <div className='dtciun'>
                                                             <h2>E<span>Q+</span> <br></br>Extended Report</h2>
-                                                            <span className='lsbtn'>Mr. {results.name}</span>
+                                                            <span className='lsbtn'>Hi {results.name}</span>
                                                         </div>
                                                     </div>
                                                 </div>
