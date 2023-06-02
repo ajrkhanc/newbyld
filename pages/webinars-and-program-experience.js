@@ -200,7 +200,7 @@ export default function WebinarsAndProgramExperience(){
                             </div>
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
-                                <h3>Everything DiSC Work Productive Conflict</h3>
+                                <h3>Everything DiSC Productive Conflict</h3>
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>

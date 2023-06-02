@@ -120,7 +120,7 @@ export default function FiveBWebinar(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="interested" required>
                                                 <option value="">Pick up any Slot*</option>
-                                                <option value="17th February 2023 The Five Behaviors<sup>®</sup> Team Development Webinar">17th February 2023 The Five Behaviors® Team Development Webinar</option>
+                                                <option value="21st June 2023 The Five Behaviors<sup>®</sup> Team Development Webinar">21st June 2023 The Five Behaviors® Team Development Webinar</option>
                                             </select>
                                         </div>
 
