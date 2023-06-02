@@ -107,8 +107,7 @@ export default function JoinOurPartnerNetworkLP(){
                                         <div className="col-lg-12 mb-12">
                                             <select name="intrestedin" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="May 12th 2023 - 11:00 PM - 12:00 PM">May 12th 2023 - 11:00 PM - 12:00 PM</option>
-                                                <option value="June 2nd 2023 - 11:00 PM - 12:00 PM">June 2nd 2023 - 11:00 PM - 12:00 PM</option>
+                                                <option value="July 12th 2023 - 11:00 PM - 12:00 PM">July 12th 2023 - 11:00 PM - 12:00 PM</option>
                                             </select>
                                         </div>
                                         
@@ -172,7 +171,7 @@ export default function JoinOurPartnerNetworkLP(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 12th May 2023</span>
+                                <span>Webinar July 12th 2023</span>
                             </div>
                             
                             <div className='eventbottom'>
@@ -183,20 +182,7 @@ export default function JoinOurPartnerNetworkLP(){
                         </div>
                     </div>
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 2nd June 2023</span>
-                            </div>
-                            
-                            <div className='eventbottom'>
-                                <h3 className='hhd'>BYLD Partner Network Briefing</h3>
-                                <h5>Time: 11:00 PM - 12:00 PM</h5>
-                                <a className="eventbtn" href='#'>REGISTER NOW</a>
-                            </div>
-                        </div>
-                    </div>
+                  
 
                 </div>
             </div>

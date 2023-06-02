@@ -108,7 +108,7 @@ export default function JoinOurPartnerNetworkLP(){
                                         <select name="intrestedin" required>
                                                 <option value="">Pick up any Slot*</option>                                                
                                                 
-                                                <option value="June 2nd 2023 - 11:00 AM - 12:00 PM">June 2nd 2023 - 11:00 AM - 12:00 PM</option>
+                                                <option value="July 12th 2023 - 11:00 AM - 12:00 PM">July 12th - 11:00 AM - 12:00 PM</option>
                                             </select>
                                         </div>
                                         
@@ -187,7 +187,7 @@ export default function JoinOurPartnerNetworkLP(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 2nd June 2023</span>
+                                <span>Webinar July 12th 2023</span>
                             </div>
                             
                             <div className='eventbottom'>

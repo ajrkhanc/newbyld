@@ -115,7 +115,7 @@ export default function EDSalesWorkshop() {
                                             <div className="col-sm-6 mb-12">
                                                 <select name="slot" required>
                                                     <option value="">Pick up any Slot*</option>
-                                                    <option value="June 21st 2023, Agile EQ">June 21st 2023, Agile EQ</option>
+                                                    <option value="July 19th 2023, Agile EQ">July 19th 2023, Agile EQ</option>
                                                 </select>
                                             </div>
                                             <div className="col-sm-6 mb-12">
