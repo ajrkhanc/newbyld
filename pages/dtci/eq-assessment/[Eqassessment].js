@@ -658,7 +658,7 @@ export default function result({ result }) {
                                                 </div>
 
                                                 <div className='col-sm-12'>
-                                                    <div className='imgbox ajjcvb'>
+                                                    <div className='imgbox ajjcvb ptt-100'>
                                                         <img src="/assets/img/lasts.jpg" alt="" />
                                                     </div>
                                                 </div>
