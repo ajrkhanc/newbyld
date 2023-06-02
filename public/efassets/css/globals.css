@@ -1452,7 +1452,7 @@ table td {
   background: #285592;
   color: #fff !important;
   padding: 17px;
-  font-size: 21px;
+  font-size: 16px;
   font-weight: 600;
   letter-spacing: 1px;
   border-radius: 23px;
@@ -1613,3 +1613,5 @@ body .modal.show .modal-dialog {
     position: absolute;
     bottom: 131px;
 }
+
+

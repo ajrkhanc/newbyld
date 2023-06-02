@@ -108,7 +108,7 @@ export default function result({ result }) {
 
                                                 <div className='col-sm-6 pad00'>
                                                     <div className='dtcilogor'>
-                                                        
+
                                                     </div>
                                                 </div>
 
@@ -131,6 +131,9 @@ export default function result({ result }) {
                                             </div>
                                             <div className='row'>
                                                 <div className='col-sm-9 pad00'>
+                                                    <div className='byldlc ptt-100'>
+                                                        <img className='ptt-50' src="/assets/img/byld-logo.svg" alt="" />
+                                                    </div>
                                                     <div className='tblcon text-center'>
                                                         <span>Table of Contents</span>
                                                     </div>
@@ -156,7 +159,10 @@ export default function result({ result }) {
 
                                             <div className='row hfor'>
                                                 <div className='col-sm-12 pad00'>
-                                                    <div className='ccmdc ptt-50'>
+                                                    <div className='byldlc cclmc'>
+                                                        <img className='' src="/assets/img/byld-logo.svg" alt="" />
+                                                    </div>
+                                                    <div className='ccmdc ptt-40'>
                                                         <h4>My E<span className='clorg'>Q</span>+ Scores</h4>
                                                         <p>
                                                             Thank you for completing the <span className='clred'>E</span><span className='clorg'>Q</span>+ Self Appraisal. Please bring these scores to the learning program. This program will teach you about emotional intelligence (EQ), reveal what your current skill levels are, and tell you what you can do to improve.
@@ -192,7 +198,10 @@ export default function result({ result }) {
 
 
 
-                                                    <div className='ccmdc ptt-25 ccmdc2'>
+                                                    <div className='ccmdc ptt-5 ccmdc2'>
+                                                        <div className='byldlc cclmc'>
+                                                            <img className='' src="/assets/img/byld-logo.svg" alt="" />
+                                                        </div>
                                                         <h2 className='pbb-0'>What do the Score mean:</h2>
                                                         <table className='tblx1'>
                                                             <tr>
@@ -213,19 +222,19 @@ export default function result({ result }) {
                                                             </tr>
                                                             <tr>
                                                                 <td><b>Self-Awareness:</b> Your ability to accurately perceive your emotions and stay aware of them as they happen. This includes keeping on top of how you tend to respond to specific situations and certain people.</td>
-                                                                <td className='text-center'>{SelfAwareness*2}{px}</td>
+                                                                <td className='text-center'>{SelfAwareness * 2}{px}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Self-Management: Your ability to use awareness of your emotions to stay flexible and positively direct your behavior. This means managing your emotional reactions to all situations and people.</td>
-                                                                <td className='text-center'>{SelfManagement*2}{px}</td>
+                                                                <td className='text-center'>{SelfManagement * 2}{px}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Social Awareness: Your ability to accurately pick up on emotions in other people and get what is really going on. This often means understanding what other people are thinking and feeling, even if you don't feel the same way.</td>
-                                                                <td className='text-center'>{SocialAwareness*2}{px}</td>
+                                                                <td className='text-center'>{SocialAwareness * 2}{px}</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Relationship Management: Your ability to use awareness of your emotions and the emotions of others to manage interactions successfully. Letting emotional awareness guide clear communication and effective handling of conflict.</td>
-                                                                <td className='text-center'>{RelationshipManagement*2}{px}</td>
+                                                                <td className='text-center'>{RelationshipManagement * 2}{px}</td>
                                                             </tr>
                                                         </table>
                                                     </div>
@@ -290,7 +299,7 @@ export default function result({ result }) {
                                                                     </p>
                                                                 </td>
                                                             </tr>
-                                                        </table>                                                     
+                                                        </table>
                                                     </div>
                                                 </div>
                                             </div>
@@ -299,8 +308,11 @@ export default function result({ result }) {
 
                                             <div className='row'>
                                                 <div className='col-sm-12 pad00'>
-                                                    <div className='ccmdc ptt-50 ccmdc2'>
-                                                    <div className='ajwh'>
+                                                    <div className='ccmdc ptt-20 ccmdc2 ajcbg'>
+                                                        <div className='byldlc cclmc marrcv'>
+                                                            <img className='' src="/assets/img/byld-logo.svg" alt="" />
+                                                        </div>
+                                                        <div className='ajwh'>
                                                             <h4>My Highest and lowest Score Behaviors</h4>
                                                             <p>
                                                                 Given below are the items that you chose as lowest (Claimed areas of Development) and highest <br></br>(Claimed areas of Strength)
@@ -311,7 +323,7 @@ export default function result({ result }) {
                                                             <tr>
                                                                 <td width='200px' className='text-center'>Areas to Work on</td>
                                                                 <td className='cckv'>
-                                                                {
+                                                                    {
                                                                         (() => {
                                                                             if (q1 <= 5)
                                                                                 return <span>I can recognize my emotions as I experience them.</span>
@@ -444,7 +456,7 @@ export default function result({ result }) {
                                                                 <td className='text-center'>Strength to build on</td>
                                                                 <td className='cckv'>
 
-                                                                {
+                                                                    {
                                                                         (() => {
                                                                             if (q1 == 7 || q1 == 8)
                                                                                 return <span>I can recognize my emotions as I experience them.</span>
@@ -571,7 +583,7 @@ export default function result({ result }) {
                                                                                 return <span>I find it hard to get everyone onboard with solutions that would satisfy all</span>
                                                                         })()
                                                                     }
-                                                                    
+
                                                                     {/* {
                                                                         (() => {
                                                                             if (q12 == 7 || q12 == 8)
@@ -579,14 +591,17 @@ export default function result({ result }) {
                                                                         })()
                                                                     } */}
 
-                                                                    
+
                                                                 </td>
                                                             </tr>
                                                         </table>
                                                     </div>
 
 
-                                                    <div className='ccmdc ptt-50 ccmdc2'>
+                                                    <div className='ccmdc ptt-10 ccmdc2'>
+                                                    <div className='byldlc cclmc marrcv'>
+                                                            <img className='' src="/assets/img/byld-logo.svg" alt="" />
+                                                        </div>
                                                         <h2 className='pbb-10'>My 30 days Action Plan</h2>
                                                         <h3>Please check those behaviors</h3>
                                                         <p>
@@ -595,7 +610,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-40 ajp'>
+                                                        <div className='rs-estimate ptt-20 ajp'>
                                                             <h4 className='tclbg'>Self-Awareness: Practice keeping a finger on the pulse of my emotions.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Watch for my “triggers”</li>
@@ -607,7 +622,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-80 ajp'>
+                                                        <div className='rs-estimate ptt-20 ajp'>
                                                             <h4 className='tclbg'>Self-Management: Practice managing my emotions.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Tell myself that there are no bad guys, just a bad situation</li>
@@ -619,7 +634,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-30 ajp'>
+                                                        <div className='rs-estimate ptt-20 ajp'>
                                                             <h4 className='tclbg'>Social Awareness: Practice seeing the whole picture. </h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Don’t take notes at my next meeting</li>
@@ -631,7 +646,7 @@ export default function result({ result }) {
                                                     </div>
 
                                                     <div>
-                                                        <div className='rs-estimate ptt-30 ajp'>
+                                                        <div className='rs-estimate ptt-20 ajp'>
                                                             <h4 className='tclbg'>Relationship Management: Meet my needs, their needs, and our needs.</h4>
                                                             <ul className="estimate-info mtt-5">
                                                                 <li>Focus on improving a key relationship in my social network</li>
@@ -639,6 +654,12 @@ export default function result({ result }) {
                                                                 <li>Schedule a lunch with one key person to discuss something important</li>
                                                             </ul>
                                                         </div>
+                                                    </div>
+                                                </div>
+
+                                                <div className='col-sm-12'>
+                                                    <div className='imgbox ajjcvb'>
+                                                        <img src="/assets/img/lasts.jpg" alt="" />
                                                     </div>
                                                 </div>
                                             </div>

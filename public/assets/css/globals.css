@@ -4431,7 +4431,7 @@ text-align: center;
 }
 
 .tblcon{
-  padding-top: 320px;
+  padding-top: 120px;
 }
 .tblcon span{
   background: #3373af;
@@ -4574,10 +4574,10 @@ text-align: center;
   background-color: #3373af;
   color: #fff;
   font-weight: 500;
-  font-size: 28px;
+  font-size: 22px;
   padding: 12px 10px;
   margin: 0px;
-  margin-bottom: 18px;
+  margin-bottom: 8px;
 }
 
 .dtcilogol img{
@@ -4640,4 +4640,41 @@ padding-bottom: 11px;
  background-repeat: no-repeat;
  background-size: cover;
  left: -2px;
+}
+
+.ajcbg{
+  background: url(/assets/img/cloud-bg.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: 68% 52%;
+  min-height: 1130px;
+}
+
+.ajcbg table{
+  background-color: #fff;
+}
+
+.byldlc{
+
+}
+
+.byldlc img{
+  width: 150px;
+}
+
+.cclmc{
+  text-align: right;
+  margin-bottom: -50px;
+  padding-top: 24px;
+}
+.marrcv{
+  margin-bottom: -20px !important;
+}
+
+.ajjcvb{
+  text-align: center;
+}
+
+.ajjcvb img{
+  width: 80%;
 }

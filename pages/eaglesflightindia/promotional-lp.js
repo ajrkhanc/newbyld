@@ -40,7 +40,40 @@ export default function Home() {
 
     }
 
+    const downloadpdf = async event => {
+        event.preventDefault()
+        document.getElementById("hellocc").value = "Downloading...."
+        const xhttp = new XMLHttpRequest();
+        xhttp.onload = function () {
+            console.log(this.responseText);
+        }
+        xhttp.open("Post", 'https://ajrkhan.xyz/eaglesflightindia/wp-json/contact-form-7/v1/contact-forms/46/feedback');
+        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+        xhttp.onreadystatechange = function () {
+            if (xhttp.readyState == 4) {
+                if (xhttp.status == 200) {
+                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+
+                    document.getElementById("showlabel").style.display = "block";
+                    window.setTimeout(function () {
+                        window.location.href = "/efassets/pdf/eaglesflightindia.pdf"
+                    });
+
+                } else {
+                    alert('There was a problem with the request.');
+                }
+            }
+        };
+        xhttp.send("name=" + event.target.name.value +
+            "&email=" + event.target.email.value +
+            "&phone=" + event.target.phone.value +
+            "&organization=" + event.target.organization.value +
+            "&designation=" + event.target.designation.value)
+
+    }
+
     const [modalOpen, setModalOpen] = React.useState(false);
+    const [modalOpen2, setModalOpen2] = React.useState(false);
 
     return (
         <>
@@ -48,6 +81,48 @@ export default function Home() {
                 <title>Eagle’s Flight LP</title>
                 <meta name="description" content="Experiential Learning is a revelation for those who learn, experience, apply, and practice. But their implementation is done in the form of business team-building activities." />
             </Head>
+
+            <Modal toggle={() => setModalOpen2(!modalOpen2)} isOpen={modalOpen2} backdrop="static" keyboard={false} className='ccmdc'>
+                <button
+                    aria-label="Close"
+                    className="close popcl"
+                    type="button"
+                    onClick={() => setModalOpen2(!modalOpen2)}
+                >
+                    <span aria-hidden={true}>×</span>
+                </button>
+
+                <ModalBody>
+
+                    <form id="contactForm" className='clientcornner ptt-5 pbb-0' onSubmit={downloadpdf}>
+                        <div className="row mmcform">
+                            <div className="col-sm-6 mb-12">
+                                <input type="text" className='borrr' name="name" placeholder="Name*" required />
+                            </div>
+                            <div className="col-sm-6 mb-12">
+                                <input type="text" className='borrr' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                            </div>
+                            <div className="col-sm-12 mb-12">
+                                <input type="email" className='borrr' name="email" placeholder="Work Email/Email*" required />
+                            </div>
+
+
+                            <div className="col-sm-12 mb-12">
+                                <input type="text" className='borrr' name="organization" placeholder="Organization*" required />
+                            </div>
+                            <div className="col-sm-12 mb-12">
+                                <input type="text" className='borrr' name="designation" placeholder="Designation*" required />
+                            </div>
+
+                            <div className="col-lg-12 mb-12 text-center">
+                                <input id='hellocc' className="clientcornnerbtn" type="submit" value="Download" />
+                            </div>
+                            <p id="showlabel" style={{ display: "none" }}></p>
+                        </div>
+                    </form>
+                </ModalBody>
+
+            </Modal>
 
            
             <Modal toggle={() => setModalOpen(!modalOpen)} isOpen={modalOpen} backdrop="static" keyboard={false}>
@@ -251,7 +326,7 @@ export default function Home() {
 
                         <div className='clearfix'></div>
                         <div className='col-sm-12 text-center connetc'>
-                        <a target="_blank" href='https://online.flippingbook.com/view/68141801/'>Download Brochure</a>
+                        <a href='#' onClick={() => setModalOpen2(!modalOpen2)}>Download Brochure</a>
                     </div>
 
                     </div>

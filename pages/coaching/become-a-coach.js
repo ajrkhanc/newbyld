@@ -79,6 +79,7 @@ export default function Home() {
             "&organization=" + event.target.organization.value +
             "&designation=" + event.target.designation.value +
             "&slot=" + event.target.slot.value +
+            "&howdidyouknowaboutus=" + event.target.howdidyouknowaboutus.value +
             "&leadsquared-mx_Business_Entity=" + event.target.Business_Entity.value )
 
     }
@@ -202,6 +203,15 @@ export default function Home() {
                                     <option value='25 November 2023'>25 November 2023</option>
                                     <option value='27 January 2024'>27 January 2024</option>
                                     <option value='09 March 2024'>09 March 2024</option>
+                                </select>
+                            </div>
+
+                            <div className="col-sm-12 mb-12">
+                                <select className='borrr' name='howdidyouknowaboutus' required>
+                                    <option value=''>How did you know about us*</option>                                 
+                                    <option value='Email'>Email</option>
+                                    <option value='Social Media'>Social Media</option>
+                                    <option value='Google Ads'>Google Ads</option>
                                 </select>
                             </div>
 
