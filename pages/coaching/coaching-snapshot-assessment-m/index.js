@@ -52,7 +52,7 @@ export default function BrowseCourses() {
 
 
 
-        var xhr = new XMLHttpRequest();
+        var xhr = new XMLHttpRequest(); 
         xhr.open('POST', 'https://clblogs.vercel.app/api/career-coaching-snapshot');
         xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
         xhr.send('trust1=' + trust1 +
