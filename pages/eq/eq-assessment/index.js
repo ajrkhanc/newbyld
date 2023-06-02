@@ -81,7 +81,7 @@ export default function BrowseCourses() {
                     xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/61/feedback');
                     xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
-                    var Assessment = "DTCI - EQ+ Assessment"
+                    var Assessment = "EQ+ Assessment"
                     xhttp.send("name=" + event.target.name.value +
                         '&email=' + email +
                         '&phone=' + phone +
@@ -89,7 +89,7 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment)
 
                     window.setTimeout(function () {
-                        window.location.href = `/dtci/eq-assessment/${newnameurl}`
+                        window.location.href = `/eq/eq-assessment/${newnameurl}`
                     }, 1000);
                 }
 
