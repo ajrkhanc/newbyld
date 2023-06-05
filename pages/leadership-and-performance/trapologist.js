@@ -82,8 +82,8 @@ export default function Trapologist(){
                                         <div className="col-sm-6 pppp8">
                                             <select name="anyslot" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                {/* <option value="Webinar: 1st February, 2023">Webinar: 1st February, 2023</option>
-                                                <option value="Webinar: 4th January, 2023">Webinar: 4th January, 2023</option>
+                                                 <option value="Workshop: 10th August, 2023">Workshop: 10th August, 2023</option>
+                                                {/*<option value="Webinar: 4th January, 2023">Webinar: 4th January, 2023</option>
                                                 <option value="Virtual Public Workshop:  27th January, 2023">Virtual Public Workshop:  27th January, 2023</option> */}
                                             </select>                                            
                                         </div>
@@ -116,8 +116,8 @@ export default function Trapologist(){
             <div className="rs-testimonial style4 bg16 ptt-50 pbb-50">
                 <div className="container">                    
                     <div className="row">
-                      <div className='col-sm-12'>
-                           <div className="clientcornnertest">
+                      <div className='col-sm-8'>
+                           <div className="clientcornnertest atcb">
                                 <div className="testi-information">                                    
                                     <span className="testi-title textleftc">
                                     We know what it feels like to be stuck. After three years of study and research of human dynamics in the workplace, we are offering you solutions to the 7 modern-day traps in a transformative training course – Trapologist at WorkTM.
@@ -135,7 +135,7 @@ export default function Trapologist(){
                                 </div>                                
                             </div>
                       </div>
-                      {/* <div className='col-sm-4'>                        
+                      <div className='col-sm-4'>                        
                                 <div className="clientcornnertest bgpurewhite">                                    
                                     <div className="testi-information">
                                     <div className="testi-name textleftc orangecolor mbb-15">Explore Our Upcoming Events</div>
@@ -149,11 +149,11 @@ export default function Trapologist(){
                                         </div>
                                         <div className='eventstext'>
                                             <h3>Trapologist at Work™</h3>
-                                            <h4>Webinar: 4th January, 2023</h4>
+                                            <h4>Workshop: 10th August, 2023</h4>
                                         </div>
                                     </div>
 
-                                    <div className='eventslist'>
+                                    {/* <div className='eventslist'>
                                         <div className='eventicon'>
                                             <i className='fa fa-calendar'></i>
                                         </div>
@@ -171,11 +171,11 @@ export default function Trapologist(){
                                             <h3>Trapologist at Work™</h3>
                                             <h4>Webinar: 1st February, 2023</h4>
                                         </div>
-                                    </div>                                   
+                                    </div>                                    */}
 
                                     
                                 </div>
-                            </div>                             */}
+                            </div>                            
                     </div>
                 </div>
             </div>
