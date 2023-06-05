@@ -148,7 +148,7 @@ export default function Trapologist(){
                                             <i className='fa fa-calendar'></i>
                                         </div>
                                         <div className='eventstext'>
-                                            <h3>Trapologist at Work™</h3>
+                                            <h3>Trapologist at Work<sup>®</sup></h3>
                                             <h4>Workshop: 10th August, 2023</h4>
                                         </div>
                                     </div>
