@@ -63,79 +63,48 @@ export default function result({ result }) {
 
                                     var px = '%'
                                     var Leadership = parseInt(results.q1) + parseInt(results.q2) + parseInt(results.q3) + parseInt(results.q4) + parseInt(results.q5) + parseInt(results.q6) + parseInt(results.q7) + parseInt(results.q8) + parseInt(results.q9) + parseInt(results.q10) + parseInt(results.q11)
-                                    var trust1r = (trust1/2).toFixed(1)
-                                    var trust1reresultbar = 7.14 * trust1 + px
-                                    var trust1reresult = 7.14 * trust1
+                                    var Leadership100 = (Leadership/110*100).toFixed(2)
+                                    var Leadershipresultbar = Leadership100 + px
+                                    
 
                                     var Interaction = parseInt(results.q12) + parseInt(results.q13) + parseInt(results.q14) + parseInt(results.q15) + parseInt(results.q16) + parseInt(results.q17) + parseInt(results.q18)
-                                    var trust2r = (trust2/3).toFixed(1)
-                                    var trust2reresultbar = 4.76 * trust2 + px
-                                    var trust2reresult = 4.76 * trust2
+                                    var Interaction100 = (Interaction/70*100).toFixed(2)
+                                    var Interactionresultbar = Interaction100 + px
+                                    
 
                                     var CommunicationSkills = parseInt(results.q19) + parseInt(results.q20) + parseInt(results.q21) + parseInt(results.q22) + parseInt(results.q23) + parseInt(results.q24) + parseInt(results.q25) + parseInt(results.q26)
-                                    var ec1r = (ec1/3).toFixed(1)
-                                    var ec1reresultbar = 4.76 * ec1 + px
-                                    var ec1reresult = 4.76 * ec1
+                                    var CommunicationSkills100 = (CommunicationSkills/80*100).toFixed(2)
+                                    var CommunicationSkillsresultbar = CommunicationSkills100 + px
+                                   
 
                                     var AnalyticalSkills = parseInt(results.q27) + parseInt(results.q28) + parseInt(results.q29)
-                                    var ec2r = (ec2/3).toFixed(1)
-                                    var ec2reresultbar = 4.76 * ec2 + px
-                                    var ec2reresult = 4.76 * ec2
+                                    var AnalyticalSkills100 = (AnalyticalSkills/30*100).toFixed(2)
+                                    var AnalyticalSkillsresultbar = AnalyticalSkills100 + px
+                                    
 
                                     var Improvement = parseInt(results.q30) + parseInt(results.q31) + parseInt(results.q32) + parseInt(results.q33) + parseInt(results.q34)
-                                    var ec3r = (ec3/3).toFixed(1)
-                                    var ec3reresultbar = 4.76 * ec3 + px
-                                    var ec3reresult = 4.76 * ec3
+                                    var Improvement100 = (Improvement/50*100).toFixed(2)
+                                    var Improvementresultbar = Improvement100 + px
+                                    
 
                                     var Managing = parseInt(results.q35) + parseInt(results.q36) + parseInt(results.q37) + parseInt(results.q38) + parseInt(results.q39) + parseInt(results.q40) + parseInt(results.q41)
-                                    var ec4r = (ec4/3).toFixed(1)
-                                    var ec4reresultbar = 4.76 * ec4 + px
-                                    var ec4reresult = 4.76 * ec4
+                                    var Managing100 = (Managing/70*100).toFixed(2)
+                                    var Managingresultbar = Managing100 + px
+                                    
 
                                     var Flexibility = parseInt(results.q42) + parseInt(results.q43)
-                                    var ec5r = (ec5/2).toFixed(1)
-                                    var ec5reresultbar = 7.14 * ec5 + px
-                                    var ec5reresult = 7.14 * ec5
+                                    var Flexibility100 = (Flexibility/20*100).toFixed(2)
+                                    var Flexibilityresultbar = Flexibility100 + px
+                                    
 
                                     var Performance = parseInt(results.q44) + parseInt(results.q45) + parseInt(results.q46) + parseInt(results.q47) + parseInt(results.q48) + parseInt(results.q49) + parseInt(results.q50) + parseInt(results.q51) + parseInt(results.q52) + parseInt(results.q53) + parseInt(results.q54) + parseInt(results.q55)
-                                    var pf1r = (pf1/2).toFixed(1)
-                                    var pf1reresultbar = 7.14 * pf1 + px
-                                    var pf1reresult = 7.14 * pf1
+                                    var Performance100 = (Performance/2).toFixed(1)
+                                    var Performanceresultbar = Performance100 + px
 
-                                    var pf2 = parseInt(results.pf3) + parseInt(results.pf4)
-                                    var pf2r = (pf2/2).toFixed(1)
-                                    var pf2reresultbar = 7.14 * pf2 + px
-                                    var pf2reresult = 7.14 * pf2
-
-                                    var pf3 = parseInt(results.pf5) + parseInt(results.pf6)
-                                    var pf3r = (pf3/2).toFixed(1)
-                                    var pf3reresultbar = 7.14 * pf3 + px
-                                    var pf3reresult = 7.14 * pf3
-
-                                    var cr1 = parseInt(results.cr1).toFixed(1)
-                                    var cr1reresultbar = 14.28 * cr1 + px
-                                    var cr1reresult = 14.28 * cr1
-
-                                    var cr2 = parseInt(results.cr2).toFixed(1)
-                                    var cr2reresultbar = 14.28 * cr2 + px
-                                    var cr2reresult = 14.28 * cr2
-
-                                    var cr3 = parseInt(results.cr3).toFixed(1)
-                                    var cr3reresultbar = 14.28 * cr3 + px
-                                    var cr3reresult = 14.28 * cr3
-
-                                    var cr4 = parseInt(results.cr4).toFixed(1)
-                                    var cr4reresultbar = 14.28 * cr4 + px
-                                    var cr4reresult = 14.28 * cr4
-
-                                    var cr5 = parseInt(results.cr5).toFixed(1)
-                                    var cr5reresultbar = 14.28 * cr5 + px
-                                    var cr5reresult = 14.28 * cr5
-
-
-
-
-
+                                    var Overall = parseInt(results.q44) + parseInt(results.q45) + parseInt(results.q46) + parseInt(results.q47) + parseInt(results.q48) + parseInt(results.q49) + parseInt(results.q50) + parseInt(results.q51) + parseInt(results.q52) + parseInt(results.q53) + parseInt(results.q54) + parseInt(results.q55)
+                                    var Overall100 = (Overall/550*100).toFixed(2)
+                                    var Overallresultbar = Overall100 + px
+                               
 
                                     return (
 
@@ -179,46 +148,27 @@ export default function result({ result }) {
                                             <div className='resultable'>
                                                 <table>
                                                     <tr className='tablefbh'>
-                                                        <th>Competency</th>
-                                                        <th>Sub-Competency</th>
+                                                        <th>Competency</th>                                         
                                                         <th>Self</th>
                                                         <th>Result</th>
                                                     </tr>
                                                     <tr>
-                                                        <td className='firsttd'>TRUST</td>
-                                                        <td>
-                                                            <span>Establishing trust and respect</span>
-                                                            <span>Acting with integrity</span>
+                                                        <td className='firsttd'>Leadership</td>                                                       
+                                                        <td>                                                          
+                                                            <span>{Leadership100}</span>
                                                         </td>
                                                         <td>
-                                                            <span>{trust1r}</span>
-                                                            <span>{trust2r}</span>
-                                                        </td>
-                                                        <td>
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (trust1r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: trust1reresultbar }}></div>
-                                                                            if (trust1r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: trust1reresultbar }}></div>
-                                                                            else (trust1r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: trust1reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
+                                                            
                                                             <span>
                                                                 <div className='result-bar-wrapper'>
                                                                 {
                                                                         (() => {
-                                                                            if (trust2r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: trust2reresultbar }}></div>
-                                                                            if (trust2r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: trust2reresultbar }}></div>
-                                                                            else (trust2r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: trust2reresultbar }}></div>
+                                                                            if (Leadership100 <= 4.5)
+                                                                                return <div class="result-bar bgred" style={{ width: Leadershipresultbar }}></div>
+                                                                            if (Leadership100 <= 6.0)
+                                                                                return <div class="result-bar yellobg" style={{ width: Leadershipresultbar }}></div>
+                                                                            else (Leadership100 <= 6.1)
+                                                                            return <div class="result-bar greenbg" style={{ width: Leadershipresultbar }}></div>
                                                                         })()
                                                                     }
                                                                 </div>
@@ -227,90 +177,21 @@ export default function result({ result }) {
                                                     </tr>
 
                                                     <tr>
-                                                        <td className='firsttd'>EFFECTIVE COMMUNICATION</td>
+                                                        <td className='firsttd'>Interaction</td>                                                       
                                                         <td>
-                                                            <span>Keeping conversation focused on a goal</span>
-                                                            <span>Encouraging alternative ways to view and define problems</span>
-                                                            <span>Valuing the individual’s perspective</span>
-                                                            <span>Listening and being fully present</span>
-                                                            <span>Asking good questions</span>
-                                                        </td>
-                                                        <td>
-                                                            <span>{ec1r}</span>
-                                                            <span>{ec2r}</span>
-                                                            <span>{ec3r}</span>
-                                                            <span>{ec4r}</span>
-                                                            <span>{ec5r}</span>
+                                                            <span>{Interaction100}</span>
                                                         </td>
                                                         <td>
                                                             <span>
                                                                 <div className='result-bar-wrapper'>
                                                                     {
                                                                         (() => {
-                                                                            if (ec1r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: ec1reresultbar }}></div>
-                                                                            if (ec1r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: ec1reresultbar }}></div>
-                                                                            else (ec1r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: ec1reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (ec2r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: ec2reresultbar }}></div>
-                                                                            if (ec2r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: ec2reresultbar }}></div>
-
-                                                                          
-                                                                            else (ec2r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: ec2reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (ec3r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: ec3reresultbar }}></div>
-                                                                            if (ec3r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: ec3reresultbar }}></div>
-                                                                            else (ec3r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: ec3reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (ec4r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: ec4reresultbar }}></div>
-                                                                            if (ec4r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: ec4reresultbar }}></div>
-                                                                            else (ec4r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: ec4reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (ec5r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: ec5reresultbar }}></div>
-                                                                            if (ec5r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: ec5reresultbar }}></div>
-                                                                            else (ec5r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: ec5reresultbar }}></div>
+                                                                            if (Interaction100 <= 4.5)
+                                                                                return <div class="result-bar bgred" style={{ width: Interactionresultbar }}></div>
+                                                                            if (Interaction100 <= 6.0)
+                                                                                return <div class="result-bar yellobg" style={{ width: Interactionresultbar }}></div>
+                                                                            else (Interaction100 <= 6.1)
+                                                                            return <div class="result-bar greenbg" style={{ width: Interactionresultbar }}></div>
                                                                         })()
                                                                     }
                                                                 </div>
@@ -319,56 +200,22 @@ export default function result({ result }) {
                                                     </tr>
 
                                                     <tr>
-                                                        <td className='firsttd'>PERFORMANCE FOCUS</td>
+                                                        <td className='firsttd'>Communication Skills</td>
+                                                        
                                                         <td>
-                                                            <span>Focusing on action</span>
-                                                            <span>Aligning with the business</span>
-                                                            <span>Enhancing performance</span>
+                                                            <span>{CommunicationSkills100}</span>
                                                         </td>
-                                                        <td>
-                                                            <span>{pf1r}</span>
-                                                            <span>{pf2r}</span>
-                                                            <span>{pf3r}</span>
-                                                        </td>
-                                                        <td>
+                                                        <td>                                                          
                                                             <span>
                                                                 <div className='result-bar-wrapper'>
                                                                     {
                                                                         (() => {
-                                                                            if (pf1r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: pf1reresultbar }}></div>
-                                                                            if (pf1r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: pf1reresultbar }}></div>                                                                            
-                                                                            else (pf1r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: pf1reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (pf2r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: pf2reresultbar }}></div>
-                                                                            if (pf2r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: pf2reresultbar }}></div>                                                                            
-                                                                            else (pf2r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: pf2reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (pf3r <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: pf3reresultbar }}></div>
-                                                                            if (pf3r <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: pf3reresultbar }}></div>
-                                                                            else (pf3r <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: pf3reresultbar }}></div>
+                                                                            if (CommunicationSkills100 <= 4.5)
+                                                                                return <div class="result-bar bgred" style={{ width: CommunicationSkillsresultbar }}></div>
+                                                                            if (CommunicationSkills100 <= 6.0)
+                                                                                return <div class="result-bar yellobg" style={{ width: CommunicationSkillsresultbar }}></div>
+                                                                            else (CommunicationSkills100 <= 6.1)
+                                                                            return <div class="result-bar greenbg" style={{ width: CommunicationSkillsresultbar }}></div>
                                                                         })()
                                                                     }
                                                                 </div>
@@ -377,103 +224,131 @@ export default function result({ result }) {
                                                     </tr>
 
                                                     <tr>
-                                                        <td className='firsttd'>COACHING ROUTINE</td>
+                                                        <td className='firsttd'>Analytical Skills</td>
+                                                       
                                                         <td>
-                                                            <span>Following up on progress</span>
-                                                            <span>Providing ongoing support</span>
-                                                            <span>Reinforcing accountability</span>
-                                                            <span>Structuring time for conversation</span>
-                                                            <span>Promoting self-discovery</span>
-                                                        </td>
-                                                        <td>
-                                                            <span>{cr1}</span>
-                                                            <span>{cr2}</span>
-                                                            <span>{cr3}</span>
-                                                            <span>{cr4}</span>
-                                                            <span>{cr5}</span>
+                                                            <span>{AnalyticalSkills100}</span>
                                                         </td>
                                                         <td>
                                                             <span>
                                                                 <div className='result-bar-wrapper'>
                                                                     {
                                                                         (() => {
-                                                                            if (cr1 <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: cr1reresultbar }}></div>
-                                                                            if (cr1 <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: cr1reresultbar }}></div>
+                                                                            if (AnalyticalSkills100 <= 4.5)
+                                                                                return <div class="result-bar bgred" style={{ width: AnalyticalSkillsresultbar }}></div>
+                                                                            if (AnalyticalSkills100 <= 6.0)
+                                                                                return <div class="result-bar yellobg" style={{ width: AnalyticalSkillsresultbar }}></div>
                                                                             
-                                                                            else (cr1 <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: cr1reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (cr2 <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: cr2reresultbar }}></div>
-                                                                            if (cr2 <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: cr2reresultbar }}></div>
-                                                                           
-                                                                            else (cr2 <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: cr2reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (cr3 <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: cr3reresultbar }}></div>
-                                                                            if (cr3 <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: cr3reresultbar }}></div>
-                                                                            
-                                                                            else (cr3 <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: cr3reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (cr4 <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: cr4reresultbar }}></div>
-                                                                            if (cr4 <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: cr4reresultbar }}></div>
-                                                                            
-                                                                            else (cr4 <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: cr4reresultbar }}></div>
-                                                                        })()
-                                                                    }
-                                                                </div>
-                                                            </span>
-
-                                                            <span>
-                                                                <div className='result-bar-wrapper'>
-                                                                    {
-                                                                        (() => {
-                                                                            if (cr5 <= 4.5)
-                                                                                return <div class="result-bar bgred" style={{ width: cr5reresultbar }}>.</div>
-                                                                            if (cr5 <= 6.0)
-                                                                                return <div class="result-bar yellobg" style={{ width: cr5reresultbar }}>.</div>
-                                                                            
-                                                                            else (cr5 <= 6.1)
-                                                                            return <div class="result-bar greenbg" style={{ width: cr5reresultbar }}>.</div>
+                                                                            else (AnalyticalSkills100 <= 6.1)
+                                                                            return <div class="result-bar greenbg" style={{ width: AnalyticalSkillsresultbar }}></div>
                                                                         })()
                                                                     }
                                                                 </div>
                                                             </span>
                                                         </td>
                                                     </tr>
+
+                                                    <tr>
+                                                        <td className='firsttd'>Improvement</td>
+                                                       
+                                                        <td>
+                                                            <span>{Improvement100}</span>
+                                                        </td>
+                                                        <td>
+                                                            <span>
+                                                                <div className='result-bar-wrapper'>
+                                                                    {
+                                                                        (() => {
+                                                                            if (Improvement100 <= 4.5)
+                                                                                return <div class="result-bar bgred" style={{ width: Improvementresultbar }}></div>
+                                                                            if (Improvement100 <= 6.0)
+                                                                                return <div class="result-bar yellobg" style={{ width: Improvementresultbar }}></div>
+                                                                            
+                                                                            else (Improvement100 <= 6.1)
+                                                                            return <div class="result-bar greenbg" style={{ width: Improvementresultbar }}></div>
+                                                                        })()
+                                                                    }
+                                                                </div>
+                                                            </span>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td className='firsttd'>Managing</td>
+                                                       
+                                                        <td>
+                                                            <span>{Managing100}</span>
+                                                        </td>
+                                                        <td>
+                                                            <span>
+                                                                <div className='result-bar-wrapper'>
+                                                                    {
+                                                                        (() => {
+                                                                            if (Managing100 <= 4.5)
+                                                                                return <div class="result-bar bgred" style={{ width: Managingresultbar }}></div>
+                                                                            if (Managing100 <= 6.0)
+                                                                                return <div class="result-bar yellobg" style={{ width: Managingresultbar }}></div>
+                                                                            
+                                                                            else (Managing100 <= 6.1)
+                                                                            return <div class="result-bar greenbg" style={{ width: Managingresultbar }}></div>
+                                                                        })()
+                                                                    }
+                                                                </div>
+                                                            </span>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td className='firsttd'>Flexibility</td>
+                                                       
+                                                        <td>
+                                                            <span>{Flexibility100}</span>
+                                                        </td>
+                                                        <td>
+                                                            <span>
+                                                                <div className='result-bar-wrapper'>
+                                                                    {
+                                                                        (() => {
+                                                                            if (Flexibility100 <= 4.5)
+                                                                                return <div class="result-bar bgred" style={{ width: Flexibilityresultbar }}></div>
+                                                                            if (Flexibility100 <= 6.0)
+                                                                                return <div class="result-bar yellobg" style={{ width: Flexibilityresultbar }}></div>
+                                                                            
+                                                                            else (Flexibility100 <= 6.1)
+                                                                            return <div class="result-bar greenbg" style={{ width: Flexibilityresultbar }}></div>
+                                                                        })()
+                                                                    }
+                                                                </div>
+                                                            </span>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td className='firsttd'>Performance</td>
+                                                       
+                                                        <td>
+                                                            <span>{Performance100}</span>
+                                                        </td>
+                                                        <td>
+                                                            <span>
+                                                                <div className='result-bar-wrapper'>
+                                                                    {
+                                                                        (() => {
+                                                                            if (Performance100 <= 4.5)
+                                                                                return <div class="result-bar bgred" style={{ width: Performanceresultbar }}></div>
+                                                                            if (Performance100 <= 6.0)
+                                                                                return <div class="result-bar yellobg" style={{ width: Performanceresultbar }}></div>
+                                                                            
+                                                                            else (Performance100 <= 6.1)
+                                                                            return <div class="result-bar greenbg" style={{ width: Performanceresultbar }}></div>
+                                                                        })()
+                                                                    }
+                                                                </div>
+                                                            </span>
+                                                        </td>
+                                                    </tr>
+
+
                                                 </table>                                                
                                             </div>
 
