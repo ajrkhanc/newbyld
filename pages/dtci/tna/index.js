@@ -715,28 +715,16 @@ export default function BrowseCourses() {
 
                                 <div className='ccccf'>
                                     <div className='fh3'>
-                                        <h3>Self Management</h3>
+                                        <h3>Interaction</h3>
                                     </div>
                                 </div>
-
-                                
-
-                                <div className='ccccf'>
-                                    <div className='fh3'>
-                                        <h3>Social Awareness</h3>
-                                    </div>
-                                </div>
-                                
-
-
-
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I ask people for feedback on what I do well, and how I can improve
+                                    Empathy: People in our organization recognize and identify with the feelings and needs of others
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q12" value="1" id="q12a" required />
@@ -779,16 +767,16 @@ export default function BrowseCourses() {
                                         <label for="q12j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I use active listening skills when people speak to me
+                                    Listening:  People in our organization possess the ability to glean information from verbal announcements; probes: responding to reactions.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q13" value="1" id="q13a" required />
@@ -831,16 +819,16 @@ export default function BrowseCourses() {
                                         <label for="q13j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I find it difficult to read other people’s emotions
+                                    Sociability: People in our organization are at ease in the company of others.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q14" value="1" id="q14a" required />
@@ -883,16 +871,16 @@ export default function BrowseCourses() {
                                         <label for="q14j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I find it hard to spot the mood in the room when things are not going well
+                                    Teamwork: People in our organization work effectively and productively together and make a positive contribution to the common goal.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q15" value="1" id="q15a" required />
@@ -935,21 +923,16 @@ export default function BrowseCourses() {
                                         <label for="q15j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
-                                <div className='ccccf'>
-                                    <div className='fh3'>
-                                        <h3>Relationship Management</h3>
-                                    </div>
-                                </div>
                                 <div className='fcol1'>
                                     <h2>
-                                    I find it hard to get people to share what their real motives are
+                                    Building trust: People know how to gain and maintain trust from others through consistent behavior.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q16" value="1" id="q16a" required />
@@ -992,16 +975,16 @@ export default function BrowseCourses() {
                                         <label for="q16j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
-                                </div>                                
+                                </div> 
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I avoid conflict and negotiations
+                                    Integrity: People in our organization are able to display and build the highest standards of ethical and moral conduct in order to promote confidence and trust.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q17" value="1" id="q17a" required />
@@ -1044,16 +1027,16 @@ export default function BrowseCourses() {
                                         <label for="q17j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I set long-term goals and review my progress regularly
+                                    Organizational commitment: People in our organization can easily identify with the culture, goals and values of the organization.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q18" value="1" id="q18a" required />
@@ -1096,16 +1079,24 @@ export default function BrowseCourses() {
                                         <label for="q18j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Highly Proficient</label>
+                                    </div>
+                                </div>
+
+                                
+
+                                <div className='ccccf'>
+                                    <div className='fh3'>
+                                        <h3>Communication Skills</h3>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I struggle to build rapport with others
+                                    Building relations: People in our organization can easily establish genuine relationships to create networks.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q19" value="1" id="q19a" required />
@@ -1148,16 +1139,16 @@ export default function BrowseCourses() {
                                         <label for="q19j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I find it hard to get everyone onboard with solutions that would satisfy all
+                                    Managing conflicts: People in our organization can handle and solve conflicts of interest with a large emotional cargo in a delicate manner.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q20" value="1" id="q20a" required />
@@ -1200,9 +1191,390 @@ export default function BrowseCourses() {
                                         <label for="q20j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
+
+                                <div className='fcol1'>
+                                    <h2>
+                                    Influencing: People in our organization can influence others to ensure that goals are successfully achieved.
+                                    </h2>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Not Proficient</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="1" id="q20a" required />
+                                        <label for="q20a">1</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="2" id="q20b" required />
+                                        <label for="q20b">2</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="3" id="q20c" required />
+                                        <label for="q20c">3</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="4" id="q20d" required />
+                                        <label for="q20d">4</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="5" id="q20e" required />
+                                        <label for="q20e">5</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="6" id="q20f" required />
+                                        <label for="q20f">6</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="7" id="q20g" required />
+                                        <label for="q20g">7</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="8" id="q20h" required />
+                                        <label for="q20h">8</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="9" id="q20i" required />
+                                        <label for="q20i">9</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="10" id="q20j" required />
+                                        <label for="q20j">10</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Highly Proficient</label>
+                                    </div>
+                                </div>
+
+                                <div className='fcol1'>
+                                    <h2>
+                                    Negotiating: Leaders in our organization have ability of gaining optimal results in situations with conflicting interests.
+                                    </h2>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Not Proficient</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="1" id="q20a" required />
+                                        <label for="q20a">1</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="2" id="q20b" required />
+                                        <label for="q20b">2</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="3" id="q20c" required />
+                                        <label for="q20c">3</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="4" id="q20d" required />
+                                        <label for="q20d">4</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="5" id="q20e" required />
+                                        <label for="q20e">5</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="6" id="q20f" required />
+                                        <label for="q20f">6</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="7" id="q20g" required />
+                                        <label for="q20g">7</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="8" id="q20h" required />
+                                        <label for="q20h">8</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="9" id="q20i" required />
+                                        <label for="q20i">9</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="10" id="q20j" required />
+                                        <label for="q20j">10</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Highly Proficient</label>
+                                    </div>
+                                </div>
+
+                                <div className='fcol1'>
+                                    <h2>
+                                    Persuasiveness: People in our organization have the ability to convince others of own point of view by using appropriate arguments and influencing techniques.
+                                    </h2>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Not Proficient</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="1" id="q20a" required />
+                                        <label for="q20a">1</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="2" id="q20b" required />
+                                        <label for="q20b">2</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="3" id="q20c" required />
+                                        <label for="q20c">3</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="4" id="q20d" required />
+                                        <label for="q20d">4</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="5" id="q20e" required />
+                                        <label for="q20e">5</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="6" id="q20f" required />
+                                        <label for="q20f">6</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="7" id="q20g" required />
+                                        <label for="q20g">7</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="8" id="q20h" required />
+                                        <label for="q20h">8</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="9" id="q20i" required />
+                                        <label for="q20i">9</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="10" id="q20j" required />
+                                        <label for="q20j">10</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Highly Proficient</label>
+                                    </div>
+                                </div>
+
+                                <div className='fcol1'>
+                                    <h2>
+                                    Speaking with impact: Presenting ideas and opinions clearly, in easy-to-understand language, concisely and persuasively so that the message is clearly conveyed.
+                                    </h2>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Not Proficient</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="1" id="q20a" required />
+                                        <label for="q20a">1</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="2" id="q20b" required />
+                                        <label for="q20b">2</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="3" id="q20c" required />
+                                        <label for="q20c">3</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="4" id="q20d" required />
+                                        <label for="q20d">4</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="5" id="q20e" required />
+                                        <label for="q20e">5</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="6" id="q20f" required />
+                                        <label for="q20f">6</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="7" id="q20g" required />
+                                        <label for="q20g">7</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="8" id="q20h" required />
+                                        <label for="q20h">8</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="9" id="q20i" required />
+                                        <label for="q20i">9</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="10" id="q20j" required />
+                                        <label for="q20j">10</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Highly Proficient</label>
+                                    </div>
+                                </div>
+
+                                <div className='fcol1'>
+                                    <h2>
+                                    Communication skills: People in our organization possess the social and communication skills required to maintain contacts in the interest of the company.
+                                    </h2>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Not Proficient</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="1" id="q20a" required />
+                                        <label for="q20a">1</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="2" id="q20b" required />
+                                        <label for="q20b">2</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="3" id="q20c" required />
+                                        <label for="q20c">3</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="4" id="q20d" required />
+                                        <label for="q20d">4</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="5" id="q20e" required />
+                                        <label for="q20e">5</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="6" id="q20f" required />
+                                        <label for="q20f">6</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="7" id="q20g" required />
+                                        <label for="q20g">7</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="8" id="q20h" required />
+                                        <label for="q20h">8</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="9" id="q20i" required />
+                                        <label for="q20i">9</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="10" id="q20j" required />
+                                        <label for="q20j">10</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Highly Proficient</label>
+                                    </div>
+                                </div>
+
+                                <div className='fcol1'>
+                                    <h2>
+                                    Presentation skills: People in our organization have the ability to communicate effectively during (sales) talks by conveying information in a clear, structured and inspiring way.
+                                    </h2>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Not Proficient</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="1" id="q20a" required />
+                                        <label for="q20a">1</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="2" id="q20b" required />
+                                        <label for="q20b">2</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="3" id="q20c" required />
+                                        <label for="q20c">3</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="4" id="q20d" required />
+                                        <label for="q20d">4</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="5" id="q20e" required />
+                                        <label for="q20e">5</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="6" id="q20f" required />
+                                        <label for="q20f">6</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="7" id="q20g" required />
+                                        <label for="q20g">7</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="8" id="q20h" required />
+                                        <label for="q20h">8</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="9" id="q20i" required />
+                                        <label for="q20i">9</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="10" id="q20j" required />
+                                        <label for="q20j">10</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Highly Proficient</label>
+                                    </div>
+                                </div>
+
+                                <div className='fcol1'>
+                                    <h2>
+                                    ddddddddddddddddddddddddddddddddddddddddddd
+                                    </h2>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Not Proficient</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="1" id="q20a" required />
+                                        <label for="q20a">1</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="2" id="q20b" required />
+                                        <label for="q20b">2</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="3" id="q20c" required />
+                                        <label for="q20c">3</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="4" id="q20d" required />
+                                        <label for="q20d">4</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="5" id="q20e" required />
+                                        <label for="q20e">5</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="6" id="q20f" required />
+                                        <label for="q20f">6</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="7" id="q20g" required />
+                                        <label for="q20g">7</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="8" id="q20h" required />
+                                        <label for="q20h">8</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="9" id="q20i" required />
+                                        <label for="q20i">9</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <input type="radio" name="q20" value="10" id="q20j" required />
+                                        <label for="q20j">10</label>
+                                    </div>
+                                    <div className='fcolmain'>
+                                        <label className='beafinput'>Highly Proficient</label>
+                                    </div>
+                                </div>
+                                
+
+
+
+
+                                
+
+                                <div className='ccccf'>
+                                    <div className='fh3'>
+                                        <h3>Relationship Management</h3>
+                                    </div>
+                                </div>
+                                                               
+
+                           
+
+                                
                             </div>
 
 

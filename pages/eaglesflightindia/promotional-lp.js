@@ -160,7 +160,7 @@ export default function Home() {
                                         <div className="col-sm-12 mb-12">
                                             <select name="slot" required>
                                                 <option value="">Pick up your Slot*</option>
-                                                <option value="Eagle's Flight Executive Briefing: January 11th, 2023">Eagle's Flight Executive Briefing: January 11th, 2023</option>
+                                                <option value="Eagle's Flight Executive Briefing: June 27th, 2023">Eagle's Flight Executive Briefing: June 27th, 2023</option>
                                             </select>
                                         </div>
                                       
@@ -371,8 +371,8 @@ export default function Home() {
                                 <h3>Facing difficulty in optimizing productivity with limited time and resources</h3>
 
                                 <div class="workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> May 13th, 2022</h6>
-                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10.00 AM to 4.30 PM</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 27th, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11 AM to 2 PM</h6>
                                     <a className='enbtnc' onClick={() => setModalOpen(!modalOpen)}>Enroll Now</a>
                                 </div>
                             </div>
