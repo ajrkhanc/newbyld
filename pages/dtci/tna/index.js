@@ -114,16 +114,9 @@ export default function BrowseCourses() {
     return (
         <>
             <Head>
-                <title>EQ+ Assessment | BYLD Group</title>
+                <title>Training Need Analysis by Key Stakeholder | BYLD Group</title>
                 <meta name="description" content="Circle the number that best represents the extent to which you do the following" />
-                {/* <script async src="https://www.googletagmanager.com/gtag/js?id=G-334NQCHLMD"></script>
-                <script
-                    dangerouslySetInnerHTML={{
-                        __html: `
-              window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-334NQCHLMD');
-          `,
-                    }}
-                /> */}
+              
             </Head>
 
             <section className='assesmentbannnerbg'>
@@ -143,16 +136,16 @@ export default function BrowseCourses() {
                         <div className='row'>
                             <div className='col-sm-12'>
                                 <div className='fh3'>
-                                    <h3>Self Awareness</h3>
+                                    <h3>Leadership</h3>
                                 </div>
                             </div>
                             <div className='col-sm-12 mradio'>
                                 <div className='fcol1'>
                                     <h2>
-                                        I can recognize my emotions as I experience them.
+                                    Initiative : Leaders in our organization identify opportunities or problems and act accordingly.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at all</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q1" value="1" id="q1a" required />
@@ -195,16 +188,16 @@ export default function BrowseCourses() {
                                         <label for="q1j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very often</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                        I find it hard to name the emotion(s) as I am experiencing them.
+                                    Decisiveness: People in our organization make well-considered decisions using effective decision-making techniques
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q2" value="1" id="q2a" required />
@@ -247,16 +240,16 @@ export default function BrowseCourses() {
                                         <label for="q2j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at all</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                        I know my strengths and weaknesses
+                                    Lead courageously: People in our organization demonstrate courage by addressing issues clearly.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at all</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q3" value="1" id="q3a" required />
@@ -299,17 +292,17 @@ export default function BrowseCourses() {
                                         <label for="q3j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                        I am aware of time(s) and situations that trigger off reaction(s) in me.
+                                    Responsibility: Leaders in the organization take responsibility for accomplishing work goals within accepted timeframes.
                                     </h2>
 
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at all</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q4" value="1" id="q4a" required />
@@ -352,16 +345,16 @@ export default function BrowseCourses() {
                                         <label for="q4j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                        I ask for feedback from others on what I do well and what can I change
+                                    Risk willingness: Leaders in the organization do not hold back in the face of uncertainties.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q5" value="1" id="q5a" required />
@@ -404,22 +397,16 @@ export default function BrowseCourses() {
                                         <label for="q5j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
-                                    </div>
-                                </div>
-
-                                <div className='ccccf'>
-                                    <div className='fh3'>
-                                        <h3>Self Management</h3>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I lose my temper when I feel frustrated
+                                    Coaching and developing: People in the organization guide, motivate and inspire staff in line with organizational objectives.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q6" value="1" id="q6a" required />
@@ -462,17 +449,17 @@ export default function BrowseCourses() {
                                         <label for="q6j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I know how to calm myself, when I feel anxious or upset
+                                    Empowerment: People in our organization instill a sense of trust and responsibility among employees.
                                     </h2>
 
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q7" value="1" id="q7a" required />
@@ -515,16 +502,16 @@ export default function BrowseCourses() {
                                         <label for="q7j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I find it difficult to engage, when I feel frustrated or unhappy
+                                    Leadership: Leaders in our organization direct and steer employees in performing their tasks and duties to achieve goals
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q8" value="1" id="q8a" required />
@@ -567,15 +554,15 @@ export default function BrowseCourses() {
                                         <label for="q8j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
                                 <div className='fcol1'>
                                     <h2>
-                                    I often feel, I don’t enjoy my work
+                                    Managing objectives: Leaders in our organization apply core management skills, tools, and techniques to deliver results;
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q9" value="1" id="q9a" required />
@@ -618,16 +605,16 @@ export default function BrowseCourses() {
                                         <label for="q9j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
                                 <div className='fcol1'>
                                     <h2>
-                                    I find it hard to resist the impulse to respond when I feel strong emotions
+                                    Managing processes: Leaders in our organization analyze and improve organizational processes.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q10" value="1" id="q10a" required />
@@ -670,21 +657,16 @@ export default function BrowseCourses() {
                                         <label for="q10j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
 
-                                <div className='ccccf'>
-                                    <div className='fh3'>
-                                        <h3>Social Awareness</h3>
-                                    </div>
-                                </div>
                                 <div className='fcol1'>
                                     <h2>
-                                    People have told me that I’m a good listener
+                                    Managing progress: Leaders in our organization install and execute procedures to monitor the progression of work and tasks.
                                     </h2>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Not at All</label>
+                                        <label className='beafinput'>Not Proficient</label>
                                     </div>
                                     <div className='fcolmain'>
                                         <input type="radio" name="q11" value="1" id="q11a" required />
@@ -727,9 +709,24 @@ export default function BrowseCourses() {
                                         <label for="q11j">10</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <label className='beafinput'>Very Often</label>
+                                        <label className='beafinput'>Highly Proficient</label>
                                     </div>
                                 </div>
+
+                                <div className='ccccf'>
+                                    <div className='fh3'>
+                                        <h3>Self Management</h3>
+                                    </div>
+                                </div>
+
+                                
+
+                                <div className='ccccf'>
+                                    <div className='fh3'>
+                                        <h3>Social Awareness</h3>
+                                    </div>
+                                </div>
+                                
 
 
 

@@ -153,7 +153,7 @@ export default function CoachCertificationLP(){
                                             <select name="slot" required>
                                                 <option value="">Interested In*</option>
                                                 
-                                                <option value="July 12th 2023, Time: 4:00 AM 5:00 PM">July 12th 2023, Time: 4:00 AM 5:00 PM</option>
+                                                <option value="5th July 2023, Time: 4:00 AM 5:00 PM">5th July 2023, Time: 4:00 AM 5:00 PM</option>
                                             </select>
                                         </div>
                                         <div className="col-lg-12 mb-12 d-none">
