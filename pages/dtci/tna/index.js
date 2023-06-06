@@ -79,7 +79,7 @@ export default function BrowseCourses() {
 
 
         var xhr = new XMLHttpRequest();
-        xhr.open('POST', 'https://byldblogs.vercel.app/api/dtci-assessment');
+        xhr.open('POST', 'http://localhost:3000/api/training-assessment');
         xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
         xhr.send('q1=' + q1 +
             '&q2=' + q2 +
@@ -101,6 +101,41 @@ export default function BrowseCourses() {
             '&q18=' + q18 +
             '&q19=' + q19 +
             '&q20=' + q20 +
+            '&q21=' + q21 +
+            '&q22=' + q22 +
+            '&q23=' + q23 +
+            '&q24=' + q24 +
+            '&q25=' + q25 +
+            '&q26=' + q26 +
+            '&q27=' + q27 +
+            '&q28=' + q28 +
+            '&q29=' + q29 +
+            '&q30=' + q30 +
+            '&q31=' + q31 +
+            '&q32=' + q32 +
+            '&q33=' + q33 +
+            '&q34=' + q34 +
+            '&q35=' + q35 +
+            '&q36=' + q36 +
+            '&q37=' + q37 +
+            '&q38=' + q38 +
+            '&q39=' + q39 +
+            '&q40=' + q40 +
+            '&q41=' + q41 +
+            '&q42=' + q42 +
+            '&q43=' + q43 +
+            '&q44=' + q44 +
+            '&q45=' + q45 +
+            '&q46=' + q46 +
+            '&q47=' + q47 +
+            '&q48=' + q48 +
+            '&q49=' + q49 +
+            '&q50=' + q50 +
+            '&q51=' + q51 +
+            '&q52=' + q52 +
+            '&q53=' + q53 +
+            '&q54=' + q54 +
+            '&q55=' + q55 +
             '&name=' + name +
             '&email=' + email +
             '&phone=' + phone +
@@ -117,10 +152,10 @@ export default function BrowseCourses() {
 
                 if (data.status == 0) {
                     var xhttp = xhr;
-                    xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/152/feedback');
+                    xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/153/feedback');
                     xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
-                    var Assessment = "EQ+ Assessment"
+                    var Assessment = "Test Assessment"
                     xhttp.send("name=" + event.target.name.value +
                         '&email=' + email +
                         '&phone=' + phone +
@@ -128,7 +163,7 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment)
 
                     window.setTimeout(function () {
-                        window.location.href = `/eq/eq-assessment/${newnameurl}`
+                        window.location.href = `/dtci/tna/${newnameurl}`
                     }, 1000);
                 }
 
@@ -155,7 +190,6 @@ export default function BrowseCourses() {
             <Head>
                 <title>Training Need Analysis by Key Stakeholder | BYLD Group</title>
                 <meta name="description" content="Circle the number that best represents the extent to which you do the following" />
-              
             </Head>
 
             <section className='assesmentbannnerbg'>
@@ -1278,7 +1312,7 @@ export default function BrowseCourses() {
                                         <label for="q21i">9</label>
                                     </div>
                                     <div className='fcolmain'>
-                                        <input type="radio" name="q201" value="10" id="q21j" required />
+                                        <input type="radio" name="q21" value="10" id="q21j" required />
                                         <label for="q21j">10</label>
                                     </div>
                                     <div className='fcolmain'>

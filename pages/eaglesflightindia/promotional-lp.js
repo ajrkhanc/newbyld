@@ -80,6 +80,18 @@ export default function Home() {
             <Head>
                 <title>Eagle’s Flight LP</title>
                 <meta name="description" content="Experiential Learning is a revelation for those who learn, experience, apply, and practice. But their implementation is done in the form of business team-building activities." />
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-R93RP8FMVC"></script>
+                <script
+                    dangerouslySetInnerHTML={{
+                        __html: `
+                        window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R93RP8FMVC');
+          `,
+                    }}
+                />
             </Head>
 
             <Modal toggle={() => setModalOpen2(!modalOpen2)} isOpen={modalOpen2} backdrop="static" keyboard={false} className='ccmdc'>
