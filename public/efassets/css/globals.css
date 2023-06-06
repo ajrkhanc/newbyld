@@ -1503,16 +1503,16 @@ table td {
   padding: 0px 15px 0px 20px !important;
 }
 .efmd h2{
-  font-size: 48px;
-  line-height: 66px;
+  font-size: 35px;
+  line-height: 48px;
   font-weight: 600;
   color: #285592;
   padding-top: 20px;
 }
 
 .efmd h3{
-  font-size: 39px;
-    line-height: 62px;
+  font-size: 34px;
+    line-height: 48px;
     font-weight: 500;
 }
 

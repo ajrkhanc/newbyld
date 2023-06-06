@@ -367,8 +367,8 @@ export default function Home() {
                         <div class="col-lg-1"></div>
                         <div class="col-lg-6">
                             <div class="sec-title3 mbb-35 text-left efmd">
-                                <h2 class="">Gold Of The Desert Kings</h2>
-                                <h3>Facing difficulty in optimizing productivity with limited time and resources</h3>
+                                <h2 class="">Want to Leverage Team Building Activities for Enhanced Decision-Making and Teamwork?</h2>
+                                <h3>Attend our Eagle’s Flight Showcase to build an inclusive work culture.</h3>
 
                                 <div class="workshop-date">
                                     <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 27th, 2023</h6>
