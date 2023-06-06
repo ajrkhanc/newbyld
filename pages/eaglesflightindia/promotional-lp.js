@@ -8,7 +8,7 @@ export default function Home() {
 
     const Eflpsubmit = async event => {
         event.preventDefault()
-        document.getElementById("submitbuttonform").value = "Submitting form...."
+        document.getElementById("submitbuttonforml").value = "Submitting form...."
         const xhttp = new XMLHttpRequest();
         xhttp.onload = function () {
             console.log(this.responseText);
@@ -168,7 +168,7 @@ export default function Home() {
                                             <input type="text" name="Business_Entity" value="Eagles Flight" required />
                                         </div>
                                         <div className="col-lg-12 mb-12 text-center">
-                                            <input id='submitbuttonform' className="clientcornnerbtn" type="submit" value="Submit" />
+                                            <input id='submitbuttonforml' className="clientcornnerbtn" type="submit" value="Submit" />
                                         </div>
                                         <p id="showlabel" style={{ display: "none" }}></p>
                                     </div>
