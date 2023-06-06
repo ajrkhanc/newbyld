@@ -79,7 +79,7 @@ export default function BrowseCourses() {
 
 
         var xhr = new XMLHttpRequest();
-        xhr.open('POST', 'http://localhost:3000/api/training-assessment');
+        xhr.open('POST', 'https://byldblogs.vercel.app/api/training-assessment');
         xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
         xhr.send('q1=' + q1 +
             '&q2=' + q2 +
@@ -206,7 +206,7 @@ export default function BrowseCourses() {
             <section className='pbb-40'>
                 <div className='container'>
                     <form onSubmit={submitF}>
-                        <div className='row'>
+                        <div className='row radiobnc'>
                             <div className='col-sm-12'>
                                 <div className='fh3'>
                                     <h3>Leadership</h3>

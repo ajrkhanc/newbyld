@@ -34,7 +34,7 @@ export default function result({ result }) {
                         Please Submit You Asessement Before.
                     </p>
                     <h6>
-                        <a class="submit" href='/dtci/eq-assessment'> Go Back </a>
+                        <a class="submit" href='/eq/eq-assessment'> Go Back </a>
                     </h6>
                 </div>
             </div>

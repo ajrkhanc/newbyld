@@ -8,7 +8,7 @@ import Image from 'next/image'
 export async function getServerSideProps(context) {
     const caturl = context.params.Tnaresult;
 
-    const res = await fetch(`http://localhost:3000/api/training-assessment/${caturl}`)
+    const res = await fetch(`https://byldblogs.vercel.app/api/training-assessment/${caturl}`)
     const result = await res.json()
     return {
         props: {
@@ -34,7 +34,7 @@ export default function result({ result }) {
                         Please Submit You Asessement Before.
                     </p>
                     <h6>
-                        <a class="submit" href='/cruciallifechangingskills/assessment/influencer-assessment'> Go Back </a>
+                        <a class="submit" href='/dtci/tna'> Go Back </a>
                     </h6>
                 </div>
             </div>
@@ -98,7 +98,7 @@ export default function result({ result }) {
                                     
 
                                     var Performance = parseInt(results.q44) + parseInt(results.q45) + parseInt(results.q46) + parseInt(results.q47) + parseInt(results.q48) + parseInt(results.q49) + parseInt(results.q50) + parseInt(results.q51) + parseInt(results.q52) + parseInt(results.q53) + parseInt(results.q54) + parseInt(results.q55)
-                                    var Performance100 = (Performance/2).toFixed(1)
+                                    var Performance100 = (Performance/2).toFixed(2)
                                     var Performanceresultbar = Performance100 + px
 
                                     var Overall = parseInt(results.q44) + parseInt(results.q45) + parseInt(results.q46) + parseInt(results.q47) + parseInt(results.q48) + parseInt(results.q49) + parseInt(results.q50) + parseInt(results.q51) + parseInt(results.q52) + parseInt(results.q53) + parseInt(results.q54) + parseInt(results.q55)

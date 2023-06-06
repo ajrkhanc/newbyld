@@ -4249,10 +4249,23 @@ table td {
   height: 25px;
 }
 
+.radiobnc input{
+  width: 18px;
+  height:18px;
+}
+
 .mradio label{
   font-size: 25px;
   margin: 0px;
-  line-height: 34px;
+  line-height: 28px;
+  font-weight: 300;
+  padding: 0px 20px 0px 10px;
+}
+
+.radiobnc label{
+  font-size: 19px !important;
+  margin: 0px;
+  line-height: 28px;
   font-weight: 300;
   padding: 0px 20px 0px 10px;
 }
