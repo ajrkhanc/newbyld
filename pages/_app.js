@@ -1113,7 +1113,7 @@ export default function MyApp({ Component, pageProps, router }) {
 
   }
 
-  else if (router.pathname.startsWith('/ecf/ecf-assessment/')) {
+  else if (router.pathname.startsWith('/erf/erf-assessment/')) {
 
     return (
       <DTCIASSESSMENT>
