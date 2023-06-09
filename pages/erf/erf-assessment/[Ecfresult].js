@@ -103,7 +103,7 @@ export default function result({ result }) {
                             </div>
                             <div className='row'>
                                 <div className='col-sm-6'>
-                                    <div className='clcleft ccvvbb'>
+                                    <div className='clcleft ccvvbb pbb-10'>
                                        <h4><i>Prepared For :</i></h4>
                                        <h3>{results.name}</h3>
                                     </div>
