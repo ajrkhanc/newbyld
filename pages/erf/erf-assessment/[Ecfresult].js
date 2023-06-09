@@ -139,6 +139,10 @@ export default function result({ result }) {
                                         BYLD Execution Risk Forecast (ERF) is a reflective and scientific approach to manage the human and cultural elements critical to achieving strategic business, objectives. The Execution Risk Forecast (ERF) is one component of the overall approach and provided a “snapshot” measurement designed to increase the probability of Execution of strategies and/or transformation projects success by identifying current risk factors and targeting specific resources for a project in progress. Additional components will assess the other key factors which are essential for change/project of success.
                                     </p>
                                 </div>
+
+                                <div className='col-sm-12 ptt-30 pbb-80'>
+                                    <span className='brhc'></span>
+                                </div>
                             </div>
                         </div>
 
@@ -172,14 +176,18 @@ export default function result({ result }) {
                                         The Change/Project Risk Forecast is a part of BYLD Consulting practice toolset to help organizations diagnose and pay attention to red flags in their project or change or transformation initiative. The cost of failure of this initiative can be immense and difficult to undo. It is a summation of the basic principles behind BYLD consulting practice’s change/projects Methodology. Problems detected in any given section of this risk forecast should be further analyzed by the comprehensive measurement tool designed for that principle or section
                                         </p>
                                     </div>
-                                </div>                                
+                                </div>
+                                
+                                <div className='col-sm-12 ptt-100 pbb-100'>
+                                    <span className='brhc mtt-40'></span>
+                                </div>
                             </div>
                         </div>
 
                         <div className='col-sm-12'>
                             <div className='row align-items-center'>
                                 <div className='col-sm-8'>
-                                    <div className='sco1'>
+                                    <div className='sco1 ptt-5'>
                                         <h2>SCORING</h2>
                                         <p>
                                         The change/project Risk Forecast provides 10 section scores that assess the key characteristics of change/project risk.
@@ -204,6 +212,10 @@ export default function result({ result }) {
                                         <p><span>04.</span>To the right of each section score, plot your score to determine the change/project risk.</p>
                                     </div>
                                    </div>
+                                </div>
+
+                                <div className='col-sm-12 ptt-100 pbb-70'>
+                                    <span className='brhc mtt-100 mbb-10'></span>
                                 </div>
                             </div>
                         </div>
@@ -291,6 +303,10 @@ export default function result({ result }) {
                                 </table>
                             </div>
                         </div>
+
+                        <div className='col-sm-12 ptt-55 pbb-40'>
+                                    <span className='brhc mtt-50 mbb-10'></span>
+                                </div>
 
                         <div className='col-sm-12'>
                             <div className='ptt-50'>

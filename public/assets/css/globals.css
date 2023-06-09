@@ -4526,12 +4526,14 @@ text-align: center;
   color: #3373af;
   font-size: 30px;
   line-height: 42px;
+  padding-left: 20px;
 }
 
 .ttlca h2{
   color: #e88026;
   font-size: 24px;
   line-height: 42px;
+  padding-left: 20px;
 }
 
 .clp5{
@@ -4635,4 +4637,12 @@ text-align: center;
   color: #e88026;
   font-size: 28px;
   font-style: italic;
+}
+
+.brhc{
+  height: 25px;
+    background-color: #2a6db5;
+    width: 100%;
+    overflow: hidden;
+    display: block;
 }
