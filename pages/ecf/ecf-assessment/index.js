@@ -335,7 +335,7 @@ export default function BrowseCourses() {
 
                                         <div className="col-sm-12 mb-12">
                                             <h2>
-                                            Who are you in your organisations? Cast of characters(Vocabulary)
+                                            Who are you in your organisation? Cast of characters(Vocabulary)
                                             </h2>
                                             <div className='rolcc'>                                                
                                                 <div><input type="radio" name="yrole" value="Champions" id="trust1" required /></div>
