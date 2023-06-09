@@ -21,6 +21,7 @@
     "react-slick": "^0.28.1",
     "react-tabs": "^4.2.0",
     "reactstrap": "^9.1.2",
+    "validator": "^13.9.0",
     "video.js": "^7.20.1"
   },
   "devDependencies": {
