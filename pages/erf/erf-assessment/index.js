@@ -238,7 +238,7 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment)
 
                     window.setTimeout(function () {
-                        window.location.href = `/ecf/ecf-assessment/${newnameurl}`
+                        window.location.href = `/erf/erf-assessment/${newnameurl}`
                     }, 1000);
                 }
 

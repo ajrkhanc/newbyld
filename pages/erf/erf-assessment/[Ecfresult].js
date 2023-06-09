@@ -34,7 +34,7 @@ export default function result({ result }) {
                         Please Submit You Asessement Before.
                     </p>
                     <h6>
-                        <a class="submit" href='/ecf/ecf-assessment'> Go Back </a>
+                        <a class="submit" href='/erf/erf-assessment'> Go Back </a>
                     </h6>
                 </div>
             </div>
@@ -47,7 +47,7 @@ export default function result({ result }) {
 
 
             <Head>
-                <title>Result | Career Coaching Snapshot</title>
+                <title>Result | ERF</title>
                 <meta name="description" content="Circle the number that best represents the extent to which you do the following" />
             </Head>
 
