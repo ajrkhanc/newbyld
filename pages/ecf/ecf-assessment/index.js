@@ -327,14 +327,15 @@ export default function BrowseCourses() {
                             <div className='col-sm-12'>
                                 <div className='fcol1 fmcvt lastinp ptt-20'>
                                     <div className='row inpuut'>
-                                        <div className="col-sm-6 mb-12">
+                                    <div className="col-sm-4"></div>
+                                        <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                         </div>
 
 
                                         <div className="col-sm-12 mb-12">
                                             <h2>
-                                                We have ensured that everyone impacted by change/project understands the business case and/or rationale for transformation.
+                                            Who are you in your organisations? Cast of characters(Vocabulary)
                                             </h2>
                                             <div className='rolcc'>                                                
                                                 <div><input type="radio" name="yrole" value="Champions" id="trust1" required /></div>
@@ -2671,7 +2672,7 @@ export default function BrowseCourses() {
                                         </div>
 
                                         <div className="col-sm-6 mb-12">
-                                            <label>Start Date*</label>
+                                            <label>Project Start Date*</label>
                                             <input className='form-control' type="date" name="startd" placeholder="Start Date*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">

@@ -4410,14 +4410,14 @@ text-align: center;
 }
 
 .rolcc input{
-  width: 40px !important;
-  height: 40px !important;
+  width: 20px !important;
+  height: 28px !important;
   border: 2px solid #3373ae;
   padding: 6px;
-  margin-right: 18px;
+  margin-right: 13px;
 }
 .rolcc label{
-  font-size: 20px;
+  font-size: 16px;
     line-height: 27px;
 }
 .fmcvt{

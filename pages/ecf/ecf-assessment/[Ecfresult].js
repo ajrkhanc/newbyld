@@ -92,7 +92,7 @@ export default function result({ result }) {
                             </div>
                             <div className='both1'>
                                 <h1>
-                                    EXECUTION RISK FORECAST (ERF) <br></br>FOR TRANSFORMATION OR A PROJECTS
+                                    EXECUTION RISK FORECAST (ERF) <br></br>FOR TRANSFORMATION OF A PROJECT.
                                 </h1>
                             </div>
                             <div className='row'>
