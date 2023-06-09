@@ -98,13 +98,13 @@ function Nav() {
                                             <a href="https://blanchardinternational.co.in/blog" class="nav-link">BLOG</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="/blanchardinternational/podcast">Podcast</a>
+                                            <a class="nav-link" href="https://blanchardinternational.co.in/podcast">Podcast</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="/blanchardinternational/ebooks">Ebooks</a>
+                                            <a class="nav-link" href="https://blanchardinternational.co.in/ebooks">Ebooks</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="/blanchardinternational/white-paper">White Paper</a>
+                                            <a class="nav-link" href="https://blanchardinternational.co.in/white-paper">White Paper</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -171,9 +171,9 @@ function Nav() {
                                             <a href="#" className="nav-link">RESOURCES<i className='bx bx-chevron-down'></i></a>
                                             <ul className="dropdown-menu">
                                                 <li className="nav-item"><a className="nav-link" href="https://blanchardinternational.co.in/blog">Blog</a></li>
-                                                <li className="nav-item"><a className="nav-link" href="/blanchardinternational/podcast">Podcast</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="/blanchardinternational/ebooks">Ebooks</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="/blanchardinternational/white-paper">White Paper</a></li>
+                                                <li className="nav-item"><a className="nav-link" href="https://blanchardinternational.co.in/podcast">Podcast</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="https://blanchardinternational.co.in/ebooks">Ebooks</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="https://blanchardinternational.co.in/white-paper">White Paper</a></li>
                                             </ul>
                                         </li>
 
