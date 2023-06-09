@@ -55,6 +55,12 @@ export default function result({ result }) {
             <section>
                 <div className='containeraj pbb-50'>
                     <div className='row'>
+                    <div className='col-sm-12 text-center'>
+                        <button class="submit btnnewc" onClick={downloadAsPDF}> Download Your Report </button>
+                        </div>
+                    </div>
+                    <div id="demo" className='row'>
+                        
                     {
                         result.slice(0, 1).map((results) => {
 

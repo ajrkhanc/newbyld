@@ -331,8 +331,6 @@ export default function BrowseCourses() {
                                         <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                         </div>
-
-
                                         <div className="col-sm-12 mb-12">
                                             <h2>
                                             Who are you in your organisation? Cast of characters(Vocabulary)
