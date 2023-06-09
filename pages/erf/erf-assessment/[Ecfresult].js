@@ -140,7 +140,7 @@ export default function result({ result }) {
                                     </p>
                                 </div>
 
-                                <div className='col-sm-12 ptt-30 pbb-80'>
+                                <div className='col-sm-12 ptt-30 pbb-80 prr-30'>
                                     <span className='brhc'></span>
                                 </div>
                             </div>
@@ -150,7 +150,7 @@ export default function result({ result }) {
                             <div className='row align-items-center'>
                                 <div className='col-sm-4 clp5'>
                                     <div className='borb1 ttlc'>
-                                        <h2>Change/Project Risk Forecast (CRE)</h2>
+                                        <h2>Change/Project Risk Forecast (ERF)</h2>
                                     </div>
 
                                     <div className='ttlca'>
@@ -178,7 +178,7 @@ export default function result({ result }) {
                                     </div>
                                 </div>
                                 
-                                <div className='col-sm-12 ptt-100 pbb-100'>
+                                <div className='col-sm-12 ptt-100 pbb-100 prr-30'>
                                     <span className='brhc mtt-40'></span>
                                 </div>
                             </div>
@@ -214,7 +214,7 @@ export default function result({ result }) {
                                    </div>
                                 </div>
 
-                                <div className='col-sm-12 ptt-100 pbb-70'>
+                                <div className='col-sm-12 ptt-100 pbb-70 prr-30'>
                                     <span className='brhc mtt-100 mbb-10'></span>
                                 </div>
                             </div>
@@ -304,7 +304,7 @@ export default function result({ result }) {
                             </div>
                         </div>
 
-                        <div className='col-sm-12 ptt-55 pbb-40'>
+                        <div className='col-sm-12 ptt-55 pbb-40 prr-30'>
                                     <span className='brhc mtt-50 mbb-10'></span>
                                 </div>
 

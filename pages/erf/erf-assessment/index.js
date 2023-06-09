@@ -263,7 +263,7 @@ export default function BrowseCourses() {
     return (
         <>
             <Head>
-                <title>ECF | BYLD Group</title>
+                <title>ERF | BYLD Group</title>
                 <meta name="description" content="Circle the number that best represents the extent to which you do the following" />
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
                 <script

@@ -4484,7 +4484,7 @@ text-align: center;
   color: #3c3c3c;
   text-align: justify;
   margin: 0px;
-  padding: 28px 15px 50px 15px;  
+  padding: 28px 25px 50px 15px;  
   line-height: 32px;
 
 }
@@ -4514,7 +4514,7 @@ text-align: center;
     color: #3c3c3c;
     text-align: justify;
     margin: 0px;
-    padding: 10px 15px 10px 15px;
+    padding: 10px 25px 10px 15px;
     line-height: 30px;
 }
 
@@ -4613,7 +4613,9 @@ text-align: center;
 .middlecenter{
   justify-content: center;
 }
-
+.mtblss{
+  padding-right: 16px;
+}
 .mtblss tr{
   border: 0px;
 }
