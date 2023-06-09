@@ -95,7 +95,7 @@ function Nav() {
                                     <a href="#" class="nav-link">RESOURCES</a>
                                     <ul class="dropdown-menu" style={{ display: "none" }}>
                                         <li class="nav-item">
-                                            <a href="/blanchardinternational/blog" class="nav-link">BLOG</a>
+                                            <a href="https://blanchardinternational.co.in/blog" class="nav-link">BLOG</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="/blanchardinternational/podcast">Podcast</a>
@@ -170,7 +170,7 @@ function Nav() {
                                         <li className="nav-item">
                                             <a href="#" className="nav-link">RESOURCES<i className='bx bx-chevron-down'></i></a>
                                             <ul className="dropdown-menu">
-                                                <li className="nav-item"><a className="nav-link" href="/blanchardinternational/blog">Blog</a></li>
+                                                <li className="nav-item"><a className="nav-link" href="https://blanchardinternational.co.in/blog">Blog</a></li>
                                                 <li className="nav-item"><a className="nav-link" href="/blanchardinternational/podcast">Podcast</a></li>
                                                 <li class="nav-item"><a class="nav-link" href="/blanchardinternational/ebooks">Ebooks</a></li>
                                                 <li class="nav-item"><a class="nav-link" href="/blanchardinternational/white-paper">White Paper</a></li>
