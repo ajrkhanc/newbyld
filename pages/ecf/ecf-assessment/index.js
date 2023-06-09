@@ -227,11 +227,14 @@ export default function BrowseCourses() {
                     xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/154/feedback');
                     xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
-                    var Assessment = "Coaching - Coaching Snapshot Assessment Marketing"
+                    var Assessment = "ECF Assessment"
                     xhttp.send("name=" + event.target.name.value +
-                        '&email=' + email +
-                        '&phone=' + phone +
+                        '&email=' + email +                        
                         '&organization=' + organization +
+                        '&pname=' + pname +
+                        '&yrole=' + yrole +
+                        '&startd=' + startd +
+                        '&completed=' + completed +
                         '&assessment=' + Assessment)
 
                     window.setTimeout(function () {
