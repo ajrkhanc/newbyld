@@ -29,12 +29,21 @@ export default function Home() {
          <div className="ptt-40">
             <div className="container">
                <div className="row">
-                  <div className="col-lg-12">
+                  <div className="col-lg-12 claccv">
                      <img className="" src="/efassets/img/bg-0-museum-caper.jpg"/>
+                     <div className='logocc1'>
+                     <a href='/eaglesflightindia/museum-caper-4/'><img className="" src="/efassets/img/Screenshot_2.png"/></a>
+                     </div>
+                     <div className='logocc2'>
+                     <a><img className="" src="/efassets/img/Screenshot_3.png"/></a>
+                     </div>
+                     <div className='logocc3'>
+                     <a href='/eaglesflightindia/museum-caper-5'><img className="" src="/efassets/img/Screenshot_4.png"/></a>
+                     </div>
                   </div>
                   <div className='clearfix'></div>
                   
-                  <div className="col-lg-3"></div>
+                  {/* <div className="col-lg-3"></div>
                   <div className="col-lg-2">
                      <a href='/eaglesflightindia/museum-caper-4/'><img className="" src="/efassets/img/Screenshot_2.png"/></a>
                   </div>
@@ -43,7 +52,7 @@ export default function Home() {
                   </div>
                   <div className="col-lg-2">
                       <a href='/eaglesflightindia/museum-caper-5'><img className="" src="/efassets/img/Screenshot_4.png"/></a>
-                  </div>
+                  </div> */}
                </div>
             </div>
          </div>
