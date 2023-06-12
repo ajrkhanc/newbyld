@@ -160,7 +160,6 @@ export default function BrowseCourses(){
                         <div class="col-md-6 col-6">
                         <select name='slot' required>
                             <option value="">Pick any Slot*</option>                            
-                            <option value="Virtual Course Preview – June 9th, 2023">Virtual Course Preview – June 9th, 2023</option>
                             <option value="Workshop – July 13th, 2023">Workshop – July 13th, 2023</option>
                             <option value="Workshop – August 24th, 2023">Workshop – August 24th, 2023</option>
                             <option value="Workshop – November 29th, 2023">Workshop – November 29th, 2023</option>
@@ -223,20 +222,7 @@ export default function BrowseCourses(){
                         <h1>Our Upcoming Programs</h1>
                     </div>
                           
-                    <div class="col-md-4 workshop-col"> 
-                       <div class="row workshop-row"> 
-                            <div class="col-md-12 workshop-content phothemecolor"> 
-                            <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
-                            <h4 className='pbb-20'>THE POWER OF HABIT</h4>                            
-                            </div>
-                            <h5 className='eventt'>Virtual Course Preview</h5>
-                             <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 9th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5:00 PM</h6>
-                            <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
-                            </div>
-                       </div>
-                    </div>
+                  
                     <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content phothemecolor"> 

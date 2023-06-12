@@ -56,21 +56,7 @@ export default function Workshops(){
                     </div>
                     <div className='clearfix'></div>
 
-                   
-
-
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>June 8th, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                                <h3>Blanchard Management Essentials<sup>®</sup></h3>
-                                <a target="_blank" className="eventbtn" href='https://blanchardinternational.co.in/events-workshops/virtual-public-workshop'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
+    
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -168,7 +154,6 @@ export default function Workshops(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value='Blanchard Management Essentials® - June 8th, 2023'>Blanchard Management Essentials® - June 8th, 2023</option>
                                                 <option value="15th - 16th June, 2023 - DISC Train-the-Trainer (TTT)">15th - 16th June, 2023 - DISC Train-the-Trainer (TTT)</option>
                                                 <option value="Influencer - June 22nd - 23rd, 2023">Influencer - June 22nd - 23rd, 2023</option>
                                                 <option value="18th - 21st July, 2023 - DISC Train-the-Trainer (TTT)">18th - 21st July - DISC Train-the-Trainer (TTT)</option>
