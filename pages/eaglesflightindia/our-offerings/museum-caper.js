@@ -63,7 +63,7 @@ export default function MuseumCaper(){
                 <div class="row y-middle">
                     <div class="col-lg-6">
                         <div class="sec-title3 mbb-35 text-left onlyshd">
-                        <h4 class="countertoph2 text-left font36">Top Virtual Team-Building Activities for Employees</h4>
+                        <h4 class="countertoph2 text-left font28">Top Virtual Team-Building Activities for Employees</h4>
                         <div class="heading-border-line left-style"></div>
                         <p class="mtt-40 justify">
                         In Eagle’s Flight’s mystery-themed virtual experiential activity, Museum Caper™, participants work in teams as detectives to track down the culprits of three major robberies using the evidence left at the scene of each crime.
@@ -71,6 +71,12 @@ export default function MuseumCaper(){
                         <p className='justify'>
                         By cross-referencing the clues they receive, they eliminate suspects and identify the true criminals. Involve in a virtual world of Museum Caper™ to identify the three best practices to succeed by conducting outdoor team building activities.
                         </p>
+                        <div class="btn-part ptt-10 pbb-30">
+                            <a class="readon2" target="_blank" href="/efassets/pdf/Museum-Caper-Brochure.pdf">
+                                 DOWNLOAD BROCHURE
+                                <div class="btn-arrow"></div>
+                            </a>
+                        </div>
                         </div>
                     </div>
 
