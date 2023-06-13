@@ -1646,3 +1646,65 @@ body .modal.show .modal-dialog {
 .logocc3 img{
   width: 91%;
 }
+
+@media (max-width:1199px){
+  .logocc1{
+    position: absolute;
+    bottom: 104px;
+    left: 319px;
+  }
+  
+  .logocc1 img{
+    width: 78%;
+  }
+  
+  .logocc2{
+    position: absolute;
+    bottom: 104px;
+    left: 520px;
+  }
+  .logocc2 img{
+    width: 78%;
+  }
+  
+  .logocc3{
+    position: absolute;
+    bottom: 104px;
+    right: -25px;
+  }
+  
+  .logocc3 img{
+    width: 78%;
+  }
+}
+
+@media (min-width:1400px){
+  .logocc1{
+    position: absolute;
+    bottom: 140px;
+    left: 419px;
+  }
+  
+  .logocc1 img{
+    width: 100%;
+  }
+  
+  .logocc2{
+    position: absolute;
+    bottom: 138px;
+    left: 674px;
+  }
+  .logocc2 img{
+    width: 100%;
+  }
+  
+  .logocc3{
+    position: absolute;
+    bottom: 139px;
+    right: 104px;
+  }
+  
+  .logocc3 img{
+    width: 100%;
+  }
+}
