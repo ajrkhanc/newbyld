@@ -19,7 +19,7 @@ export default function Home() {
                   </div>
                   <div className='col-sm-7'>
                     <ul className='float-right'>
-                        <li><a className='mlist' href='/eaglesflightindia/museum-caper-4'>Home</a></li>
+                        <li><a className='mlist' href='/eaglesflightindia/mcw'>Home</a></li>
                     </ul>
                   </div>
                   <div className='clearfix'></div>
