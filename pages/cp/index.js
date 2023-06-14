@@ -736,7 +736,7 @@ export default function JoinOurPartnerNetworkLP() {
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src='/assets/img/white-paper/driving-innovation.jpg' alt="books" />
-                                        <a href='/cp/white-paper' downad>Download White Paper</a>
+                                        <a href='/cp/white-paper'>Download White Paper</a>
                                     </div>
                                 </div>
 
@@ -770,7 +770,7 @@ export default function JoinOurPartnerNetworkLP() {
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src='/assets/img/white-paper/what-will-spur-bfsi-industry.jpg' alt="books" />
-                                        <a href='/cp/white-paper' download>Download White Paper</a>
+                                        <a href='/cp/white-paper'>Download White Paper</a>
                                         {/* <i class="blink fa fa-download" aria-hidden="true" onClick={() => setModalOpen7(!modalOpen7)}></i> */}
                                     </div>
                                 </div>
