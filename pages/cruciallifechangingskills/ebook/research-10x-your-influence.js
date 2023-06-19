@@ -64,7 +64,7 @@ export default function Ebook(){
                 <form id="contactForm" class="row formb" onSubmit={EbookForm}>
                         <div class="col-lg-12 contact-title">                       
                         <h3 className='formh3 ptt-5'>
-                           Fill in the form below and our subject matter expert will connect with you within 24 working hours.
+                        Fill out the form below to download the E-book
                         </h3>
                         </div>
                         <div class="col-md-6 col-6">
