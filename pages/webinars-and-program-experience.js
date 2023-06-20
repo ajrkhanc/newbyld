@@ -178,19 +178,6 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 21st June 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 11:00 am - 12:00 am</h4>
-                                <h3>Five Behaviour Team Development</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
@@ -307,7 +294,6 @@ export default function WebinarsAndProgramExperience(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="June 21st 2023 - Five Behaviour Team Development">June 21st 2023 - Five Behaviour Team Development</option>
                                                 <option value="Everything DiSC Work Productive Conflict, 5th July, 2023">Everything DiSC Work Productive Conflict, 5th July, 2023</option>
                                                 <option value="Everything DiSC Agile EQ, 19th July, 2023">Everything DiSC Agile EQ, 19th July, 2023</option>
                                                 <option value="Five Behaviour Personal Development, 2nd Auguest, 2023">Five Behaviour Personal Development, 2nd Auguest, 2023</option>
