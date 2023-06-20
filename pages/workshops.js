@@ -77,7 +77,7 @@ export default function Workshops(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span> June 22nd - 23rd, 2023</span>
+                                <span>Workshop - July 13th, 2023</span>
                             </div>
                             <div className='eventbottom'>
                                 <h3>Crucial Life Changing Skills Online Workshop</h3>
@@ -154,7 +154,7 @@ export default function Workshops(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="Influencer - June 22nd - 23rd, 2023">Influencer - June 22nd - 23rd, 2023</option>
+                                                <option value="The Power of Habit - July 13th, 2023">The Power of Habit - July 13th, 2023</option>
                                                 <option value="18th - 21st July, 2023 - DISC Train-the-Trainer (TTT)">18th - 21st July - DISC Train-the-Trainer (TTT)</option>
                                                 <option value="Auguest 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)">Auguest 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)</option>
                                             </select>

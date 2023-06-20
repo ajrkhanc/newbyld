@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-export default function WebinarsAndProgramExperience(){
+export default function WebinarsAndProgramExperience() {
 
     const registerUser = async event => {
         event.preventDefault()
@@ -17,9 +17,9 @@ export default function WebinarsAndProgramExperience(){
                     document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
 
                     document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function() {
+                    window.setTimeout(function () {
                         window.location.href = "/thank-you"
-                     }, 3000);
+                    }, 3000);
 
                 } else {
                     alert('There was a problem with the request.');
@@ -35,30 +35,30 @@ export default function WebinarsAndProgramExperience(){
             "&leadsquared-mx_Showed_Interest_in=" + event.target.leadsquared_mx_Showed_Interest_in.value +
             "&referredby=" + event.target.referredby.value +
             "&leadsquared-Notes=" + event.target.QuestionsComments.value +
-            "&leadsquared-mx_Business_Entity=" + event.target.leadsquared_mx_Business_Entity.value )
+            "&leadsquared-mx_Business_Entity=" + event.target.leadsquared_mx_Business_Entity.value)
 
     }
 
-    return(
+    return (
         <>
-        <Head>
-            <title>Webinars and Program Experience - BYLD Group</title>
-            <meta name="description" content="Batches till 20th April 2022 Crucial Life Changing Skills Batches till 20th April 2022 Reserve Your Seat Batches till 29th April 2022 Blanchard India Webinars Batches till 29th April 2022 Reserve Your Seat May 4th, 2022Trapologist at WorkTM Webinar 4th May 2022 Reserve Your Seat Webinar May 6th, 2022Five Behaviours Team Development Webinar 6th May… Continue reading Webinars and Program Experience"/>
-        </Head>
+            <Head>
+                <title>Webinars and Program Experience - BYLD Group</title>
+                <meta name="description" content="Batches till 20th April 2022 Crucial Life Changing Skills Batches till 20th April 2022 Reserve Your Seat Batches till 29th April 2022 Blanchard India Webinars Batches till 29th April 2022 Reserve Your Seat May 4th, 2022Trapologist at WorkTM Webinar 4th May 2022 Reserve Your Seat Webinar May 6th, 2022Five Behaviours Team Development Webinar 6th May… Continue reading Webinars and Program Experience" />
+            </Head>
 
-        <section className='ptt-20 pbb-20'>
-            <div className='container'>
-                <div className='row'>
-                    <div className='col-sm-12'>
-                    <div className="sec-title3 mbb-35">
-                        <h4 className="countertoph2 text-center font30">Register For Your Complimentary Virtual Events</h4>
-                        <div className="heading-border-line center-style"></div>
-                    </div>
-                    </div>
-                    <div className='clearfix'></div>
+            <section className='ptt-20 pbb-20'>
+                <div className='container'>
+                    <div className='row'>
+                        <div className='col-sm-12'>
+                            <div className="sec-title3 mbb-35">
+                                <h4 className="countertoph2 text-center font30">Register For Your Complimentary Virtual Events</h4>
+                                <div className="heading-border-line center-style"></div>
+                            </div>
+                        </div>
+                        <div className='clearfix'></div>
 
 
-                    {/* <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -72,7 +72,7 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
-                    {/* <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -86,7 +86,7 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
-                    {/* <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -114,7 +114,7 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
-                    {/* <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -128,9 +128,9 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
-                    
 
-                    {/* <div className='col-sm-4'>
+
+                        {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -158,13 +158,13 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
-                    
 
-                    
 
-                    
 
-                    {/* <div className='col-sm-4'>
+
+
+
+                        {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -178,66 +178,82 @@ export default function WebinarsAndProgramExperience(){
                         </div>
                     </div> */}
 
+                        
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 5th July, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
-                                <h3>Everything DiSC Productive Conflict</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar 5th July, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
+                                    <h3>Everything DiSC Productive Conflict</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 19th July, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 11:00 AM - 12:00 AM</h4>
-                                <h3>Everything DiSC Agile EQ</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar 19th July, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 11:00 AM - 12:00 AM</h4>
+                                    <h3>Everything DiSC Agile EQ</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 2nd Auguest, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
-                                <h3>Five Behaviour Personal Development</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 23rd Auguest, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 11:00 AM - 12:00 AM</h4>
-                                <h3>Lumina Spark</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Virtual Course Preview - July 24th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4>
+                                    <h3>Crucial Life Changing Skills</h3>
+                                    <a className="eventbtn" href='/cruciallifechangingskills/webinars/'>Reserve Your Seat</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar 2nd August, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
+                                    <h3>Five Behaviour Personal Development</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
 
-                    {/* <div className='col-sm-4'>
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar 23rd August, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 11:00 AM - 12:00 AM</h4>
+                                    <h3>Lumina Spark</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -252,27 +268,27 @@ export default function WebinarsAndProgramExperience(){
                     </div> */}
 
 
+                    </div>
                 </div>
-            </div>
-        </section>
+            </section>
 
-        <div id="Register" className="rs-testimonial style4 tirianformbg ptt-50 pbb-70">
+            <div id="Register" className="rs-testimonial style4 tirianformbg ptt-50 pbb-70">
                 <div className="container">
                     <div className="row">
-                         <div className="clearfix"></div>
+                        <div className="clearfix"></div>
 
-                         <div className='col-sm-2'></div>
-                         <div className="col-sm-8">
-                         <div className="bannerform tirianformshd">
-                            <form id="contact-form" className='clientcornner ptt-5 pbb-20' onSubmit={registerUser}>
+                        <div className='col-sm-2'></div>
+                        <div className="col-sm-8">
+                            <div className="bannerform tirianformshd">
+                                <form id="contact-form" className='clientcornner ptt-5 pbb-20' onSubmit={registerUser}>
                                     <div className="row">
-                                      <div className='col-sm-12'>
-                                      <div className="sec-title3 mbb-35 text-center">
-                                        <h4 className="countertoph2 text-center font30">Register Now</h4>
-                                        <div className="heading-border-line center-style"></div>
-                                    </div>
+                                        <div className='col-sm-12'>
+                                            <div className="sec-title3 mbb-35 text-center">
+                                                <h4 className="countertoph2 text-center font30">Register Now</h4>
+                                                <div className="heading-border-line center-style"></div>
+                                            </div>
 
-                                      </div>
+                                        </div>
                                         <div className="col-sm-6 mb-12">
                                             <input type="text" name="name" placeholder="Your Name*" required />
                                         </div>
@@ -293,11 +309,12 @@ export default function WebinarsAndProgramExperience(){
                                         </div>
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
-                                                <option value="">Pick up any Slot*</option>                                                
+                                                <option value="">Pick up any Slot*</option>
                                                 <option value="Everything DiSC Work Productive Conflict, 5th July, 2023">Everything DiSC Work Productive Conflict, 5th July, 2023</option>
                                                 <option value="Everything DiSC Agile EQ, 19th July, 2023">Everything DiSC Agile EQ, 19th July, 2023</option>
-                                                <option value="Five Behaviour Personal Development, 2nd Auguest, 2023">Five Behaviour Personal Development, 2nd Auguest, 2023</option>
-                                                <option value="Lumina Spark, 23rd Auguest, 2023">Lumina Spark, 23rd Auguest, 2023</option>
+                                                <option value="Crucial Life Changing Skills, 24th July, 2023">Crucial Life Changing Skills, 24th July, 2023</option>
+                                                <option value="Five Behaviour Personal Development, 2nd August, 2023">Five Behaviour Personal Development, 2nd August, 2023</option>
+                                                <option value="Lumina Spark, 23rd August, 2023">Lumina Spark, 23rd August, 2023</option>
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">
@@ -317,15 +334,15 @@ export default function WebinarsAndProgramExperience(){
                                             <textarea className="from-control" name="QuestionsComments" placeholder="Questions/Comments:"></textarea>
                                         </div>
                                         <div className="col-lg-12 mb-12">
-                                        <input id="submitbuttonform" className="clientcornnerbtn width150" type="submit" value="Get in Touch"/>
+                                            <input id="submitbuttonform" className="clientcornnerbtn width150" type="submit" value="Get in Touch" />
                                         </div>
                                         <p id="showlabel" style={{ display: "none" }}></p>
                                     </div>
-                            </form>
+                                </form>
                             </div>
-                         </div>
+                        </div>
 
-                         <div className='col-sm-2'></div>
+                        <div className='col-sm-2'></div>
 
                     </div>
                 </div>
