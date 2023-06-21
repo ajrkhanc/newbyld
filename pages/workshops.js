@@ -81,7 +81,7 @@ export default function Workshops(){
                             </div>
                             <div className='eventbottom'>
                                 <h3>Crucial Life Changing Skills Online Workshop</h3>
-                                <a target="_blank" className="eventbtn" href='/cruciallifechangingskills/workshops/'>Reserve Your Seat</a>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
                     </div>
@@ -103,11 +103,170 @@ export default function Workshops(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - July 27th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
                                 <span>Auguest 17th - 18th, 2023</span>
                             </div>
                             <div className='eventbottom'>
                                 <h3>DISC Train-the-Trainer (TTT)</h3>
                                 <a target="_blank" className="eventbtn" href='/everythingdisc/everything-disc-ttt-vt-lp/'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop -  August 24th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - September 13th - 14th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - September 28th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - October 5th - 6th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - November 15th - 16th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - November 29th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - December 14th - 15th, 2023</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - January 11th, 2024</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - January 30th - 31st, 2024</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - February 28th - 29th, 2024</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Workshop - March 14th, 2024</span>
+                            </div>
+                            <div className='eventbottom'>
+                                <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
                     </div>
@@ -156,7 +315,19 @@ export default function Workshops(){
                                                 <option value="">Pick up any Slot*</option>                                                
                                                 <option value="The Power of Habit - July 13th, 2023">The Power of Habit - July 13th, 2023</option>
                                                 <option value="18th - 21st July, 2023 - DISC Train-the-Trainer (TTT)">18th - 21st July - DISC Train-the-Trainer (TTT)</option>
-                                                <option value="Auguest 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)">Auguest 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)</option>
+                                                <option value="Crucial Life Changing Skills, Getting Things Done - July 27th, 2023">Crucial Life Changing Skills, Getting Things Done - July 27th, 2023</option>
+                                                <option value="Auguest 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)">Auguest 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)</option>                                                
+                                                <option value="Crucial Life Changing Skills, The Power of Habit - August 24th, 2023">Crucial Life Changing Skills, The Power of Habit - August 24th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023">Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Getting Things Done - September 28th, 2023">Crucial Life Changing Skills, Getting Things Done - September 28th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023">Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Influencer - November 15th - 16th, 2023">Crucial Life Changing Skills, Influencer - November 15th - 16th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, The Power of Habit - November 29th, 2023">Crucial Life Changing Skills, The Power of Habit - November 29th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023">Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Getting Things Done - January 11th, 2024">Crucial Life Changing Skills, Getting Things Done - January 11th, 2024</option>
+                                                <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - January 30th - 31st, 2024">Crucial Life Changing Skills, Crucial Conversations for Accountability - January 30th - 31st, 2024</option>
+                                                <option value="Crucial Life Changing Skills, Influencer - February 28th - 29th, 2024">Crucial Life Changing Skills, Influencer - February 28th - 29th, 2024</option>
+                                                <option value="Crucial Life Changing Skills, The Power of Habit - March 14th, 2024">Crucial Life Changing Skills, The Power of Habit - March 14th, 2024</option>
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">

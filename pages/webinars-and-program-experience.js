@@ -232,7 +232,7 @@ export default function WebinarsAndProgramExperience() {
                                 <div className='eventbottom'>
                                     <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4>
                                     <h3>Crucial Life Changing Skills</h3>
-                                    <a className="eventbtn" href='/cruciallifechangingskills/webinars/'>Reserve Your Seat</a>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
@@ -260,6 +260,34 @@ export default function WebinarsAndProgramExperience() {
                                 <div className='eventbottom'>
                                     <h4 className="eventtitlec">Time: 11:00 AM - 12:00 AM</h4>
                                     <h3>Lumina Spark</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Virtual Course Preview - October 23rd, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4>
+                                    <h3>Crucial Life Changing Skills</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Virtual Course Preview - December 5th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4>
+                                    <h3>Crucial Life Changing Skills</h3>
                                     <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
@@ -327,9 +355,11 @@ export default function WebinarsAndProgramExperience() {
                                                 <option value="Everything DiSC Work Productive Conflict, 5th July, 2023">Everything DiSC Work Productive Conflict, 5th July, 2023</option>
                                                 <option value="Inside Out Coaching, 5th July 2023">Inside Out Coaching, 5th July 2023</option>
                                                 <option value="Everything DiSC Agile EQ, 19th July, 2023">Everything DiSC Agile EQ, 19th July, 2023</option>
-                                                <option value="Crucial Life Changing Skills, 24th July, 2023">Crucial Life Changing Skills, 24th July, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Influencer – 24th July, 2023">Crucial Life Changing Skills, Influencer - 24th July, 2023</option>
                                                 <option value="Five Behaviour Personal Development, 2nd August, 2023">Five Behaviour Personal Development, 2nd August, 2023</option>
                                                 <option value="Lumina Spark, 23rd August, 2023">Lumina Spark, 23rd August, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Getting things done – October 23rd, 2023">Crucial Life Changing Skills, Getting things done – October 23rd, 2023</option>
+                                                <option value="Crucial Life Changing Skills, The power of habit – December 5th, 2023">Crucial Life Changing Skills, The power of habit – December 5th, 2023</option>
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">
