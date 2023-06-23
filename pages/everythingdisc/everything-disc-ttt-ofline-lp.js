@@ -48,14 +48,6 @@ export default function DiskTTTLP() {
             <Head>
                 <title>Everything DiSC TTT offline LP - Everything DiSC</title>
                 <meta name="description" content="Introducing DISC Offline! Become a Certified DISC Trainer to Increase your confidence and create a culture of DISC in your organization As more and more organizations are experiencing the benefits of DISC" />
-                <script async src="https://www.googletagmanager.com/gtag/js?id=AW-358447811"></script>
-                <script
-            dangerouslySetInnerHTML={{
-              __html: `
-              window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-358447811');
-          `,
-            }}
-          />
             </Head>
 
             <div className="rs-services">
