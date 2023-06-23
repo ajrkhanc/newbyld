@@ -126,7 +126,7 @@ export default function Home() {
 
             <Head>
                 <title>Become a Coach | ICF Certification | BYLD Group</title>
-                <meta name="description" content="BYLD offers ICF certification to help you become a professional coach. We provide the training, support, and resources you need to succeed." />
+                <meta name="description" content="BYLD Coaching is the prominent ICF Coach Certification provider with 300+ coaches in India and abroad as per the globally recognized ICF Credentialing process and guidelines." />
                 <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
                 <script
