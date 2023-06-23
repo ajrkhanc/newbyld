@@ -6,13 +6,6 @@ export default function ThankYou(){
         <Head>
             <title>Thank You Lp - Everything DISC</title>
             <meta name="description" content="BYLD is a pioneering name in leadership development, corporate training, assessment, and staffing. Founded in 1998, the company is the largest group in South Asia offering HR and business productivity solutions for individuals, teams, and organizations. It has also served 300 of 500 Fortune companies."/> 
-            <script
-            dangerouslySetInnerHTML={{
-              __html: `
-              gtag('event', 'conversion', {'send_to': 'AW-358447811/b77hCJrS_vACEMP19aoB'});
-          `,
-            }}
-          />
           </Head>
           <div className="rs-services  ptt-40 pbb-40">
             <div className="container">
