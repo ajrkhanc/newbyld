@@ -98,7 +98,7 @@ export default function result({ result }) {
                                             </div>
                                             <div className='both1'>
                                                 <h1>
-                                                    EXECUTION RISK FORECAST (ERF) <br></br>FOR TRANSFORMATION OF A PROJECT.
+                                                    EXECUTION RISK FORECAST (CRF) <br></br>FOR TRANSFORMATION OF A PROJECT.
                                                 </h1>
                                             </div>
                                             <div className='row'>
@@ -296,7 +296,7 @@ export default function result({ result }) {
                                                     </tr>
 
                                                     <tr>
-                                                        <td width='300px'>Overall profitability of success</td>
+                                                        <td width='300px'>Overall probability of success</td>
                                                         <td className="resltd" width='120px'><span>{overall}</span></td>
                                                         <td><img src="/assets/img/ecf/11.jpg" alt="ba" /></td>
                                                     </tr>
