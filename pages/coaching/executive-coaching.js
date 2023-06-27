@@ -43,11 +43,11 @@ export default function DTCICoachingAcademy() {
       <Head>
         <title>Executive Coaching - BYLD Group</title>
         <meta name="description" content="BYLD is a pioneering name in leadership development, corporate training, assessment, and staffing. Founded in 1998, the company is the largest group in South Asia offering HR and business productivity solutions for individuals, teams, and organizations. It has also served 300 of 500 Fortune companies." />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JPVP8PVF4"></script>
                 <script
                     dangerouslySetInnerHTML={{
                         __html: `
-                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9D9QEXG1BB');
+                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-5JPVP8PVF4');
           `,
                     }}
                 />

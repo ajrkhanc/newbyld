@@ -43,11 +43,11 @@ export default function InsideOutCoaching() {
             <Head>
                 <title>InsideOut Coaching | Coaching | BYLD Group</title>
                 <meta name="description" content="InsideOut Coaching provides leadership mentoring to managers to help them energize people, motivate and drive them toward success and better business performance." />
-                <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-DMTBK8B78S"></script>
                 <script
                     dangerouslySetInnerHTML={{
                         __html: `
-                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9D9QEXG1BB');
+                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-DMTBK8B78S');
           `,
                     }}
                 />

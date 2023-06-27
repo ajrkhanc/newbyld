@@ -45,11 +45,11 @@ export default function DTCICoachingAcademy() {
       <Head>
         <title>Breakthroughs - BYLD Group</title>
         <meta name="description" content="When you think of becoming a coach – Think BYLD" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D9QEXG1BB"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1NMQZQH64M"></script>
                 <script
                     dangerouslySetInnerHTML={{
                         __html: `
-                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9D9QEXG1BB');
+                        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-1NMQZQH64M');
           `,
                     }}
                 />
