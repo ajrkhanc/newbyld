@@ -281,7 +281,7 @@ export default function Home() {
                             <div class="breadcrumbs-inner">
                                 <span class="watermark ">BYLD</span>
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                    Get Your ICF Coaching Certification Today
+                                    Get Your ICF Coach Certification Today
                                 </h1>
                                 <span class="sub-text wow fadeInUp delay-0-2s animated animateUP prr-20">
                                 BYLD Coaching is the prominent ICF Coach Certification provider with 300+ coaches in India and abroad as per the globally recognized ICF Credentialing process and guidelines
