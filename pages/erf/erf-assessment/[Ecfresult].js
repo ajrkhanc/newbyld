@@ -150,7 +150,7 @@ export default function result({ result }) {
                                             <div className='row align-items-center'>
                                                 <div className='col-sm-4 clp5'>
                                                     <div className='borb1 ttlc'>
-                                                        <h2>Change/Project Risk Forecast (ERF)</h2>
+                                                        <h2>Change/Project Risk Forecast (CRF)</h2>
                                                     </div>
 
                                                     <div className='ttlca'>
