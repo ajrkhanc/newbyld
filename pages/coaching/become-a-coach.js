@@ -281,10 +281,10 @@ export default function Home() {
                             <div class="breadcrumbs-inner">
                                 <span class="watermark ">BYLD</span>
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                    Get Your Certification Today
+                                    Get Your ICF Coaching Certification Today
                                 </h1>
                                 <span class="sub-text wow fadeInUp delay-0-2s animated animateUP">
-                                    People are the best source of solutions to their own problems and aspirations. Coach is there to help and accelerate the journey to destination or solution.
+                                BYLD Coaching is the prominent ICF Coach Certification provider with 300+ coaches in India and abroad as per the globally recognized ICF Credentialing process and guidelines
                                 </span>
                                 <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
                                     <a className="readon2" href="#" onClick={() => setModalOpen2(!modalOpen2)}>Download Brochure <div className="btn-arrow ddc"></div></a>
