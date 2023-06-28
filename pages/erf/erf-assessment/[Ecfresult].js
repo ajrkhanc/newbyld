@@ -130,13 +130,13 @@ export default function result({ result }) {
                                                 <div className='col-sm-6 introc2'>
                                                     <div className=''>
                                                         <p>
-                                                            90% of the transformation projects, go over budget, time, or quality. Means they fail. Use the assessment below to assess the risk to change/project and correct the areas of concern.
+                                                        90% of the transformation projects go over budget, time, or quality. Means they fail. Use the assessment below to assess the risk to change/project and correct the areas of concern.
                                                         </p>
                                                     </div>
                                                 </div>
                                                 <div className='col-sm-12 introc3'>
                                                     <p>
-                                                        BYLD Execution Risk Forecast (ERF) is a reflective and scientific approach to manage the human and cultural elements critical to achieving strategic business, objectives. The Execution Risk Forecast (ERF) is one component of the overall approach and provided a “snapshot” measurement designed to increase the probability of Execution of strategies and/or transformation projects success by identifying current risk factors and targeting specific resources for a project in progress. Additional components will assess the other key factors which are essential for change/project of success.
+                                                    BYLD Execution Risk Forecast (ERF) is a reflective and scientific approach to managing the human and cultural elements critical to achieving strategic business objectives. The Execution Risk Forecast (ERF) is one component of the overall approach and provides a “snapshot” measurement designed to increase the probability of the Execution of strategies and/or transformation projects' success by identifying current risk factors and targeting specific resources for a project in progress. Additional components will assess the other key factors which are essential for change/project success.
                                                     </p>
                                                 </div>
 
@@ -155,25 +155,25 @@ export default function result({ result }) {
 
                                                     <div className='ttlca'>
                                                         <h2>
-                                                            The goal of this forecast is to increase the profitability of change/project success by focusing attention on specific areas and targeting specific resources & strategies for improvement.
+                                                        The goal of this forecast is to increase the probability of change/project success by focusing attention on specific areas and targeting specific resources & strategies for improvement.
                                                         </h2>
                                                     </div>
                                                 </div>
                                                 <div className='col-sm-8 introc4'>
                                                     <div className=''>
                                                         <h4>
-                                                            The change/project Risk Forecast is designed as a specific “snapshot” measurement device for any planned or ongoing change/project. The principles contained herein are integral to BYLD Consulting (Part of BYLD Group).
+                                                        The change/project Risk Forecast is designed as a specific “snapshot” measurement device for any planned or ongoing change/project. The principles contained herein are integral to BYLD Consulting (Part of BYLD Group).
                                                         </h4>
                                                         <p>
-                                                            Executives, Sponsors, Project Team Leads, Project Team Members or anyone else impacted by this specific change/project can take this measurement. If it is to be used as a true measurement and not just as a development exercise, a diagnostic comparison of the perception of Sponsors, Agents, and Targets (see definition) will be the most meaningful.
+                                                        Executives, Sponsors, Project Team Leads, Project Team Members, or anyone else impacted by this specific change/project can take this measurement. If it is to be used as a true measurement and not just as a development exercise, a diagnostic comparison of the perception of Sponsors, Agents, and Targets (see definition) will be the most meaningful.
                                                         </p>
 
                                                         <p>
-                                                            This is weighed by the number of questions in each section to reflect the relative importance of the section (larger the number of questions, more important is the section). However, it should be noted that any section (or item) might significantly reduce the probability of success, since it will violate one of the basic principles of sound change/project.
+                                                        This is weighted by the number of questions in each section to reflect the relative importance of the section (the larger the number of questions, the more important the section). However, it should be noted that any section (or item) might significantly reduce the probability of success since it will violate one of the basic principles of sound change/project.
                                                         </p>
 
                                                         <p>
-                                                            The Change/Project Risk Forecast is a part of BYLD Consulting practice toolset to help organizations diagnose and pay attention to red flags in their project or change or transformation initiative. The cost of failure of this initiative can be immense and difficult to undo. It is a summation of the basic principles behind BYLD consulting practice’s change/projects Methodology. Problems detected in any given section of this risk forecast should be further analyzed by the comprehensive measurement tool designed for that principle or section
+                                                        The Change/Project Risk Forecast is a part of the BYLD Consulting practice toolset to help organizations diagnose and pay attention to red flags in their project or change or transformation initiative. The cost of failure of this initiative can be immense and difficult to undo. It is a summation of the basic principles behind BYLD consulting practice’s change/projects Methodology. Problems detected in any given section of this risk forecast should be further analyzed by the comprehensive measurement tool designed for that principle or section
                                                         </p>
                                                     </div>
                                                 </div>
