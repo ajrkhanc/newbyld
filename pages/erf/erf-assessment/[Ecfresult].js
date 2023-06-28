@@ -254,7 +254,7 @@ export default function result({ result }) {
                                                     </tr>
 
                                                     <tr>
-                                                        <td width='300px'>Generate sposorship</td>
+                                                        <td width='300px'>Generate sponsorship</td>
                                                         <td className="resltd" width='120px'><span>{Sponsorship}</span></td>
                                                         <td><img src="/assets/img/ecf/4.jpg" alt="ba" /></td>
                                                     </tr>
