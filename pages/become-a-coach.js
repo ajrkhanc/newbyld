@@ -1003,6 +1003,18 @@ export default function Home() {
                 <meta name="description" content="When you think of becoming a coach – Think BYLD" />
                 <link rel="stylesheet" type="text/css" href="/efassets/css/new.css" />
                 <meta property="og:image" content="/efassets/img/business-team-building.svg"></meta>
+                <script
+                    dangerouslySetInnerHTML={{
+                        __html: `
+                        window.__lo_site_id = 330055;
+(function() {
+var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+ })();
+          `,
+                    }}
+                />
             </Head>
 
             {/* <Modal className='toppc mwc500' toggle={() => setModalOpen1(!modalOpen1)} isOpen={modalOpen1} backdrop="static" keyboard={false}>
@@ -1073,13 +1085,13 @@ export default function Home() {
 
                                             <div className="col-sm-12 mb-12">
                                                 <select name='slot' required>
-                                                    <option value=''>Pick up any Slot*</option>                                                    
+                                                    <option value=''>Pick up any Slot*</option>
                                                     <option value='29 July 2023'>29 July 2023</option>
                                                     <option value='16 September 2023'>16 September 2023</option>
                                                     <option value='25 November 2023'>25 November 2023</option>
                                                     <option value='27 January 2024'>27 January 2024</option>
                                                     <option value='09 March 2024'>09 March 2024</option>
-                                                </select>                                                
+                                                </select>
                                             </div>
 
 

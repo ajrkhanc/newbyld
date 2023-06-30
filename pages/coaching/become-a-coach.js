@@ -80,7 +80,7 @@ export default function Home() {
             "&designation=" + event.target.designation.value +
             "&slot=" + event.target.slot.value +
             "&howdidyouknowaboutus=" + event.target.howdidyouknowaboutus.value +
-            "&leadsquared-mx_Business_Entity=" + event.target.Business_Entity.value )
+            "&leadsquared-mx_Business_Entity=" + event.target.Business_Entity.value)
 
     }
 
@@ -117,8 +117,8 @@ export default function Home() {
 
     }
 
-    
-    
+
+
 
     return (
         <>
@@ -155,6 +155,20 @@ export default function Home() {
                  return false;
                });
              });
+          `,
+                    }}
+                />
+
+                <script
+                    dangerouslySetInnerHTML={{
+                        __html: `
+                        window.__lo_site_id = 328784;
+
+                        (function() {
+                        var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+                        wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+                         })();
           `,
                     }}
                 />
@@ -196,7 +210,7 @@ export default function Home() {
 
                             <div className="col-sm-12 mb-12">
                                 <select className='borrr' name='slot' required>
-                                    <option value=''>Pick up any Slot*</option>                  
+                                    <option value=''>Pick up any Slot*</option>
                                     <option value='29 July 2023'>29 July 2023</option>
                                     <option value='16 September 2023'>16 September 2023</option>
                                     <option value='25 November 2023'>25 November 2023</option>
@@ -207,7 +221,7 @@ export default function Home() {
 
                             <div className="col-sm-12 mb-12">
                                 <select className='borrr' name='howdidyouknowaboutus' required>
-                                    <option value=''>How did you know about us*</option>                                 
+                                    <option value=''>How did you know about us*</option>
                                     <option value='Email'>Email</option>
                                     <option value='Social Media'>Social Media</option>
                                     <option value='Google Ads'>Google Ads</option>
@@ -284,7 +298,7 @@ export default function Home() {
                                     Get Your ICF Coach Certification Today
                                 </h1>
                                 <span class="sub-text wow fadeInUp delay-0-2s animated animateUP prr-20">
-                                BYLD Coaching is the prominent ICF Coach Certification provider with 300+ coaches in India and abroad as per the globally recognized ICF Credentialing process and guidelines
+                                    BYLD Coaching is the prominent ICF Coach Certification provider with 300+ coaches in India and abroad as per the globally recognized ICF Credentialing process and guidelines
                                 </span>
                                 <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
                                     <a className="readon2" href="#" onClick={() => setModalOpen2(!modalOpen2)}>Download Brochure <div className="btn-arrow ddc"></div></a>
@@ -819,7 +833,7 @@ export default function Home() {
                         <div className='col-sm-8'>
                             <div className='row'>
                                 <div className='col-sm-12 text-center'>
-                                <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Get in touch</h2>
+                                    <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Get in touch</h2>
                                 </div>
                                 <div class="col-md-6 md-mb-50">
                                     <div class="contact-img wow fadeInUp delay-0-2s animated animateUP">
@@ -864,7 +878,7 @@ export default function Home() {
 
 
                         <div className='col-lg-4'>
-                        <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Policies</h2>
+                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Policies</h2>
                             <div>
                                 {/* <h4 className='policyh4'></h4> */}
                                 <ul className='mpolicyes dcd'>
