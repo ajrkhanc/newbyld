@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <>
     <footer id="rs-footer" className="rs-footer style1 footercc mfooterc">
-            <div className="footer-top">
+            <div className="footer-top ptt-10">
                 <div className="container">
                     <div className="row">
                         <div className='col-sm-12'>

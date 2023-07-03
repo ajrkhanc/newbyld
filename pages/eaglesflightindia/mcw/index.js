@@ -11,7 +11,7 @@ export default function Home() {
             <meta name="description" content=""/> 
           </Head>
 
-          <div className="themecoloforpdf ptt-20 pbb-15">
+          <div className="themecoloforpdf ptt-5 pbb-5">
             <div className="container">
                <div className="row">
                   <div className="col-lg-5">
@@ -26,10 +26,11 @@ export default function Home() {
             </div>
          </div>
 
-         <div className="ptt-40">
+         <div className="ptt-0">
             <div className="container">
                <div className="row">
-                  <div className="col-lg-12 claccv">
+                  <div className='col-lg-2'></div>
+                  <div className="col-lg-8 claccv">
                      <img className="" src="/efassets/img/bg-0-museum-caper.jpg"/>
                      <div className='logocc1'>
                      <a href='/eaglesflightindia/museum-caper-4/'><img className="" src="/efassets/img/Screenshot_2.png"/></a>

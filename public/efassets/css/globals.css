@@ -1620,61 +1620,93 @@ body .modal.show .modal-dialog {
 }
 .logocc1{
   position: absolute;
-    bottom: 128px;
-    left: 379px;
+  bottom: 82px;
+  left: 254px;
 }
 
 .logocc1 img{
-  width: 91%;
+  width: 60%;
 }
 
 .logocc2{
   position: absolute;
-  bottom: 125px;
-  left: 615px;
+  bottom: 82px;
+  left: 409px;
 }
 .logocc2 img{
-  width: 91%;
+  width: 60%;
 }
 
 .logocc3{
   position: absolute;
-  bottom: 126px;
-  right: 12px;
+  bottom: 83px;
+  right: -67px;
 }
 
 .logocc3 img{
-  width: 91%;
+  width: 60%;
 }
 
 @media (max-width:1199px){
   .logocc1{
     position: absolute;
-    bottom: 104px;
-    left: 319px;
+    bottom: 69px;
+    left: 213px;
   }
   
   .logocc1 img{
-    width: 78%;
+    width: 50%;
   }
   
   .logocc2{
     position: absolute;
-    bottom: 104px;
-    left: 520px;
+    bottom: 70px;
+    left: 344px;
   }
   .logocc2 img{
-    width: 78%;
+    width: 50%;
   }
   
   .logocc3{
     position: absolute;
-    bottom: 104px;
-    right: -25px;
+    bottom: 70px;
+    right: -94px;
   }
   
   .logocc3 img{
-    width: 78%;
+    width: 50%;
+  }
+}
+
+
+@media (max-width:991px){
+  .logocc1{
+    position: absolute;
+    bottom: 79px;
+    left: 243px;
+  }
+  
+  .logocc1 img{
+    width: 55%;
+  }
+  
+  .logocc2{
+    position: absolute;
+    bottom: 79px;
+    left: 388px;
+  }
+  .logocc2 img{
+    width: 55%;
+  }
+  
+  .logocc3{
+    position: absolute;
+    bottom: 79px;
+    right: -77px;
+  }
+  
+  .logocc3 img{
+    width: 55%;
   }
 }
 
