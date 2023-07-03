@@ -35,7 +35,8 @@ export default function BrowseCourses() {
         const organization = event.target.organization.value;
         var nameurl = name.replace(/[^a-zA-Z0-9 ]/g, "");
         nameurl = nameurl.toLowerCase();
-        const newnameurl = nameurl.split(' ').join('-')
+        const newnameurl = nameurl.split(' ').join('-')+phone;
+        var foremail = 'https://byldgroup.com/eq/eq-assessment2/'+newnameurl;
 
 
 
@@ -81,15 +82,16 @@ export default function BrowseCourses() {
                     xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/164/feedback');
                     xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
-                    var Assessment = "EQ+ Assessment"
+                    var Assessment = "EQ+ Assessment 2"
                     xhttp.send("name=" + event.target.name.value +
                         '&email=' + email +
                         '&phone=' + phone +
                         '&organization=' + organization +
+                        '&foremailreport=' + foremail +
                         '&assessment=' + Assessment)
 
                     window.setTimeout(function () {
-                        window.location.href = `/eq/eq-assessment2/${newnameurl}`
+                        window.location.href = `/thank-you`
                     }, 1000);
                 }
 
