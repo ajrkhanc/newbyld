@@ -11,7 +11,17 @@ import React from 'react';
 
 
 
-export default function Home() {
+export async function getServerSideProps() {
+    const res = await fetch('https://byldgroup.com/assets/countryPhoneCodes.json')
+    const country = await res.json()
+    return {
+        props: {
+            country
+        },
+    }
+}
+
+export default function Home({country}) {
 
     const [modalOpen, setModalOpen] = React.useState(false);
     const [modalOpen2, setModalOpen2] = React.useState(false);
@@ -194,6 +204,20 @@ export default function Home() {
                                 <input type="text" className='borrr' name="name" placeholder="Name*" required />
                             </div>
                             <div className="col-sm-6 mb-12">
+                            
+                                        <select>
+                                        {
+                                country.slice().map((countrys) => {
+                                    return(
+                                            <option value={countrys.iso}>{countrys.iso}-{countrys.code}</option>
+                                            )
+
+                                        })
+        
+        
+                                    }
+                                        </select>
+                                   
                                 <input type="text" className='borrr' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                             </div>
                             <div className="col-sm-12 mb-12">

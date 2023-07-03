@@ -1,4 +1,6 @@
-[{"country":"Afghanistan","code":"93","iso":"AF"},
+[
+    {"country":"India","code":"91","iso":"IN"},
+    {"country":"Afghanistan","code":"93","iso":"AF"},
 {"country":"Albania","code":"355","iso":"AL"},
 {"country":"Algeria","code":"213","iso":"DZ"},
 {"country":"American Samoa","code":"1-684","iso":"AS"},
@@ -92,7 +94,6 @@
 {"country":"Hong Kong","code":"852","iso":"HK"},
 {"country":"Hungary","code":"36","iso":"HU"},
 {"country":"Iceland","code":"354","iso":"IS"},
-{"country":"India","code":"91","iso":"IN"},
 {"country":"Indonesia","code":"62","iso":"ID"},
 {"country":"Iran","code":"98","iso":"IR"},
 {"country":"Iraq","code":"964","iso":"IQ"},
