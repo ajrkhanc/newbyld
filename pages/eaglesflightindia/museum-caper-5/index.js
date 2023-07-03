@@ -56,7 +56,7 @@ export default function Home() {
                   <div className='col-sm-8'>
                       <div  className='bottomimages'>
                       <a href='/eaglesflightindia/ms-marple'><img className="" src="/efassets/img/m45.png"/></a>
-                      </div>
+                      </div> 
                   </div>
                   <div className='clearfix'></div>
 
