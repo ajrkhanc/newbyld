@@ -37,8 +37,8 @@ export default function Home() {
                   <div className='col-sm-2'></div>
                   <div className='col-sm-8'>
                       <div  className='bottomimages'>
-                      <a target="_blank" href='/eaglesflightindia/karamchand'><img className="" src="/efassets/img/m41.png"/></a>                     
-                      <a target="_blank" href='/eaglesflightindia/byomkesh-bakshi'><img className="" src="/efassets/img/m42.png"/></a>                      
+                      <a href='/eaglesflightindia/karamchand'><img className="" src="/efassets/img/m41.png"/></a>                     
+                      <a href='/eaglesflightindia/byomkesh-bakshi'><img className="" src="/efassets/img/m42.png"/></a>                      
                       </div>
                   </div>
                   <div className='clearfix'></div>
@@ -46,8 +46,8 @@ export default function Home() {
                   <div className='col-sm-2'></div>
                   <div className='col-sm-8'>
                       <div  className='bottomimages'>
-                      <a target="_blank" href='/eaglesflightindia/jagga-jasoos/jagga-jasoos4'><img className="" src="/efassets/img/m43.png"/></a>                     
-                      <a target="_blank" href='/eaglesflightindia/feluda'><img className="" src="/efassets/img/m44.png"/></a>                      
+                      <a href='/eaglesflightindia/jagga-jasoos/jagga-jasoos5'><img className="" src="/efassets/img/m43.png"/></a>                     
+                      <a href='/eaglesflightindia/feluda'><img className="" src="/efassets/img/m44.png"/></a>                      
                       </div>
                   </div>
                   <div className='clearfix'></div>
@@ -55,7 +55,7 @@ export default function Home() {
                   <div className='col-sm-2'></div>
                   <div className='col-sm-8'>
                       <div  className='bottomimages'>
-                      <a target="_blank" href='/eaglesflightindia/ms-marple'><img className="" src="/efassets/img/m45.png"/></a>
+                      <a href='/eaglesflightindia/ms-marple'><img className="" src="/efassets/img/m45.png"/></a>
                       </div>
                   </div>
                   <div className='clearfix'></div>
