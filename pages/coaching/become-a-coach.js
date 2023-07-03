@@ -21,7 +21,7 @@ export async function getServerSideProps() {
     }
 }
 
-export default function Home({country}) {
+export default function Home({ country }) {
 
     const [modalOpen, setModalOpen] = React.useState(false);
     const [modalOpen2, setModalOpen2] = React.useState(false);
@@ -52,7 +52,7 @@ export default function Home({country}) {
         };
         xhttp.send("name=" + event.target.name.value +
             "&email=" + event.target.email.value +
-            "&phone=" + event.target.phone.value +
+            "&phone=" + event.target.cocode.value + '-' + event.target.phone.value +
             "&organization=" + event.target.organization.value +
             "&designation=" + event.target.designation.value)
 
@@ -85,7 +85,7 @@ export default function Home({country}) {
         };
         xhttp.send("name=" + event.target.name.value +
             "&email=" + event.target.email.value +
-            "&phone=" + event.target.phone.value +
+            "&phone=" + event.target.cocode.value + '-' + event.target.phone.value +
             "&organization=" + event.target.organization.value +
             "&designation=" + event.target.designation.value +
             "&slot=" + event.target.slot.value +
@@ -121,7 +121,7 @@ export default function Home({country}) {
         };
         xhttp.send("name=" + event.target.name.value +
             "&email=" + event.target.email.value +
-            "&phone=" + event.target.phone.value +
+            "&phone=" + event.target.cocode.value + '-' + event.target.phone.value +
             "&organization=" + event.target.organization.value +
             "&designation=" + event.target.designation.value)
 
@@ -203,22 +203,22 @@ export default function Home({country}) {
                             <div className="col-sm-6 mb-12">
                                 <input type="text" className='borrr' name="name" placeholder="Name*" required />
                             </div>
-                            <div className="col-sm-6 mb-12">
-                            
-                                        <select>
-                                        {
-                                country.slice().map((countrys) => {
-                                    return(
-                                            <option value={countrys.iso}>{countrys.iso}-{countrys.code}</option>
+                            <div className="col-sm-6 mb-12 eqlcwi">
+
+                                <select className='borrr wi10' name='cocode'>
+                                    {
+                                        country.slice().map((countrys) => {
+                                            return (
+                                                <option value={countrys.code}>{countrys.iso}-{countrys.code}</option>
                                             )
 
                                         })
-        
-        
+
+
                                     }
-                                        </select>
-                                   
-                                <input type="text" className='borrr' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                                </select>
+
+                                <input type="text" className='borrr wi90' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                             </div>
                             <div className="col-sm-12 mb-12">
                                 <input type="email" className='borrr' name="email" placeholder="Professional/Personal Email Address*" required />
@@ -283,8 +283,20 @@ export default function Home({country}) {
                             <div className="col-sm-6 mb-12">
                                 <input type="text" className='borrr' name="name" placeholder="Name*" required />
                             </div>
-                            <div className="col-sm-6 mb-12">
-                                <input type="text" className='borrr' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                            <div className="col-sm-6 mb-12 eqlcwi">
+                                <select className='borrr wi10' name='cocode'>
+                                    {
+                                        country.slice().map((countrys) => {
+                                            return (
+                                                <option value={countrys.code}>{countrys.iso}-{countrys.code}</option>
+                                            )
+
+                                        })
+
+
+                                    }
+                                </select>
+                                <input type="text" className='borrr wi90' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                             </div>
                             <div className="col-sm-12 mb-12">
                                 <input type="email" className='borrr' name="email" placeholder="Professional/Personal Email Address*" required />
@@ -871,20 +883,32 @@ export default function Home({country}) {
                                         <div className="bannerform wow fadeInUp delay-0-2s animated animateUP">
                                             <form id="contact-form" className='clientcornner ptt-40 pbb-20' onSubmit={registerUser}>
                                                 <div className="row">
-                                                    <div className="col-sm-6 mb-12">
+                                                    <div className="col-sm-12 mb-12">
                                                         <input className='borrr' type="text" name="name" placeholder="Enter Name*" required />
                                                     </div>
 
-                                                    <div className="col-sm-6 mb-12">
-                                                        <input className='borrr' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                                                    <div className="col-sm-12 mb-12 eqlcwi">
+                                                        <select className='borrr wi10' name='cocode'>
+                                                            {
+                                                                country.slice().map((countrys) => {
+                                                                    return (
+                                                                        <option value={countrys.code}>{countrys.iso}-{countrys.code}</option>
+                                                                    )
+
+                                                                })
+
+
+                                                            }
+                                                        </select>
+                                                        <input className='borrr wi90' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                                     </div>
                                                     <div className="col-sm-12 mb-12">
                                                         <input className='borrr' type="email" name="email" placeholder="Professional/Personal Email Address*" required />
                                                     </div>
-                                                    <div className="col-sm-12 mb-12">
+                                                    <div className="col-sm-6 mb-12">
                                                         <input className='borrr' type="text" name="organization" placeholder="Organization" />
                                                     </div>
-                                                    <div className="col-sm-12 mb-12">
+                                                    <div className="col-sm-6 mb-12">
                                                         <input className='borrr' type="text" name="designation" placeholder="Designation*" required />
                                                     </div>
 

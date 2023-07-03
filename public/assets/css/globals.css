@@ -789,6 +789,11 @@ html {
   color: #fff;
 }
 
+.eqlcwi{display: flex;}
+.eqlcwi .wi10{
+width: 84px;
+}
+
 
 .slick-dots li.slick-active button:before {
   opacity: 1 !important;
@@ -4648,3 +4653,4 @@ text-align: center;
     overflow: hidden;
     display: block;
 }
+

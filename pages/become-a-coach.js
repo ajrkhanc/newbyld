@@ -882,7 +882,17 @@ import { Accordion, AccordionItem, AccordionItemHeading, AccordionItemButton, Ac
 import 'react-accessible-accordion/dist/fancy-example.css';
 import { Button, Modal, ModalBody, ModalFooter } from "reactstrap";
 
-export default function Home() {
+export async function getServerSideProps() {
+    const res = await fetch('https://byldgroup.com/assets/countryPhoneCodes.json')
+    const country = await res.json()
+    return {
+        props: {
+            country
+        },
+    }
+}
+
+export default function Home({ country }) {
 
 
     const [modalOpen1, setModalOpen1] = React.useState(false);
@@ -891,6 +901,7 @@ export default function Home() {
         var name = event.target.name.value;
         var email = event.target.email.value;
         var phone = event.target.phone.value;
+        var cocode = event.target.cocode.value;
         var organization = event.target.organization.value;
         var designation = event.target.designation.value;
         var slot = event.target.slot.value;
@@ -921,7 +932,7 @@ export default function Home() {
         };
         xhttp.send("leadsquared-FirstName=" + name +
             "&leadsquared-EmailAddress=" + email +
-            "&leadsquared-Mobile=" + phone +
+            "&leadsquared-Mobile=" + cocode + '-' + phone +
             "&leadsquared-Company=" + organization +
             "&leadsquared-JobTitle=" + designation +
             "&slot=" + slot +
@@ -1065,11 +1076,20 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
 
                                     <form id="contactForm" className='clientcornner ptt-5 pbb-0' onSubmit={submit}>
                                         <div className="row">
-                                            <div className="col-sm-6 mb-12">
+                                            <div className="col-sm-12 mb-12">
                                                 <input type="text" name="name" placeholder="Name*" required />
                                             </div>
-                                            <div className="col-sm-6 mb-12">
-                                                <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                                            <div className="col-sm-12 mb-12 eqlcwi">
+                                                <select className='wi10' name='cocode'>
+                                                    {
+                                                        country.slice().map((countrys) => {
+                                                            return (
+                                                                <option value={countrys.code}>{countrys.iso}-{countrys.code}</option>
+                                                            )
+                                                        })
+                                                    }
+                                                </select>
+                                                <input type="text" className='wi90' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                             </div>
                                             <div className="col-sm-12 mb-12">
                                                 <input type="email" name="email" placeholder="Work Email/Email*" required />
