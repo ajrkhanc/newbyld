@@ -231,6 +231,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/eaglesflightindia/promotional-lp',
+        destination: '/eaglesflightindia/lp',
+        permanent: true,
+      },
+
       
 
       
