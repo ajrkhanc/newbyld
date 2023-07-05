@@ -57,31 +57,11 @@ export default function Home() {
                      </div>
                   </div>
 
-                  <div className='clearfix'></div>
+                  
 
-                  <div className='col-sm-3'></div>
-                  <div className='col-sm-6'>
-                      <div  className='bottomimages'>
-                      <a href='#'><img className="" src="/efassets/img/l2.png"/></a>                      
-                      </div>
-                  </div>
-                  <div className='clearfix pbb-30'></div>
+                  
+            
 
-                  <div className='col-sm-3'></div>
-                  <div className='col-sm-6'>
-                     <div className='row'>
-                       
-                        <div className='col-md-12'>
-                           <div  className='bottomimages'>                            
-                            <a target="_blank" href='/efassets/pdf/jagga-jasoos4/7892e4_6e0b652390e44a4e95602d7f529daf5c.pdf'><img className="" src="/efassets/img/new-york.png"/></a>
-                            <a><img className="" src="/efassets/img/l1.png"/></a>
-                            <a target="_blank" href='/efassets/pdf/jagga-jasoos4/7892e4_d08ab9e8c967413a8029335dcc87480a-1.pdf'><img className="" src="/efassets/img/paris.png"/></a>
-                            <a><img className="" src="/efassets/img/l1.png"/></a>
-                            <a target="_blank" href='/efassets/pdf/jagga-jasoos4/7892e4_bc1b2a9c4bcb4cfa930e088e733a5d57-1.pdf'><img className="" src="/efassets/img/london.png"/></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
 
                   <div className='clearfix'></div>
 
