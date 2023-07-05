@@ -172,7 +172,7 @@ export default function Home() {
                                         <div className="col-sm-12 mb-12">
                                             <select name="slot" required>
                                                 <option value="">Pick up your Slot*</option>
-                                                <option value="Eagle's Flight Executive Briefing: June 27th, 2023">Eagle's Flight Executive Briefing: June 27th, 2023</option>
+                                                <option value="Eagle's Flight Executive Briefing: October 12th, 2023">Eagle's Flight Executive Briefing: October 12th, 2023</option>
                                             </select>
                                         </div>
                                       
@@ -380,12 +380,12 @@ export default function Home() {
                         <div class="col-lg-6">
                             <div class="sec-title3 mbb-35 text-left efmd">
                                 <h2 class="">Want to Leverage Team Building Activities for Enhanced Decision-Making and Teamwork?</h2>
-                                <h3>Attend our Eagle’s Flight Showcase to build an inclusive work culture.</h3>
+                                <h3>Eagle’s Flight Showcase builds an inclusive work culture.</h3>
 
                                 <div class="workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 27th, 2023</h6>
-                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11 AM to 2 PM</h6>
-                                    <a className='enbtnc' onClick={() => setModalOpen(!modalOpen)}>Enroll Now</a>
+                                    {/* <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 27th, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11 AM to 2 PM</h6> */}
+                                    <a className='enbtnc' onClick={() => setModalOpen(!modalOpen)}>Connect Now</a>
                                 </div>
                             </div>
                         </div>

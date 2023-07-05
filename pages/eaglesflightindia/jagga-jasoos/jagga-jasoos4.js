@@ -30,8 +30,8 @@ export default function Home() {
                       </div>
                   </div>
                   <div className='clearfix'></div>
-                  <div className='col-sm-2'></div>
-                  <div className='col-sm-8'>
+                  <div className='col-sm-3'></div>
+                  <div className='col-sm-6'>
                       <div  className='mauto'>
                       <h5 className='kh5 ptt-40'>Jagga Jasoos,</h5>
                       <h5 className='kh5 pbb-20'>As you know, Crimes have been committed in 3 Cities across the world!</h5>
@@ -41,13 +41,10 @@ export default function Home() {
                   </div>
                   <div className='clearfix ptt-40'></div>
 
-                  <div className='col-sm-2'></div>
-                  <div className='col-sm-8'>
+                  <div className='col-sm-3'></div>
+                  <div className='col-sm-6'>
                      <div className='row'>
-                        <div className='col-md-2'>
-                        <h3 className='jaggaclient'>Clue Set 1</h3>
-                        </div>
-                        <div className='col-md-10'>
+                        <div className='col-md-12'>
                            <div  className='bottomimages'>                            
                             <a target="_blank" href='/efassets/pdf/jagga-jasoos4/7892e4_5f811e8b989242d9a3a557ba1ab5f81e.pdf'><img className="" src="/efassets/img/new-york.png"/></a>
                             <a><img className="" src="/efassets/img/l1.png"/></a>
@@ -69,13 +66,11 @@ export default function Home() {
                   </div>
                   <div className='clearfix pbb-30'></div>
 
-                  <div className='col-sm-2'></div>
-                  <div className='col-sm-8'>
+                  <div className='col-sm-3'></div>
+                  <div className='col-sm-6'>
                      <div className='row'>
-                        <div className='col-md-2'>
-                        <h3 className='jaggaclient'>Clue Set 2</h3>
-                        </div>
-                        <div className='col-md-10'>
+                  
+                        <div className='col-md-12'>
                            <div  className='bottomimages'>                            
                             <a target="_blank" href='/efassets/pdf/jagga-jasoos4/7892e4_6e0b652390e44a4e95602d7f529daf5c.pdf'><img className="" src="/efassets/img/new-york.png"/></a>
                             <a><img className="" src="/efassets/img/l1.png"/></a>
