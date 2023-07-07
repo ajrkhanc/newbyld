@@ -209,7 +209,7 @@ export default function WebinarsAndProgramExperience() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
-                                    <h3>Consulting Practice</h3>
+                                    <h3>Foster Diversity and Inclusion in Automotive Sector</h3>
                                     <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>

@@ -728,6 +728,20 @@ export default function JoinOurPartnerNetworkLP() {
                             <Slider {...settings}>
                                 <div className='logoslider'>
                                     <div className='impdf'>
+                                        <img src='/assets/img/white-paper/fostering-culture-of-high-performance.jpg' alt="books" />
+                                        <a href='/cp/white-paper/fostering-culture-of-high-performance'>Download White Paper</a>
+                                    </div>
+                                </div>
+
+                                <div className='logoslider'>
+                                    <div className='impdf'>
+                                        <img src='/assets/img/white-paper/the-indian-automotive-sector-has-been-witnessing-changing-trends.jpg' alt="books" />
+                                        <a href='/cp/white-paper/the-indian-automotive-sector-has-been-witnessing-changing-trends'>Download White Paper</a>
+                                    </div>
+                                </div>
+
+                                <div className='logoslider'>
+                                    <div className='impdf'>
                                         <img src='/assets/img/white-paper/the-indian-construction-industry-new-amarvijay-sir.jpg' alt="books" />
                                         <a href='/cp/white-paper'>Download White Paper</a>
                                     </div>

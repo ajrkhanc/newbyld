@@ -26,6 +26,26 @@ export default function Books() {
                                 </div>
                             </div>
                         </div>
+                        
+                        <div className="col-sm-4">
+                            <div className="innervideoshd ebookst text-center">
+                                <a href='/cp/white-paper/fostering-culture-of-high-performance'>
+                                    <img src='/assets/img/white-paper/fostering-culture-of-high-performance.jpg' alt="books" />
+                                    <h4 className=''>Fostering culture of High Performance</h4>
+                                    <h3 className='ebookbtn'>Read White Paper</h3>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div className="col-sm-4">
+                            <div className="innervideoshd ebookst text-center">
+                                <a href='/cp/white-paper/the-indian-automotive-sector-has-been-witnessing-changing-trends'>
+                                    <img src='/assets/img/white-paper/the-indian-automotive-sector-has-been-witnessing-changing-trends.jpg' alt="books" />
+                                    <h4 className=''>The Indian automotive sector has been witnessing changing trends.</h4>
+                                    <h3 className='ebookbtn'>Read White Paper</h3>
+                                </a>
+                            </div>
+                        </div>
 
                         <div className="col-sm-4">
                             <div className="innervideoshd ebookst text-center">
