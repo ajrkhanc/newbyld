@@ -4799,14 +4799,16 @@ body .search-modal .close:hover {
   text-transform: capitalize;
 }
 .rs-team.style2 .team-item .team-content .team-info .name a {
-  color: #EB7A10;
+  color: #e88026;
 }
 .rs-team.style2 .team-item .team-content .team-info .post {
-  font-size: 16px;
-  line-height: 26px;
+  overflow: hidden;
+  display: block;
+  line-height: 22px;
   font-weight: 500;
   color: #2A6DB5;
   text-transform: uppercase;
+  font-size: 14px;
 }
 .rs-team.style2 .team-item .team-content .social-icon {
   position: absolute;
@@ -4833,7 +4835,7 @@ body .search-modal .close:hover {
 }
 .rs-team.style2 .team-item .team-content .social-icon li a i {
   font-size: 30px;
-  color: #ffffff;
+  color: #3373af;
 }
 .rs-team.style2 .team-item .team-content .social-icon li a i:hover {
   color: #0a0a0a;
@@ -4854,7 +4856,7 @@ body .search-modal .close:hover {
 .rs-team.style2 .team-item:hover .team-img img {
   transform: scale(1.1);
 }
-.rs-team.style2 .team-item:hover .team-content {
+.rs-team.style2 .team-item .team-content {
   opacity: 1;
   width: 100%;
   visibility: visible;
@@ -4862,15 +4864,15 @@ body .search-modal .close:hover {
   bottom: 0;
   height: 140px;
   color: #fff;
-  background: #2A6DB5;
+
 }
-.rs-team.style2 .team-item:hover .team-content .team-info .name a {
-  color: #ffffff;
+.rs-team.style2 .team-item .team-content .team-info .name a {
+  color: #000;
 }
-.rs-team.style2 .team-item:hover .team-content .team-info .post {
-  color: #ffffff;
+.rs-team.style2 .team-item .team-content .team-info .post {
+  color: #3373af;
 }
-.rs-team.style2 .team-item:hover .team-content .social-icon {
+.rs-team.style2 .team-item .team-content .social-icon {
   bottom: 20px;
   opacity: 1;
 }
