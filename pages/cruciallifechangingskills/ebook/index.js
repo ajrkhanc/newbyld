@@ -17,11 +17,19 @@ export default function Books(){
 
                     <div class="col-md-4 workshop-col"> 
                        <div class="bookshd text-center">                            
+                            <img class="center-image mbb-15" src="/classets/img/mini-book-getting-things-done.jpg" alt="books" />          
+                            <h6 className='bookprice elerningf'>Getting Things Done the art of stress free productivity</h6>                           
+                            <a class="booksbtn" href='/cruciallifechangingskills/ebook/mini-book-getting-things-done'>Read eBook</a>
+                       </div>
+                    </div> 
+
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="bookshd text-center">                            
                             <img class="center-image mbb-15" src="/classets/img/el4.jpg" alt="books" />          
                             <h6 className='bookprice elerningf'>Accountability is missing in educational performance standards</h6>                           
                             <a class="booksbtn" href='/cruciallifechangingskills/ebook/accountability-is-missing-in-educational-performance-standards'>Read eBook</a>
                        </div>
-                    </div>  
+                    </div> 
 
                     <div class="col-md-4 workshop-col"> 
                        <div class="bookshd text-center">                            
