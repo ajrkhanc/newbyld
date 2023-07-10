@@ -278,7 +278,7 @@ export default function Home({ posts }) {
 
                         <TabPanel className="tabdetails">
                            <div className='sec-title3'>
-                              <h4 className="solutionh"><a href="#">Leadership and Talent Development</a></h4>
+                              <h4 className="solutionh"><a href="#">Leadership & Performance</a></h4>
                               <div className="heading-border-line left-style"></div>
                               <p className='ptt-20 mbb-5'>Ever since the COVID 19 pandemic has hit the world, leaders across the globe have been striving hard to maintain peace within their teams while improving their productivity. Give your leaders the right skills, support, and methods that successful leaders around the world are using.</p>
                               <p className='mbb-5'>We bring you a plethora of world-renowned training brands that are at the top list of Fortune 500 companies. These include:</p>
