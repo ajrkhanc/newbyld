@@ -18,7 +18,7 @@ export default function Ebookpage(){
 
                     document.getElementById("showlabel").style.display = "block";
                     setTimeout(function() {
-                        window.open("/assets/pdf/innovation-race-book-summary.pdf", "_blank")
+                        window.open("/assets/pdf/innovation-race-book-summary.pdf")
                      }, 3000);
 
                 } else {
