@@ -96,7 +96,7 @@ export default function OurLeadershipTeam(){
                                         <div className="name">
                                             <a href="#">Nishit Sood</a>
                                         </div>
-                                        <span className="post">Chief Flow Officer</span>
+                                        <span className="post">Co-founder & CFO at BYLD Group</span>
                                     </div>
                                     <ul className="social-icon">
                                         <li><a target="_blank" href="https://www.linkedin.com/in/nishitsood/"><i className="fa fa-linkedin"></i></a></li>
