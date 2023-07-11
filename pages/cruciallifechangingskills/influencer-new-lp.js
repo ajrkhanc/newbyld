@@ -220,10 +220,10 @@ export default function BrowseCourses(){
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
                             <h4>INFLUENCER</h4>                            
                             </div>
-                            <h5 className='eventt'>Workshop</h5>
+                            <h5 className='eventt'>Virtual Course Preview</h5>
                              <div class="col-md-12 workshop-date green-col"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> June 22nd - 23rd, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 24th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4:00 PM - 5:00 PM</h6>
                             <a href='#registered'><button class="register">REGISTER NOW</button></a>
                             </div>
                        </div>
