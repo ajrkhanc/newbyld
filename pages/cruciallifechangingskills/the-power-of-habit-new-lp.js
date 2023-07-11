@@ -152,7 +152,7 @@ export default function BrowseCourses(){
                         </div>
 
                         <div class="col-md-6 col-6">
-                        <input type="text" name='designation' placeholder="Designation"/> 
+                        <input type="text" name='designation' placeholder="Designation*" required/> 
                         </div>
 
                         

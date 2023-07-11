@@ -67,12 +67,6 @@ export default function Webinars() {
                             <h1>WEBINARS</h1>
                         </div>
 
-
-
-
-
-                      
-
                         <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content green-col">
@@ -173,7 +167,7 @@ export default function Webinars() {
                                     <input type="text" name='organization' placeholder="Organization*" />
                                 </div>
                                 <div class="col-md-6 col-6">
-                                    <input type="text" name='designation' placeholder="Designation" />
+                                    <input type="text" name='designation' placeholder="Designation*" required/>
                                 </div>
                                 <div class="col-md-6 col-6">
                                     <select name='location' required>

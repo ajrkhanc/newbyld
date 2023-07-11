@@ -264,7 +264,7 @@ export default function Gettingthingsdone() {
                                     <input type="text" name='organization' placeholder="Organization*" />
                                 </div>
                                 <div class="col-md-12">
-                                    <input type="text" name='designation' placeholder="Designation" />
+                                    <input type="text" name='designation' placeholder="Designation*" required/>
                                 </div>
 
                                 <div class="col-md-12">

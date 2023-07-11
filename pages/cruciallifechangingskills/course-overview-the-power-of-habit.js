@@ -65,7 +65,7 @@ export default function Courseoverviewcrucialconversationsformasteringdialogue()
                                         <input type="text" name='organization' class="form-control" placeholder="Organization*"/> 
                                     </div>
                                     <div class="col-md-12">
-                                        <input type="text" name='designation' class="form-control" placeholder="Designation"/> 
+                                        <input type="text" name='designation' class="form-control" placeholder="Designation*" required/> 
                                     </div>
                                     <div class="col-md-6 col-6">
                                         <label>Location</label>

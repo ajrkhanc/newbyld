@@ -347,7 +347,7 @@ export default function Workshops(){
                                         <input type="text" name='organization' placeholder="Organization*"/> 
                                     </div>
                                     <div class="col-md-6 col-6">
-                                        <input type="text" name='designation' placeholder="Designation"/> 
+                                        <input type="text" name='designation' placeholder="Designation*" required/> 
                                     </div>
                                     <div class="col-md-6 col-6">                                    
                                         <select name='location' required>
