@@ -100,7 +100,7 @@ export default function LuminaPsychomentricAssesments(){
                                         <div className="col-lg-12 mb-12">
                                             <select name="intrestedin" required>
                                                 <option value="">Pick up any Slot*</option>
-                                                <option value="20th January 2023: 03:00 PM - 04:00 PM">20th January 2023: 03:00 PM - 04:00 PM</option>
+                                                <option value="23rd August 2023: 03:00 PM - 04:00 PM">23rd August 2023: 03:00 PM - 04:00 PM</option>
                                             </select>
                                         </div>
                                         
@@ -182,7 +182,7 @@ export default function LuminaPsychomentricAssesments(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar 20th January 2023</span>
+                                <span>Webinar 23rd August 2023</span>
                             </div>
                             
                             <div className='eventbottom'>

@@ -51,7 +51,7 @@ export default function JoinOurPartnerNetworkLP(){
             </div>
             </div>
 
-            <div className="rs-about style2 pt-50 pb-20 aboutsection1">
+            <div id='GetinTouch' className="rs-about style2 pt-50 pb-20 aboutsection1">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6 ">
@@ -107,7 +107,7 @@ export default function JoinOurPartnerNetworkLP(){
                                         <div className="col-lg-12 mb-12">
                                             <select name="intrestedin" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="July 12th 2023 - 11:00 PM - 12:00 PM">July 12th 2023 - 11:00 PM - 12:00 PM</option>
+                                                <option value="September 8th 2023 - 11:00 AM - 12:00 PM">September 8th 2023 - 11:00 AM - 12:00 PM</option>
                                             </select>
                                         </div>
                                         
@@ -168,19 +168,19 @@ export default function JoinOurPartnerNetworkLP(){
                     
 
                     <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar July 12th 2023</span>
-                            </div>
-                            
-                            <div className='eventbottom'>
-                                <h3 className='hhd'>BYLD Partner Network Briefing</h3>
-                                <h5>Time: 11:00 PM - 12:00 PM</h5>
-                                <a className="eventbtn" href='#'>REGISTER NOW</a>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar 8th September 2023</span>
+                                </div>
+
+                                <div className='eventbottom'>
+                                    <h3 className='hhd'>BYLD Partner Network Briefing</h3>
+                                    <h5>Time: 11:00 AM - 12:00 PM</h5>
+                                    <a className="eventbtn" href='#GetinTouch'>REGISTER NOW</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
                   
 
