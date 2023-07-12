@@ -28,9 +28,9 @@ export default function Books(){
                         </div>
                         <div className="col-sm-4">
                            <div className="innervideoshd ebookst text-center">
-                               <a href='/ebook/situational-approach-to-leadership'>
-                               <img src='/assets/img/ebook/situational-approach-to-leadership.jpg' alt="books"/>
-                               <h4 className=''>SLII. Why a Situational Approach to Leadership Makes All the Difference</h4>
+                               <a href='/ebook/critical-skills-every-sales-manager-needs'>
+                               <img src='/assets/img/ebook/critical-skills-every-sales-manager-needs.jpg' alt="books"/>
+                               <h4 className=''>Meeting the Quota Challenge: Critical Skills Every Sales Manager Needs to Excel</h4>
                                <h3 className='ebookbtn'>Read E-book</h3>
                                </a>
                             </div>
