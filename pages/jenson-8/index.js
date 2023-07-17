@@ -464,10 +464,10 @@ export default function Jenson8(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Showcase - Thursday, July 27th, 2023</span>
+                                <span>Virtual Course Preview - Thursday, July 27th, 2023</span>
                             </div>
                             <div className='eventbottom'>
-                            <h4 className='eventtitlec'>Showcase for Jenson8(Corporate)</h4>
+                            <h4 className='eventtitlec'>Virtual Course Preview for Jenson8(Corporate)</h4>
                                 <h3>Time: 2:00 PM -5:00 PM</h3>
                                 <a className="eventbtn" href='#Reserve'>REGISTER NOW</a>
                             </div>
@@ -562,7 +562,7 @@ export default function Jenson8(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="slot" required>
                                                 <option value="">Pick up any Slot*</option>                                                                                             
-                                                <option value="Showcase - Thursday, July 27th, 2023">Showcase - Thursday, July 27th, 2023</option>
+                                                <option value="Virtual Course Preview - Thursday, July 27th, 2023">Virtual Course Preview - Thursday, July 27th, 2023</option>
                                                 {/* <option value="Webinar - July 28th, 2023">Webinar - July 28th, 2023</option>
                                                 <option value="Webinar - August 4th, 2023">Webinar - August 4th, 2023</option>
                                                 <option value="Webinar - September 6th, 2023">Webinar - September 6th, 2023</option>
