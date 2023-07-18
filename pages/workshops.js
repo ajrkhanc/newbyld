@@ -58,60 +58,9 @@ export default function Workshops() {
 
 
 
-                        {/* <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>June 15th - 16th, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                                <h3>DISC Train-the-Trainer (TTT), Venue: Gurgaon</h3>
-                                <a target="_blank" className="eventbtn" href='/everythingdisc/everything-disc-ttt-vt-lp/'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div> */}
+                       
 
-
-                        <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - July 13th, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h3>Self Leadership - Virtual</h3>
-                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                        <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - July 13th, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h3>Crucial Life Changing Skills Online Workshop</h3>
-                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>July 18th - 21st, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h3>DISC Train-the-Trainer (TTT)</h3>
-                                    <a target="_blank" className="eventbtn" href='/everythingdisc/everything-disc-ttt-vt-lp/'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div>
+                    
 
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -377,11 +326,7 @@ export default function Workshops() {
                                         </div>
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
-                                                <option value="">Pick up any Slot*</option>
-                                                <option value="The SLII Experience™ - Virtual July 4th to 5th, 2023">The SLII Experience™ - Virtual July 4th to 5th, 2023</option>
-                                                <option value="Self Leadership - Virtual July 13th, 2023">Self Leadership - Virtual July 13th, 2023</option>
-                                                <option value="The Power of Habit - July 13th, 2023">The Power of Habit - July 13th, 2023</option>
-                                                <option value="18th - 21st July, 2023 - DISC Train-the-Trainer (TTT)">18th - 21st July - DISC Train-the-Trainer (TTT)</option>
+                                                <option value="">Pick up any Slot*</option>                                                
                                                 <option value="Team Leadership - Virtual July 26th, 2023">Team Leadership - Virtual July 26th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - July 27th, 2023">Crucial Life Changing Skills, Getting Things Done - July 27th, 2023</option>
                                                 <option value="The SLII Experience™, Virtual - August 7th to 8th, 2023">The SLII Experience™, Virtual - August 7th to 8th, 2023</option>
