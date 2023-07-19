@@ -34,7 +34,7 @@ export default function result({ result }) {
                         Please Submit You Asessement Before.
                     </p>
                     <h6>
-                        <a class="submit" href='/erf/erf-assessment'> Go Back </a>
+                        <a class="submit" href='/execution-risk-forecast/erf-assessment'> Go Back </a>
                     </h6>
                 </div>
             </div>

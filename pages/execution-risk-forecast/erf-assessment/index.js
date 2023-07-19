@@ -224,10 +224,10 @@ export default function BrowseCourses() {
 
                 if (data.status == 0) {
                     var xhttp = xhr;
-                    xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/154/feedback');
+                    xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/182/feedback');
                     xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
-                    var Assessment = "ECF Assessment"
+                    var Assessment = "Execution Risk Forecast ERF"
                     xhttp.send("name=" + event.target.name.value +
                         '&email=' + email +                        
                         '&organization=' + organization +
@@ -238,7 +238,7 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment)
 
                     window.setTimeout(function () {
-                        window.location.href = `/erf/erf-assessment/${newnameurl}`
+                        window.location.href = `/execution-risk-forecast/erf-assessment/${newnameurl}`
                     }, 1000);
                 }
 
