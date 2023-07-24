@@ -106,6 +106,7 @@ export default function result({ result }) {
                                                     <div className='clcleft ccvvbb pbb-10'>
                                                         <h4><i>Prepared For :</i></h4>
                                                         <h3>{results.name}</h3>
+                                                        <h4><i>Your Initiative : </i> {results.initiative}</h4>
                                                     </div>
                                                 </div>
                                                 <div className='col-sm-6'>

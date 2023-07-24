@@ -104,6 +104,7 @@ export default function BrowseCourses() {
         const yrole = event.target.yrole.value;
         const startd = event.target.startd.value;
         const completed = event.target.completed.value;
+        const initiative = event.target.initiative.value;
 
 
         var nameurl = name.replace(/[^a-zA-Z0-9 ]/g, "");
@@ -211,6 +212,7 @@ export default function BrowseCourses() {
             '&yrole=' + yrole +
             '&startd=' + startd +
             '&completed=' + completed +
+            '&initiative=' + initiative +
 
             '&newnameurl=' + newnameurl
         );
@@ -279,7 +281,7 @@ export default function BrowseCourses() {
                 <div className='container'>
                     <div className='row align-items-center'>
                         <div className='col-md-12 text-center'>
-                            <h2 className='cacoh'>ERF</h2>
+                        <h2 className='cacoh'>Execution Risk Forecast</h2>
                             <p>
                                 BYLD Execution Risk Forecast (ERF) is a reflective and scientific approach to manage the human and cultural elements critical to achieving strategic business, objectives. The Execution Risk Forecast (ERF) is one component of the overall approach and provided a “snapshot” measurement designed to increase the probability of Execution of strategies and/or transformation projects success by identifying current risk factors and targeting specific resources for a project in progress. Additional components will assess the other key factors which are essential for change/project of success.
                             </p>
@@ -327,9 +329,12 @@ export default function BrowseCourses() {
                             <div className='col-sm-12'>
                                 <div className='fcol1 fmcvt lastinp ptt-20'>
                                     <div className='row inpuut'>
-                                    <div className="col-sm-4"></div>
+                                    <div className="col-sm-2"></div>
                                         <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
+                                        </div>
+                                        <div className="col-sm-4 mb-12">
+                                            <input className='form-control' type="text" name="initiative" placeholder="Your Initiative*" required />
                                         </div>
                                         <div className="col-sm-12 mb-12">
                                             <h2>
