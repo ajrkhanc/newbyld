@@ -107,7 +107,7 @@ export default function result({ result }) {
                                                         <h4><i>Prepared For :</i></h4>
                                                         <h3>{results.name}</h3>
 
-                                                        <h4><i>Prepared For :</i>{results.initiative}</h4>
+                                                        <h4><i>Prepared For : </i> {results.initiative}</h4>
                                                     </div>
                                                 </div>
                                                 <div className='col-sm-6'>
