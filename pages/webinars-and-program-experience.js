@@ -187,7 +187,7 @@ export default function WebinarsAndProgramExperience() {
 
                         
 
-                        <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
@@ -213,7 +213,7 @@ export default function WebinarsAndProgramExperience() {
                                     <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -345,9 +345,7 @@ export default function WebinarsAndProgramExperience() {
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
                                                 <option value="">Pick up any Slot*</option>
                                                 {/* <option value="Everything DiSC Work Productive Conflict, 5th July, 2023">Everything DiSC Work Productive Conflict, 5th July, 2023</option>                                               
-                                                <option value="Everything DiSC Agile EQ, 19th July, 2023">Everything DiSC Agile EQ, 19th July, 2023</option> */}                                                
-                                                <option value="Crucial Life Changing Skills, Influencer – 24th July, 2023">Crucial Life Changing Skills, Influencer - 24th July, 2023</option>
-                                                <option value="Consulting Practice – 28th July, 2023">Consulting Practice – 28th July, 2023</option>
+                                                <option value="Everything DiSC Agile EQ, 19th July, 2023">Everything DiSC Agile EQ, 19th July, 2023</option> */}
                                                 <option value="Five Behaviour Personal Development, 2nd August, 2023">Five Behaviour Personal Development, 2nd August, 2023</option>
                                                 <option value="Inside Out Coaching, 23rd August 2023">Inside Out Coaching, 23rd August 2023</option>
                                                 <option value="Lumina Spark, 23rd August, 2023">Lumina Spark, 23rd August, 2023</option>

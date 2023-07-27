@@ -67,7 +67,7 @@ export default function Webinars() {
                             <h1>WEBINARS</h1>
                         </div>
 
-                        <div class="col-md-4 workshop-col">
+                        {/* <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content green-col">
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
@@ -80,7 +80,7 @@ export default function Webinars() {
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
@@ -219,7 +219,6 @@ export default function Webinars() {
                                 <div class="col-md-6 col-6">
                                     <select name='slot' required>
                                         <option value="">Pick any Slot*</option>                                        
-                                        <option value="Influencer – July 24th, 2023">Influencer – July 24th, 2023</option>
                                         <option value="getting things done – October 23rd, 2023">getting things done – October 23rd, 2023</option>
                                         <option value="the power of habit – December 5th, 2023">the power of habit – December 5th, 2023</option>
                                     </select>
