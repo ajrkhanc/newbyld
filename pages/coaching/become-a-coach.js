@@ -234,8 +234,7 @@ export default function Home({ country }) {
 
                             <div className="col-sm-12 mb-12">
                                 <select className='borrr' name='slot' required>
-                                    <option value=''>Pick up any Slot*</option>
-                                    <option value='29 July 2023'>29 July 2023</option>
+                                    <option value=''>Pick up any Slot*</option>                            
                                     <option value='16 September 2023'>16 September 2023</option>
                                     <option value='25 November 2023'>25 November 2023</option>
                                     <option value='27 January 2024'>27 January 2024</option>
@@ -677,32 +676,6 @@ export default function Home({ country }) {
                                 </div>
                             </div>
                         </div> */}
-
-                        <div className='col-sm-6'>
-                            <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
-                                <div className='dateside'>
-                                    <div className='datefont'>
-                                        29<br></br> July
-                                    </div>
-                                </div>
-                                <div className='textsidec'>
-                                    <div className='eventi'>
-                                        ICF Accredited Coach Certification
-                                    </div>
-                                    <div className='timed'>
-                                        <ul>
-                                            <li><i className='fa fa-th-large'>DCA Batch 41</i></li>
-                                            <li><i className='fa fa-clock-o'>10:00 am to 4:00 pm</i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div className='booknowside'>
-                                    <a>Book Now</a>
-                                </div>
-                            </div>
-                        </div>
-
                         <div className='col-sm-6'>
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
                                 <div className='dateside'>
