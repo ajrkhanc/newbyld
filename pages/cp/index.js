@@ -728,6 +728,13 @@ export default function JoinOurPartnerNetworkLP() {
                             <Slider {...settings}>
                                 <div className='logoslider'>
                                     <div className='impdf'>
+                                        <img src='/assets/img/white-paper/embracing-a-customer-centric-mindset.png' alt="books" />
+                                        <a href='/cp/white-paper/embracing-a-customer-centric-mindset'>Download White Paper</a>
+                                    </div>
+                                </div>
+
+                                <div className='logoslider'>
+                                    <div className='impdf'>
                                         <img src='/assets/img/white-paper/fostering-culture-of-high-performance.jpg' alt="books" />
                                         <a href='/cp/white-paper/fostering-culture-of-high-performance'>Download White Paper</a>
                                     </div>
