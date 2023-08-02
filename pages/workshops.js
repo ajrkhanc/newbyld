@@ -159,6 +159,19 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Workshop - August 24th - 25th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>Crucial Life Changing Skills Online Workshop</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
                                     <span>Workshop - September 13th - 14th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
@@ -194,18 +207,7 @@ export default function Workshops() {
                             </div>
                         </div>
 
-                        <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - November 15th - 16th, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h3>Crucial Life Changing Skills Online Workshop</h3>
-                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div>
+                        
 
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -334,10 +336,10 @@ export default function Workshops() {
                                                 <option value="August 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)">August 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)</option>
                                                 <option value="Conversational Capacity - Virtual - August 23rd, 2023">Conversational Capacity - Virtual - August 23rd, 2023</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - August 24th, 2023">Crucial Life Changing Skills, The Power of Habit - August 24th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023">Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023">Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - September 28th, 2023">Crucial Life Changing Skills, Getting Things Done - September 28th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023">Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023</option>
-                                                <option value="Crucial Life Changing Skills, Influencer - November 15th - 16th, 2023">Crucial Life Changing Skills, Influencer - November 15th - 16th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - November 29th, 2023">Crucial Life Changing Skills, The Power of Habit - November 29th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023">Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - January 11th, 2024">Crucial Life Changing Skills, Getting Things Done - January 11th, 2024</option>

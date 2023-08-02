@@ -163,6 +163,21 @@ export default function Workshops(){
                             </div>
                        </div>
                     </div>
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content green-col"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                            <h4>INFLUENCER</h4>
+                            <p></p>
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date green-col"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> August 24th - 25th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
 
                     <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
@@ -211,21 +226,7 @@ export default function Workshops(){
                        </div>
                     </div>
 
-                    <div class="col-md-4 workshop-col"> 
-                       <div class="row workshop-row"> 
-                            <div class="col-md-12 workshop-content green-col"> 
-                            <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
-                            <h4>INFLUENCER</h4>
-                            <p></p>
-                            </div>
-                            <h5 className='eventt'>Workshop</h5>
-                             <div class="col-md-12 workshop-date green-col"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 15th - 16th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
-                            <a href='#registered'><button class="register">REGISTER NOW</button></a>
-                            </div>
-                       </div>
-                    </div>
+                    
 
                     <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
@@ -400,10 +401,10 @@ export default function Workshops(){
                                         <select name='slot' required>
                                             <option value="">Pick any Slot*</option>                                            
                                             <option value="The Power of Habit - August 24th, 2023">The Power of Habit - August 24th, 2023</option>
+                                            <option value="Influencer - August 24th - 25th, 2023">Influencer - August 24th - 25th, 2023</option>
                                             <option value="Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023">Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023</option>
                                             <option value="Getting Things Done - September 28th, 2023">Getting Things Done - September 28th, 2023</option>
-                                            <option value="Crucial Conversations for Accountability - MOctober 5th - 6th, 2023">Crucial Conversations for Accountability - October 5th - 6th, 2023</option>
-                                            <option value="Influencer - November 15th - 16th, 2023">Influencer - November 15th - 16th, 2023</option>
+                                            <option value="Crucial Conversations for Accountability - October 5th - 6th, 2023">Crucial Conversations for Accountability - October 5th - 6th, 2023</option>                                            
                                             <option value="The Power of Habit - November 29th, 2023">The Power of Habit - November 29th, 2023</option>
                                             <option value="Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023">Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023</option>
                                             <option value="Getting Things Done - January 11th, 2024">Getting Things Done - January 11th, 2024</option>
