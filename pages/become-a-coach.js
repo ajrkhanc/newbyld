@@ -1072,7 +1072,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                         <div className='col-sm-4'>
                             <div className='formhh'>
                                 <div className="bannerform msddd">
-                                    <h3>Enroll in our ICF Accredited Coach Certification Batch 41 29 July 10:00 am to 4:00 pm</h3>
+                                    <h3>Enroll in our ICF Accredited Coach Certification Batch 42, 16 September 10:00 am to 4:00 pm</h3>
 
                                     <form id="contactForm" className='clientcornner ptt-5 pbb-0' onSubmit={submit}>
                                         <div className="row">
@@ -1105,8 +1105,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
 
                                             <div className="col-sm-12 mb-12">
                                                 <select name='slot' required>
-                                                    <option value=''>Pick up any Slot*</option>
-                                                    <option value='29 July 2023'>29 July 2023</option>
+                                                    <option value=''>Pick up any Slot*</option>                                                  
                                                     <option value='16 September 2023'>16 September 2023</option>
                                                     <option value='25 November 2023'>25 November 2023</option>
                                                     <option value='27 January 2024'>27 January 2024</option>

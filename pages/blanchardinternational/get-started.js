@@ -24,7 +24,7 @@ function Contact() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -53,37 +53,39 @@ function Contact() {
             <title>Contact us for all General and Non-Sales Enquiries - Blanchard India</title>
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>
-         <div>
-            <div className="inner-banner inner-bg2">
-               <div className="container">
-                  <div className="inner-title text-center">
-                     <h3>Contact Us</h3>
-                     <ul>
-                        <li>
-                           <Link href="/">Home</Link>
-                        </li>
-                        <li>Contact Us</li>
-                     </ul>
-                  </div>
-               </div>
-               <div className="inner-lines">
-                  <div className="line"></div>
-                  <div className="line"></div>
-                  <div className="line"></div>
-               </div>
-            </div>
 
-            <div className="container pt-45">
-               <div className="row">
-                  <div className="col-sm-12 text-center">
-                     <div className="section-title">
-                     <span className="sp-color1">Contact us to get started with the Leadership challenge resolutions. We can help train your managers <br/>and deliver real ROI for your training investment.</span>
-                     <h4>WANT TO TALK TO SOMEONE? CALL US AT 1800.102.1345</h4>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div className="contact-area pt-45 pb-40">
+         <section className="bredkums2 pbb-100">
+                <div className="container-fluid poss">
+                    <div className="row">
+                        <div className="col-sm-12 ptt-25 pbb-50">
+                            <ul>
+                                <li className="brdlifirst"><a href="/">HOME</a></li>
+                                <li><a><span>CONTACT US</span></a></li>
+                            </ul>
+                        </div>
+
+                        <div className="row">
+                            <div className="col-sm-1">
+                                
+                            </div>
+                            <div className="col-sm-10">
+                                <div className="innerbedkms text-center">
+                                    <h1>Contact us to get started with the leadership challenge resolutions.</h1>
+                                    <p className="ptt-15">
+                                    We can help train your managers and deliver real roi for your training investment.
+                                    </p>
+                                    <h3>
+                                    WANT TO TALK TO SOMEONE? CALL US AT 1800.102.1345
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+         <section className="colorthemebg">           
+            <div className="contact-area pt-45 pb-40 ptt-60 border-top-left-radius-70 border-top-right-radius-70 contanerbgc">
                <div className="container">
                   <div className="row">
                      <div className="col-lg-6">
@@ -187,7 +189,7 @@ function Contact() {
                   </div>
                </div>
             </div>
-         </div>
+         </section>
       </>
    )
 }

@@ -89,7 +89,7 @@
   top: 0;
   left: 0;
   right: 0;
-  background-color: #0e1b3175;
+  background-color: #00314675;
   opacity: 0.8;
 }
 
@@ -97,10 +97,10 @@
   background-color: #000000c7;
   padding: 0px 15px 15px 15px;
   margin-top: 30px;
-  border-left: 10px solid #7bafd4;
+  border-left: 10px solid #008065;
   border-bottom: 10px solid #97d700;
   border-top: 10px solid #97d700;
-  border-right: 10px solid #7bafd4;
+  border-right: 10px solid #008065;
 }
 
 .genericnewlpformbg .section-title p {
@@ -125,7 +125,7 @@
   line-height: 50px;
   color: #000;
   font-weight: bold;
-  border-bottom: 3px solid #7bafd4;
+  border-bottom: 3px solid #008065;
 }
 
 .newlpsecoundbg {
@@ -222,7 +222,7 @@
 
 
 .newlpsecoundbgq {
-  background: linear-gradient(134deg, #7bafd4 30%, #97d700 100%);
+  background: linear-gradient(134deg, #008065 30%, #97d700 100%);
   padding: 15px 0;
 }
 
@@ -267,7 +267,7 @@
 }
 
 .qbtnc:hover {
-  background: #7bafd4;
+  background: #008065;
 }
 
 .planbox {
@@ -282,7 +282,7 @@
   top: -44px;
   padding: 14px;
   left: 39%;
-  border: 5px solid #7bafd4;
+  border: 5px solid #008065;
 }
 
 .planboxpt80 {
@@ -316,7 +316,7 @@
 }
 
 .lplastsectionbg {
-  background: #7bafd4;
+  background: #008065;
 }
 
 .bor11 {
@@ -338,7 +338,7 @@
 }
 
 .landingpagesbannerh4cc span {
-  background-color: #7bafd4;
+  background-color: #008065;
   margin-left: 7px;
   padding: 9px;
   /* transform: skew(12deg);
@@ -347,9 +347,9 @@
 
 .borderccc {
   border-left: 10px solid #97d700;
-  border-bottom: 10px solid #7bafd4;
+  border-bottom: 10px solid #008065;
   border-top: 10px solid #97d700;
-  border-right: 10px solid #7bafd4;
+  border-right: 10px solid #008065;
 }
 
 .secoundh a {
@@ -452,21 +452,21 @@
 }
 
 .ehours {
-  border: 5px solid #7bafd4;
+  border: 5px solid #008065;
 }
 
 .hours {
-  color: #7bafd4;
+  color: #008065;
   font-size: 24px;
   font-weight: 600;
 }
 
 .eseconds {
-  border: 5px solid #7bafd4;
+  border: 5px solid #008065;
 }
 
 .seconds {
-  color: #7bafd4;
+  color: #008065;
   font-size: 24px;
   font-weight: 600;
 }
@@ -488,7 +488,7 @@
 }
 
 .sech5 {
-  color: #7bafd4;
+  color: #008065;
   font-weight: 600;
   font-size: 28px;
   padding-bottom: 1px;
@@ -502,7 +502,7 @@
 }
 
 .clanderbg {
-  background: #7bafd426;
+  background: #00806526;
 }
 
 .pb30 {
@@ -637,7 +637,7 @@
 .lpnewbannerp {
   padding: 5px !important;
   margin-top: 15px !important;
-  background: #7bafd461 !important;
+  background: #00806561 !important;
 }
 
 .lpnewbannerp h3 {
@@ -700,7 +700,7 @@
 }
 
 .highinnovatin h2 {
-  color: #7bafd4;
+  color: #008065;
   font-size: 30px;
 }
 
@@ -800,7 +800,7 @@ background-color: #fff;
 }
 
 .ascal .col {
-  background: #7bafd4;
+  background: #008065;
   color: #fff;
 }
 
@@ -811,7 +811,7 @@ background-color: #fff;
 .assesmenthead {
   font-size: 17px;
   text-align: left;
-  color: #7bafd4;
+  color: #008065;
 }
 
 .assesmenthead2 h2 {
@@ -1080,4 +1080,49 @@ background-color: #fff;
     width: 9%;
     padding: 0px;
     padding-top: 15px;
+}
+
+.radionbtnm .col-lg-12 input{
+  margin-right: 10px;
+}
+
+.tocc{
+  display: inline-block !important;
+}
+.tocc strong{
+  padding-right: 10px;
+}
+
+section.quiz-result {  
+  padding-top: 40px;
+  margin-bottom: 0px;
+  text-align: center;
+  background-color: #e5eff6;
+  padding-bottom: 30px;
+}
+
+section.enterprise {
+  background-image: url(/assets/img/leadership-training-books-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 30px 0 50px;
+}
+
+.quizdropc{
+  width: 100%;
+    padding: 7px;
+    border: 2px solid #2a6db5;
+    color: #2a2a2a;
+}
+
+.fcol1c{
+  padding: 15px 15px 15px 15px !important;
+}
+
+.fcol1c h2{
+  padding: 0px !important;
 }

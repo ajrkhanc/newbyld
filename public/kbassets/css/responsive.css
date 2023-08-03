@@ -296,7 +296,7 @@
         padding: 20px;
     }
     .what-did-right-section .content {
-        background-color: #0e1b31d6;
+        background-color: #003146d6;
         padding: 30px 15px;
     }
     .what-did-right-section .content .section-title h2 {
@@ -310,7 +310,7 @@
     }
     .timeline ol {
         margin: 30px 0 50px;
-        border-left: 2px solid #7bafd4;
+        border-left: 2px solid #008065;
         padding-left: 0;
         padding-top: 20px;
         border-top: 0;
@@ -346,7 +346,7 @@
         width: 100px;
         height: 2px;
         left: -95px;
-        background-color: #7bafd4;
+        background-color: #008065;
     }
     .timeline ol li .time-top-icon {
         position: absolute;
@@ -362,7 +362,7 @@
         width: 100px;
         height: 2px;
         left: -95px;
-        background-color: #7bafd4;
+        background-color: #008065;
     }
     .timeline ol li .time-line-bottom {
         top: 30px;
@@ -631,7 +631,7 @@
         right: 0;
         opacity: 1;
         bottom: 0;
-        background-color: #0e1b31e0;
+        background-color: #003146e0;
         -webkit-transform: skew(0deg);
         transform: skew(0deg);
         padding: 20px 10px;
@@ -654,7 +654,7 @@
         right: 0;
         opacity: 1;
         bottom: 0;
-        background-color: #0e1b31e0;
+        background-color: #003146e0;
         -webkit-transform: skew(0deg);
         transform: skew(0deg);
         padding: 20px 10px;
@@ -677,7 +677,7 @@
         right: 0;
         opacity: 1;
         bottom: 0;
-        background-color: #0e1b31e0;
+        background-color: #003146e0;
         -webkit-transform: skew(0deg);
         transform: skew(0deg);
         padding: 20px 10px;
@@ -1769,7 +1769,9 @@
 }
 @media only screen and (min-width: 1350px) and (max-width: 1699px) {
     .container {
-        max-width: 1250px !important;
+        max-width: 100% !important;
+        padding-left: 36px;
+        padding-right: 36px;
     }
 }
 @media only screen and (min-width: 1700px) {

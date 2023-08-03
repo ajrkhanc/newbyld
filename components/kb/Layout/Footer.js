@@ -7,42 +7,51 @@ function Footer() {
       document.getElementById("submitbuttonform").value = "Submitting form...."
       const xhttp = new XMLHttpRequest();
       xhttp.onload = function () {
-          console.log(this.responseText);
+         console.log(this.responseText);
       }
       xhttp.open("Post", 'https://ajrkhan.xyz/blanchardinternational/wp-json/contact-form-7/v1/contact-forms/8/feedback');
       xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
       xhttp.onreadystatechange = function () {
-          if (xhttp.readyState == 4) {
-              if (xhttp.status == 200) {
-                  document.getElementById("showlabel").innerHTML = "Thank you for submitting your details.";
+         if (xhttp.readyState == 4) {
+            if (xhttp.status == 200) {
+               document.getElementById("showlabel").innerHTML = "Thank you for submitting your details.";
 
-                  document.getElementById("showlabel").style.display = "block";
-                  window.setTimeout(function() {
-                     window.location.href = "/blanchardinternational/thank-you-lp"
-                  }, 3000);
+               document.getElementById("showlabel").style.display = "block";
+               window.setTimeout(function () {
+                  window.location.href = "/thank-you-lp"
+               }, 3000);
 
-              } else {
-                  alert('There was a problem with the request.');
-              }
-          }
+            } else {
+               alert('There was a problem with the request.');
+            }
+         }
       };
       xhttp.send("your-email=" + event.target.fmail.value)
 
-  }
+   }
 
-    return (
-        <footer className="footer-area footer-bg2">
-         <div className="footer-top pt-100 pb-70">
+   return (
+      <footer className="footer-area footer-bg2">
+         <div className="footer-top ptt-70">
             <div className="container">
-               <div className="row">
+               <div className='row'>
+                  <div className='col-sm-12'>
+                     <div className='innercallt'>
+                        <div className='flogoc'>
+                           <a href=''><img src="/assets/img/kbnew/blanchard_logo_footer.png" alt="Images" /></a>
+                        </div>
+                        <div className='calltoaa'>
+                           <h3>Ready to get started? Talk to us today.</h3>
+                           <a href='/get-started' className='kbbtn kbbtn--orange  mtt-10'>Get Started</a>
+                        </div>
+                     </div>
+                  </div>
+               
+               </div>
+               <div className="row mmiddlec">
                   <div className="col-lg-3 col-md-6">
                      <div className="footer-widget footer-widget-color1">
-                        <div className="footer-logo">
-                           <Link href="/blanchardinternational/"><a>
-                           <img src="/kbassets/img/whitelogo.png" alt="Images"/>
-                           </a>
-                           </Link>
-                        </div>
+                     <h3>ABOUT US</h3>
                         <p>
                            Blanchard Research and Training LLP is the leading training provider in South Asia, with expertise in leadership development across hierarchies.
                         </p>
@@ -51,27 +60,27 @@ function Footer() {
                            <ul className="social-footer-link">
                               <li>
                                  <a href="https://www.facebook.com/blanchardresearchandtrainingindia" target="_blank">
-                                 <i className='bx bxl-facebook'></i>
+                                    <i className='bx bxl-facebook'></i>
                                  </a>
                               </li>
                               <li>
                                  <a href="https://www.linkedin.com/company/blanchard-research-and-training-india/" target="_blank">
-                                 <i className='bx bxl-linkedin'></i>
+                                    <i className='bx bxl-linkedin'></i>
                                  </a>
                               </li>
                               <li>
                                  <a href="https://www.youtube.com/c/BlanchardinternationalIndia" target="_blank">
-                                 <i className='bx bxl-youtube'></i>
+                                    <i className='bx bxl-youtube'></i>
                                  </a>
                               </li>
                               <li>
                                  <a href="https://twitter.com/blanchard_india" target="_blank">
-                                 <i className='bx bxl-twitter'></i>
+                                    <i className='bx bxl-twitter'></i>
                                  </a>
                               </li>
                               <li>
                                  <a href="https://www.instagram.com/blanchard_research_india/" target="_blank">
-                                 <i className='bx bxl-instagram'></i>
+                                    <i className='bx bxl-instagram'></i>
                                  </a>
                               </li>
                            </ul>
@@ -83,33 +92,33 @@ function Footer() {
                         <h3>CONNECT</h3>
                         <ul className="footer-list">
                            <li>
-                              <Link href="/blanchardinternational/get-started" target="_blank">
-                              Contact Us
+                              <Link href="/get-started" target="_blank">
+                                 Contact Us
                               </Link>
                            </li>
                            <li>
-                              <Link href="/blanchardinternational/get-started" target="_blank">
-                              Request a Speaker
+                              <Link href="/get-started" target="_blank">
+                                 Request a Speaker
                               </Link>
                            </li>
                            <li>
-                              <Link href="/blanchardinternational/terms-and-conditions" target="_blank">
-                              Terms And Conditions
+                              <Link href="/terms-and-conditions" target="_blank">
+                                 Terms And Conditions
                               </Link>
                            </li>
                            <li>
-                              <Link href="/blanchardinternational/cancellation-and-refund-policy" target="_blank">
-                              Cancellation and Refund Policy
+                              <Link href="/cancellation-and-refund-policy" target="_blank">
+                                 Cancellation and Refund Policy
                               </Link>
                            </li>
                            <li>
-                              <Link href="/blanchardinternational/books" target="_blank">
-                              Books
+                              <Link href="/books" target="_blank">
+                                 Books
                               </Link>
                            </li>
                            <li>
-                              <Link href="/blanchardinternational/blanchard-privacy-policy" target="_blank">
-                              Privacy Policy
+                              <Link href="/blanchard-privacy-policy" target="_blank">
+                                 Privacy Policy
                               </Link>
                            </li>
                         </ul>
@@ -120,40 +129,40 @@ function Footer() {
                         <h3>PRODUCTS & SERVICES</h3>
                         <ul className="footer-list">
                            <li>
-                              <Link href="/blanchardinternational/products-services/slii-experience" target="_blank">
-                              The SLII Experience™
-                              </Link>
+                              <a href="/our-content/programs/slii" target="_blank">
+                              SLII<sup>®</sup>—Powering Inspired Leaders™
+                              </a>
                            </li>
                            <li>
-                              <Link href="/blanchardinternational/products-services/blanchard-management-essentials" target="_blank">
-                              Blanchard Management Essentials
-                              </Link>
+                              <a href="/our-content/programs/blanchard-management-essentials" target="_blank">
+                              Blanchard Management Essentials<sup>®</sup>
+                              </a>
                            </li>
                            <li>
-                              <Link href="/blanchardinternational/products-services/self-leadership" target="_blank">
-                              Self Leadership
-                              </Link>
-                           </li>
-                           <li>
-                              <Link href="/blanchardinternational/products-services/coaching-essentials" target="_blank">
-                              Coaching Essentials
-                              </Link>
-                           </li>
-                           <li>
-                              <Link href="/blanchardinternational/products-services/building-trust" target="_blank">
+                              <a href="/our-content/programs/building-trust" target="_blank">
                               Building Trust
-                              </Link>
+                              </a>
                            </li>
                            <li>
-                              <Link href="/blanchardinternational/products-services/leading-people-through-change" target="_blank">
-                              Leading People Through Change
-                              </Link>
+                              <a href="/our-content/programs/coaching-essentials" target="_blank">
+                              Coaching Essentials<sup>®</sup>
+                              </a>
                            </li>
-						   <li>
-                              <Link href="/blanchardinternational/products-services/team-leadership" target="_blank">
-                              Team Leadership
-                              </Link>
+                           <li>
+                              <a href="/our-content/programs/conversational-capacity" target="_blank">
+                              Conversational Capacity<sup>®</sup>
+                              </a>
                            </li>
+                           <li>
+                              <a href="/our-content/programs/courageous-inclusion" target="_blank">
+                              Courageous Inclusion™
+                              </a>
+                           </li>
+                           <li>
+                              <a href="/our-content/programs/essential-motivators" target="_blank">
+                              Essential Motivators™
+                              </a>
+                           </li>                          
                         </ul>
                      </div>
                   </div>
@@ -176,14 +185,16 @@ function Footer() {
                               <a href="mailto:blanchard.info@byldgroup.com"><span className="__cf_email__" data-cfemail="ff979a939390bf91968790d19c9092">blanchard.info@byldgroup.com</span></a>
                            </li>
                         </ul>
+                        <h3>Get access to Blanchard updates</h3>
                         <form id="footerformreset" className="newsletter-form" onSubmit={registerUser}>
-                           <input type="email" className="form-control" placeholder="Email Address" name="fmail" required autocomplete="off"/>
+                           
+                           <input type="email" className="form-control" placeholder="Email Address" name="fmail" required autocomplete="off" />
                            <button type="submit" className="submit-btn btn-bg1">
-                           Subscribe
+                              Subscribe
                            </button>
                            <p id="showlabel" style={{ display: "none" }}></p>
                         </form>
-                        
+
                      </div>
                   </div>
                </div>
@@ -193,13 +204,13 @@ function Footer() {
             <div className="copy-right-area-two">
                <div className="copy-right-text">
                   <p>
-                    ©2023 Blanchardinternational India . All Rights Reserved.
+                     © 2023 Blanchardinternational India . All Rights Reserved.
                   </p>
                </div>
             </div>
          </div>
       </footer>
-    )
+   )
 }
 
 export default Footer
