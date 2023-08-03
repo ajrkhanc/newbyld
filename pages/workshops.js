@@ -120,7 +120,7 @@ export default function Workshops() {
                                     <span>August 17th - 18th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
-                                    <h3>DISC Train-the-Trainer (TTT)</h3>
+                                    <h3>DISC Certification (TTT)</h3>
                                     <a target="_blank" className="eventbtn" href='/everythingdisc/everything-disc-ttt-vt-lp/'>Reserve Your Seat</a>
                                 </div>
                             </div>
@@ -333,7 +333,7 @@ export default function Workshops() {
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - July 27th, 2023">Crucial Life Changing Skills, Getting Things Done - July 27th, 2023</option> */}
                                                 <option value="The SLII Experience™, Virtual - August 7th to 8th, 2023">The SLII Experience™, Virtual - August 7th to 8th, 2023</option>
                                                 <option value="The SLII Experience™, T4T - August 9th to 10th, 2023">The SLII Experience™, T4T - August 9th to 10th, 2023</option>
-                                                <option value="August 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)">August 17th - 18th, 2023 - DISC Train-the-Trainer (TTT)</option>
+                                                <option value="August 17th - 18th, 2023 - DISC Certification (TTT)">August 17th - 18th, 2023 - DISC Certification (TTT)</option>
                                                 <option value="Conversational Capacity - Virtual - August 23rd, 2023">Conversational Capacity - Virtual - August 23rd, 2023</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - August 24th, 2023">Crucial Life Changing Skills, The Power of Habit - August 24th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023">Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023</option>
