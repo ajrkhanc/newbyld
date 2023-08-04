@@ -11,7 +11,7 @@ function Nav() {
             <div className="navbar-area formobile">
                 <div className="mobile-nav">
                     <a href="/" className="logo">
-                        <img src="/assets/img/kblogo.png" alt="Logo" />
+                        <img src="/kbassets/img/kblogo.png" alt="Logo" />
                     </a>
                     <ResponsiveNavbar
 
