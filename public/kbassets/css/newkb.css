@@ -186,7 +186,7 @@
     bottom: 0;
     right: 0;
     z-index: 0;
-    background-image: url(/assets/img/kbnew/page-header-graphic.svg);
+    background-image: url(/kbassets/img/kbnew/page-header-graphic.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -718,7 +718,7 @@ border-color: currentColor;
     display: block;
     background: no-repeat center center / cover;
     border-radius: 0 40px 0 0;
-    background-image: url('/assets/img/kbnew/Resources-Experiences-SLII.jpg');
+    background-image: url('/kbassets/img/kbnew/Resources-Experiences-SLII.jpg');
 }
 
 .ExperiencesCourses .slbox .slboxfigure .slboximg1::after {
@@ -731,7 +731,7 @@ border-color: currentColor;
     display: block;
     background: no-repeat center center / cover;
     border-radius: 0 40px 0 0;
-    background-image: url('/assets/img/kbnew/CE-experience-tile.jpg');
+    background-image: url('/kbassets/img/kbnew/CE-experience-tile.jpg');
 }
 
 .ExperiencesCourses .slbox .slboxfigure .slboximg2::after {
@@ -744,7 +744,7 @@ border-color: currentColor;
     display: block;
     background: no-repeat center center / cover;
     border-radius: 0 40px 0 0;
-    background-image: url('/assets/img/kbnew/Becoming-an-Inclusive-Leader.jpg');
+    background-image: url('/kbassets/img/kbnew/Becoming-an-Inclusive-Leader.jpg');
 }
 
 .ExperiencesCourses .slbox .slboxfigure .slboximg3::after {
@@ -757,7 +757,7 @@ border-color: currentColor;
     display: block;
     background: no-repeat center center / cover;
     border-radius: 0 40px 0 0;
-    background-image: url('/assets/img/kbnew/designcc.jpg');
+    background-image: url('/kbassets/img/kbnew/designcc.jpg');
 }
 
 .ExperiencesCourses .slbox .slboxfigure .slboximg4::after {
@@ -770,7 +770,7 @@ border-color: currentColor;
     display: block;
     background: no-repeat center center / cover;
     border-radius: 0 40px 0 0;
-    background-image: url('/assets/img/kbnew/SLII-Concepts-tile_1.jpg');
+    background-image: url('/kbassets/img/kbnew/SLII-Concepts-tile_1.jpg');
 }
 
 .ExperiencesCourses .slbox .slboxfigure .slboximg5::after {
@@ -783,7 +783,7 @@ border-color: currentColor;
     display: block;
     background: no-repeat center center / cover;
     border-radius: 0 40px 0 0;
-    background-image: url('/assets/img/kbnew/Blanchard-Community-experience.jpg');
+    background-image: url('/kbassets/img/kbnew/Blanchard-Community-experience.jpg');
 }
 
 .ExperiencesCourses .slbox .slboxfigure .slboximg6::after {
