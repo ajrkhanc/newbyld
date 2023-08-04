@@ -670,9 +670,10 @@ border-color: currentColor;
 }
 
 .EnablingFuture .enablingbox p a {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 600;
     color: #fff;
+    text-decoration: underline;
 }
 
 .EnablingFuture .enablingbox p a:hover {
