@@ -42,7 +42,7 @@ function Footer() {
                         </div>
                         <div className='calltoaa'>
                            <h3>Ready to get started? Talk to us today.</h3>
-                           <a href='/get-started' className='kbbtn kbbtn--orange  mtt-10'>Get Started</a>
+                           <a href='/blanchardindia/get-started' className='kbbtn kbbtn--orange  mtt-10'>Get Started</a>
                         </div>
                      </div>
                   </div>
