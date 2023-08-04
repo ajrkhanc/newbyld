@@ -63,7 +63,7 @@ export default function GoldofthedesertKings(){
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="sec-title3 mbb-35 text-left onlyshd">
-                        <h4 class="countertoph2 text-left font36">Best Virtual Employee Engagement Activity – OVERVIEW</h4>
+                        <h4 class="countertoph2 text-left font36">Decode the Enigma of the Best Employee Engagement Activity- Overview</h4>
                         <div class="heading-border-line left-style"></div>
                         <p class="mtt-40 justify">
                         Gold of the Desert Kings™ addresses the issue of effort versus productivity. Participants are placed in circumstances with limited time and resources and must rely on their team to achieve their goals. The pressures and anxiety experienced in virtual group games are similar to those experienced daily in a hectic work schedule. Participants contend with deadlines, a perceived lack of resources, others’ points of view, and the pressure to just do something while trying to accomplish team objectives.
@@ -97,7 +97,7 @@ export default function GoldofthedesertKings(){
                     <div className="col-lg-6 pr-0">
                         <div className='onlyshd'>                        
                         <div className='rs-estimate'>
-                        <h4 className="countertoph2 text-left font26">Best Virtual Group Games – THE EXPERIENCE</h4>
+                        <h4 className="countertoph2 text-left font26">Experience the Fun and Learning with this Best Team Building Game</h4>
                         <p>
                         Teams rush to compete against each other in this challenging race across the desert. Their goal? Battle the elements to get to the mountains to mine for as much gold as possible and return home alive. Teams are forced to be as productive as possible with limited time and resources. Through these team-building activities for employees, participants will experience the benefits of teamwork, planning, setting goals, and taking necessary risks.
                         </p>

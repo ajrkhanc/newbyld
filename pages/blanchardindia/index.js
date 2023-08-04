@@ -115,7 +115,7 @@ fbq('track', 'PageView');
                   <div className='col-sm-12'>
                      <div className='kbisblanchardin'>
                         <h1>The Ken Blanchard Companies® is now Blanchard®!</h1>
-                        <a href='/blanchardindia/about-us' className='kbbtn kbbtn--orange'>Learn More</a>
+                        <a href='/blanchardindia/about-us' className='kbbtn kbbtn--orange'>Know More</a>
                      </div>
                   </div>
                </div>
@@ -159,7 +159,7 @@ fbq('track', 'PageView');
                      <div className='innerbox'>
                         <h3>01</h3>
                         <div className='innerp'>
-                           <p>Amping Up the Value and Return of Your Learning Investment</p>
+                           <p>Amping Up the Value and Return on Your Learning Investment</p>
                            <a href='/blanchardindia/resources/research-insights/amping-up-your-learning-investment'>Read Now</a>
                         </div>
                      </div>
