@@ -95,7 +95,19 @@ export default function Footer() {
                     </div>
                 </div>
             </div>
-        </footer>        
+        </footer>     
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.addEventListener('load',function(){
+                if(document.location.href.indexOf('/coaching/thank-you') != -1)
+                {
+                  gtag('event', 'conversion', {'send_to': 'AW-AW-358447811/MyrhCLz_g80YEMP19aoB'});  
+                }
+              });
+                `,
+            }}
+          />   
     </>
   )
 }

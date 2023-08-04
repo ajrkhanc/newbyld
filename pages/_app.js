@@ -1993,6 +1993,20 @@ gtag('config', 'G-5PXTTR960E');
           />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
 
+
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9GPQ8EC4C"></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P9GPQ8EC4C');
+          `,
+            }}
+          />
+
         </Head>
         <Component {...pageProps} />
       </Coachinghead>
@@ -2054,7 +2068,18 @@ gtag('config', 'G-5PXTTR960E');
             }}
           />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9GPQ8EC4C"></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-P9GPQ8EC4C');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </ICFC>
@@ -2116,7 +2141,18 @@ gtag('config', 'G-5PXTTR960E');
             }}
           />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9GPQ8EC4C"></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-P9GPQ8EC4C');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </Coachinghead>
