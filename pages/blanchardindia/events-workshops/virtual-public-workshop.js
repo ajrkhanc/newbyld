@@ -172,7 +172,7 @@ export default function VirtualPublicWorkshop() {
 
                            {/* <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™ - Virtual</h3>
                                  <p>July 4th to 5th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -186,7 +186,7 @@ export default function VirtualPublicWorkshop() {
 
                            {/* <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3 className="ptt10 mbb-0">Team Leadership - Virtual</h3>
                                  <p> July 26th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -199,7 +199,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™ - Virtual</h3>
                                  <p>August 7th to 8th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -212,7 +212,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™ - T4T</h3>
                                  <p>August 9th to 10th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -225,7 +225,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Conversational Capacity - Virtual</h3>
                                  <p>August 23rd, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -238,7 +238,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Blanchard Management Essentials - Virtual</h3>
                                  <p>September 13th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -251,7 +251,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Coaching Essentials - Virtual</h3>
                                  <p>September 21st, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -264,7 +264,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™</h3>
                                  <p>September 25th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -277,7 +277,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™ T4T F2F</h3>
                                  <p>September 27th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -290,7 +290,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Self Leadership - Virtual</h3>
                                  <p>October 11th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -303,7 +303,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Team Leadership - Virtual</h3>
                                  <p>October 19th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -316,7 +316,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Building Trust - Virtual</h3>
                                  <p>November 2nd, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -329,7 +329,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™</h3>
                                  <p>November 20th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -342,7 +342,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™ T4T F2F</h3>
                                  <p>November 22nd, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -355,7 +355,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Conversational Capacity - Virtual</h3>
                                  <p>December 13th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -368,7 +368,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/assets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Blanchard Management Essentials - Virtual</h3>
                                  <p>December 20th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>

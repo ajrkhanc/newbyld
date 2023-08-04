@@ -164,7 +164,7 @@ export default function HybridWorkplaces() {
                   </div>
                   <div className="col-lg-6">
                      <div className="">
-                        <img src="/assets/img/coaching-wrk.jpg" alt="Images" />
+                        <img src="/kbassets/img/coaching-wrk.jpg" alt="Images" />
                      </div>
                   </div>
                </div>

@@ -158,7 +158,7 @@ export default function TeamLeadershipLPWorkshop() {
                </div>
                <div className="col-lg-6">
                   <div className="">
-                     <img src="/assets/img/team-leadership-lp.jpg" alt="Images"/>
+                     <img src="/kbassets/img/team-leadership-lp.jpg" alt="Images"/>
                   </div>
                </div>
             </div>

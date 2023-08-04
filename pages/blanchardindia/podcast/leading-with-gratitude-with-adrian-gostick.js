@@ -36,7 +36,7 @@ export default function PodCastinner() {
                             
                             <div className="col-sm-4">
                                 <div className="choose-card">
-                                    <img src="/assets/img/podcast/podcastall.jpg" alt="Images"/>                                                                   
+                                    <img src="/kbassets/img/podcast/podcastall.jpg" alt="Images"/>                                                                   
                                     <div className='row text-center eventsbottomarea2'>
                                     <div className='col-sm-12'>
                                     <Link href="/podcast"><a className="default-btn-two">View all Podcasts<i className="bx bx-right-arrow-alt"></i></a></Link>

@@ -213,7 +213,7 @@ export default function BlanchardGenericLP() {
                     </div>
                     <div className="col-lg-6">
                         <div className="text-center">
-                        <img className='width80' src="/assets/img/call-a.png" alt="Images"/>
+                        <img className='width80' src="/kbassets/img/call-a.png" alt="Images"/>
                         </div>
                     </div>
                 </div>
@@ -232,70 +232,70 @@ export default function BlanchardGenericLP() {
                     <div className="row how-we-work-with-u0pa">
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/slii.png"/>
+                            <img src="/kbassets/img/slii.png"/>
                             <h3>The SLII Experience™</h3>
                             <p className="text-justify">SLII Experience™ is one of the most widely used, practical, and comprehensive <strong>leadership development</strong> programs in the world. The pace of change is so disruptive that Managers need a leadership training program that helps them to be agile, lead situationally, and empower their people to succeed.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/virtual-team.png"/>
+                            <img src="/kbassets/img/virtual-team.png"/>
                             <h3>Leading in Virtual Team</h3>
                             <p className="text-justify">Participants will develop their ability to build virtual trust, identify the specific challenges and advantages of working with virtual team, and how to have a greater personal impact in supporting, and influencing others to support high performance.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/building-trust.png"/>
+                            <img src="/kbassets/img/building-trust.png"/>
                             <h3>Building Trust</h3>
                             <p className="text-justify">One of the most essential <strong>leadership development programs</strong>, Building Trust helps participants identify the behaviors that either boost or erode trust. This program helps <strong>anyone in a managerial role</strong> to become conscious of the behaviors that influence trust and shows how to build and sustain trust in relationships.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/blanchard-management.png"/>
+                            <img src="/kbassets/img/blanchard-management.png"/>
                             <h3>Blanchard Management Essentials<sup>®</sup></h3>
                             <p className="text-justify">The challenges of transitioning from being an individual contributor to the role of leading others are well known. Along with the general issues of making this shift, new managers also need to understand the specific expectations of a leader. This program provides Essential Skills Every First-time & New Manager needs and The Four Conversations Every Manager Should Master.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/conversational-capacity.png"/>
+                            <img src="/kbassets/img/conversational-capacity.png"/>
                             <h3>Conversational Capacity<sup>®</sup></h3>
                             <p className="text-justify">Conversational Capacity<sup>®</sup> by The Ken Blanchard Companies teaches the skills needed to have open, balanced, non-defensive dialogue about difficult subjects. Employees learn how to engage in constructive, learning-focused dialogue when challenging topics or conflicts arise so they can make informed decisions and find the best solutions, even under high pressure.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/legendary-service.png"/>
+                            <img src="/kbassets/img/legendary-service.png"/>
                             <h3>Legendary Service<sup>®</sup></h3>
                             <p className="text-justify">This program helps leaders focus on the critical role and responsibility of implementing the company’s service culture through employees, as well as crafting a plan on how to support their employees through a systematic approach that enables service to become the competitive edge of your organization.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/self-leadership.png"/>
+                            <img src="/kbassets/img/self-leadership.png"/>
                             <h3>Self Leadership</h3>
                             <p className="text-justify">Organizations need self-motivated employees who improve corporate productivity and profitability, effectively manage themselves, and create an emotional engagement with the customers they serve. Self-Leadership is a <strong>most sought-after leadership development programs</strong> designed to assist individuals at all levels in making the transition from disengaged to engaged, from being responsive to responsible, and in taking initiative in idea generation, innovation, and problem-solving.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/team-leadership.png"/>
+                            <img src="/kbassets/img/team-leadership.png"/>
                             <h3>Team Leadership</h3>
                             <p className="text-justify">This program teaches managers to diagnose their team’s development and apply the right leadership style to build and sustain high-performing teams. Based on SLII<sup>®</sup>, the most widely taught leadership model in the world, Blanchard’s Team Leadership program teaches managers of Managers to diagnose their team’s development and apply the right leadership style to build and sustain high-performance teams.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/leading-people-through-chang.png"/>
+                            <img src="/kbassets/img/leading-people-through-chang.png"/>
                             <h3>Leading People Through Change<sup>®</sup></h3>
                             <p className="text-justify">Change efforts often fail because the organization and its leaders lack the framework and skills to guide their people through it effectively. Our Leading People Through Change<sup>®</sup> program teaches your executives and managers how to lead successful change initiatives by involving others throughout the change process.</p>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="equialwithborder">
-                            <img src="/assets/img/coaching-essentials.png"/>
+                            <img src="/kbassets/img/coaching-essentials.png"/>
                             <h3>Coaching Essentials<sup>®</sup></h3>
                             <p className="text-justify">Coaching Essentials<sup><sup>®</sup></sup> is <strong>the most widely taught leadership development course</strong> that helps leaders to integrate coaching skills into their leadership style by developing coaching skills and applying new behaviors to help employees reach higher levels of performance &amp; professional development.</p>
                             </div>
@@ -318,21 +318,21 @@ export default function BlanchardGenericLP() {
                     <div className="row how-we-work-with-u0pa">                         
                         <div className="col-sm-4">
                             <div className="equialwithborder">
-                            <img src="/assets/img/quotation.png"/>                            
+                            <img src="/kbassets/img/quotation.png"/>                            
                             <p className="text-justify">The SLII<sup>®</sup> Experience provided some really helpful tips to our managers to engage with the teams and be agile in their responses accordingly. It helped them look at the capability model from a different perspective and in turn made them realize the importance of different leadership styles to be an effective leader.</p>
                             <h4>– Our SLII<sup>®</sup> Experience Training participant</h4>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="equialwithborder">
-                            <img src="/assets/img/quotation.png"/>                           
+                            <img src="/kbassets/img/quotation.png"/>                           
                             <p className="text-justify">We are pleased to share that the facilitator delivered a power-packed program on SLII<sup>®</sup> , and the examples used were relevant to the audience. The program content was simple to comprehend as well as apply at the workplace. We are happy to recommend Blanchard International’s programs.</p>
                             <h4>Rangkynsai Nongbet (Ortho Clinical Diagnostics)</h4>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="equialwithborder">
-                            <img src="/assets/img/quotation.png"/>                            
+                            <img src="/kbassets/img/quotation.png"/>                            
                             <p className="text-justify">The participants learned setting goals for themselves and their teams and recognized the developmental levels and guided them with the right conversations while using the essentials skills.</p>
                             <h4>– Participants of Blanchard Management Essentials<sup>®</sup> & Self Leadership</h4>
                             </div>
@@ -348,31 +348,31 @@ export default function BlanchardGenericLP() {
          <div className="container">
                <Slider {...settings}>
                   <div key={1}>
-                     <img src="/assets/img/boston-1.png" alt="Images"/>
+                     <img src="/kbassets/img/boston-1.png" alt="Images"/>
                   </div>
                   <div key={2}>
-                     <img src="/assets/img/tcs.png" alt="Images"/>
+                     <img src="/kbassets/img/tcs.png" alt="Images"/>
                   </div>
                   <div key={3}>
-                     <img src="/assets/img/optum.png" alt="Images"/>
+                     <img src="/kbassets/img/optum.png" alt="Images"/>
                   </div>
                   <div key={4}>
-                     <img src="/assets/img/nthrive.png" alt="Images"/>
+                     <img src="/kbassets/img/nthrive.png" alt="Images"/>
                   </div>
                   <div key={5}>
-                     <img src="/assets/img/mcm.png" alt="Images"/>
+                     <img src="/kbassets/img/mcm.png" alt="Images"/>
                   </div>
                   <div key={6}>
-                     <img src="/assets/img/hp.png" alt="Images"/>
+                     <img src="/kbassets/img/hp.png" alt="Images"/>
                   </div>
                   <div key={7}>
-                    <img src="/assets/img/hero.png" alt="Images"/>
+                    <img src="/kbassets/img/hero.png" alt="Images"/>
                   </div>
                   <div key={8}>
-                    <img src="/assets/img/hcl.png" alt="Images"/>
+                    <img src="/kbassets/img/hcl.png" alt="Images"/>
                   </div>
                   <div key={9}>
-                    <img src="/assets/img/fA.png" alt="Images"/>
+                    <img src="/kbassets/img/fA.png" alt="Images"/>
                   </div>
                </Slider>
             

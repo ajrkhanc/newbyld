@@ -163,7 +163,7 @@ if (t < 0) {
                 <div className='row align-items-center'>
                    <div className='col-md-7'>
                         <div className="inner-title text-center formtbg lpnewbannerp minh3">                           
-                            {/* <img class="img-responsive maxw280" src="/assets/img/kb-award.png"/> */}
+                            {/* <img class="img-responsive maxw280" src="/kbassets/img/kb-award.png"/> */}
                             <h3>Building Trust Training to Increase Engagement, Creativity, and Commitment</h3>
                             <h4 className='landingpagesbannerh4 landingpagesbannerh4cc'><span>Enroll in Excellence – Limited Seats Left!</span></h4>
                         </div>
@@ -249,27 +249,27 @@ if (t < 0) {
                    
                     <div className="col bbdr">                       
                         <div class="business-box">
-                        <img class="img-responsive topiconc" src="/assets/img/problem-solving.png"/>
+                        <img class="img-responsive topiconc" src="/kbassets/img/problem-solving.png"/>
                             <h2>ABLE - Demonstrates Competence</h2>                            
                         </div>
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                        <img class="img-responsive topiconc" src="/assets/img/believe.png"/>
+                        <img class="img-responsive topiconc" src="/kbassets/img/believe.png"/>
                             <h2>BELIEVABLE - Acts with Integrity</h2>
                             
                         </div>
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                        <img class="img-responsive topiconc" src="/assets/img/network.png"/>
+                        <img class="img-responsive topiconc" src="/kbassets/img/network.png"/>
                             <h2>CONNECTED - Cares about Others</h2>                            
                         </div>
                     </div>
 
                     <div className="col bbdr">                       
                         <div class="business-box">
-                        <img class="img-responsive topiconc" src="/assets/img/dependencies.png"/>
+                        <img class="img-responsive topiconc" src="/kbassets/img/dependencies.png"/>
                             <h2>DEPENDABLE - Honors Commitments</h2>                            
                         </div>
                     </div>
@@ -286,7 +286,7 @@ if (t < 0) {
                 <div className='row align-items-center'>
                     <div className="col-md-6">
                         <div className="text-center borderccc">
-                            {/* <img className='ptt50' src="/assets/img/home2-pic1.jpg" alt="Images"/> */}
+                            {/* <img className='ptt50' src="/kbassets/img/home2-pic1.jpg" alt="Images"/> */}
                             <iframe width="100%" height="390" src="https://www.youtube.com/embed/fCIWUJ9ZFnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
@@ -346,14 +346,14 @@ if (t < 0) {
                      <div className="row row-eq-height height100p">
                         <div className="col-md-3">
                            <div className="what-did-left-card text-center homeboxeql planbox planbox1">
-                              <img src="/assets/img/improve.png" alt="Images"/>
+                              <img src="/kbassets/img/improve.png" alt="Images"/>
                               <h3>Increase Productivity</h3>
 							  <p>Employees have a higher level of commitment and discretion.</p>
                            </div>
                         </div>
                         <div className="col-md-3">
                            <div className="what-did-left-card text-center homeboxeql planbox planbox1">
-                              <img src="/assets/img/badge.png" alt="Images"/>
+                              <img src="/kbassets/img/badge.png" alt="Images"/>
                               <h3>Retains Talent</h3>
 							  <p>
                        Employees are more likely to stay and recognize the company as a great workplace.
@@ -362,7 +362,7 @@ if (t < 0) {
                         </div>
                         <div className="col-md-3">
                            <div className="what-did-left-card text-center homeboxeql planbox planbox1">
-                              <img src="/assets/img/leverage.png" alt="Images"/>
+                              <img src="/kbassets/img/leverage.png" alt="Images"/>
                               <h3>Creativity and Innovation</h3>
 							  <p>
                        Employees communicate more openly, share their best ideas, and feel safe by being proactive.
@@ -371,7 +371,7 @@ if (t < 0) {
                         </div>
                         <div className="col-md-3">
                            <div className="what-did-left-card text-center homeboxeql planbox planbox1">
-                              <img src="/assets/img/diagram.png" alt="Images"/>
+                              <img src="/kbassets/img/diagram.png" alt="Images"/>
                               <h3>Create Collaboration</h3>
 							  <p>
                        Colleagues and teams help each other get work done together.
@@ -398,7 +398,7 @@ if (t < 0) {
                     <div class="testimonial">
                         <div class="testimonial-content">
                             <div class="testimonial-icon">
-                            <img src="/assets/img/inverted-commas.png" alt="Images"/>
+                            <img src="/kbassets/img/inverted-commas.png" alt="Images"/>
                             </div>
                             <p class="description">
                             “This workshop was very insightful and made absolute sense in terms of the principles and their application. This program did a great job providing actionable concepts in a way that encouraged instant application.”
@@ -410,7 +410,7 @@ if (t < 0) {
                     <div class="testimonial">
                         <div class="testimonial-content">
                             <div class="testimonial-icon">                                
-                                <img src="/assets/img/inverted-commas.png" alt="Images"/>
+                                <img src="/kbassets/img/inverted-commas.png" alt="Images"/>
                             </div>
                             <p class="description">
                             “Participants found the Self Leadership workshop very interactive, informative and engaging. They liked the facilitator’s way of presenting the session by implementing various engaging activities.”
@@ -422,7 +422,7 @@ if (t < 0) {
                     <div class="testimonial">
                         <div class="testimonial-content">
                             <div class="testimonial-icon">
-                            <img src="/assets/img/inverted-commas.png" alt="Images"/>
+                            <img src="/kbassets/img/inverted-commas.png" alt="Images"/>
                             </div>
                             <p class="description">
                             “We thank you for being our most trusted vendor partner for sharing the quotes and for supplying the right products/services on time. We acknowledge and appreciate your service and look forward for such excellence in near future as well. Keep up the good work!”
@@ -435,7 +435,7 @@ if (t < 0) {
                     <div class="testimonial">
                         <div class="testimonial-content">
                             <div class="testimonial-icon">
-                            <img src="/assets/img/inverted-commas.png" alt="Images"/>
+                            <img src="/kbassets/img/inverted-commas.png" alt="Images"/>
                             </div>
                             <p class="description">
                             “The SLII® Experience provided some really helpful tips to our managers to engage with the teams and be agile in their responses accordingly. It helped them look at the capability model from a different perspective and in turn made them realize the importance of different leadership styles to be an effective leader. Our managers were able to analyze their own effectiveness as a leader and how to enhance it further.”
@@ -465,19 +465,19 @@ if (t < 0) {
 
                <div className="col-md-4">
                   <div className="googlereviewbox">
-                     <img src="/assets/img/re1.jpg" alt="Images"/>
+                     <img src="/kbassets/img/re1.jpg" alt="Images"/>
                   </div>
                </div>
 
                <div className="col-md-4">
                   <div className="googlereviewbox">
-                     <img src="/assets/img/re2.jpg" alt="Images"/>
+                     <img src="/kbassets/img/re2.jpg" alt="Images"/>
                   </div>
                </div>
 
                <div className="col-md-4">
                   <div className="googlereviewbox">
-                     <img src="/assets/img/re3.jpg" alt="Images"/>
+                     <img src="/kbassets/img/re3.jpg" alt="Images"/>
                   </div>
                </div>
 
@@ -492,31 +492,31 @@ if (t < 0) {
          <div className="container">
                <Slider {...settings2}>
                   <div key={1}>
-                     <img src="/assets/img/boston-1.png" alt="Images"/>
+                     <img src="/kbassets/img/boston-1.png" alt="Images"/>
                   </div>
                   <div key={2}>
-                     <img src="/assets/img/tcs.png" alt="Images"/>
+                     <img src="/kbassets/img/tcs.png" alt="Images"/>
                   </div>
                   <div key={3}>
-                     <img src="/assets/img/optum.png" alt="Images"/>
+                     <img src="/kbassets/img/optum.png" alt="Images"/>
                   </div>
                   <div key={4}>
-                     <img src="/assets/img/nthrive.png" alt="Images"/>
+                     <img src="/kbassets/img/nthrive.png" alt="Images"/>
                   </div>
                   <div key={5}>
-                     <img src="/assets/img/mcm.png" alt="Images"/>
+                     <img src="/kbassets/img/mcm.png" alt="Images"/>
                   </div>
                   <div key={6}>
-                     <img src="/assets/img/hp.png" alt="Images"/>
+                     <img src="/kbassets/img/hp.png" alt="Images"/>
                   </div>
                   <div key={7}>
-                    <img src="/assets/img/hero.png" alt="Images"/>
+                    <img src="/kbassets/img/hero.png" alt="Images"/>
                   </div>
                   <div key={8}>
-                    <img src="/assets/img/hcl.png" alt="Images"/>
+                    <img src="/kbassets/img/hcl.png" alt="Images"/>
                   </div>
                   <div key={9}>
-                    <img src="/assets/img/fA.png" alt="Images"/>
+                    <img src="/kbassets/img/fA.png" alt="Images"/>
                   </div>
                </Slider>
             

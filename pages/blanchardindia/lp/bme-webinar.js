@@ -160,7 +160,7 @@ export default function BMEwebin() {
                </div>
                <div className="col-lg-6">
                   <div className="">
-                     <img src="/assets/img/bme-webinar.jpg" alt="Images"/>
+                     <img src="/kbassets/img/bme-webinar.jpg" alt="Images"/>
                   </div>
                </div>
             </div>

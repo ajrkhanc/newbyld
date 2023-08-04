@@ -33,7 +33,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/situational-approach-to-leadership.jpg" alt="Images" />
+                                            <img src="/kbassets/img/situational-approach-to-leadership.jpg" alt="Images" />
                                             <h3>SLII. Why a Situational Approach to Leadership Makes All the Difference</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -48,7 +48,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/are-you-a-directive-or-supportive-leader.jpg" alt="Images" />
+                                            <img src="/kbassets/img/are-you-a-directive-or-supportive-leader.jpg" alt="Images" />
                                             <h3>Are You a Directive or Supportive Leader?</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -63,7 +63,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/4-critical-focus-areas-for-building-a-high-performance-team.jpg" alt="Images" />
+                                            <img src="/kbassets/img/4-critical-focus-areas-for-building-a-high-performance-team.jpg" alt="Images" />
                                             <h3>4 Critical Focus Areas for Building a High Performance Team</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -79,7 +79,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/ebook5.jpg" alt="Images" />
+                                            <img src="/kbassets/img/ebook5.jpg" alt="Images" />
                                             <h3>7 Warning Signs That Distrust Is Harming Your Organization</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -93,7 +93,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/ebook2.jpg" alt="Images" />
+                                            <img src="/kbassets/img/ebook2.jpg" alt="Images" />
                                             <h3>7 Ways Poor Leaders Are Costing Your Company Money</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -107,7 +107,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/a-new-approach-to-creating-a-culture-of-success.jpg" alt="Images" />
+                                            <img src="/kbassets/img/a-new-approach-to-creating-a-culture-of-success.jpg" alt="Images" />
                                             <h3>A new approach to creating a culture of success</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -121,7 +121,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/a-jump-start-for-virtual-facilitation-3.jpg" alt="Images" />
+                                            <img src="/kbassets/img/a-jump-start-for-virtual-facilitation-3.jpg" alt="Images" />
                                             <h3>A Jump Start For Virtual Facilitation</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -139,7 +139,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/conversational-capacity.jpg" alt="Images" />
+                                            <img src="/kbassets/img/conversational-capacity.jpg" alt="Images" />
                                             <h3>Conversational Capacity</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -156,7 +156,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/ebook1.jpg" alt="Images" />
+                                            <img src="/kbassets/img/ebook1.jpg" alt="Images" />
                                             <h3>Measuring the Impact and ROI of Leadership Training</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -171,7 +171,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/ebook3.jpg" alt="Images" />
+                                            <img src="/kbassets/img/ebook3.jpg" alt="Images" />
                                             <h3>3 Fatal Mistakes Managers Make When Coaching Their Teams</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>

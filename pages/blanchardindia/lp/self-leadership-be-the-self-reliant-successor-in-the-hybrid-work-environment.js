@@ -156,7 +156,7 @@ export default function HybridWorkplaces() {
          </div>
          <div className="col-lg-6 themebg2">
             <div className="">
-               <img src="/assets/img/self.jpg" alt="Images" />
+               <img src="/kbassets/img/self.jpg" alt="Images" />
             </div>
          </div>
       </div>
@@ -184,7 +184,7 @@ export default function HybridWorkplaces() {
          </div>
          <div className="col-lg-6 bgshd">
             <div className='pt-15 pb-15'>
-              <img src="/assets/img/business-1.jpg" alt="Images" />
+              <img src="/kbassets/img/business-1.jpg" alt="Images" />
             </div>
          </div>
       </div>

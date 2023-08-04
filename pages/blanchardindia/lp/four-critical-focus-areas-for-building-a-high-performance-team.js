@@ -163,7 +163,7 @@ export default function FourCriticalFocusAreasforBuildingaHighPerformanceTeam() 
                </div>
                <div className="col-lg-6">
                   <div className="">
-                     <img src="/assets/img/four-critical.jpg" alt="Images"/>
+                     <img src="/kbassets/img/four-critical.jpg" alt="Images"/>
                   </div>
                </div>
             </div>
@@ -191,7 +191,7 @@ export default function FourCriticalFocusAreasforBuildingaHighPerformanceTeam() 
                </div>
                <div className="col-lg-6">
                   <div className="text-left pt-20 pb-25">                  
-                     <img src="/assets/img/leadershp123.jpg" alt="Images"/>
+                     <img src="/kbassets/img/leadershp123.jpg" alt="Images"/>
                   </div>
                </div>
             </div>

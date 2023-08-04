@@ -31,7 +31,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/ebook6.jpg" alt="Images" />
+                                            <img src="/kbassets/img/ebook6.jpg" alt="Images" />
                                             <h3>Millennials In The Workplace</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -46,7 +46,7 @@ export default function Elearning() {
           
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/ebook10.jpg" alt="Images" />
+                                            <img src="/kbassets/img/ebook10.jpg" alt="Images" />
                                             <h3>4 Essential Skills Your New Managers Need to Know</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -65,7 +65,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/building-trust-the-critical-link-to-a-high-involvement-high-energy-workplace-begins-with-a-common-language.jpg" alt="Images" />
+                                            <img src="/kbassets/img/building-trust-the-critical-link-to-a-high-involvement-high-energy-workplace-begins-with-a-common-language.jpg" alt="Images" />
                                             <h3>The Critical Link to a High-Involvement, High-Energy Workplace Begins with a Common Language</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -79,7 +79,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/coaching-skills-the-missing-link-for-leaders.jpg" alt="Images" />
+                                            <img src="/kbassets/img/coaching-skills-the-missing-link-for-leaders.jpg" alt="Images" />
                                             <h3>Coaching Skills: The Missing Link for Leaders</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -93,7 +93,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/complete-guide-for-first-time-managers.jpg" alt="Images" />
+                                            <img src="/kbassets/img/complete-guide-for-first-time-managers.jpg" alt="Images" />
                                             <h3>Complete Guide for First Time Managers</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -108,7 +108,7 @@ export default function Elearning() {
                        
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/creating-an-effective-elearning-solution.jpg" alt="Images" />
+                                            <img src="/kbassets/img/creating-an-effective-elearning-solution.jpg" alt="Images" />
                                             <h3>Creating an Effective eLearning Solution</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -123,7 +123,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/getting-to-the-sweet-spot-of-effective-communication.jpg" alt="Images" />
+                                            <img src="/kbassets/img/getting-to-the-sweet-spot-of-effective-communication.jpg" alt="Images" />
                                             <h3>Getting to the Sweet Spot of Effective Communication</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -137,7 +137,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/how-we-helped-a-leading-financial-giant-through-slll-leadership-program.jpg" alt="Images" />
+                                            <img src="/kbassets/img/how-we-helped-a-leading-financial-giant-through-slll-leadership-program.jpg" alt="Images" />
                                             <h3>How we helped a leading Financial giant through SLll</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -151,7 +151,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/assets/img/leader-trustworthiness-and-employee-work-intentions-a-canonical-correlation-study.jpg" alt="Images" />
+                                            <img src="/kbassets/img/leader-trustworthiness-and-employee-work-intentions-a-canonical-correlation-study.jpg" alt="Images" />
                                             <h3>Leader Trustworthiness and Employee Work Intentions</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>

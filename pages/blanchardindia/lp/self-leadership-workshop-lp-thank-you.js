@@ -33,7 +33,7 @@ export default function ThanYouLP() {
                 <div className="container">            
                     <div className="row pt-45">
                     <div className="col-lg-12">
-                        <img src="/assets/img/thank-you-lp.jpg"/>
+                        <img src="/kbassets/img/thank-you-lp.jpg"/>
                     </div>                     
                     </div>
                 </div>

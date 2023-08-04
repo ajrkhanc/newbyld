@@ -159,7 +159,7 @@ export default function SLXWebinar() {
          </div>
          <div className="col-lg-6 themebg2">
             <div className="">
-               <img src="/assets/img/slx-lp-webinarmain.jpg" alt="Images" />
+               <img src="/kbassets/img/slx-lp-webinarmain.jpg" alt="Images" />
             </div>
          </div>
       </div>

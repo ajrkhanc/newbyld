@@ -164,7 +164,7 @@ export default function ConversationalCapacityWebinar() {
                </div>
                <div className="col-lg-6">
                   <div className="">
-                     <img src="/assets/img/cc-workshop.jpg" alt="Images"/>
+                     <img src="/kbassets/img/cc-workshop.jpg" alt="Images"/>
                   </div>
                </div>
             </div>
@@ -187,7 +187,7 @@ export default function ConversationalCapacityWebinar() {
                <div className="col-lg-6">
                   <div className="text-left pt-20 pb-25">
                   
-                  <img src="/assets/img/conversational-capacity2.jpg" alt="Images"/>
+                  <img src="/kbassets/img/conversational-capacity2.jpg" alt="Images"/>
                   </div>
                </div>
             </div>
