@@ -24,7 +24,7 @@ export default function EdgeManagerAssessment() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {

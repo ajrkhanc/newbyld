@@ -155,7 +155,7 @@ const singleblog = ({ posts, posts5, cats, postfeedback }) => {
                            {
                            cats.map((getats)=>{
                               return(
-                                 <li><a href="#">{getats.Name}</a></li>
+                                 <li><a href={`/blog/category/${getats.Caturl}`}>{getats.Name}</a></li>
                               )
                            })
                            }
@@ -170,7 +170,7 @@ const singleblog = ({ posts, posts5, cats, postfeedback }) => {
                  <article className="item">
                         <a href="https://blanchardinternational.co.in/events-workshops/virtual-public-workshop#REQUEST" className="thumb">
                            <span className="full-image cover bg1" role="img">
-                               <img src="/kbassets/img/workshop1.jpg" alt="Images" />
+                               <img src="/assets/img/workshop1.jpg" alt="Images" />
                            </span>
                         </a>
                         <div className="info">
@@ -191,7 +191,7 @@ const singleblog = ({ posts, posts5, cats, postfeedback }) => {
                      <article className="item">
                         <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST" className="thumb">
                            <span className="full-image cover bg1" role="img">
-                               <img src="/kbassets/img/webi1.jpg" alt="Images" />
+                               <img src="/assets/img/webi1.jpg" alt="Images" />
                            </span>
                         </a>
                         <div className="info">
@@ -205,7 +205,7 @@ const singleblog = ({ posts, posts5, cats, postfeedback }) => {
                      <article className="item">
                         <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST" className="thumb">
                            <span className="full-image cover bg1" role="img">
-                               <img src="/kbassets/img/webi2.jpg" alt="Images" />
+                               <img src="/assets/img/webi2.jpg" alt="Images" />
                            </span>
                         </a>
                         <div className="info">
@@ -219,7 +219,7 @@ const singleblog = ({ posts, posts5, cats, postfeedback }) => {
                      <article className="item">
                         <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST" className="thumb">
                            <span className="full-image cover bg1" role="img">
-                               <img src="/kbassets/img/webi3.jpg" alt="Images" />
+                               <img src="/assets/img/webi3.jpg" alt="Images" />
                            </span>
                         </a>
                         <div className="info">

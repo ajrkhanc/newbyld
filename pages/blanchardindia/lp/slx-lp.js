@@ -24,7 +24,7 @@ export default function HybridWorkplaces() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -92,7 +92,7 @@ export default function HybridWorkplaces() {
                      </div>
                      <div className="col-lg-12">
                         <div className="form-group">
-                           <input type="text" name="designation" id="designation" className="form-control" placeholder="Designation" />
+                           <input type="text" name="designation" id="designation" className="form-control" placeholder="Designation*" required/>
                            <div className="help-block with-errors"></div>
                         </div>
                      </div>
@@ -101,8 +101,8 @@ export default function HybridWorkplaces() {
                            <label>Interested In*</label>
                            <select name="interest_in" className="form-control" required>
                               <option value="">---Select---</option>
-                              <option value="The SLII Experience™ - Virtual - May 8th - 9th, 2023">The SLII Experience™ - Virtual - May 8th - 9th, 2023</option>
-                              <option value="The SLII Experience™ T4T - May 10th - 11th, 2023">The SLII Experience™ T4T - May 10th - 11th, 2023</option>
+                              <option value="The SLII Experience™ - Virtual - August 7th - 8th, 2023">The SLII Experience™ - Virtual - August 7th - 8th, 2023</option>
+                              <option value="The SLII Experience™ - T4T - August 9th - 10th, 2023">The SLII Experience™ - T4T - August 9th - 10th, 2023</option>
                            </select>
                            <div className="help-block with-errors"></div>
                         </div>
@@ -164,7 +164,7 @@ export default function HybridWorkplaces() {
          </div>
          <div className="col-lg-6 bgshd">
             <div className="">
-               <img src="/kbassets/img/slx-lp.jpg" alt="Images" />
+               <img src="/assets/img/slx-lp.jpg" alt="Images" />
             </div>
          </div>
       </div>
@@ -184,7 +184,7 @@ export default function HybridWorkplaces() {
          </div>
          <div className="col-lg-6 bgshd">
             <div className='pt-15 pb-15'>
-              <img src="/kbassets/img/img4-1.jpg" alt="Images" />
+              <img src="/assets/img/img4-1.jpg" alt="Images" />
             </div>
          </div>
       </div>

@@ -54,7 +54,7 @@ function EbooksKB() {
             <div className="row">
                <div className="col-sm-5">
                   <div className="ebbokshd">
-                  <img src="/kbassets/img/ebook1.jpg" alt="Images" />
+                  <img src="/assets/img/ebook1.jpg" alt="Images" />
                   </div>
                </div>
                 <div className="col-sm-7">

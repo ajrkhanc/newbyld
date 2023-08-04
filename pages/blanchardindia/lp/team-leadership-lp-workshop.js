@@ -12,7 +12,7 @@ export default function TeamLeadershipLPWorkshop() {
       xhttp.onload = function () {
          // console.log(this.responseText.status);
       }
-      xhttp.open("Post", 'https://bmelectrician.com/blanchard/wp-json/contact-form-7/v1/contact-forms/29988/feedback');
+      xhttp.open("Post", 'https://ajrkhan.xyz/blanchardinternational/wp-json/contact-form-7/v1/contact-forms/85/feedback');
       xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
       xhttp.onreadystatechange = function () {
          if (xhttp.readyState == 4) {
@@ -25,7 +25,7 @@ export default function TeamLeadershipLPWorkshop() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -93,7 +93,7 @@ export default function TeamLeadershipLPWorkshop() {
                         </div>
                         <div className="col-lg-12">
                            <div className="form-group">
-                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation"/>
+                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation*" required/>
                               <div className="help-block with-errors"></div>
                            </div>
                         </div>
@@ -101,7 +101,7 @@ export default function TeamLeadershipLPWorkshop() {
                            <div className="form-group">
                               <label>Program Name*</label>                              
                               <select className="form-control" name="interest_in" required>
-                                 <option value="Team Leadership Workshop: 13th December, 2022">Team Leadership Workshop: 13th December, 2022</option>
+                                 <option value="Team Leadership Workshop: 26th July, 2023">Team Leadership Workshop: 26th July, 2023</option>
                               </select>
                               <div className="help-block with-errors"></div>
                            </div>
@@ -158,7 +158,7 @@ export default function TeamLeadershipLPWorkshop() {
                </div>
                <div className="col-lg-6">
                   <div className="">
-                     <img src="/kbassets/img/team-leadership-lp.jpg" alt="Images"/>
+                     <img src="/assets/img/team-leadership-lp.jpg" alt="Images"/>
                   </div>
                </div>
             </div>

@@ -25,7 +25,7 @@ export default function BlanchardManaE() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -93,7 +93,7 @@ export default function BlanchardManaE() {
                      </div>
                      <div className="col-lg-12">
                         <div className="form-group">
-                           <input type="text" name="designation" id="designation" className="form-control" placeholder="Designation" />
+                           <input type="text" name="designation" id="designation" className="form-control" placeholder="Designation*" required/>
                            <div className="help-block with-errors"></div>
                         </div>
                      </div>
@@ -102,7 +102,7 @@ export default function BlanchardManaE() {
                            <label>Interested In*</label>
                            <select name="interest_in" className="form-control" required>
                               <option value="">---Select---</option>
-                              <option value="Blanchard Management Essentials® Workshop 21st April 2023">Blanchard Management Essentials® Workshop 21st April 2023</option>
+                              <option value="Blanchard Management Essentials® Workshop 13th September 2023">Blanchard Management Essentials® Workshop 13th September 2023</option>
                            </select>
                            <div className="help-block with-errors"></div>
                         </div>
@@ -159,7 +159,7 @@ export default function BlanchardManaE() {
          </div>
          <div className="col-lg-6 themebg2">
             <div className="">
-               <img src="/kbassets/img/bme.jpg" alt="Images" />
+               <img src="/assets/img/bme.jpg" alt="Images" />
             </div>
          </div>
       </div>

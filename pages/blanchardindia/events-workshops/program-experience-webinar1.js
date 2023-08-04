@@ -24,7 +24,7 @@ export default function ProgramExperienceAndWebinars() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -69,7 +69,7 @@ export default function ProgramExperienceAndWebinars() {
 
                   <div className="col-sm-4">
                      <div className="choose-card">
-                        <img src="/kbassets/img/webi3.jpg" alt="Images"/>
+                        <img src="/assets/img/webi3.jpg" alt="Images"/>
                         <h3>The Manager Who Can Coach: Bringing Coaching Skills into Your Organization</h3>
                         <p className="text-justify">August 26th, 2022</p>
                         <div className='row text-center eventsbottomarea2'>
@@ -82,7 +82,7 @@ export default function ProgramExperienceAndWebinars() {
 
                <div className="col-sm-4">
                      <div className="choose-card">
-                        <img src="/kbassets/img/webi1.jpg" alt="Images"/>
+                        <img src="/assets/img/webi1.jpg" alt="Images"/>
                         <h3>When It Comes to Customer Loyalty, Is Your Business Flourishing or Failing?</h3>
                         <p className="text-justify">September 2nd, 2022</p>
                         <div className='row text-center eventsbottomarea2'>
@@ -95,7 +95,7 @@ export default function ProgramExperienceAndWebinars() {
 
                   <div className="col-sm-4">
                      <div className="choose-card">
-                        <img src="/kbassets/img/webi1.jpg" alt="Images"/>
+                        <img src="/assets/img/webi1.jpg" alt="Images"/>
                         <h3>Create Creative & Innovative Workforce through Self Leadership Skills</h3>
                         <p className="text-justify">September 16th, 2022</p>
                         <div className='row text-center eventsbottomarea2'>

@@ -103,7 +103,7 @@ export default function BlanchardGenericLPNew() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -163,7 +163,7 @@ if (t < 0) {
                 <div className='row'>
                    <div className='col-md-7'>
                         <div className="inner-title text-center formtbg lpnewbannerp">                           
-                            <img class="img-responsive maxw280" src="/kbassets/img/kb-award.png"/>
+                            <img class="img-responsive maxw280" src="/assets/img/kb-award.png"/>
                             <h3>Self-Leadership Training to Increase the Employee Potential</h3>
                             <h4 className='landingpagesbannerh4 landingpagesbannerh4cc'><span>Avail the Seat!</span></h4>
                         </div>
@@ -201,7 +201,7 @@ if (t < 0) {
                         </div>
                         <div className="col-lg-12">
                            <div className="form-group">
-                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation" pattern="[a-zA-Z -]*$" title="Only alphabets are allowed" required/>
+                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation*" pattern="[a-zA-Z -]*$" title="Only alphabets are allowed" required/>
                               <div className="help-block with-errors"></div>
                            </div>
                         </div>                                               
@@ -254,21 +254,21 @@ if (t < 0) {
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                            <img class="img-responsive topiconc" src="/kbassets/img/target.png"/>
+                            <img class="img-responsive topiconc" src="/assets/img/target.png"/>
                             <h2>Goal Setting</h2>
                             <h3>Outlining what needs to be done and when</h3>
                         </div>
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                            <img class="img-responsive topiconc" src="/kbassets/img/puzzle.png"/>
+                            <img class="img-responsive topiconc" src="/assets/img/puzzle.png"/>
                             <h2>Diagnosing </h2>
                             <h3>Assess your abilities and commitment to specific goals</h3>
                         </div>
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                            <img class="img-responsive topiconc" src="/kbassets/img/diagnose.png"/>
+                            <img class="img-responsive topiconc" src="/assets/img/diagnose.png"/>
                             <h2>Matching</h2>
                             <h3>Get the leadership style that gives you your need</h3>
                         </div>
@@ -285,7 +285,7 @@ if (t < 0) {
                 <div className='row align-items-center'>
                     <div className="col-md-6">
                         <div className="text-center borderccc">
-                            {/* <img className='ptt50' src="/kbassets/img/home2-pic1.jpg" alt="Images"/> */}
+                            {/* <img className='ptt50' src="/assets/img/home2-pic1.jpg" alt="Images"/> */}
                             <iframe width="100%" height="390" src="https://www.youtube.com/embed/f85xnjMrSVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
@@ -345,28 +345,28 @@ if (t < 0) {
                      <div className="row row-eq-height height100p">
                         <div className="col-md-3">
                            <div className="what-did-left-card text-center homeboxeql planbox planbox1">
-                              <img src="/kbassets/img/develop-change-implement-it.png" alt="Images"/>
+                              <img src="/assets/img/develop-change-implement-it.png" alt="Images"/>
                               <h3>HASTENED DEVELOPMENT</h3>
 							  <p>Self-leaders who control their growth - need the direction and support to climb the curve to dominate faster.</p>
                            </div>
                         </div>
                         <div className="col-md-3">
                            <div className="what-did-left-card text-center homeboxeql planbox planbox1">
-                              <img src="/kbassets/img/improve-productivity.png" alt="Images"/>
+                              <img src="/assets/img/improve-productivity.png" alt="Images"/>
                               <h3>SIGNIFICANT PERFORMANCE</h3>
 							  <p>Empowered self-leaders are more committed and engaged, work hard and improve performance across the organization.</p>
                            </div>
                         </div>
                         <div className="col-md-3">
                            <div className="what-did-left-card text-center homeboxeql planbox planbox1">
-                              <img src="/kbassets/img/improve-teamwork.png" alt="Images"/>
+                              <img src="/assets/img/improve-teamwork.png" alt="Images"/>
                               <h3>PERSONAL ACCOUNTABILITY</h3>
 							  <p>Self-leaders are not accountable; they are solely responsible for achieving goals and successfully implementing the organization's initiatives.</p>
                            </div>
                         </div>
                         <div className="col-md-3">
                            <div className="what-did-left-card text-center homeboxeql planbox planbox1">
-                              <img src="/kbassets/img/data.png" alt="Images"/>
+                              <img src="/assets/img/data.png" alt="Images"/>
                               <h3>ESCALATED INNOVATION</h3>
 							  <p>Competent self-leaders know how to overcome obstacles that limit their ability to resolve issues and develop creative solutions for them.</p>
                            </div>
@@ -391,7 +391,7 @@ if (t < 0) {
                     <div class="testimonial">
                         <div class="testimonial-content">
                             <div class="testimonial-icon">
-                            <img src="/kbassets/img/inverted-commas.png" alt="Images"/>
+                            <img src="/assets/img/inverted-commas.png" alt="Images"/>
                             </div>
                             <p class="description">
                             “This workshop was very insightful and made absolute sense in terms of the principles and their application. This program did a great job providing actionable concepts in a way that encouraged instant application.”
@@ -403,7 +403,7 @@ if (t < 0) {
                     <div class="testimonial">
                         <div class="testimonial-content">
                             <div class="testimonial-icon">                                
-                                <img src="/kbassets/img/inverted-commas.png" alt="Images"/>
+                                <img src="/assets/img/inverted-commas.png" alt="Images"/>
                             </div>
                             <p class="description">
                             “Participants found the Self Leadership workshop very interactive, informative and engaging. They liked the facilitator’s way of presenting the session by implementing various engaging activities.”
@@ -415,7 +415,7 @@ if (t < 0) {
                     <div class="testimonial">
                         <div class="testimonial-content">
                             <div class="testimonial-icon">
-                            <img src="/kbassets/img/inverted-commas.png" alt="Images"/>
+                            <img src="/assets/img/inverted-commas.png" alt="Images"/>
                             </div>
                             <p class="description">
                             “We thank you for being our most trusted vendor partner for sharing the quotes and for supplying the right products/services on time. We acknowledge and appreciate your service and look forward for such excellence in near future as well. Keep up the good work!”
@@ -428,7 +428,7 @@ if (t < 0) {
                     <div class="testimonial">
                         <div class="testimonial-content">
                             <div class="testimonial-icon">
-                            <img src="/kbassets/img/inverted-commas.png" alt="Images"/>
+                            <img src="/assets/img/inverted-commas.png" alt="Images"/>
                             </div>
                             <p class="description">
                             “The SLII® Experience provided some really helpful tips to our managers to engage with the teams and be agile in their responses accordingly. It helped them look at the capability model from a different perspective and in turn made them realize the importance of different leadership styles to be an effective leader. Our managers were able to analyze their own effectiveness as a leader and how to enhance it further.”
@@ -458,19 +458,19 @@ if (t < 0) {
 
                <div className="col-md-4">
                   <div className="googlereviewbox">
-                     <img src="/kbassets/img/re1.jpg" alt="Images"/>
+                     <img src="/assets/img/re1.jpg" alt="Images"/>
                   </div>
                </div>
 
                <div className="col-md-4">
                   <div className="googlereviewbox">
-                     <img src="/kbassets/img/re2.jpg" alt="Images"/>
+                     <img src="/assets/img/re2.jpg" alt="Images"/>
                   </div>
                </div>
 
                <div className="col-md-4">
                   <div className="googlereviewbox">
-                     <img src="/kbassets/img/re3.jpg" alt="Images"/>
+                     <img src="/assets/img/re3.jpg" alt="Images"/>
                   </div>
                </div>
 
@@ -485,31 +485,31 @@ if (t < 0) {
          <div className="container">
                <Slider {...settings2}>
                   <div key={1}>
-                     <img src="/kbassets/img/boston-1.png" alt="Images"/>
+                     <img src="/assets/img/boston-1.png" alt="Images"/>
                   </div>
                   <div key={2}>
-                     <img src="/kbassets/img/tcs.png" alt="Images"/>
+                     <img src="/assets/img/tcs.png" alt="Images"/>
                   </div>
                   <div key={3}>
-                     <img src="/kbassets/img/optum.png" alt="Images"/>
+                     <img src="/assets/img/optum.png" alt="Images"/>
                   </div>
                   <div key={4}>
-                     <img src="/kbassets/img/nthrive.png" alt="Images"/>
+                     <img src="/assets/img/nthrive.png" alt="Images"/>
                   </div>
                   <div key={5}>
-                     <img src="/kbassets/img/mcm.png" alt="Images"/>
+                     <img src="/assets/img/mcm.png" alt="Images"/>
                   </div>
                   <div key={6}>
-                     <img src="/kbassets/img/hp.png" alt="Images"/>
+                     <img src="/assets/img/hp.png" alt="Images"/>
                   </div>
                   <div key={7}>
-                    <img src="/kbassets/img/hero.png" alt="Images"/>
+                    <img src="/assets/img/hero.png" alt="Images"/>
                   </div>
                   <div key={8}>
-                    <img src="/kbassets/img/hcl.png" alt="Images"/>
+                    <img src="/assets/img/hcl.png" alt="Images"/>
                   </div>
                   <div key={9}>
-                    <img src="/kbassets/img/fA.png" alt="Images"/>
+                    <img src="/assets/img/fA.png" alt="Images"/>
                   </div>
                </Slider>
             

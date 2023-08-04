@@ -24,7 +24,7 @@ export default function HybridWorkplaces() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -92,7 +92,7 @@ export default function HybridWorkplaces() {
                      </div>
                      <div className="col-lg-12">
                         <div className="form-group">
-                           <input type="text" name="designation" id="designation" className="form-control" placeholder="Designation" />
+                           <input type="text" name="designation" id="designation" className="form-control" placeholder="Designation*" required/>
                            <div className="help-block with-errors"></div>
                         </div>
                      </div>
@@ -156,7 +156,7 @@ export default function HybridWorkplaces() {
          </div>
          <div className="col-lg-6 themebg2">
             <div className="">
-               <img src="/kbassets/img/self.jpg" alt="Images" />
+               <img src="/assets/img/self.jpg" alt="Images" />
             </div>
          </div>
       </div>
@@ -184,7 +184,7 @@ export default function HybridWorkplaces() {
          </div>
          <div className="col-lg-6 bgshd">
             <div className='pt-15 pb-15'>
-              <img src="/kbassets/img/business-1.jpg" alt="Images" />
+              <img src="/assets/img/business-1.jpg" alt="Images" />
             </div>
          </div>
       </div>

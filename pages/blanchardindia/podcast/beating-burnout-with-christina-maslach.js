@@ -21,7 +21,9 @@ export default function PodCastinner() {
                                 <h3>Beating Burnout with Christina Maslach</h3>
                                 <iframe allowfullscreen="" height="192" mozallowfullscreen="true" msallowfullscreen="true" oallowfullscreen="true" scrolling="no" src="https://play.libsyn.com/embed/episode/id/25153776/height/192/theme/modern/size/large/thumbnail/yes/custom-color/59a3d4/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" title="Embed Player" webkitallowfullscreen="true" width="100%"></iframe>
                                 <div>
-                                    <p>In this episode, hear Christina Maslach explain the causes of burnout as described in her new book, <i>The Burnout Challenge.</i> She talks about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health.</p>
+                                    <p>
+                                        In this episode, hear Christina Maslach explain the causes of burnout as described in her new book, <i>The Burnout Challenge.</i> She talks about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health.
+                                    </p>
                                     <p>
                                     For more information about Christina Maslach, visit <a target="_blank" href='https://www.theburnoutchallenge.com/'>www.theburnoutchallenge.com</a>
                                     </p>
@@ -31,7 +33,7 @@ export default function PodCastinner() {
                             
                             <div className="col-sm-4">
                                 <div className="choose-card">
-                                    <img src="/kbassets/img/podcast/podcastall.jpg" alt="Images"/>                                                                   
+                                    <img src="/assets/img/podcast/podcastall.jpg" alt="Images"/>                                                                   
                                     <div className='row text-center eventsbottomarea2'>
                                     <div className='col-sm-12'>
                                     <Link href="/podcast"><a className="default-btn-two">View all Podcasts<i className="bx bx-right-arrow-alt"></i></a></Link>

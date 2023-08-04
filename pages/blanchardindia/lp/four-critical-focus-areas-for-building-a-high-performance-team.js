@@ -24,7 +24,7 @@ export default function FourCriticalFocusAreasforBuildingaHighPerformanceTeam() 
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -92,7 +92,7 @@ export default function FourCriticalFocusAreasforBuildingaHighPerformanceTeam() 
                         </div>
                         <div className="col-lg-12">
                            <div className="form-group">
-                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation"/>
+                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation*" required/>
                               <div className="help-block with-errors"></div>
                            </div>
                         </div>
@@ -163,7 +163,7 @@ export default function FourCriticalFocusAreasforBuildingaHighPerformanceTeam() 
                </div>
                <div className="col-lg-6">
                   <div className="">
-                     <img src="/kbassets/img/four-critical.jpg" alt="Images"/>
+                     <img src="/assets/img/four-critical.jpg" alt="Images"/>
                   </div>
                </div>
             </div>
@@ -191,7 +191,7 @@ export default function FourCriticalFocusAreasforBuildingaHighPerformanceTeam() 
                </div>
                <div className="col-lg-6">
                   <div className="text-left pt-20 pb-25">                  
-                     <img src="/kbassets/img/leadershp123.jpg" alt="Images"/>
+                     <img src="/assets/img/leadershp123.jpg" alt="Images"/>
                   </div>
                </div>
             </div>

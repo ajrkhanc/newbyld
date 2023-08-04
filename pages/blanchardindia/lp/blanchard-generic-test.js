@@ -25,7 +25,7 @@ export default function BlanchardGenericLPNew() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/thank-you-lp"
                }, 3000);
 
             } else {
@@ -94,7 +94,7 @@ export default function BlanchardGenericLPNew() {
                         </div>
                         <div className="col-lg-6">
                            <div className="form-group">
-                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation" pattern="[a-zA-Z -]*$" title="Only alphabets are allowed" required/>
+                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation*" pattern="[a-zA-Z -]*$" title="Only alphabets are allowed" required/>
                               <div className="help-block with-errors"></div>
                            </div>
                         </div>
@@ -157,31 +157,31 @@ export default function BlanchardGenericLPNew() {
                 <div className="row row-eq-height">
                     <div className="col bbdr">                       
                         <div class="business-box">
-                            <img class="img-responsive" src="/kbassets/img/strategic-success.svg"/>
+                            <img class="img-responsive" src="/assets/img/strategic-success.svg"/>
                             <h3>Competency frameworks aligned with organisation strategies</h3>
                         </div>
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                            <img class="img-responsive" src="/kbassets/img/powerful-executive-team.svg"/>
+                            <img class="img-responsive" src="/assets/img/powerful-executive-team.svg"/>
                             <h3>Personal leadership quality enhancement</h3>
                         </div>
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                            <img class="img-responsive" src="/kbassets/img/Find-Talent-1.svg"/>
+                            <img class="img-responsive" src="/assets/img/Find-Talent-1.svg"/>
                             <h3>Identifying and developing high-potential future leaders</h3>
                         </div>
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                            <img class="img-responsive" src="/kbassets/img/leadership-1.svg"/>
+                            <img class="img-responsive" src="/assets/img/leadership-1.svg"/>
                             <h3>Aligned cohesive and compassionate c-suite teams</h3>
                         </div>
                     </div>
                     <div className="col bbdr">                       
                         <div class="business-box">
-                            <img class="img-responsive" src="/kbassets/img/leadership-growth-1.svg"/>
+                            <img class="img-responsive" src="/assets/img/leadership-growth-1.svg"/>
                             <h3>Succession planning</h3>
                         </div>
                     </div>                   
@@ -216,7 +216,7 @@ export default function BlanchardGenericLPNew() {
                     </div>
                     <div className="col-lg-6">
                         <div className="text-center borderccc">
-                        {/* <img className='ptt50' src="/kbassets/img/home2-pic1.jpg" alt="Images"/> */}
+                        {/* <img className='ptt50' src="/assets/img/home2-pic1.jpg" alt="Images"/> */}
                         <iframe width="100%" height="490" src="https://www.youtube.com/embed/mc7rvPT4o9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
@@ -260,7 +260,7 @@ export default function BlanchardGenericLPNew() {
                     </div>
                     <div className="col-lg-6">
                         <div className="text-center">
-                        <img className='' src="/kbassets/img/home2-pic1.jpg" alt="Images"/>
+                        <img className='' src="/assets/img/home2-pic1.jpg" alt="Images"/>
                         </div>
                     </div>
                 </div>
@@ -339,28 +339,28 @@ export default function BlanchardGenericLPNew() {
                      <div className="row row-eq-height height100p">
                         <div className="col-sm-3">
                            <div className="what-did-left-card text-center homeboxeql planbox">
-                              <img src="/kbassets/img/listen.png" alt="Images"/>
+                              <img src="/assets/img/listen.png" alt="Images"/>
                               <h3>1. Listen</h3>
 							  <p>Acknowledge your necessities, huddles, and targets.</p>
                            </div>
                         </div>
                         <div className="col-sm-3">
                            <div className="what-did-left-card text-center homeboxeql planbox">
-                              <img src="/kbassets/img/planning.png" alt="Images"/>
+                              <img src="/assets/img/planning.png" alt="Images"/>
                               <h3>2. Plan</h3>
 							  <p>Prescribe the most efficient training strategy to accomplish your targets.</p>
                            </div>
                         </div>
                         <div className="col-sm-3">
                            <div className="what-did-left-card text-center homeboxeql planbox">
-                              <img src="/kbassets/img/process.png" alt="Images"/>
+                              <img src="/assets/img/process.png" alt="Images"/>
                               <h3>3. Execute</h3>
 							  <p>Assists you to deliver the training  program in various ways to fulfil your needs.</p>
                            </div>
                         </div>
                         <div className="col-sm-3">
                            <div className="what-did-left-card text-center homeboxeql planbox">
-                              <img src="/kbassets/img/data.png" alt="Images"/>
+                              <img src="/assets/img/data.png" alt="Images"/>
                               <h3>4. Evaluate</h3>
 							  <p>Determines the  program’s development and makes alterations to maximize impacts.</p>
                            </div>

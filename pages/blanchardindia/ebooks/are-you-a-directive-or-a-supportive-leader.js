@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/critical-skills-every-sales-manager-needs.pdf"
+                   window.location.href = "/pdf/are-you-a-directive-or-supportive-leader.pdf"
                }, 3000);
 
             } else {
@@ -50,7 +50,7 @@ function EbooksKB() {
   
   <section>
       <div className="img100">
-          <img src="/kbassets/img/critical-skills-every-sales-manager-needs.jpg"  alt="diversity-equity-inclusion-pov"/>
+          <img src="/assets/img/critical-skills-every-sales-manager-needs.jpg"  alt="diversity-equity-inclusion-pov"/>
       </div>
   </section>          
             
@@ -74,7 +74,7 @@ function EbooksKB() {
          </div>
          <div className="col-lg-6">
             <div className="img100">
-            <img src="/kbassets/img/critical-skills-every-sales-manager-needs1.jpg" alt="Images"/>
+            <img src="/assets/img/critical-skills-every-sales-manager-needs1.jpg" alt="Images"/>
             </div>
          </div>
       </div>

@@ -12,7 +12,7 @@ export default function HybridWorkplaces() {
       xhttp.onload = function () {
          // console.log(this.responseText.status);
       }
-      xhttp.open("Post", 'https://bmelectrician.com/blanchard/wp-json/contact-form-7/v1/contact-forms/29988/feedback');
+      xhttp.open("Post", 'https://ajrkhan.xyz/blanchardinternational/wp-json/contact-form-7/v1/contact-forms/83/feedback');
       xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
       xhttp.onreadystatechange = function () {
          if (xhttp.readyState == 4) {
@@ -25,7 +25,7 @@ export default function HybridWorkplaces() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/blanchardinternational/thank-you-lp"
+                   window.location.href = "/lp/self-leadership-workshop-lp-thank-you"
                }, 3000);
 
             } else {
@@ -50,6 +50,18 @@ export default function HybridWorkplaces() {
         <Head>
             <title>Four Coaching Essential Skills at Hybrid Workplace</title>
             <meta name="description" content="As a leader, every interaction is an opportunity to strengthen and develop your people. Coaching is not a checklist task, it's a mindset, great coaches don’t see coaching as a “to-do.”" />
+            <script async src="https://www.googletagmanager.com/gtag/js?id=AW-370688250"></script>
+            <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-370688250');
+          `,
+            }}
+          />
          </Head>
 
         <div id="register-today" className="inner-banner online-learning-headbg">
@@ -93,15 +105,15 @@ export default function HybridWorkplaces() {
                         </div>
                         <div className="col-lg-12">
                            <div className="form-group">
-                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation"/>
+                              <input type="text" name="designation" id="designation" className="form-control" data-error="Please Enter Designation" placeholder="Designation*" required/>
                               <div className="help-block with-errors"></div>
                            </div>
                         </div>
                         <div className="col-lg-6">
                            <div className="form-group">
                               <label>Program Name*</label>                              
-                              <select className="form-control" name="interest_in" required>
-                                 <option value="Self leadership Workshop: April 11th, 2023">Self leadership Workshop: April 11th, 2023</option>
+                              <select className="form-control" name="interest_in" required>                                 
+                                 <option value="Self leadership Workshop: July 13th, 2023">Self leadership Workshop: July 13th, 2023</option>
                               </select>
                               <div className="help-block with-errors"></div>
                            </div>
@@ -161,7 +173,7 @@ export default function HybridWorkplaces() {
                </div>
                <div className="col-lg-6">
                   <div className="">
-                     <img src="/kbassets/img/self-leadership-lp.jpg" alt="Images"/>
+                     <img src="/assets/img/self-leadership-lp.jpg" alt="Images"/>
                   </div>
                </div>
             </div>

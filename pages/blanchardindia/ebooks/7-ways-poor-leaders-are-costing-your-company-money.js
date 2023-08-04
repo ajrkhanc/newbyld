@@ -51,7 +51,7 @@ function EbooksKB() {
   
   <section>
       <div className="img100">
-          <img src="/kbassets/img/7wayb.jpg"  alt="diversity-equity-inclusion-pov"/>
+          <img src="/assets/img/7wayb.jpg"  alt="diversity-equity-inclusion-pov"/>
       </div>
   </section>          
             
@@ -71,7 +71,7 @@ function EbooksKB() {
          </div>
          <div className="col-lg-6">
             <div className="img100">
-            <img src="/kbassets/img/7way.jpg" alt="Images"/>
+            <img src="/assets/img/7way.jpg" alt="Images"/>
             </div>
          </div>
       </div>

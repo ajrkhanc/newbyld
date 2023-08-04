@@ -29,7 +29,7 @@ export default function Books() {
                         <div className="row row-eq-height eventsandworkshopbox">
                             <div className="col-sm-4">
                                 <div className="choose-card">
-                                    <img src="/kbassets/img/leading-at-a-higher-leve.jpg" alt="Images"/>
+                                    <img src="/assets/img/leading-at-a-higher-leve.jpg" alt="Images"/>
                                     <h3>Leading at a Higher Level</h3>
                                     <p className="text-justify">
                                     Rs: 2440
@@ -45,7 +45,7 @@ export default function Books() {
                             </div>
                             <div className="col-sm-4">
                                 <div className="choose-card">
-                                    <img src="/kbassets/img/the-new-one-minute-manager.jpg" alt="Images"/>
+                                    <img src="/assets/img/the-new-one-minute-manager.jpg" alt="Images"/>
                                     <h3>The New One Minute Manager</h3>
                                     <p className="text-justify">
                                     Rs: 160
