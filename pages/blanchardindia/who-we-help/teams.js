@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Teams | Blanchard International</title>
                 <meta name="description" content="How Blanchard’s training and resources can help team leaders and high-performance team members learn the skills to meet their business goals, together." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme3bg pbb-100 border-bottom-left-radius-70">
@@ -15,8 +15,8 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/who-we-help">WHO WE HELP</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/who-we-help">WHO WE HELP</a></li>
                                 <li><a><span>TEAMS</span></a></li>
                             </ul>
                         </div>
@@ -96,32 +96,32 @@ export default function ThanYouLP() {
                             <div className="row">
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/programs/team-leadership">Team Leadership</a>
+                                        <a href="/blanchardindia/our-content/programs/team-leadership">Team Leadership</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/what-we-do/services/coaching">Team Coaching</a>
+                                        <a href="/blanchardindia/what-we-do/services/coaching">Team Coaching</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/programs/conversational-capacity">Conversational Capacity</a>
+                                        <a href="/blanchardindia/our-content/programs/conversational-capacity">Conversational Capacity</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/teaming-collaboration">Teaming and Collaboration</a>
+                                        <a href="/blanchardindia/our-content/challenges/teaming-collaboration">Teaming and Collaboration</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/programs/leadership-point-of-view">Leadership Point of View</a>
+                                        <a href="/blanchardindia/our-content/programs/leadership-point-of-view">Leadership Point of View</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/diversity-inclusion">Inclusion & Diversity</a>
+                                        <a href="/blanchardindia/our-content/challenges/diversity-inclusion">Inclusion & Diversity</a>
                                     </div>
                                 </div>                                
                             </div>

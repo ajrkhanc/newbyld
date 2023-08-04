@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Our Services | Blanchard International</title>
                 <meta name="description" content="An overview of Blanchard’s services to support your learning and development initiatives."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme2bg">
@@ -15,8 +15,8 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/what-we-do">WHAT WE DO</a></li>                                
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/what-we-do">WHAT WE DO</a></li>                                
                                 <li><a><span> SERVICES</span></a></li>
                             </ul>
                         </div>                
@@ -70,32 +70,32 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/services/assessments">Assessments</a>
+                                <a href="/blanchardindia/what-we-do/services/assessments">Assessments</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/services/coaching">Coaching</a>
+                                <a href="/blanchardindia/what-we-do/services/coaching">Coaching</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/services/facilitation">Facilitation</a>
+                                <a href="/blanchardindia/what-we-do/services/facilitation">Facilitation</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/services/measurement-impact">Measurement & Impact</a>
+                                <a href="/blanchardindia/what-we-do/services/measurement-impact">Measurement & Impact</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/services/moderation-community-management">Moderation & Community Management</a>
+                                <a href="/blanchardindia/what-we-do/services/moderation-community-management">Moderation & Community Management</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a>
+                                <a href="/blanchardindia/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a>
                             </div>
                         </div>
                     </div>

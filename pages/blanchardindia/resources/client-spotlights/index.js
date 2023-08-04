@@ -7,7 +7,7 @@ function CLIENTSPOTS() {
             <Head>
                 <title>Client Spotlights - Blanchard International</title>
                 <meta name="description" content="Learn how we have worked with clients to build leadership strategies that empower them to succeed today and in the ever-increasing demands of the future."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 pbb-50 ptt-30 border-bottom-left-radius-70 colortheme3bg">
@@ -15,8 +15,8 @@ function CLIENTSPOTS() {
                     <div className="row">
                         <div className="col-sm-12">
                             <ul className="">
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/resources">RESOURCES</a></li>                               
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/resources">RESOURCES</a></li>                               
                                 <li><a><span>CLIENTS SPOTLIGHTS</span></a></li>
                             </ul>
                         </div>
@@ -48,7 +48,7 @@ function CLIENTSPOTS() {
                                             <h3>Duke Energy</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/duke-energy"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/duke-energy"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,7 +60,7 @@ function CLIENTSPOTS() {
                                             <h3>Milltronics</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/milltronics"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/milltronics"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -72,7 +72,7 @@ function CLIENTSPOTS() {
                                             <h3>Eli Lilly and Company</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/eli-lilly-and-company"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/eli-lilly-and-company"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -84,7 +84,7 @@ function CLIENTSPOTS() {
                                             <h3>Aral Germany</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/aral-germany"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/aral-germany"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -96,7 +96,7 @@ function CLIENTSPOTS() {
                                             <h3>American Institutes for Research</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/american-institutes-for-research"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/american-institutes-for-research"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -108,7 +108,7 @@ function CLIENTSPOTS() {
                                             <h3>H&R Block</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/h-r-block"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/h-r-block"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -120,7 +120,7 @@ function CLIENTSPOTS() {
                                             <h3>Takeda</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/takeda"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/takeda"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -132,7 +132,7 @@ function CLIENTSPOTS() {
                                             <h3>Barilla America</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/barilla"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/barilla"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -144,7 +144,7 @@ function CLIENTSPOTS() {
                                             <h3>HCL Technologies</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/resources/client-spotlights/hcl-technologies"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/resources/client-spotlights/hcl-technologies"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>

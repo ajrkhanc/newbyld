@@ -47,7 +47,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Change & Agility| Blanchard International</title>
                 <meta name="description" content="Learn the core capabilities today’s leaders need to be successful and how Blanchard’s programs can develop your organization’s leadership capability." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
@@ -55,9 +55,9 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/our-content">OUR CONTENT</a></li>
-                                <li className="brdlifirst"><a href="/our-content/challenges">CHALLENGES</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/our-content">OUR CONTENT</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/our-content/challenges">CHALLENGES</a></li>
                                 <li><a><span>CHANGE & AGILITY</span></a></li>
                             </ul>
                         </div>

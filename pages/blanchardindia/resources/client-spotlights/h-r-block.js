@@ -7,7 +7,7 @@ export default function PodCastinner() {
             <Head>
                 <title>Client Spotlights - H&R Block Client Success Story</title>
                 <meta name="description" content="The Ken Blanchard Companies' client, H&R Block, is making an investment in its leaders so they can unleash the potential in their associates."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="what-did-area pb-40 pt-45 style2 themebg">
@@ -21,7 +21,7 @@ export default function PodCastinner() {
                                         <div className="pdfbox">
                                         <iframe src="https://resources.kenblanchard.com/i/1068821?source=hub&amp;expanded=false&amp;hubItemID=491493068&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                                         <a href="https://content.cdntwrk.com/files/aT0xMDY4ODIxJnY9MSZpc3N1ZU5hbWU9aC1yLWJsb2NrJmNtZD1kJnNpZz1kN2ZhNGJkMjMzOTYxZmI5Y2FlYWJiNTM5YzY2ZmIwZg%253D%253D" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                        <a href="/resources/client-spotlights">Go Back</a>
+                                        <a href="/blanchardindia/resources/client-spotlights">Go Back</a>
                                         </div>
                                     
                                         <div>

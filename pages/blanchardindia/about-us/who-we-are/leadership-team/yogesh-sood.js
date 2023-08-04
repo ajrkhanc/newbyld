@@ -7,7 +7,7 @@ function YogeshSood() {
         <Head>
         <title>Yogesh Sood - Blanchard International</title>
         <meta name="description" content="Chairman & Managing Director Yogesh Sood Yogesh is the CMD of BYLD. BYLD is the largest integrator of value-added professional services, in the areas of Leadership development, HR practices, Staffing, Technology and Business Excellence Consulting. He leads the board of Indian operations of Blanchard Research and Training, Door Training and Consulting (DTCI), VitalSmarts and Aspectum"/>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/blanchardindia/favicon.ico" />
         </Head>
 
         <section className="bredkums2 pbb-20 ptt-20 border-bottom-left-radius-70 colortheme3bg">
@@ -15,10 +15,10 @@ function YogeshSood() {
                     <div className="row">
                         <div className="col-sm-12">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/about-us">ABOUT US</a></li>
-                                <li className="brdlifirst"><a href="/about-us/who-we-are/">WHO WE ARE</a></li>
-                                <li className="brdlifirst"><a href="/about-us/who-we-are/leadership-team/">MEET OUR LEADERSHIP TEAM</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/about-us">ABOUT US</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/about-us/who-we-are/">WHO WE ARE</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/about-us/who-we-are/leadership-team/">MEET OUR LEADERSHIP TEAM</a></li>
                                 <li><a><span>YOGESH SOOD</span></a></li>
                             </ul>
                         </div>

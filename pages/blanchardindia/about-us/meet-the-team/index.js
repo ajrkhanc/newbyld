@@ -7,7 +7,7 @@ export default function MeetTheTeam() {
         <Head>
         <title>Meet-the-Team - Blanchard International</title>
         <meta name="description" content="FOCUSED ON OUR CLIENTS’ SUCCESS KEY LEADERS Blanchard’s dedicated leadership team is focused on delivering leadership development programs that exceed our clients’ expectations and help them achieve their goals. Yogesh Sood VIEW BIO Rajul Kansal VIEW BIO"/>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/blanchardindia/favicon.ico" />
         </Head>
            <div className="inner-banner team-head-headbg">
                 <div className="container">
@@ -15,7 +15,7 @@ export default function MeetTheTeam() {
                     <h3>FOCUSED ON OUR <br/>CLIENTS’ SUCCESS</h3>
                         <ul>
                         <li>
-                            <Link href="/">Home</Link>
+                            <Link href="/blanchardindia/">Home</Link>
                         </li>
                         <li>Meet The Team</li>
                         </ul>
@@ -53,7 +53,7 @@ export default function MeetTheTeam() {
                                 </div>
                             </div>
                             <div className="content">
-                            <h3><Link href="/about-us/meet-the-team/yogesh-sood/">Yogesh Sood</Link></h3>
+                            <h3><Link href="/blanchardindia/about-us/meet-the-team/yogesh-sood/">Yogesh Sood</Link></h3>
                             <span>Chairman & Managing Director</span>
                             </div>
                             </div>
@@ -75,7 +75,7 @@ export default function MeetTheTeam() {
                                 </div>
                             </div>
                             <div className="content">
-                                <h3><Link href="/about-us/meet-the-team/rajul-kansal">Rajul Kansal</Link></h3>
+                                <h3><Link href="/blanchardindia/about-us/meet-the-team/rajul-kansal">Rajul Kansal</Link></h3>
                                 <span>Senior Vice President- BYLD Group</span>
                             </div>
                             </div>

@@ -7,7 +7,7 @@ export default function ThanYouLP() {
          <Head>
             <title>Learning Modalities for Organizational Training | Blanchard International</title>
             <meta name="description" content="Get an overview of the modalities Blanchard uses for its management and leadership training programs." />
-            <link rel="icon" href="/favicon.ico" />
+            <link rel="icon" href="/blanchardindia/favicon.ico" />
          </Head>
 
          <section className="bredkums2 colortheme3bg pbb-100 border-bottom-left-radius-70">
@@ -15,8 +15,8 @@ export default function ThanYouLP() {
                <div className="row">
                   <div className="col-sm-12 ptt-25 pbb-50">
                      <ul>
-                        <li className="brdlifirst"><a href="/">HOME</a></li>
-                        <li className="brdlifirst"><a href="/our-content">WHAT WE DO</a></li>
+                        <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                        <li className="brdlifirst"><a href="/blanchardindia/our-content">WHAT WE DO</a></li>
                         <li><a><span>MODALITIES</span></a></li>
                      </ul>
                   </div>

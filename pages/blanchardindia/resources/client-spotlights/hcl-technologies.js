@@ -7,7 +7,7 @@ export default function PodCastinner() {
             <Head>
                 <title>Client Spotlights - HCL Technologies</title>
                 <meta name="description" content="HCL's primary concern was to develop the ranks of internal leaders, so HCL sought the trusted, time-tested leadership model of SLII, primarily because of the program’s successful track record." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="what-did-area pb-40 pt-45 style2 themebg">
@@ -21,7 +21,7 @@ export default function PodCastinner() {
                                         <div className="pdfbox">
                                         <iframe src="https://resources.kenblanchard.com/i/815553?source=hub&amp;expanded=false&amp;hubItemID=341094060&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                                         <a rel="nofollow" data-flipbookid="815553" href="https://content.cdntwrk.com/files/aT04MTU1NTMmdj0yJmlzc3VlTmFtZT1oY2wtdGVjaG5vbG9naWVzJmNtZD1kJnNpZz01ODdkOGNhYjk0YjQzZWYzNDYyNGZjYTAwYjQ3ZmFlMg%253D%253D" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                        <a href="/resources/client-spotlights">Go Back</a>
+                                        <a href="/blanchardindia/resources/client-spotlights">Go Back</a>
                                         </div>
                                     
                                         <div>

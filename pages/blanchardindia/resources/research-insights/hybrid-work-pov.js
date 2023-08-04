@@ -7,7 +7,7 @@ export default function PodCastinner() {
             <Head>
                 <title>An Unvarnished Look at Asking Employees to Return to the Office</title>
                 <meta name="description" content="Asking remote workers to return to the office is a complex issue. In this point-of-view, Blanchard examines the issue in detail and shares our perspective on successfully navigating the challenge." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="what-did-area pb-40 pt-45 style2 themebg">
@@ -21,7 +21,7 @@ export default function PodCastinner() {
                                         <div className="pdfbox">
                                         <iframe src="https://resources.kenblanchard.com/i/1493905?source=hub&amp;expanded=false&amp;hubItemID=681632972&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                                             <a href="https://content.cdntwrk.com/files/aT0xNDkzOTA1JnY9MSZpc3N1ZU5hbWU9YmxhbmNoYXJkLXBvaW50LW9mLXZpZXctaHlicmlkLXdvcmsmY21kPWQmc2lnPTI3ODkzZjY3ZTBkNTE5NjFmOWZmNjgwZTljZDBlMzIw" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                            <a href="/resources/research-insights">Go Back</a>
+                                            <a href="/blanchardindia/resources/research-insights">Go Back</a>
                                         </div>
 
                                         <div>

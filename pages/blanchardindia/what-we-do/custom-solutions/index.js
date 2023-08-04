@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Custom Leadership Development Solutions | Blanchard International</title>
                 <meta name="description" content="Learn how Blanchard Design Studio collaborates with clients to create custom leadership development solutions tailored to their organization’s unique needs."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme3bg pbb-100 border-bottom-left-radius-70">
@@ -15,8 +15,8 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/what-we-do">WHAT WE DO</a></li>                                
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/what-we-do">WHAT WE DO</a></li>                                
                                 <li><a><span>CUSTOM SOLUTIONS</span></a></li>
                             </ul>
                         </div>                
@@ -122,32 +122,32 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a>
+                                <a href="/blanchardindia/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/custom-solutions/customized-learning-experiences">Customized Learning Experiences</a>
+                                <a href="/blanchardindia/what-we-do/custom-solutions/customized-learning-experiences">Customized Learning Experiences</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/custom-solutions/custom-coaching">Custom Coaching Solutions</a>
+                                <a href="/blanchardindia/what-we-do/custom-solutions/custom-coaching">Custom Coaching Solutions</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/custom-solutions/executive-development">Executive Development Experiences</a>
+                                <a href="/blanchardindia/what-we-do/custom-solutions/executive-development">Executive Development Experiences</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/custom-solutions/content-integration">Content Integration</a>
+                                <a href="/blanchardindia/what-we-do/custom-solutions/content-integration">Content Integration</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/custom-solutions/talent-strategy">Talent Strategy</a>
+                                <a href="/blanchardindia/what-we-do/custom-solutions/talent-strategy">Talent Strategy</a>
                             </div>
                         </div>
                     </div>

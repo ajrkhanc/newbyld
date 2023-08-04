@@ -7,7 +7,7 @@ export default function PodCastinner() {
             <Head>
                 <title>Client Spotlights - Milltronics Client Spotlight</title>
                 <meta name="description" content="Partnering with The Ken Blanchard Companies, Milltronics incorporated SLII® and team-building training processes into the company, and identified five strategic areas to focus on."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="what-did-area pb-40 pt-45 style2 themebg">
@@ -21,7 +21,7 @@ export default function PodCastinner() {
                                         <div className="pdfbox">
                                         <iframe src="https://resources.kenblanchard.com/i/1218507?source=hub&amp;expanded=false&amp;hubItemID=605955021&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                                         <a href="https://content.cdntwrk.com/files/aT0xMjE4NTA3JnY9MyZpc3N1ZU5hbWU9bWlsbHRyb25pY3MmY21kPWQmc2lnPTM0YjJiNzE4MTcyMTUwNjk2YjMxMWU5NTIxZGViN2Qy" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                        <a href="/resources/client-spotlights">Go Back</a>
+                                        <a href="/blanchardindia/resources/client-spotlights">Go Back</a>
                                         </div>
                                     
                                         <div>

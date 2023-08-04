@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>What We Do - Blanchard International</title>
                 <meta name="description" content="Learn more about Blanchard’s industry-leading leadership development offering, including custom training and supporting services." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums pbb-100">
@@ -15,7 +15,7 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
                                 <li><a><span>WHAT WE DO</span></a></li>
                             </ul>
                         </div>
@@ -69,9 +69,9 @@ export default function ThanYouLP() {
                             <div className="empinner">
                                 <h3>Design Your Learning Strategy:</h3>
                                 <ul>
-                                    <li><a href="/what-we-do/custom-solutions/talent-strategy">Talent Strategy</a></li>
-                                    <li><a href="/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a></li>
-                                    <li><a href="/what-we-do/custom-solutions/customized-learning-experiences">Customized Learning Experiences</a></li>
+                                    <li><a href="/blanchardindia/what-we-do/custom-solutions/talent-strategy">Talent Strategy</a></li>
+                                    <li><a href="/blanchardindia/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a></li>
+                                    <li><a href="/blanchardindia/what-we-do/custom-solutions/customized-learning-experiences">Customized Learning Experiences</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -80,8 +80,8 @@ export default function ThanYouLP() {
                             <div className="empinner">
                                 <h3>Integrate Measurement & Integration:</h3>
                                 <ul>
-                                    <li><a href="/what-we-do/services/assessments">Assessments</a></li>
-                                    <li><a href="/what-we-do/services/measurement-impact">Measurement & Impact</a></li>
+                                    <li><a href="/blanchardindia/what-we-do/services/assessments">Assessments</a></li>
+                                    <li><a href="/blanchardindia/what-we-do/services/measurement-impact">Measurement & Impact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -90,10 +90,10 @@ export default function ThanYouLP() {
                             <div className="empinner">
                                 <h3>Implement Learning</h3>
                                 <ul>
-                                    <li><a href="/what-we-do/leadership-development/leadership-development-programs">Leadership Development Programs</a></li>
-                                    <li><a href="/resources/public-courses">Public Courses</a></li>
-                                    <li><a href="/what-we-do/leadership-development/content-licensing">Content Licensing</a></li>
-                                    <li><a href="/what-we-do/custom-solutions/content-integration">Content Integration</a></li>
+                                    <li><a href="/blanchardindia/what-we-do/leadership-development/leadership-development-programs">Leadership Development Programs</a></li>
+                                    <li><a href="/blanchardindia/resources/public-courses">Public Courses</a></li>
+                                    <li><a href="/blanchardindia/what-we-do/leadership-development/content-licensing">Content Licensing</a></li>
+                                    <li><a href="/blanchardindia/what-we-do/custom-solutions/content-integration">Content Integration</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -102,7 +102,7 @@ export default function ThanYouLP() {
                             <div className="empinner">
                                 <h3>Take It to the Next Level:</h3>
                                 <ul>
-                                    <li><a href="/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a></li>                          
+                                    <li><a href="/blanchardindia/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a></li>                          
                                 </ul>
                             </div>
                         </div>

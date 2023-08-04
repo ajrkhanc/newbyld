@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Executive Development Experiences | Blanchard International</title>
                 <meta name="description" content="Help your executive leaders continue to grow their management skills with custom-tailored leadership development experiences from Blanchard."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme3bg pbb-100 border-bottom-left-radius-70">
@@ -15,9 +15,9 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/what-we-do">WHAT WE DO</a></li>
-                                <li className="brdlifirst"><a href="/what-we-do/custom-solutions"> CUSTOM SOLUTIONS</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/what-we-do">WHAT WE DO</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/what-we-do/custom-solutions"> CUSTOM SOLUTIONS</a></li>
                                 <li><a><span>EXECUTIVE DEVELOPMENT</span></a></li>
                             </ul>
                         </div>                

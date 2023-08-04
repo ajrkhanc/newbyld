@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Leadership Content To Meet Business Challenges | Blanchard International</title>
                 <meta name="description" content="Blanchard’s leadership development content is designed to address today’s most common management challenges and enable business transformation." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme3bg pbb-100">
@@ -15,8 +15,8 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/our-content">OUR CONTENT</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/our-content">OUR CONTENT</a></li>
                                 <li><a><span>CHALLENGES</span></a></li>
                             </ul>
                         </div>
@@ -72,32 +72,32 @@ export default function ThanYouLP() {
                             <div className="row">
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/leadership-capabilities">Leadership Capabilities</a>
+                                        <a href="/blanchardindia/our-content/challenges/leadership-capabilities">Leadership Capabilities</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/change-agility">Change & Agility</a>
+                                        <a href="/blanchardindia/our-content/challenges/change-agility">Change & Agility</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/diversity-inclusion">Diversity & Inclusion</a>
+                                        <a href="/blanchardindia/our-content/challenges/diversity-inclusion">Diversity & Inclusion</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/engagement-retention">Engagement & Retention</a>
+                                        <a href="/blanchardindia/our-content/challenges/engagement-retention">Engagement & Retention</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/personal-effectiveness">Personal Effectiveness</a>
+                                        <a href="/blanchardindia/our-content/challenges/personal-effectiveness">Personal Effectiveness</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/organizational-performance">Organizational Performance</a>
+                                        <a href="/blanchardindia/our-content/challenges/organizational-performance">Organizational Performance</a>
                                     </div>
                                 </div>
 
@@ -105,7 +105,7 @@ export default function ThanYouLP() {
 
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/challenges/teaming-collaboration">Teaming & Collaboration</a>
+                                        <a href="/blanchardindia/our-content/challenges/teaming-collaboration">Teaming & Collaboration</a>
                                     </div>
                                 </div>
                             </div>

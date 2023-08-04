@@ -7,7 +7,7 @@ export default function PodCastinner() {
             <Head>
                 <title>Client Spotlights - Aral (Germany) Client Success Story</title>
                 <meta name="description" content="The Ken Blanchard Companies' client, Aral (Germany), nurtures special team skills, such as communication within the team, conflict solving, and making collective decisions." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="what-did-area pb-40 pt-45 style2 themebg">
@@ -21,7 +21,7 @@ export default function PodCastinner() {
                                         <div className="pdfbox">
                                             <iframe src="https://resources.kenblanchard.com/i/1185966?source=hub&amp;expanded=false&amp;hubItemID=575874258&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                                             <a href="https://content.cdntwrk.com/files/aT0xMTg1OTY2JnY9MSZpc3N1ZU5hbWU9YXJhbC1nZXJtYW55JmNtZD1kJnNpZz00MjRkZjdhNTk0ODVhNjc4OTA2NTYwMjVmMTQ2N2VkYg%253D%253D" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                            <a href="/resources/client-spotlights">Go Back</a>
+                                            <a href="/blanchardindia/resources/client-spotlights">Go Back</a>
                                         </div>
 
                                         <div>

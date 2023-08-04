@@ -7,7 +7,7 @@ function YogeshSood() {
         <Head>
         <title>Yogesh Sood - Blanchard International</title>
         <meta name="description" content="Chairman & Managing Director Yogesh Sood Yogesh is the CMD of BYLD. BYLD is the largest integrator of value-added professional services, in the areas of Leadership development, HR practices, Staffing, Technology and Business Excellence Consulting. He leads the board of Indian operations of Blanchard Research and Training, Door Training and Consulting (DTCI), VitalSmarts and Aspectum"/>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/blanchardindia/favicon.ico" />
         </Head>
 
       <div className="what-did-area pt-45 pb-40">

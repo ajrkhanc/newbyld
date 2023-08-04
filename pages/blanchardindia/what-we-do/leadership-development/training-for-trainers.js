@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>SLII Training for Trainers Certification | Blanchard International</title>
                 <meta name="description" content="We certify training professionals of all types to deliver SLII in-person and virtually so that all leaders can learn our situational approach to leading others."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 pbb-100 border-bottom-left-radius-70">
@@ -15,9 +15,9 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/what-we-do">WHAT WE DO</a></li>
-                                <li className="brdlifirst"><a href="/what-we-do/leadership-development">LEADERSHIP DEVELOPMENT</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/what-we-do">WHAT WE DO</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/what-we-do/leadership-development">LEADERSHIP DEVELOPMENT</a></li>
                                 <li><a><span>TRAINING FOR TRAINERS</span></a></li>
                             </ul>
                         </div>

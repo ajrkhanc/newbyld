@@ -7,7 +7,7 @@ function CLIENTSPOTS() {
             <Head>
                 <title>Featured Videos - Blanchard International</title>
                 <meta name="description" content="Blanchard's videos are a great place to get started learning about developing leadership teams and setting businesses up for success. Get started here!" />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 pbb-50 ptt-30 border-bottom-left-radius-70 colortheme3bg">
@@ -15,8 +15,8 @@ function CLIENTSPOTS() {
                     <div className="row">
                         <div className="col-sm-12">
                             <ul className="">
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/resources">RESOURCES</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/resources">RESOURCES</a></li>
                                 <li><a><span>VIDEOS</span></a></li>
                             </ul>
                         </div>

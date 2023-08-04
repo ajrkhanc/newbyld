@@ -7,7 +7,7 @@ export default function AboutUs() {
         <Head>
         <title>Blanchard Research and Training India | Know More About Us</title>
         <meta name="description" content="Blanchard has been training millions of world’s best managers who know how to ignite their people and bring out the best in them and deliver great results for their organizations."/>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/blanchardindia/favicon.ico" />
         </Head>
         
         <div className="inner-banner about-us-headbg">
@@ -16,7 +16,7 @@ export default function AboutUs() {
                         <h3>GREAT MANAGERS <br/>BUILD GREAT COMPANIES</h3>
                         <ul>
                         <li>
-                            <Link href="/">Home</Link>
+                            <Link href="/blanchardindia/">Home</Link>
                         </li>
                         <li>About Us</li>
                         </ul>

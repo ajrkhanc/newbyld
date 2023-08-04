@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Leadership Development | Blanchard International</title>
                 <meta name="description" content="Learn about the breadth of Blanchard’s Leadership Development offerings."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme2bg">
@@ -15,8 +15,8 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/what-we-do">WHAT WE DO</a></li>                                
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/what-we-do">WHAT WE DO</a></li>                                
                                 <li><a><span> LEADERSHIP DEVELOPMENT</span></a></li>
                             </ul>
                         </div>                
@@ -70,44 +70,44 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/leadership-development/leadership-development-programs">Leadership Development Programs</a>
+                                <a href="/blanchardindia/what-we-do/leadership-development/leadership-development-programs">Leadership Development Programs</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/leadership-development/learning-journeys">Learning Journeys</a>
+                                <a href="/blanchardindia/what-we-do/leadership-development/learning-journeys">Learning Journeys</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/leadership-development/digital-virtual-learning-experiences">Digital and Virtual Learning Experiences</a>
+                                <a href="/blanchardindia/what-we-do/leadership-development/digital-virtual-learning-experiences">Digital and Virtual Learning Experiences</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a>
+                                <a href="/blanchardindia/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/leadership-development/keynotes">Keynotes</a>
+                                <a href="/blanchardindia/what-we-do/leadership-development/keynotes">Keynotes</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/leadership-development/content-licensing">Content Licensing</a>
+                                <a href="/blanchardindia/what-we-do/leadership-development/content-licensing">Content Licensing</a>
                             </div>
                         </div>
                         <div className="col-sm-2"></div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/resources/public-courses">Public Courses</a>
+                                <a href="/blanchardindia/resources/public-courses">Public Courses</a>
                             </div>
                         </div>
 
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="/what-we-do/leadership-development/training-for-trainers">Training for Coaches and Trainers</a>
+                                <a href="/blanchardindia/what-we-do/leadership-development/training-for-trainers">Training for Coaches and Trainers</a>
                             </div>
                         </div>
                     </div>

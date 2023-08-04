@@ -7,7 +7,7 @@ export default function PodCastinner() {
             <Head>
                 <title>Client Spotlights - American Institutes for Research Client Success Story</title>
                 <meta name="description" content="The Ken Blanchard Companies' client, American Institutes for Research, recently replaced the company’s existing performance review process with a new approach based on giving and receiving feedback." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="what-did-area pb-40 pt-45 style2 themebg">
@@ -21,7 +21,7 @@ export default function PodCastinner() {
                                         <div className="pdfbox">
                                             <iframe src="https://resources.kenblanchard.com/i/1098679?source=hub&amp;expanded=false&amp;hubItemID=511154077&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                                             <a href="https://content.cdntwrk.com/files/aT0xMDk4Njc5JnY9MiZpc3N1ZU5hbWU9YW1lcmljYW4taW5zdGl0dXRlcy1mb3ItcmVzZWFyY2gmY21kPWQmc2lnPWFiNzU5YWIzMzc0ZTNlZWNkOTMwY2VmODkyN2E1MmE1" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                            <a href="/resources/client-spotlights">Go Back</a>
+                                            <a href="/blanchardindia/resources/client-spotlights">Go Back</a>
                                         </div>
                                         <div>
                                             <h3>American Institutes for Research</h3>

@@ -7,7 +7,7 @@ export default function PodCastinner() {
             <Head>
                 <title>Eli Lilly Client Success Story - HCL Technologies</title>
                 <meta name="description" content="Leaders are able to deliver results by putting it all together with The Ken Blanchard Companies SLII Program."/>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="what-did-area pb-40 pt-45 style2 themebg">
@@ -21,7 +21,7 @@ export default function PodCastinner() {
                                         <div className="pdfbox">
                                         <iframe src="https://resources.kenblanchard.com/i/1207701?source=hub&amp;expanded=false&amp;hubItemID=597614742&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                                         <a rel="nofollow" data-flipbookid="815553" href="https://content.cdntwrk.com/files/aT0xMjA3NzAxJnY9MyZpc3N1ZU5hbWU9ZWxpLWxpbGx5LWFuZC1jb21wYW55JmNtZD1kJnNpZz1iZjI2YTM0ZTlkNmU0NmMxOWRiZDcyZTk5NzFkNzk2NA%253D%253D" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                        <a href="/resources/client-spotlights">Go Back</a>
+                                        <a href="/blanchardindia/resources/client-spotlights">Go Back</a>
                                         </div>
                                     
                                         <div>

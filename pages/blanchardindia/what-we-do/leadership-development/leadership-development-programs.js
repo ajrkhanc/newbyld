@@ -7,7 +7,7 @@ export default function ThanYouLP() {
          <Head>
             <title>Leadership Development Programs | Blanchard International</title>
             <meta name="description" content="Explore what makes Blanchard’s leadership development programs the industry leader, helping millions of leaders reach their potential for over 44 years." />
-            <link rel="icon" href="/favicon.ico" />
+            <link rel="icon" href="/blanchardindia/favicon.ico" />
          </Head>
 
          <section className="bredkums2 colortheme3bg pbb-100 border-bottom-left-radius-70">
@@ -15,9 +15,9 @@ export default function ThanYouLP() {
                <div className="row">
                   <div className="col-sm-12 ptt-25 pbb-50">
                      <ul>
-                        <li className="brdlifirst"><a href="/">HOME</a></li>
-                        <li className="brdlifirst"><a href="/what-we-do">WHAT WE DO</a></li>
-                        <li className="brdlifirst"><a href="/what-we-do/leadership-development">LEADERSHIP DEVELOPMENT</a></li>
+                        <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                        <li className="brdlifirst"><a href="/blanchardindia/what-we-do">WHAT WE DO</a></li>
+                        <li className="brdlifirst"><a href="/blanchardindia/what-we-do/leadership-development">LEADERSHIP DEVELOPMENT</a></li>
                         <li><a><span>Leadership Development Programs</span></a></li>
                      </ul>
                   </div>
@@ -135,15 +135,15 @@ export default function ThanYouLP() {
                         </p>
                         <h4 className="hforh">Self Leadership</h4>
                         <p className="pbb-0 acccl">
-                           Learn how to empower your employees to challenge their assumptions, determine what they need to succeed, and proactively seek it out. <a href="/our-content/programs/self-leadership">Learn More</a>
+                           Learn how to empower your employees to challenge their assumptions, determine what they need to succeed, and proactively seek it out. <a href="/blanchardindia/our-content/programs/self-leadership">Learn More</a>
                         </p>
                         <h4 className="hforh">Essential Motivators™</h4>
                         <p className="pbb-0 acccl">
-                           Through a framework, learners can identify their core psychological needs, values, talents, and behaviors. <a href="/our-content/programs/essential-motivators">Learn More</a>
+                           Through a framework, learners can identify their core psychological needs, values, talents, and behaviors. <a href="/blanchardindia/our-content/programs/essential-motivators">Learn More</a>
                         </p>
                         <h4 className="hforh">Conversational Capacity®</h4>
                         <p className="pbb-0 acccl">
-                           Learn how to benefit from challenging conversations by balancing candor and curiosity. <a href="/our-content/programs/conversational-capacity">Learn More</a>
+                           Learn how to benefit from challenging conversations by balancing candor and curiosity. <a href="/blanchardindia/our-content/programs/conversational-capacity">Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -193,15 +193,15 @@ export default function ThanYouLP() {
                         </p>
                         <h4 className="hforh">Leading People Through Change®</h4>
                         <p className="pbb-0 acccl">
-                        Discover how to take a high-involvement, collaborative approach to change. This inclusive method draws on research and our 30+ years of practical experience in the field. <a href="/our-content/programs/leading-people-through-change">Learn More</a>
+                        Discover how to take a high-involvement, collaborative approach to change. This inclusive method draws on research and our 30+ years of practical experience in the field. <a href="/blanchardindia/our-content/programs/leading-people-through-change">Learn More</a>
                         </p>
                         <h4 className="hforh">Leadership Point of View™</h4>
                         <p className="pbb-0 acccl">
-                        Engage in an immersive experience that helps leaders uncover their values, write their leadership points of view, and create trusting relationships with their people. <a href="/our-content/programs/leadership-point-of-view">Learn More</a>
+                        Engage in an immersive experience that helps leaders uncover their values, write their leadership points of view, and create trusting relationships with their people. <a href="/blanchardindia/our-content/programs/leadership-point-of-view">Learn More</a>
                         </p>
                         <h4 className="hforh">Courageous Inclusion™</h4>
                         <p className="pbb-0 acccl">
-                        Take action on DEI topics by adopting a mindset that promotes diversity and inclusion and learning a process to become more knowledgeable and active proponents. <a href="/our-content/programs/courageous-inclusion">Learn More</a>
+                        Take action on DEI topics by adopting a mindset that promotes diversity and inclusion and learning a process to become more knowledgeable and active proponents. <a href="/blanchardindia/our-content/programs/courageous-inclusion">Learn More</a>
                         </p>
                      </div>
                   </div>

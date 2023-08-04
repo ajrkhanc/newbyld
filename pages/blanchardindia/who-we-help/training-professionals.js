@@ -7,7 +7,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Training Professionals | Blanchard International</title>
                 <meta name="description" content="Learn how Blanchard helps training professionals build flexible leadership and management development solutions that meet the needs of learners at all levels in an organization." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme3bg pbb-100 border-bottom-left-radius-70">
@@ -15,8 +15,8 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/who-we-help">WHO WE HELP</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/who-we-help">WHO WE HELP</a></li>
                                 <li><a><span>TRAINING PROFESSIONALS</span></a></li>
                             </ul>
                         </div>
@@ -104,12 +104,12 @@ export default function ThanYouLP() {
                                 </div> */}
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/our-content/programs/leadership-point-of-view">Leadership Point of View</a>
+                                        <a href="/blanchardindia/our-content/programs/leadership-point-of-view">Leadership Point of View</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/what-we-do/leadership-development/training-for-trainers">Training for Trainers</a>
+                                        <a href="/blanchardindia/what-we-do/leadership-development/training-for-trainers">Training for Trainers</a>
                                     </div>
                                 </div>
                                 {/* <div className="col-sm-4">
@@ -119,7 +119,7 @@ export default function ThanYouLP() {
                                 </div> */}
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="/what-we-do/leadership-development/keynotes">Keynotes</a>
+                                        <a href="/blanchardindia/what-we-do/leadership-development/keynotes">Keynotes</a>
                                     </div>
                                 </div>
 

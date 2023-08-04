@@ -7,7 +7,7 @@ function RajulKansal() {
         <Head>
         <title>Rajul Kansal - Blanchard International</title>
         <meta name="description" content="Senior Vice President- BYLD Group PRAISE We appreciate Rajul’s professionalism in the workshop.While the workshop was meant for regular participants, Rajul ensured to share with us the tips on how to deliver the program as well. He created additional values by explaining the key concepts in details and how we could articulate those concepts in"/>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/blanchardindia/favicon.ico" />
         </Head>
              
       <div className="what-did-area pt-45 pb-40">

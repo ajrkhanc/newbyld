@@ -7,7 +7,7 @@ export default function PodCastinner() {
             <Head>
                 <title>Client Spotlights - Duke Energy Client Success Story </title>
                 <meta name="description" content="The Ken Blanchard Companies' client, Duke Energy, and its Leadership Academy track enrollment, graduation, effectiveness, and impact across the organization." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="what-did-area pb-40 pt-45 style2 themebg">
@@ -21,7 +21,7 @@ export default function PodCastinner() {
                                         <div className="pdfbox">
                                             <iframe src="https://resources.kenblanchard.com/i/1218537?source=hub&amp;expanded=false&amp;hubItemID=605962125&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                                             <a rel="nofollow" data-flipbookid="815553" href="https://content.cdntwrk.com/files/aT0xMjE4NTM3JnY9MiZpc3N1ZU5hbWU9ZHVrZS1lbmVyZ3kmY21kPWQmc2lnPTI3YzljODI2MDg1ZDRmM2QyMWEwOTYwZjZlMmE2MmQz" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                            <a href="/resources/client-spotlights">Go Back</a>
+                                            <a href="/blanchardindia/resources/client-spotlights">Go Back</a>
                                         </div>
 
                                         <div>

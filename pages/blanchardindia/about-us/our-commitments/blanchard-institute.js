@@ -50,7 +50,7 @@ export default function ThanYouLP() {
             <Head>
                 <title>Blanchard Institute | Blanchard International</title>
                 <meta name="description" content="Learn more about the mission and goals of the Blanchard Institute, a nonprofit dedicated to building a world full of self-reliant leaders." />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
@@ -58,9 +58,9 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-12 ptt-25 pbb-50">
                             <ul>
-                                <li className="brdlifirst"><a href="/">HOME</a></li>
-                                <li className="brdlifirst"><a href="/about-us">ABOUT US</a></li>
-                                <li className="brdlifirst"><a href="/about-us/our-commitments/">OUR COMMITMENTS</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/about-us">ABOUT US</a></li>
+                                <li className="brdlifirst"><a href="/blanchardindia/about-us/our-commitments/">OUR COMMITMENTS</a></li>
                                 <li><a><span>BLANCHARD INSTITUTE</span></a></li>
                             </ul>
                         </div>

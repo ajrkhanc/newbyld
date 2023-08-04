@@ -7,7 +7,7 @@ export default function Elearning() {
             <Head>
             <title>White Paper - Blanchard International</title>
                 <meta name="description" content="Measuring the Impact and ROI of Leadership Training Read eBook 7 Ways Poor Leaders Are Costing Your Company Money Read eBook 3 Fatal Mistakes Managers Make When Coaching Their Teams Read eBook When It Comes to Customer Service, Is Your Business Flourishing or Failing? Read eBook 7 Warning Signs That Distrust Is Harming Your Organization" />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
             <div className="inner-banner books-head-headbg">
