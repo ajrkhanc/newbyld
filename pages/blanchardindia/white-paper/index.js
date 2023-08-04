@@ -35,7 +35,7 @@ export default function Elearning() {
                                             <h3>Millennials In The Workplace</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/millennials-in-the-workplace">
+                                                    <Link href="/blanchardindia/white-paper/millennials-in-the-workplace">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -50,7 +50,7 @@ export default function Elearning() {
                                             <h3>4 Essential Skills Your New Managers Need to Know</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/4-essential-skills-your-new-managers-need-to-know">
+                                                    <Link href="/blanchardindia/white-paper/4-essential-skills-your-new-managers-need-to-know">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -69,7 +69,7 @@ export default function Elearning() {
                                             <h3>The Critical Link to a High-Involvement, High-Energy Workplace Begins with a Common Language</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/building-trust-the-critical-link-to-a-high-involvement-high-energy-workplace-begins-with-a-common-language">
+                                                    <Link href="/blanchardindia/white-paper/building-trust-the-critical-link-to-a-high-involvement-high-energy-workplace-begins-with-a-common-language">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -83,7 +83,7 @@ export default function Elearning() {
                                             <h3>Coaching Skills: The Missing Link for Leaders</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/coaching-skills-the-missing-link-for-leaders">
+                                                    <Link href="/blanchardindia/white-paper/coaching-skills-the-missing-link-for-leaders">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -97,7 +97,7 @@ export default function Elearning() {
                                             <h3>Complete Guide for First Time Managers</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/complete-guide-for-first-time-managers">
+                                                    <Link href="/blanchardindia/white-paper/complete-guide-for-first-time-managers">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -112,7 +112,7 @@ export default function Elearning() {
                                             <h3>Creating an Effective eLearning Solution</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/creating-an-effective-elearning-solution">
+                                                    <Link href="/blanchardindia/white-paper/creating-an-effective-elearning-solution">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -127,7 +127,7 @@ export default function Elearning() {
                                             <h3>Getting to the Sweet Spot of Effective Communication</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/getting-to-the-sweet-spot-of-effective-communication">
+                                                    <Link href="/blanchardindia/white-paper/getting-to-the-sweet-spot-of-effective-communication">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -141,7 +141,7 @@ export default function Elearning() {
                                             <h3>How we helped a leading Financial giant through SLll</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/how-we-helped-a-leading-financial-giant-through-slll-leadership-program">
+                                                    <Link href="/blanchardindia/white-paper/how-we-helped-a-leading-financial-giant-through-slll-leadership-program">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -155,7 +155,7 @@ export default function Elearning() {
                                             <h3>Leader Trustworthiness and Employee Work Intentions</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/white-paper/leader-trustworthiness-and-employee-work-intentions-a-canonical-correlation-study">
+                                                    <Link href="/blanchardindia/white-paper/leader-trustworthiness-and-employee-work-intentions-a-canonical-correlation-study">
                                                         <a className="default-btn-two">Read White Paper<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>

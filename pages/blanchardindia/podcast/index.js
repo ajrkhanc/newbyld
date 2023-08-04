@@ -46,7 +46,7 @@ export default function PodCast() {
                                             <h3>Motivating Your Team with Catherine Stothart</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/motivating-your-team-with-catherine-stothart"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/motivating-your-team-with-catherine-stothart"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -59,7 +59,7 @@ export default function PodCast() {
                                             <h3>Competing in the New World of Work with Keith Ferrazzi</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/competing-in-the-new-world-of-work-keith-ferrazzi"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/competing-in-the-new-world-of-work-keith-ferrazzi"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -72,7 +72,7 @@ export default function PodCast() {
                                             <h3>Experiential Intelligence with Soren Kaplan</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/experiential-intelligence-with-soren-kaplan"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/experiential-intelligence-with-soren-kaplan"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -85,7 +85,7 @@ export default function PodCast() {
                                             <h3>Real-Time Leadership with Carol Kauffman</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/real-time-leadership-with-carol-kauffman"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/real-time-leadership-with-carol-kauffman"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -97,7 +97,7 @@ export default function PodCast() {
                                             <h3>Listening 2by2 with Tom Kaden and Michael Gingerich</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/listening-2by2-with-tom-kaden-and-michael-gingerich"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/listening-2by2-with-tom-kaden-and-michael-gingerich"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -109,7 +109,7 @@ export default function PodCast() {
                                             <h3>Becoming a Self-Evolved Leader with Dave McKeown</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/becoming-a-self-evolved-leader-with-dave-mckeown"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/becoming-a-self-evolved-leader-with-dave-mckeown"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -121,7 +121,7 @@ export default function PodCast() {
                                             <h3>Simple Truths of Leadership with Ken Blanchard and Randy Conley</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/simple-truths-of-leadership-with-ken-blanchard-and-randy-conley"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/simple-truths-of-leadership-with-ken-blanchard-and-randy-conley"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -133,7 +133,7 @@ export default function PodCast() {
                                             <h3>Building High Performance Habits with Brendon Burchard</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/building-high-performance-habits-with-brendon-burchard"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/building-high-performance-habits-with-brendon-burchard"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -145,7 +145,7 @@ export default function PodCast() {
                                             <h3>A Minute to Think with <br></br>Juliet Funt</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/a-minute-to-think-with-juliet-funt"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/a-minute-to-think-with-juliet-funt"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -157,7 +157,7 @@ export default function PodCast() {
                                             <h3>Leading with Gratitude with Adrian Gostick</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/leading-with-gratitude-with-adrian-gostick"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/leading-with-gratitude-with-adrian-gostick"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -169,7 +169,7 @@ export default function PodCast() {
                                             <h3>Entrepreneurial Leadership with Joel Peterson</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/entrepreneurial-leadership-with-joel-peterson"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/entrepreneurial-leadership-with-joel-peterson"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -181,7 +181,7 @@ export default function PodCast() {
                                             <h3>Exploring Diversity Beyond Lip Service with La’Wana Harris</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/exploring-diversity-beyond-lip-service-with-la-wana-harris"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/exploring-diversity-beyond-lip-service-with-la-wana-harris"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -193,7 +193,7 @@ export default function PodCast() {
                                             <h3>How to Lead Without Authority with Keith Ferrazzi</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/how-to-lead-without-authority-with-keith-ferrazzi"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/how-to-lead-without-authority-with-keith-ferrazzi"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -205,7 +205,7 @@ export default function PodCast() {
                                             <h3>Winning the Talent Shift with Berta Aldrich</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/winning-the-talent-shift-with-berta-aldrich"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/winning-the-talent-shift-with-berta-aldrich"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -217,7 +217,7 @@ export default function PodCast() {
                                             <h3>Creating Your Leadership Point of View with Pat Zigarmi</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/creating-your-leadership-point-of-view-with-pat-zigarmi"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/creating-your-leadership-point-of-view-with-pat-zigarmi"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -229,7 +229,7 @@ export default function PodCast() {
                                             <h3>Creating Psychological Safety with Randy Conley</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/creating-psychological-safety-with-randy-conley"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/creating-psychological-safety-with-randy-conley"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -241,7 +241,7 @@ export default function PodCast() {
                                             <h3>The Job You Were Born For with Eileen Hahn</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/the-job-you-were-born-for-with-eileen-hahn"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/the-job-you-were-born-for-with-eileen-hahn"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -253,7 +253,7 @@ export default function PodCast() {
                                             <h3>Refine Your Employee Culture with Stan Slap</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/refine-your-employee-culture-with-stan-slap"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/refine-your-employee-culture-with-stan-slap"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -265,7 +265,7 @@ export default function PodCast() {
                                             <h3>Leverage Change with Jake Jacobs</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/leverage-change-with-jake-jacobs"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/leverage-change-with-jake-jacobs"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -277,7 +277,7 @@ export default function PodCast() {
                                             <h3>Becoming an Impact Player with Liz Wiseman</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/becoming-an-impact-player-with-liz-wiseman"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/becoming-an-impact-player-with-liz-wiseman"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -289,7 +289,7 @@ export default function PodCast() {
                                             <h3>Leadership Two Words at a Time with Bill Treasurer</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/leadership-two-words-at-a-time-with-bill-treasurer"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/leadership-two-words-at-a-time-with-bill-treasurer"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -301,7 +301,7 @@ export default function PodCast() {
                                             <h3>The No-Os of Leadership with Mike Easley</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/the-no-os-of-leadership-with-mike-easley"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/the-no-os-of-leadership-with-mike-easley"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -313,7 +313,7 @@ export default function PodCast() {
                                             <h3>Humbitious: The Power of Low-Ego, High-Drive Leadership with Amer Kaissi</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/humbitious-the-power-of-low-ego-high-drive-leadership-with-amer-kaissi"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/humbitious-the-power-of-low-ego-high-drive-leadership-with-amer-kaissi"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -325,7 +325,7 @@ export default function PodCast() {
                                             <h3>How to Be an Inclusive Leader with Jennifer Brown</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/how-to-be-an-inclusive-leader-with-jennifer-brown-2"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/how-to-be-an-inclusive-leader-with-jennifer-brown-2"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -336,7 +336,7 @@ export default function PodCast() {
                                             <h3>Beating Burnout with Christina Maslach</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/podcast/beating-burnout-with-christina-maslach"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                    <Link href="/blanchardindia/podcast/beating-burnout-with-christina-maslach"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
                                                 </div>
                                             </div>
                                         </div>

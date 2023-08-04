@@ -16,7 +16,7 @@ export default function EventsAndWorkshop() {
                   <h3>EXPLORE OUR UPCOMING TRAININGS <br />COMPLIMENTARY AND PAID EVENTS</h3>
                   <ul>
                      <li>
-                        <Link href="/"><a>Home</a></Link>
+                        <Link href="/blanchardindia/"><a>Home</a></Link>
                      </li>
                      <li>Events & Workshop</li>
                   </ul>
@@ -45,7 +45,7 @@ export default function EventsAndWorkshop() {
                                  <p>March 13th - 16th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -58,7 +58,7 @@ export default function EventsAndWorkshop() {
                                  <p> March 27th - 28th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -76,7 +76,7 @@ export default function EventsAndWorkshop() {
                                  <p>July 4th to 5th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -91,7 +91,7 @@ export default function EventsAndWorkshop() {
                                  <p> July 26th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -104,7 +104,7 @@ export default function EventsAndWorkshop() {
                                  <p>August 7th to 8th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -117,7 +117,7 @@ export default function EventsAndWorkshop() {
                                  <p>August 9th to 10th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -130,7 +130,7 @@ export default function EventsAndWorkshop() {
                                  <p>August 23rd, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -143,7 +143,7 @@ export default function EventsAndWorkshop() {
                                  <p>September 13th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -156,7 +156,7 @@ export default function EventsAndWorkshop() {
                                  <p>September 21st, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -169,7 +169,7 @@ export default function EventsAndWorkshop() {
                                  <p>September 25th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -182,7 +182,7 @@ export default function EventsAndWorkshop() {
                                  <p>September 27th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -195,7 +195,7 @@ export default function EventsAndWorkshop() {
                                  <p>October 11th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -208,7 +208,7 @@ export default function EventsAndWorkshop() {
                                  <p>October 19th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -221,7 +221,7 @@ export default function EventsAndWorkshop() {
                                  <p>November 2nd, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -234,7 +234,7 @@ export default function EventsAndWorkshop() {
                                  <p>November 20th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -247,7 +247,7 @@ export default function EventsAndWorkshop() {
                                  <p>November 22nd, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -260,7 +260,7 @@ export default function EventsAndWorkshop() {
                                  <p>December 13th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -273,7 +273,7 @@ export default function EventsAndWorkshop() {
                                  <p>December 20th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
-                                    <a href="/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    <a href="/blanchardindia/events-workshops/virtual-public-workshop#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -284,7 +284,7 @@ export default function EventsAndWorkshop() {
                         </div>
                      </div>
                      <div className='text-center'>
-                        <a href="/events-workshops/virtual-public-workshop" className="default-btn-two">VIEW ALL WORKSHOPS<i className="bx bx-right-arrow-alt"></i></a>
+                        <a href="/blanchardindia/events-workshops/virtual-public-workshop" className="default-btn-two">VIEW ALL WORKSHOPS<i className="bx bx-right-arrow-alt"></i></a>
                      </div>
                   </div>
                </div>
@@ -307,7 +307,7 @@ export default function EventsAndWorkshop() {
                                  <p className="text-justify">August 26th, 2022</p>
                                  <div className='row text-center eventsbottomarea2'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/program-experience-webinar/#REQUEST" className="default-btn-two">RESGISTER NOW <i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/program-experience-webinar/#REQUEST" className="default-btn-two">RESGISTER NOW <i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -320,7 +320,7 @@ export default function EventsAndWorkshop() {
                                  <p className="text-justify">September 2nd, 2022</p>
                                  <div className='row text-center eventsbottomarea2'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/program-experience-webinar/#REQUEST" className="default-btn-two">RESGISTER NOW <i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/program-experience-webinar/#REQUEST" className="default-btn-two">RESGISTER NOW <i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -333,7 +333,7 @@ export default function EventsAndWorkshop() {
                                  <p className="text-justify">September 16th, 2022</p>
                                  <div className='row text-center eventsbottomarea2'>
                                     <div className='col-sm-12'>
-                                       <a href="/events-workshops/program-experience-webinar/#REQUEST" className="default-btn-two">RESGISTER NOW <i className="bx bx-right-arrow-alt"></i></a>
+                                       <a href="/blanchardindia/events-workshops/program-experience-webinar/#REQUEST" className="default-btn-two">RESGISTER NOW <i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
@@ -344,7 +344,7 @@ export default function EventsAndWorkshop() {
                         </div>
                      </div>
                      <div className='text-center'>
-                        <a href="/events-workshops/program-experience-webinar" className="default-btn-two">VIEW ALL WEBINARS<i className="bx bx-right-arrow-alt"></i></a>
+                        <a href="/blanchardindia/events-workshops/program-experience-webinar" className="default-btn-two">VIEW ALL WEBINARS<i className="bx bx-right-arrow-alt"></i></a>
                      </div>
                   </div>
                </div>

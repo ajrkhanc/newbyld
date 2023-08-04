@@ -37,7 +37,7 @@ export default function Elearning() {
                                             <h3>SLII. Why a Situational Approach to Leadership Makes All the Difference</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/situational-approach-to-leadership">
+                                                    <Link href="/blanchardindia/ebooks/situational-approach-to-leadership">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -52,7 +52,7 @@ export default function Elearning() {
                                             <h3>Are You a Directive or Supportive Leader?</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/are-you-a-directive-or-a-supportive-leader">
+                                                    <Link href="/blanchardindia/ebooks/are-you-a-directive-or-a-supportive-leader">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -67,7 +67,7 @@ export default function Elearning() {
                                             <h3>4 Critical Focus Areas for Building a High Performance Team</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/4-critical-focus-areas-for-building-a-high-performance-team">
+                                                    <Link href="/blanchardindia/ebooks/4-critical-focus-areas-for-building-a-high-performance-team">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -83,7 +83,7 @@ export default function Elearning() {
                                             <h3>7 Warning Signs That Distrust Is Harming Your Organization</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/7-warning-signs-that-distrust-is-harming-your-organization">
+                                                    <Link href="/blanchardindia/ebooks/7-warning-signs-that-distrust-is-harming-your-organization">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -97,7 +97,7 @@ export default function Elearning() {
                                             <h3>7 Ways Poor Leaders Are Costing Your Company Money</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/7-ways-poor-leaders-are-costing-your-company-money">
+                                                    <Link href="/blanchardindia/ebooks/7-ways-poor-leaders-are-costing-your-company-money">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -111,7 +111,7 @@ export default function Elearning() {
                                             <h3>A new approach to creating a culture of success</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/a-new-approach-to-creating-a-culture-of-success">
+                                                    <Link href="/blanchardindia/ebooks/a-new-approach-to-creating-a-culture-of-success">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -125,7 +125,7 @@ export default function Elearning() {
                                             <h3>A Jump Start For Virtual Facilitation</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/a-jump-start-for-virtual-facilitation-3">
+                                                    <Link href="/blanchardindia/ebooks/a-jump-start-for-virtual-facilitation-3">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -143,7 +143,7 @@ export default function Elearning() {
                                             <h3>Conversational Capacity</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/conversational-capacity">
+                                                    <Link href="/blanchardindia/ebooks/conversational-capacity">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -160,7 +160,7 @@ export default function Elearning() {
                                             <h3>Measuring the Impact and ROI of Leadership Training</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/measuring-the-impact-and-roi-of-leadership-training">
+                                                    <Link href="/blanchardindia/ebooks/measuring-the-impact-and-roi-of-leadership-training">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
@@ -175,7 +175,7 @@ export default function Elearning() {
                                             <h3>3 Fatal Mistakes Managers Make When Coaching Their Teams</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/ebooks/3-fatal-mistakes-managers-make-when-coaching-their-teams">
+                                                    <Link href="/blanchardindia/ebooks/3-fatal-mistakes-managers-make-when-coaching-their-teams">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
