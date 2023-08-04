@@ -38,7 +38,7 @@ function Footer() {
                   <div className='col-sm-12'>
                      <div className='innercallt'>
                         <div className='flogoc'>
-                           <a href=''><img src="/assets/img/kbnew/blanchard_logo_footer.png" alt="Images" /></a>
+                           <a href=''><img src="/kbassets/img/kbnew/blanchard_logo_footer.png" alt="Images" /></a>
                         </div>
                         <div className='calltoaa'>
                            <h3>Ready to get started? Talk to us today.</h3>
@@ -92,32 +92,32 @@ function Footer() {
                         <h3>CONNECT</h3>
                         <ul className="footer-list">
                            <li>
-                              <Link href="/get-started" target="_blank">
+                              <Link href="/blanchardindia/get-started" target="_blank">
                                  Contact Us
                               </Link>
                            </li>
                            <li>
-                              <Link href="/get-started" target="_blank">
+                              <Link href="/blanchardindia/get-started" target="_blank">
                                  Request a Speaker
                               </Link>
                            </li>
                            <li>
-                              <Link href="/terms-and-conditions" target="_blank">
+                              <Link href="/blanchardindia/terms-and-conditions" target="_blank">
                                  Terms And Conditions
                               </Link>
                            </li>
                            <li>
-                              <Link href="/cancellation-and-refund-policy" target="_blank">
+                              <Link href="/blanchardindia/cancellation-and-refund-policy" target="_blank">
                                  Cancellation and Refund Policy
                               </Link>
                            </li>
                            <li>
-                              <Link href="/books" target="_blank">
+                              <Link href="/blanchardindia/books" target="_blank">
                                  Books
                               </Link>
                            </li>
                            <li>
-                              <Link href="/blanchard-privacy-policy" target="_blank">
+                              <Link href="/blanchardindia/blanchard-privacy-policy" target="_blank">
                                  Privacy Policy
                               </Link>
                            </li>
@@ -129,37 +129,37 @@ function Footer() {
                         <h3>PRODUCTS & SERVICES</h3>
                         <ul className="footer-list">
                            <li>
-                              <a href="/our-content/programs/slii" target="_blank">
+                              <a href="/blanchardindia/our-content/programs/slii" target="_blank">
                               SLII<sup>®</sup>—Powering Inspired Leaders™
                               </a>
                            </li>
                            <li>
-                              <a href="/our-content/programs/blanchard-management-essentials" target="_blank">
+                              <a href="/blanchardindia/our-content/programs/blanchard-management-essentials" target="_blank">
                               Blanchard Management Essentials<sup>®</sup>
                               </a>
                            </li>
                            <li>
-                              <a href="/our-content/programs/building-trust" target="_blank">
+                              <a href="/blanchardindia/our-content/programs/building-trust" target="_blank">
                               Building Trust
                               </a>
                            </li>
                            <li>
-                              <a href="/our-content/programs/coaching-essentials" target="_blank">
+                              <a href="/blanchardindia/our-content/programs/coaching-essentials" target="_blank">
                               Coaching Essentials<sup>®</sup>
                               </a>
                            </li>
                            <li>
-                              <a href="/our-content/programs/conversational-capacity" target="_blank">
+                              <a href="/blanchardindia/our-content/programs/conversational-capacity" target="_blank">
                               Conversational Capacity<sup>®</sup>
                               </a>
                            </li>
                            <li>
-                              <a href="/our-content/programs/courageous-inclusion" target="_blank">
+                              <a href="/blanchardindia/our-content/programs/courageous-inclusion" target="_blank">
                               Courageous Inclusion™
                               </a>
                            </li>
                            <li>
-                              <a href="/our-content/programs/essential-motivators" target="_blank">
+                              <a href="/blanchardindia/our-content/programs/essential-motivators" target="_blank">
                               Essential Motivators™
                               </a>
                            </li>                          
