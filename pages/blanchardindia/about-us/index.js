@@ -66,9 +66,12 @@ export default function ThanYouLP() {
                             </div>
                             <div className="col-sm-6">
                                 <div className="innerbedkms">
-                                    <h1>To Transform Potential into Performance, Blanchard Starts at the Core of Leadership</h1>
+                                    <h1>Great Managers Build Great Companies</h1>
                                     <p>
-                                    To help leaders see every interaction as a chance to build relationships and promote trust, Blanchard starts at the core of leadership. We provide engaging, human-powered learning opportunities that help executives operate at their highest potential. These motivated leaders become the most effective catalysts for development and change within their teams, businesses, and organizations.
+                                    The top training company in South Asia, Blanchard Research and Training LLP, specializes in developing leaders at all levels of the organizational structure. having been in operation since 2008 in India under the direction of Mr. Yogesh Sood, a seasoned professional in company operations and leadership development.
+                                    </p>
+                                    <p>
+                                    In today's dynamic corporate environment, Blanchard Research and Training LLP offers specialized, efficient training and coaching programs. With the correct training and skill set, managers can positively impact a business, in our opinion. Our goal is to develop managers so they can build high-performing teams, come up with creative business ideas, and achieve the best financial results.
                                     </p>
                                 </div>
                             </div>
