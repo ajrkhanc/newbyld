@@ -84,6 +84,31 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
+                            <h2 className="sectionh">To Transform Potential into Performance, Blanchard Starts at the Core of Leadership</h2>
+                            <p className="headingp">
+                            To help leaders see every interaction as a chance to build relationships and promote trust, Blanchard starts at the core of leadership. We provide engaging, human-powered learning opportunities that help executives operate at their highest potential. These motivated leaders become the most effective catalysts for development and change within their teams, businesses, and organizations.
+                            </p>                     
+                        </div>
+                        <div className="col-sm-6">
+                            <div className="mimg100 imgborder pll-90">
+                                <img className="" src="/kbassets/img/kbnew/Enabling-Every-Child-to.jpg" alt="Images" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section className="ptt-60 pbb-30 uncommonapproach contanerbgc">
+                <div className="container">
+                    <div className="row align-items-center">
+
+                    <div className="col-sm-6">
+                            <div className="mimg100 imgborder prr-90">
+                                <img className="" src="/kbassets/img/kbnew/Hero-Video-frame.jpg" alt="Images" />
+                            </div>
+                        </div>
+
+                        <div className="col-sm-6">
                             <h2 className="sectionh">Why Blanchard</h2>
                             <p className="headingp">
                             By maximizing both individual and organizational performance, we enable quantifiable development and genuine transformation.
@@ -97,11 +122,7 @@ export default function ThanYouLP() {
                             </ul>
 
                         </div>
-                        <div className="col-sm-6">
-                            <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/kbassets/img/kbnew/Hero-Video-frame.jpg" alt="Images" />
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </section>
