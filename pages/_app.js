@@ -24,6 +24,10 @@ import DTCIASSESSMENT from '../components/dtciassessment/Layout'
 import Kblayout from '../components/kb/Layout/Layout'
 
 
+import { useRouter } from "next/router";
+
+
+
 
 // import Hhf from '../components/Hhf/Layout';
 
@@ -2227,9 +2231,14 @@ gtag('config', 'G-5PXTTR960E');
 
   else if (router.pathname.startsWith('/blanchardindia')) {
 
+
+  const router = useRouter();
+  const canonicalUrl = (`https://byldgroup.com` + (router.asPath === "/" ? "": router.asPath)).split("?")[0];
+
     return (
       <Kblayout>
         <Head>
+        <link rel="canonical" href={canonicalUrl} />
           <meta charset="utf-8" />
           <meta http-equiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />

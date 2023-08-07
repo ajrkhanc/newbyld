@@ -47,12 +47,12 @@ export default function index({posts, cats, catposts}) {
                  return(
                     <div className="col-sm-6">
                       <div className="blog-item">
-                      <a href={`/blog/${getpost.posturl}`}>
+                      <a href={`/blanchardindia/blog/${getpost.posturl}`}>
                       <img src={getpost.ImageURL} alt={getpost.ImageAlt}/>
                       </a>
                         <div className="content">
                         <span><i className='bx bx-time'></i>{moment(getpost.ModifiedDate).format('MMMM DD Y')}</span>
-                        <h3><a href={`/blog/${getpost.posturl}`}>{getpost.Title}</a></h3>                        
+                        <h3><a href={`/blanchardindia/blog/${getpost.posturl}`}>{getpost.Title}</a></h3>                        
                         </div>
                       </div>
                     </div>           
@@ -71,7 +71,7 @@ export default function index({posts, cats, catposts}) {
              posts.slice(0,5).map((getpost)=>{             
                         return(
                      <article className="item">
-                        <a href={`/blog/${getpost.posturl}`} className="thumb">
+                        <a href={`/blanchardindia/blog/${getpost.posturl}`} className="thumb">
                            <span className="full-image cover bg1" role="img">
                            <img src={getpost.ImageURL} alt={getpost.ImageAlt}/>
                            </span>
@@ -79,7 +79,7 @@ export default function index({posts, cats, catposts}) {
                         <div className="info">
                            <p><i className='bx bx-time'></i>{moment(getpost.ModifiedDate).format('MMMM DD Y')}</p>
                            <h4 className="title-text">
-                           <a href={`/blog/${getpost.posturl}`}>{getpost.Title}</a>
+                           <a href={`/blanchardindia/blog/${getpost.posturl}`}>{getpost.Title}</a>
                            </h4>
                         </div>
                      </article>
@@ -97,7 +97,7 @@ export default function index({posts, cats, catposts}) {
                         {
                           cats.map((getats)=>{
                             return(
-                              <li><a href={`/blog/category/${getats.Caturl}`}>{getats.Name}</a></li>
+                              <li><a href={`/blanchardindia/blog/category/${getats.Caturl}`}>{getats.Name}</a></li>
                             )
                           })
                         }
