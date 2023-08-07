@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/3-fatal-mistakes-managers-make-when-coaching-their-teams.pdf"
+                   window.location.href = "/kbassets/pdf/3-fatal-mistakes-managers-make-when-coaching-their-teams.pdf"
                }, 3000);
 
             } else {

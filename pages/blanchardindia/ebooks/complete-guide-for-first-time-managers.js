@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/ftm-Infographics.pdf"
+                   window.location.href = "/kbassets/pdf/ftm-Infographics.pdf"
                }, 3000);
 
             } else {

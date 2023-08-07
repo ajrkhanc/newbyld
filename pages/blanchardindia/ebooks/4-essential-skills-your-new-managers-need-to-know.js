@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/4-essential-skills-your-new-managers-need-to-know.pdf"
+                   window.location.href = "/kbassets/pdf/4-essential-skills-your-new-managers-need-to-know.pdf"
                }, 3000);
 
             } else {

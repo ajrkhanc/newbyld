@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/are-you-a-directive-or-supportive-leader.pdf"
+                   window.location.href = "/kbassets/pdf/are-you-a-directive-or-supportive-leader.pdf"
                }, 3000);
 
             } else {

@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/4-critical-focus-areas-for-building-a-high-performance-team.pdf"
+                   window.location.href = "/kbassets/pdf/4-critical-focus-areas-for-building-a-high-performance-team.pdf"
                }, 3000);
 
             } else {

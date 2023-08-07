@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/millennials-in-the-workplace.pdf"
+                   window.location.href = "/kbassets/pdf/millennials-in-the-workplace.pdf"
                }, 3000);
 
             } else {

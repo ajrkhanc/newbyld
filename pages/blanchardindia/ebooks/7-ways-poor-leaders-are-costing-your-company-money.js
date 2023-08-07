@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/7-ways-poor-leaders-are-costing-your-company-money.pdf"
+                   window.location.href = "/kbassets/pdf/7-ways-poor-leaders-are-costing-your-company-money.pdf"
                }, 3000);
 
             } else {

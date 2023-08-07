@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/Leading-with-Gratitude-with-Adrian-Gostick.mp3"
+                   window.location.href = "/kbassets/pdf/Leading-with-Gratitude-with-Adrian-Gostick.mp3"
                }, 3000);
 
             } else {

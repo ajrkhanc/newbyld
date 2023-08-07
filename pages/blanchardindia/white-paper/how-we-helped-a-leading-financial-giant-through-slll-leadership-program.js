@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/how-we-helped-a-leading-financial-giant-through-SLll-leadership-program.pdf"
+                   window.location.href = "/kbassets/pdf/how-we-helped-a-leading-financial-giant-through-SLll-leadership-program.pdf"
                }, 3000);
 
             } else {

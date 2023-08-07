@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/situational-approach-to-leadership.pdf"
+                   window.location.href = "/kbassets/pdf/situational-approach-to-leadership.pdf"
                }, 3000);
 
             } else {

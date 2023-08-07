@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/LaWana-Harris-Diversity-Beyond-Lip-Service.mp3"
+                   window.location.href = "/kbassets/pdf/LaWana-Harris-Diversity-Beyond-Lip-Service.mp3"
                }, 3000);
 
             } else {

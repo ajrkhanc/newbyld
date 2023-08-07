@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/coaching-skills-the-missing-link-for-leaders.pdf"
+                   window.location.href = "/kbassets/pdf/coaching-skills-the-missing-link-for-leaders.pdf"
                }, 3000);
 
             } else {

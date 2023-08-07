@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/diversity-equity-inclusion-pov.pdf"
+                   window.location.href = "/kbassets/pdf/diversity-equity-inclusion-pov.pdf"
                }, 3000);
 
             } else {

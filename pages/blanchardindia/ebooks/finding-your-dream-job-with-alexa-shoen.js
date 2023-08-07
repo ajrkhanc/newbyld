@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/Alexa-Shoen-Entry-Level-Boss.mp3"
+                   window.location.href = "/kbassets/pdf/Alexa-Shoen-Entry-Level-Boss.mp3"
                }, 3000);
 
             } else {

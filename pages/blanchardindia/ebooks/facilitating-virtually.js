@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/a-jump-start-for-virtual-facilitation.pdf"
+                   window.location.href = "/kbassets/pdf/a-jump-start-for-virtual-facilitation.pdf"
                }, 3000);
 
             } else {

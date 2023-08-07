@@ -25,7 +25,7 @@ export default function TruthsofLeadership() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/thank-you-lp"
+                   window.location.href = "/blanchardindia/thank-you-lp"
                }, 3000);
 
             } else {

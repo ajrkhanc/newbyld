@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                setTimeout(function() {
-                window.open("/pdf/leader-trustworthiness-and-employee-work-intentions-a-canonical-correlation-study.pdf", "_blank")
+                window.open("/kbassets/pdf/leader-trustworthiness-and-employee-work-intentions-a-canonical-correlation-study.pdf", "_blank")
                }, 3000);
 
             } else {

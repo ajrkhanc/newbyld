@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/Learn-How-to-Master-Your-Motivation-with-Susan-Fowler.mp3"
+                   window.location.href = "/kbassets/pdf/Learn-How-to-Master-Your-Motivation-with-Susan-Fowler.mp3"
                }, 3000);
 
             } else {

@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/getting-to-the-sweet-spot-of-effective-communication.pdf"
+                   window.location.href = "/kbassets/pdf/getting-to-the-sweet-spot-of-effective-communication.pdf"
                }, 3000);
 
             } else {

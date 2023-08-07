@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/building-trust-the-critical-link-to-a-high-involvement-high-energy-workplace-begins-with-a-common-language.pdf"
+                   window.location.href = "/kbassets/pdf/building-trust-the-critical-link-to-a-high-involvement-high-energy-workplace-begins-with-a-common-language.pdf"
                }, 3000);
 
             } else {

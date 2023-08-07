@@ -63,7 +63,7 @@ export default function BlanchardGenericLP() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/thank-you-lp-blanchard-generic-landing-page"
+                   window.location.href = "/blanchardindia/thank-you-lp-blanchard-generic-landing-page"
                }, 3000);
 
             } else {

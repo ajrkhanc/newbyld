@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/Cindy_Huggett-Virtual_Training_Tools_and_Templates.mp3"
+                   window.location.href = "/kbassets/pdf/Cindy_Huggett-Virtual_Training_Tools_and_Templates.mp3"
                }, 3000);
 
             } else {

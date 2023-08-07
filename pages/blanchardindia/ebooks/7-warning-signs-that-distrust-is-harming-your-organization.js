@@ -24,7 +24,7 @@ function EbooksKB() {
 
                document.getElementById("showlabel").style.display = "block";
                window.setTimeout(function () {
-                   window.location.href = "/pdf/7-warning-signs-that-distrust-is-harming-your-organization.pdf"
+                   window.location.href = "/kbassets/pdf/7-warning-signs-that-distrust-is-harming-your-organization.pdf"
                }, 3000);
 
             } else {
