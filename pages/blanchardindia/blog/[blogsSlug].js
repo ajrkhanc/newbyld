@@ -163,75 +163,8 @@ const singleblog = ({ posts, posts5, cats, postfeedback }) => {
                   </div> 
                </div>
                
-               <div className="side-bar-widget d-none">
-                  <h3 className="title">Upcoming Workshops</h3>
-                 <div className="widget-popular-post">
-                     
-                 <article className="item">
-                        <a href="https://blanchardinternational.co.in/events-workshops/virtual-public-workshop#REQUEST" className="thumb">
-                           <span className="full-image cover bg1" role="img">
-                               <img src="/assets/img/workshop1.jpg" alt="Images" />
-                           </span>
-                        </a>
-                        <div className="info">
-                           <p><i className='bx bx-time'></i> September 13th, 2022</p>
-                           <h4 className="title-text">
-                              <a href="https://blanchardinternational.co.in/events-workshops/virtual-public-workshop#REQUEST">Blanchard Management Essentials - Virtual</a>
-                           </h4>
-                        </div>
-                     </article>
-                  
-                  </div>
-               </div>
                
-               <div className="side-bar-widget d-none">
-                  <h3 className="title">Upcoming Webinar</h3>
-                 <div className="widget-popular-post">                     
-                     
-                     <article className="item">
-                        <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST" className="thumb">
-                           <span className="full-image cover bg1" role="img">
-                               <img src="/assets/img/webi1.jpg" alt="Images" />
-                           </span>
-                        </a>
-                        <div className="info">
-                           <p><i className='bx bx-time'></i> June 3rd, 2022</p>
-                           <h4 className="title-text">
-                              <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST">Developing Self Leaders—A Competitive Advantage for Organisations (Self Leadership)</a>
-                           </h4>
-                        </div>
-                     </article>
-
-                     <article className="item">
-                        <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST" className="thumb">
-                           <span className="full-image cover bg1" role="img">
-                               <img src="/assets/img/webi2.jpg" alt="Images" />
-                           </span>
-                        </a>
-                        <div className="info">
-                           <p><i className='bx bx-time'></i> June 17th, 2022</p>
-                           <h4 className="title-text">
-                              <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST">4 Critical Focus Areas for Building a High Performance Team (Team Leadership)</a>
-                           </h4>
-                        </div>
-                     </article>
-
-                     <article className="item">
-                        <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST" className="thumb">
-                           <span className="full-image cover bg1" role="img">
-                               <img src="/assets/img/webi3.jpg" alt="Images" />
-                           </span>
-                        </a>
-                        <div className="info">
-                           <p><i className='bx bx-time'></i> July 8th, 2022</p>
-                           <h4 className="title-text">
-                              <a href="https://blanchardinternational.co.in/events-workshops/program-experience-webinar/#REQUEST">Prepare Your Leaders to Lead Situationally: Breakthrough for a Hybrid Workplace (The SLII Experience™ - Virtual)</a>
-                           </h4>
-                        </div>
-                     </article>
-                  
-                  </div>
-               </div>
+         
                
                <div className="side-bar-widget">
                   <h3 className="title">Resources</h3>
