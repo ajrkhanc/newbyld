@@ -137,7 +137,7 @@ export default function ThanYouLP() {
          </div>
 
 
-         <section className="Supportinglearning ptt-80">
+         <section className="Supportinglearning ptt-80 pbb-40">
                 <div className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
@@ -148,7 +148,7 @@ export default function ThanYouLP() {
                             <a href='/blanchardindia/resources/public-courses' className='kbbtn kbbtn--orange mtt-20'>View Course Listings</a>
                         </div>
 
-                        <div className="col-sm-6">
+                        <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
                                 <img className="" src="/kbassets/img/kbnew/Don’t-wait-for-someone-else.jpg" alt="Images" />
                             </div>

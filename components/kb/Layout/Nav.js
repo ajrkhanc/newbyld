@@ -229,6 +229,7 @@ function Nav() {
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/blanchardindia/who-we-help/teams">Teams</a></li>
                                                                     <li><a className="headlist" href="/blanchardindia/who-we-help/individuals">Individuals</a></li>
+                                                                    <li><a className="headlist" href="/blanchardindia/who-we-help/students">Students</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
