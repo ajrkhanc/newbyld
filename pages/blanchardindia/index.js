@@ -453,12 +453,12 @@ fbq('track', 'PageView');
                         <h4>
                            BUSINESS SERVICES
                         </h4>
-                        <h3>Leading the Duke Energy Way</h3>
+                        <h3>HCL Technologies</h3>
 
                         <p>
-                        A senior leader at Duke Energy approached Stephanie Bush, director of learning and development, with a request for building leadership skills in his division.
+                        HCL Technologies is one of India’s leading global IT Services companies, providing software-led IT solutions, remote infrastructure management services, and business process outsourcing. With 35 offices in 17 countries, HCL’s customer base reads like a who’s who in business.
                         </p>
-                        <a href='/blanchardindia/resources/client-spotlights/duke-energy' className='kbbtn kbbtn--orange  mtt-10'>Learn More</a>
+                        <a href='/blanchardindia/resources/client-spotlights/hcl-technologies' className='kbbtn kbbtn--orange  mtt-10'>Learn More</a>
                      </div>
                   </div>
 
