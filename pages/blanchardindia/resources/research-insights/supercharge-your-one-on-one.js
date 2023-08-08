@@ -19,8 +19,8 @@ export default function PodCastinner() {
                                 <div className="row row-eq-height eventsandworkshopbox">
                                     <div className="podcastd">
                                         <div className="pdfbox">
-                                        <iframe src="https://resources.kenblanchard.com/i/1472971?source=hub&amp;expanded=false&amp;hubItemID=677208950&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-                                            <a href="https://content.cdntwrk.com/files/aT0xNDcyOTcxJnY9MyZpc3N1ZU5hbWU9c3VwZXJjaGFyZ2UteW91ci1uZXh0LW9uZS1vbi1vbmUmY21kPWQmc2lnPTU4ZGY4MmQwMzFhMjJhMWU5NTlhNjhmNmEwMmIyYjRi" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
+                                        <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/0bd29c63c7.html" width="100%" height="450px"></iframe>
+                                            <a href="https://cdnc.heyzine.com/flip-book/pdf/0bd29c63c7b3aad511ccbb212784c4a1ba708b99.pdf" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
                                             <a href="/blanchardindia/resources/research-insights">Go Back</a>
                                         </div>
 
