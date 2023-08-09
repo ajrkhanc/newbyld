@@ -33,6 +33,20 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
+                                            <img src="/kbassets/img/fivec.jpg" alt="Images" />
+                                            <h3>FIVE COMMUNICATION STRATEGIES THAT MAKE LEADING CHANGE WORK IN TURBULENT TIMES</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/ebooks/five-communication-strategies-that-make-leading-change-work">
+                                                        <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
+                                                    </Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
                                             <img src="/kbassets/img/situational-approach-to-leadership.jpg" alt="Images" />
                                             <h3>SLII. Why a Situational Approach to Leadership Makes All the Difference</h3>
                                             <div className='row text-center eventsbottomarea2'>
