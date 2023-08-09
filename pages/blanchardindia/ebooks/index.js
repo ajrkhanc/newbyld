@@ -34,7 +34,7 @@ export default function Elearning() {
                                     <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/kbassets/img/fivec.jpg" alt="Images" />
-                                            <h3>FIVE COMMUNICATION STRATEGIES THAT MAKE LEADING CHANGE WORK IN TURBULENT TIMES</h3>
+                                            <h3>Five Communication strategies that make leading change work in turbulent times</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
                                                     <Link href="/blanchardindia/ebooks/five-communication-strategies-that-make-leading-change-work">
