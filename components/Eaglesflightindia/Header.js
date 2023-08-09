@@ -128,7 +128,7 @@ export default function Header() {
                         </a>
                     </div>
                     <div className="canvas-logo">
-                        <a href="/eaglesflightindia"><img src="/wileyassets/img/byld-wiley-auth-logo.png" alt="logo"/></a>
+                        <a href="/eaglesflightindia"><img src="/efassets/img/ef-logo.png" alt="logo"/></a>
                     </div>                    
                     
                     <div className="canvas-contact">
