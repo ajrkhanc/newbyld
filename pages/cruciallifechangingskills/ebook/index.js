@@ -10,7 +10,7 @@ export default function Books(){
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 contact-title"> 
-                        <h1>HOW TO SPEAK UP ABOUT THINGS THAT MATTER</h1>                       
+                        <h1>Welcome to Crucial Life-Changing Skills Learning Hub!</h1>                       
                      </div>
                      
                      
@@ -18,7 +18,7 @@ export default function Books(){
                     <div class="col-md-4 workshop-col"> 
                        <div class="bookshd text-center">                            
                             <img class="center-image mbb-15" src="/classets/img/unafraid.jpg" alt="books" />          
-                            <h6 className='bookprice elerningf'>HOW TO SPEAK UP ABOUT THINGS THAT MATTER</h6>                           
+                            <h6 className='bookprice elerningf'>How to Speak up About Things <br></br>that Matter</h6>                           
                             <a class="booksbtn" href='/cruciallifechangingskills/ebook/unafraid'>Read eBook</a>
                        </div>
                     </div> 

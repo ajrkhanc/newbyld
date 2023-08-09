@@ -37,7 +37,7 @@ export default function Ebook(){
     return(
         <>
         <Head>
-            <title>3 Skills to Manage Difficult Conversations with Parents - Crucial Life-Changing Skills</title>
+            <title>How to Speak up About Things that Matter</title>
             <meta name="description" content="Next time you find yourself face-to-face with an emotional or angry parent, use these 3 skills to ensure the best result for yourself, the parent, and the student..."/> 
         </Head>
         <section class="about-section">
@@ -45,16 +45,11 @@ export default function Ebook(){
                 <div class="row">
                     
                     <div class="col-lg-12 left-about-area ptt-70 pbb-70 text-center">
-                        <h1>3 Skills to Manage Difficult Conversations with Parents</h1>                        
+                        <h1>How to Speak up About Things that Matter</h1>                        
                         <p className='colorb'>
-                        Next time you find yourself face-to-face with an emotional or angry parent, use these 3 skills to ensure the best result for yourself, the parent, and the student..
+                        A Crucial Learning survey of more than 1,300 people found that an incredible 9 out of 10 respondents have felt emotionally or physically unsafe to speak their mind more than once in the past 18 months.
                         </p>
-                        <p className='colorb'>
-                        <strong>1. Start with Heart:</strong> The first thing people look for in a crucial conversation is whether the other person is a friend or a foe. If people mistrust your motives, it doesn’t matter what you say—they simply won’t hear it. So, before you engage, get your heart right—check your motives.
-                        </p>
-                        <p className='colorb'>
-                        <strong>2. Fix Misunderstandings:</strong> We enter every conversation with assumptions—a story we tell ourselves about the situation. These assumptions are often negative. Parents usually come into the conversation with limited information from a child who wants to paint him or herself in the best light. And when information is missing, we tend to imagine the worst. As a result, parents usually see the educator as a villain in this story.
-                        </p>
+        
                     </div>
             
                 </div>
