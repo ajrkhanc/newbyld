@@ -427,7 +427,7 @@ export default function Home() {
                   </div>
                </div>
             </div>
-            <img className='wow fadeInUp delay-0-2s animated animateUP img100p' src='/assets/img/homeb/handb.jpg' />
+            <img className='wow fadeInUp delay-0-2s animated animateUP img100p' src='/efassets/img/handb.jpg' />
             <div className='container'>
                <div className='row'>
                <div className='col-sm-12 text-center pbb-10'>
