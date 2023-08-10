@@ -189,7 +189,7 @@ export default function Workshops() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='/everythingdisc/everything-disc-ttt-vt-lp/'>Reserve Your Seat</a>
+                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
