@@ -18,6 +18,37 @@
 }
 
 
+.backgroundwhit{
+    background-color: #fff !important;
+}
+
+.themec1{
+    color: #3474af !important;
+}
+
+.opacity4{
+    opacity: 0.4;
+}
+
+.h2call2 {
+    font-size: 40px !important;
+    line-height: 49px !important;
+    font-weight: 400;
+    color: #2a6db5;
+}
+
+.pall2 {
+    font-size: 19px;
+    line-height: 32px;
+    text-align: justify;
+    color: #000;
+}
+
+.boch .solutionboxmission{
+    min-height: 236px !important;
+}
+
+
 /* body {
     font-family: "BwDarius" !important;
 } */
@@ -270,6 +301,13 @@ h6 {
     color: #000;
 }
 
+.pall1 {
+    font-size: 19px;
+    line-height: 30px;
+    text-align: justify;
+    color: #000;
+}
+
 .solutionrow {
     background-color: #f6f3ee;
     position: relative;
@@ -331,6 +369,76 @@ h6 {
     display: block;
 }
 
+
+
+.solutionbox2 {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    margin-bottom: 30px;
+    padding: 40px 15px;
+    overflow: hidden;
+    min-height: 160px;
+    padding-bottom: 0px;
+}
+
+.solutionbox2 h4 {
+    margin: 0px;
+    padding-right: 8px;
+    color: #3373af;
+    max-width: 180px;
+    font-size: 28px;
+    font-weight: 600;
+}
+.solutionbox2 p{
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.solutionbox2 h4 span {
+    color: #e88027;
+}
+
+.solutionbox2:hover {
+    background: #2a6db5;
+}
+
+.solutionbox2:hover h4 {
+    color: #fff;
+}
+.solutionbox2:hover p {
+    color: #fff;
+}
+
+.solutionbox2:hover span {
+    color: #fff;
+}
+
+.solutionbox2:hover .active {
+    display: none;
+}
+
+.solutionbox2:hover .hover {
+    display: block;
+}
+
+.solutionbox2 .jenicon img{
+max-width: 40px !important;
+}
+
+.solutionbox2 .jimgbox {
+    background: #3373af;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.solutionbox2:hover .jimgbox {
+    background: #e88026;
+}
+
+.imgbr{
+    border-radius: 18px;
+}
 .cicon img {
     width: 60px;
 }
