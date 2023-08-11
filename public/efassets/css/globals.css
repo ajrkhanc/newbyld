@@ -1712,30 +1712,30 @@ body .modal.show .modal-dialog {
 @media (min-width:1400px){
   .logocc1{
     position: absolute;
-    bottom: 140px;
-    left: 419px;
+    bottom: 95px;
+    left: 295px;
   }
   
   .logocc1 img{
-    width: 100%;
+    width: 70%;
   }
   
   .logocc2{
     position: absolute;
-    bottom: 138px;
-    left: 674px;
+    bottom: 95px;
+    left: 477px;
   }
   .logocc2 img{
-    width: 100%;
+    width: 70%;
   }
   
   .logocc3{
     position: absolute;
-    bottom: 139px;
-    right: 104px;
+    bottom: 95px;
+    right: -43px;
   }
   
   .logocc3 img{
-    width: 100%;
+    width: 70%;
   }
 }
