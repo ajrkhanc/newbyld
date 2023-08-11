@@ -46,6 +46,7 @@ export default function Home() {
          <Head>
             <title>The Five Behaviors Solutions | Personal and team development | BYLD Group</title>
             <meta name="description" content="The Five Behaviors offers team building training and personal development solutions. It promotes team development and a healthy culture of teamwork. To know more, check out the page."/> 
+            <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
           </Head>
 
           <div className="rs-services">

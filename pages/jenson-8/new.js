@@ -232,7 +232,6 @@ export default function Jenson8() {
                 <div className='container'>
                     <div className='row'>
                         <div className='col-sm-3'>
-
                         </div>
                         <div className='col-sm-9'>
                             <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Jenson8 NAMED TOP EXPERIENTIAL LEARNING TECHNOLOGY</h2>

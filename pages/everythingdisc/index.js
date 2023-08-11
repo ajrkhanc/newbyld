@@ -45,6 +45,7 @@ export default function Home() {
          <Head>
             <title>Everything DiSC | Personal Development Learning | BYLD Group</title>
             <meta name="description" content="Explore Everything DiSC Workplace Profile to assess your working style, behavioral pattern, strengths, and weakness for effective team collaboration. To know more about various Everything DiSC solutions, check out the site."/> 
+            <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
           </Head>
 
           <div className="rs-services">

@@ -48,6 +48,40 @@
     min-height: 236px !important;
 }
 
+.textl{
+    text-align: left !important;
+}
+
+.cclc .solutionbox2 h4 {
+    width: 100%;
+    max-width: 100%;
+    font-size: 22px;
+    color: #841a1c;
+    padding-bottom: 5px;
+}
+.cclc .solutionbox2 .jimgbox{
+    background:none;
+    padding: 0px !important;
+    border-radius: 0px !important;
+}
+
+.cclc .solutionbox2 .jenicon img {
+    max-width: 70px !important;
+    width: 70px !important;
+}
+
+.cclc .solutionbox2:hover .jimgbox{
+    background: none !important;
+}
+
+.deleveryo .missionslrowbr{
+padding: 0px;
+}
+
+.deleveryo .solutionboxmission:hover .iconorh {
+    display: block;
+}
+
 
 /* body {
     font-family: "BwDarius" !important;
