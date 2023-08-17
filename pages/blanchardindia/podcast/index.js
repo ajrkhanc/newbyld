@@ -42,6 +42,18 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/how-to-design-training-for-how-people-learn-with-julie-dirksen.jpg" alt="Images" />
+                                            <h3>How to Design Training for How People Learn with Julie Dirksen</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/how-to-design-training-for-how-people-learn-with-julie-dirksen"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
                                             <img src="/kbassets/img/podcast/smart-growth-with-whitney-johnson.jpg" alt="Images" />
                                             <h3>Best of 2022: Smart Growth with Whitney Johnson</h3>
                                             <div className='row text-center eventsbottomarea2'>
