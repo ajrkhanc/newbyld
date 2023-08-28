@@ -222,9 +222,7 @@ export default function Home({ result }) {
                                                                         <li>STATE My Path (Chapter 8): {ch8}</li>
                                                                     </ul>
                                                                 </div>
-                                                                <p>
-                                                                    *Note: Some early copies of the third edition of Crucial Conversations contained an error in how the assessment was scored. We apologize for any confusion this may have caused.
-                                                                </p>
+                                                               
                                                             </div>
 
 

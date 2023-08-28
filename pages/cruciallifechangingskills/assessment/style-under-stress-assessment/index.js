@@ -112,11 +112,11 @@ export default function BrowseCourses() {
             xhttp.onload = function () {
                 console.log(this.responseText);
             }
-            xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/89/feedback');
+            xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/158/feedback');
             xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
     
        
-            var Assessment ="Influecer Assessment Form Marketing" 
+            var Assessment ="Style Under Stress - Assessment Form Marketing" 
             xhttp.send("name=" + event.target.name.value +
             '&email=' + email +
             '&phone=' + phone +
