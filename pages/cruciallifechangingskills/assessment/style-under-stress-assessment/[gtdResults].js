@@ -151,6 +151,7 @@ export default function Home({ result }) {
                                                                     </div>
                                                                 </div>
                                                                 <div>
+                                                                    <br></br>
                                                                     <h4>
                                                                         Silence Score Breakdown
                                                                     </h4>
@@ -192,6 +193,7 @@ export default function Home({ result }) {
                                                                     </div>
                                                                 </div>
                                                                 <div>
+                                                                    <br></br>
                                                                     <h4>
                                                                         Verbal Violence Score Breakdown
                                                                     </h4>
