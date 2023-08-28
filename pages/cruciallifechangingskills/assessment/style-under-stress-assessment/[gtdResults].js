@@ -202,9 +202,7 @@ export default function Home({ result }) {
                                                                 Now look at how well you use the Crucial Conversations skills. If you scored one or two, you're doing alright in this area—at least in the scenario you had in mind when answering the questions. If you scored zero, you should pay special attention to the corresponding chapter in the book—or attend a course.
                                                                 </p>
                                                                 <div>
-                                                                    <h4>
-                                                                    Verbal Violence Score Breakdown
-                                                                    </h4>
+                                                                   
                                                                     <ul>
                                                                         <li>Choose Your Topic (Chapter 3): {ch3}</li>
                                                                         <li>Start with Heart (Chapter 4): {ch4}</li>
@@ -214,6 +212,9 @@ export default function Home({ result }) {
                                                                         <li>STATE My Path (Chapter 8): {ch8}</li>
                                                                     </ul>
                                                                 </div>
+                                                                <p>
+                                                                *Note: Some early copies of the third edition of Crucial Conversations contained an error in how the assessment was scored. We apologize for any confusion this may have caused.
+                                                                </p>
                                                             </div>
 
                                                         
