@@ -32,7 +32,7 @@ export default function Home({ result }) {
         <>
 
             <Head>
-                <title>GTD Assessment Result | Crucial Learning</title>
+                <title>Style Under Stress Assessment Result | Crucial Learning</title>
                 <meta name="description" content="The GTD Assessment is a twenty-question quiz that helps reveal some of your tendencies with managing workflow. See what you know and what you need to improve on." />
             </Head>
 
