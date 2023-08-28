@@ -42,9 +42,19 @@ export default function Home({ result }) {
                         <div className='col-md-12 text-center'>
                             <br></br>
                             <br></br>
-                            <h2>Your Style Under Stress™ Results</h2>                           
+                            {
+                                result.slice(0, 1).map((results) => {
+                                    return (
+                                        <h3>Hi {results.name}</h3>
+                                    )
+                                })
+                            }
+
+                            <h2>Your Style Under Stress™ Results</h2>
+                            <br></br>
+                            <br></br>
                         </div>
-                       
+
                     </div>
                 </div>
             </section>
@@ -64,9 +74,7 @@ export default function Home({ result }) {
                                 <p>
                                     Awareness is the first step toward improvement. Action is the next step. Improve your communication and your results with the skills from Crucial Conversations.
                                 </p>
-                                <p><b>
-                                    Download the free guide below to learn the first skill: Start with Heart.
-                                </b></p>
+                                
                             </div>
                         </div>
                         <div className='col-md-6'>
@@ -78,7 +86,7 @@ export default function Home({ result }) {
                                             parseInt(results.q3) + parseInt(results.q4) + parseInt(results.q5) +
                                             parseInt(results.q6)
 
-                                        var silenceoverallresult = silence + px
+                                        var silenceoverallresult = silence * 16.66 + px
                                         var silenceoverallbar = silence
 
                                         var Masking = parseInt(results.q5) + parseInt(results.q6)
@@ -86,11 +94,11 @@ export default function Home({ result }) {
                                         var Withdrawing = parseInt(results.q1) + parseInt(results.q2)
 
                                         var px = '%'
-                                        var violence = parseInt(results.qq7) + parseInt(results.q8) +
+                                        var violence = parseInt(results.q7) + parseInt(results.q8) +
                                             parseInt(results.q9) + parseInt(results.q10) + parseInt(results.q11) +
                                             parseInt(results.q12)
 
-                                        var violenceoverallresult = violence + px
+                                        var violenceoverallresult = violence * 16.66 + px
                                         var violenceoverallbar = violence
 
 
@@ -112,13 +120,13 @@ export default function Home({ result }) {
 
                                             <div class="recent-post-widget paddi20" id='demo'>
                                                 <div class="component-wrapper assessment" id="gtd-results">
-                                                    <div class="component-content">                                                       
+                                                    <div class="component-content">
                                                         <div class="assessment-right">
                                                             <div class="assessment-result-block">
                                                                 <h3>How often do you move towards silence?</h3>
                                                                 <div class="result-bar-wrapper">
-
-                                                                    {
+                                                                    <div class="result-bar bgredc" style={{ width: silenceoverallresult }}></div>
+                                                                    {/* {
                                                                         (() => {
                                                                             if (silenceoverallbar <= 30)
                                                                                 return <div class="result-bar bgred" style={{ width: silenceoverallresult }}></div>
@@ -130,7 +138,7 @@ export default function Home({ result }) {
                                                                             else (silenceoverallbar <= 100)
                                                                             return <div class="result-bar greenbg" style={{ width: silenceoverallresult }}></div>
                                                                         })()
-                                                                    }
+                                                                    } */}
 
 
                                                                 </div>
@@ -139,12 +147,12 @@ export default function Home({ result }) {
                                                                         <div className='col'>Rarely</div>
                                                                         <div className='col'>Sometimes</div>
                                                                         <div className='col'>Often</div>
-                                                                       
+
                                                                     </div>
                                                                 </div>
                                                                 <div>
                                                                     <h4>
-                                                                    Silence Score Breakdown
+                                                                        Silence Score Breakdown
                                                                     </h4>
                                                                     <ul>
                                                                         <li>Masking: {Masking}</li>
@@ -158,8 +166,8 @@ export default function Home({ result }) {
                                                             <div class="assessment-result-block">
                                                                 <h3>How often do you move towards verbal violence?</h3>
                                                                 <div class="result-bar-wrapper">
-
-                                                                    {
+                                                                    <div class="result-bar bgredc" style={{ width: violenceoverallresult }}></div>
+                                                                    {/* {
                                                                         (() => {
                                                                             if (violenceoverallbar <= 30)
                                                                                 return <div class="result-bar bgred" style={{ width: violenceoverallresult }}></div>
@@ -171,7 +179,7 @@ export default function Home({ result }) {
                                                                             else (violenceoverallbar <= 100)
                                                                             return <div class="result-bar greenbg" style={{ width: violenceoverallresult }}></div>
                                                                         })()
-                                                                    }
+                                                                    } */}
 
 
                                                                 </div>
@@ -180,12 +188,12 @@ export default function Home({ result }) {
                                                                         <div className='col'>Rarely</div>
                                                                         <div className='col'>Sometimes</div>
                                                                         <div className='col'>Often</div>
-                                                                       
+
                                                                     </div>
                                                                 </div>
                                                                 <div>
                                                                     <h4>
-                                                                    Verbal Violence Score Breakdown
+                                                                        Verbal Violence Score Breakdown
                                                                     </h4>
                                                                     <ul>
                                                                         <li>Controlling: {Controlling}</li>
@@ -199,10 +207,10 @@ export default function Home({ result }) {
                                                             <div class="assessment-result-block">
                                                                 <h3>Dialogue Skills Score</h3>
                                                                 <p>
-                                                                Now look at how well you use the Crucial Conversations skills. If you scored one or two, you're doing alright in this area—at least in the scenario you had in mind when answering the questions. If you scored zero, you should pay special attention to the corresponding chapter in the book—or attend a course.
+                                                                    Now look at how well you use the Crucial Conversations skills. If you scored one or two, you're doing alright in this area—at least in the scenario you had in mind when answering the questions. If you scored zero, you should pay special attention to the corresponding chapter in the book—or attend a course.
                                                                 </p>
                                                                 <div>
-                                                                   
+
                                                                     <ul>
                                                                         <li>Choose Your Topic (Chapter 3): {ch3}</li>
                                                                         <li>Start with Heart (Chapter 4): {ch4}</li>
@@ -213,11 +221,11 @@ export default function Home({ result }) {
                                                                     </ul>
                                                                 </div>
                                                                 <p>
-                                                                *Note: Some early copies of the third edition of Crucial Conversations contained an error in how the assessment was scored. We apologize for any confusion this may have caused.
+                                                                    *Note: Some early copies of the third edition of Crucial Conversations contained an error in how the assessment was scored. We apologize for any confusion this may have caused.
                                                                 </p>
                                                             </div>
 
-                                                        
+
 
 
                                                         </div>

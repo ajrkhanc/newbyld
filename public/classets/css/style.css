@@ -6026,6 +6026,10 @@ footer {
 	margin-bottom: 10px;
 }
 
+.bgredc {
+	background-color: #b8b8b8 !important;
+}
+
 .bgred {
 	background-color: #dc3545 !important;
 }
