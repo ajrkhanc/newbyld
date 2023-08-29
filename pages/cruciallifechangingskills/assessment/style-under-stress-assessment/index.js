@@ -12,30 +12,30 @@ export default function BrowseCourses() {
         var q4 = event.target.q4.value;    
         var q5 = event.target.q5.value;
         var q6 = event.target.q6.value;
-        var q7 = event.target.q7.value;
-        var q8 = event.target.q8.value;    
-        var q9 = event.target.q9.value;
-        var q10 = event.target.q10.value;
-        var q11 = event.target.q11.value;
-        var q12 = event.target.q12.value;    
+        // var q7 = event.target.q7.value;
+        // var q8 = event.target.q8.value;    
+        // var q9 = event.target.q9.value;
+        // var q10 = event.target.q10.value;
+        // var q11 = event.target.q11.value;
+        // var q12 = event.target.q12.value;    
         var q13 = event.target.q13.value;
         var q14 = event.target.q14.value;
         var q15 = event.target.q15.value;
         var q16 = event.target.q16.value;    
         var q17 = event.target.q17.value;
         var q18 = event.target.q18.value;
-        var q19 = event.target.q19.value;
-        var q20 = event.target.q20.value;    
-        var q21 = event.target.q21.value;
-        var q22 = event.target.q22.value;
-        var q23 = event.target.q23.value;
-        var q24 = event.target.q24.value;    
-        var q25 = event.target.q25.value;
-        var q26 = event.target.q26.value;
-        var q27 = event.target.q27.value;
-        var q28 = event.target.q28.value;    
-        var q29 = event.target.q29.value;
-        var q30 = event.target.q30.value;    
+        // var q19 = event.target.q19.value;
+        // var q20 = event.target.q20.value;    
+        // var q21 = event.target.q21.value;
+        // var q22 = event.target.q22.value;
+        // var q23 = event.target.q23.value;
+        // var q24 = event.target.q24.value;    
+        // var q25 = event.target.q25.value;
+        // var q26 = event.target.q26.value;
+        // var q27 = event.target.q27.value;
+        // var q28 = event.target.q28.value;    
+        // var q29 = event.target.q29.value;
+        // var q30 = event.target.q30.value;    
     
         const name = event.target.name.value;
         const email = event.target.email.value;
@@ -56,30 +56,30 @@ export default function BrowseCourses() {
           '&q4=' + q4 +
           '&q5=' + q5 +
           '&q6=' + q6 +
-          '&q7=' + q7 +
-          '&q8=' + q8 +
-          '&q9=' + q9 +
-          '&q10=' + q10 +
-          '&q11=' + q11 +
-          '&q12=' + q12 +
+        //   '&q7=' + q7 +
+        //   '&q8=' + q8 +
+        //   '&q9=' + q9 +
+        //   '&q10=' + q10 +
+        //   '&q11=' + q11 +
+        //   '&q12=' + q12 +
           '&q13=' + q13 +
           '&q14=' + q14 +
           '&q15=' + q15 +
           '&q16=' + q16 +
           '&q17=' + q17 +
           '&q18=' + q18 +
-          '&q19=' + q19 +
-          '&q20=' + q20 +
-          '&q21=' + q21 +
-          '&q22=' + q22 +
-          '&q23=' + q23 +
-          '&q24=' + q24 +
-          '&q25=' + q25 +
-          '&q26=' + q26 +
-          '&q27=' + q27 +
-          '&q28=' + q28 +
-          '&q29=' + q29 +
-          '&q30=' + q30 +
+        //   '&q19=' + q19 +
+        //   '&q20=' + q20 +
+        //   '&q21=' + q21 +
+        //   '&q22=' + q22 +
+        //   '&q23=' + q23 +
+        //   '&q24=' + q24 +
+        //   '&q25=' + q25 +
+        //   '&q26=' + q26 +
+        //   '&q27=' + q27 +
+        //   '&q28=' + q28 +
+        //   '&q29=' + q29 +
+        //   '&q30=' + q30 +
        
           '&name=' + name +
           '&email=' + email +
@@ -207,7 +207,8 @@ export default function BrowseCourses() {
                                             <span><input type="radio" name="q6" id="6t" value="1" required="required" tabindex="11" /><label for="6t">True</label></span>
                                             <span><input type="radio" name="q6" id="6f" value="0" tabindex="12" /><label for="6f">False</label></span>
                                         </div>
-                                        <li>In order to get my point across, I sometimes exaggerate my side of the argument.</li>
+
+                                        {/* <li>In order to get my point across, I sometimes exaggerate my side of the argument.</li>
                                         <div>
                                             <span><input type="radio" name="q7" id="7t" value="1" required="required" tabindex="13" /><label for="7t">True</label></span>
                                             <span><input type="radio" name="q7" id="7f" value="0" tabindex="14" /><label for="7f">False</label></span>
@@ -236,7 +237,7 @@ export default function BrowseCourses() {
                                         <div>
                                             <span><input type="radio" name="q12" id="12t" value="1" required="required" tabindex="23" /><label for="12t">True</label></span>
                                             <span><input type="radio" name="q12" id="12f" value="0" tabindex="24" /><label for="12f">False</label></span>
-                                        </div>
+                                        </div> */}
                                         <li>I sometimes find myself having the same conversation with the same person multiple times.</li>
                                         <div>
                                             <span><input type="radio" name="q13" id="13t" value="1" required="required" tabindex="25" /><label for="13t">True</label></span>
@@ -267,7 +268,7 @@ export default function BrowseCourses() {
                                             <span><input type="radio" name="q18" id="18t" value="1" required="required" tabindex="35" /><label for="18t">True</label></span>
                                             <span><input type="radio" name="q18" id="18f" value="0" tabindex="36" /><label for="18f">False</label></span>
                                         </div>
-                                        <li>In the middle of a tough conversation, I often get so caught up in arguments that I don't see how I'm coming across to others.</li>
+                                        {/* <li>In the middle of a tough conversation, I often get so caught up in arguments that I don't see how I'm coming across to others.</li>
                                         <div>
                                             <span><input type="radio" name="q19" id="19t" value="1" required="required" tabindex="37" /><label for="19t">True</label></span>
                                             <span><input type="radio" name="q19" id="19f" value="0" tabindex="38" /><label for="19f">False</label></span>
@@ -326,7 +327,7 @@ export default function BrowseCourses() {
                                         <div>
                                             <span><input type="radio" name="q30" id="30t" value="1" required="required" tabindex="59" /><label for="30t">True</label></span>
                                             <span><input type="radio" name="q30" id="30f" value="0" tabindex="60" /><label for="30f">False</label></span>
-                                        </div>
+                                        </div> */}
                                     </ol>
 
                                     <div className='row inpuut'>

@@ -83,37 +83,33 @@ export default function Home({ result }) {
                                     result.slice(0, 1).map((results) => {
                                         var px = '%'
                                         var silence = parseInt(results.q1) + parseInt(results.q2) +
-                                            parseInt(results.q3) + parseInt(results.q4) + parseInt(results.q5) +
-                                            parseInt(results.q6)
+                                            parseInt(results.q3)
 
-                                        var silenceoverallresult = silence * 16.66 + px
+                                        var silenceoverallresult = silence * 33.33 + px
                                         var silenceoverallbar = silence
 
-                                        var Masking = parseInt(results.q5) + parseInt(results.q6)
-                                        var Avoiding = parseInt(results.q3) + parseInt(results.q4)
-                                        var Withdrawing = parseInt(results.q1) + parseInt(results.q2)
+                                        var Masking = parseInt(results.q3)
+                                        var Avoiding = parseInt(results.q2)
+                                        var Withdrawing = parseInt(results.q1)
 
                                         var px = '%'
-                                        var violence = parseInt(results.q7) + parseInt(results.q8) +
-                                            parseInt(results.q9) + parseInt(results.q10) + parseInt(results.q11) +
-                                            parseInt(results.q12)
+                                        var violence = parseInt(results.q4) + parseInt(results.q5) + parseInt(results.q6)
 
-                                        var violenceoverallresult = violence * 16.66 + px
+                                        var violenceoverallresult = violence * 33.33 + px
                                         var violenceoverallbar = violence
 
 
-                                        var Controlling = parseInt(results.q7) + parseInt(results.q8)
-                                        var Labeling = parseInt(results.q9) + parseInt(results.q10)
-                                        var Attacking = parseInt(results.q11) + parseInt(results.q12)
+                                        var Controlling = parseInt(results.q4)
+                                        var Labeling = parseInt(results.q5)
+                                        var Attacking = parseInt(results.q6)
 
 
-                                        var ch3 = parseInt(results.q13) + parseInt(results.q19) + parseInt(results.q25)
-                                        var ch4 = parseInt(results.q14) + parseInt(results.q20) + parseInt(results.q26)
-                                        var ch5 = parseInt(results.q15) + parseInt(results.q21) + parseInt(results.q27)
-                                        var ch6 = parseInt(results.q16) + parseInt(results.q22) + parseInt(results.q28)
-
-                                        var ch7 = parseInt(results.q17) + parseInt(results.q23) + parseInt(results.q29)
-                                        var ch8 = parseInt(results.q18) + parseInt(results.q24) + parseInt(results.q30)
+                                        var ch3 = parseInt(results.q13)
+                                        var ch4 = parseInt(results.q14)
+                                        var ch5 = parseInt(results.q15)
+                                        var ch6 = parseInt(results.q16)
+                                        var ch7 = parseInt(results.q17)
+                                        var ch8 = parseInt(results.q18)
 
 
                                         return (
