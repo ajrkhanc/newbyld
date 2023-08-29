@@ -104,8 +104,8 @@ export default function singleblog({ posts, posts5, postfeedback }) {
                 <title>{posts.Title}</title>
                 <meta name="description" content={posts.Description} />
                 <link rel="icon" href="/favicon.png" />
-                <meta name="robots" content="noindex" />
-                <meta name="robots" content="nofollow" />
+                <meta name="robots" content="noindex"/>
+                <meta name="robots" content="nofollow"/>
                 {/* Twitter */}
                 <meta name="twitter:card" content="summary" />
                 <meta name="twitter:site" content="@YomaSolutions" />
