@@ -85,7 +85,7 @@ export default function Home({ result }) {
                                         var silence = parseInt(results.q1) + parseInt(results.q2) +
                                             parseInt(results.q3)
 
-                                        var silenceoverallresult = silence * 33.33 + px
+                                        var silenceoverallresult = silence * 33.34 + px
                                         var silenceoverallbar = silence
 
                                         var Masking = parseInt(results.q3)
@@ -95,7 +95,7 @@ export default function Home({ result }) {
                                         var px = '%'
                                         var violence = parseInt(results.q4) + parseInt(results.q5) + parseInt(results.q6)
 
-                                        var violenceoverallresult = violence * 33.33 + px
+                                        var violenceoverallresult = violence * 33.34 + px
                                         var violenceoverallbar = violence
 
 
@@ -142,7 +142,7 @@ export default function Home({ result }) {
                                                                     <div className='row'>
                                                                         <div className='col'>Rarely</div>
                                                                         <div className='col'>Sometimes</div>
-                                                                        <div className='col'>Often</div>
+                                                                        <div className='col text-right'>Often</div>
 
                                                                     </div>
                                                                 </div>
@@ -184,7 +184,7 @@ export default function Home({ result }) {
                                                                     <div className='row'>
                                                                         <div className='col'>Rarely</div>
                                                                         <div className='col'>Sometimes</div>
-                                                                        <div className='col'>Often</div>
+                                                                        <div className='col text-right'>Often</div>
 
                                                                     </div>
                                                                 </div>
