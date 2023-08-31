@@ -58,9 +58,9 @@ export default function Workshops() {
 
 
 
-                       
 
-                    
+
+
 
                         {/* <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -88,30 +88,7 @@ export default function Workshops() {
                             </div>
                         </div> */}
 
-                        {/* <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - August 7th to 8th, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h3>The SLII Experience™ - Virtual</h3>
-                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - August 9th to 10th, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h3>The SLII Experience™ - T4T</h3>
-                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div> */}
+                        
 
                         {/* <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -126,7 +103,7 @@ export default function Workshops() {
                             </div>
                         </div> */}
 
-                        <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
@@ -166,7 +143,7 @@ export default function Workshops() {
                                     <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -198,6 +175,31 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Workshop - September 25th to 26th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>The SLII Experience™ - Virtual</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Workshop - September 27th to 28th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>The SLII Experience™ - T4T</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
                                     <span>Workshop - September 28th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
@@ -220,7 +222,7 @@ export default function Workshops() {
                             </div>
                         </div>
 
-                        
+
 
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -341,18 +343,19 @@ export default function Workshops() {
                                         </div>
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
-                                                <option value="">Pick up any Slot*</option>                                                
+                                                <option value="">Pick up any Slot*</option>
                                                 {/* <option value="Team Leadership - Virtual July 26th, 2023">Team Leadership - Virtual July 26th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - July 27th, 2023">Crucial Life Changing Skills, Getting Things Done - July 27th, 2023</option> */}
-                                                {/* <option value="The SLII Experience™, Virtual - August 7th to 8th, 2023">The SLII Experience™, Virtual - August 7th to 8th, 2023</option>
-                                                <option value="The SLII Experience™, T4T - August 9th to 10th, 2023">The SLII Experience™, T4T - August 9th to 10th, 2023</option> 
+                                                {/* 
                                                 <option value="August 17th - 18th, 2023 - DISC Certification (TTT)">August 17th - 18th, 2023 - DISC Certification (TTT)</option>*/}
-                                                
-                                                <option value="Conversational Capacity - Virtual - August 23rd, 2023">Conversational Capacity - Virtual - August 23rd, 2023</option>
+
+                                                {/* <option value="Conversational Capacity - Virtual - August 23rd, 2023">Conversational Capacity - Virtual - August 23rd, 2023</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - August 24th, 2023">Crucial Life Changing Skills, The Power of Habit - August 24th, 2023</option>
-                                                <option value="Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023">Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023</option>
+                                                <option value="Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023">Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023</option> */}
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023">Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023</option>
                                                 <option value="September 19th - 22nd, 2023 - DiSC Certification Virtual Workshop">September 19th - 22nd, 2023 - DiSC Certification Virtual Workshop</option>
+                                                <option value="The SLII Experience™ - September 25th, 2023">The SLII Experience™ - September 25th, 2023</option>
+                                                <option value="The SLII Experience™ T4T F2F - September 27th, 2023">The SLII Experience™ T4T F2F - September 27th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - September 28th, 2023">Crucial Life Changing Skills, Getting Things Done - September 28th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023">Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - November 29th, 2023">Crucial Life Changing Skills, The Power of Habit - November 29th, 2023</option>

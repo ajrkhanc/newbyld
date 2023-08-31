@@ -112,7 +112,7 @@ export default function VirtualPublicWorkshop() {
                                        {/* <option value="Team Leadership - Virtual July 26th, 2023">Team Leadership - Virtual July 26th, 2023</option> */}
                                        {/* <option value="The SLII Experience™, Virtual - August 7th to 8th, 2023">The SLII Experience™, Virtual - August 7th to 8th, 2023</option>
                                        <option value="The SLII Experience™, T4T - August 9th to 10th, 2023">The SLII Experience™, T4T - August 9th to 10th, 2023</option> */}
-                                       <option value="Conversational Capacity - Virtual - August 23rd, 2023">Conversational Capacity - Virtual - August 23rd, 2023</option>
+                                       {/* <option value="Conversational Capacity - Virtual - August 23rd, 2023">Conversational Capacity - Virtual - August 23rd, 2023</option> */}
                                        <option value="Blanchard Management Essentials - Virtual - September 13th, 2023">Blanchard Management Essentials - Virtual - September 13th, 2023</option>
                                        <option value="Coaching Essentials - Virtual - September 21st, 2023">Coaching Essentials - Virtual - September 21st, 2023</option>
                                        <option value="The SLII Experience™ - September 25th, 2023">The SLII Experience™ - September 25th, 2023</option>
@@ -223,7 +223,7 @@ export default function VirtualPublicWorkshop() {
                               </div>
                            </div> */}
 
-                           <div className="col-sm-4">
+                           {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>Conversational Capacity - Virtual</h3>
@@ -234,7 +234,7 @@ export default function VirtualPublicWorkshop() {
                                     </div>
                                  </div>
                               </div>
-                           </div>
+                           </div> */}
 
                            <div className="col-sm-4">
                               <div className="choose-card">

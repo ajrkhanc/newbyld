@@ -155,7 +155,7 @@ export default function BrowseCourses(){
                         <div class="col-md-6 col-6">
                         <select name='slot' required>
                             <option value="">Pick any Slot*</option>                            
-                            <option value="Workshop - August 24th - 25th, 2023">Workshop - August 24th - 25th, 2023</option>
+                            
                             <option value="Workshop - February 28th - 29th, 2024">Workshop - February 28th - 29th, 2024</option>
                         </select>
                         </div>
@@ -215,7 +215,7 @@ export default function BrowseCourses(){
                           </div> 
                    
 
-                    <div class="col-md-4 workshop-col"> 
+                    {/* <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content green-col"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
@@ -228,7 +228,7 @@ export default function BrowseCourses(){
                             <a href='#registered'><button class="register">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div>
+                    </div> */}
                     
                     <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
