@@ -19,7 +19,7 @@ export default function PodCastinner() {
                             <div className="col-sm-8">
                                 <div className="podcastd">
                                 <h3>The Heart of Human Achievement™ with Scott Blanchard</h3>
-                                <iframe allowfullscreen="" height="90" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" scrolling="no" src="//html5-player.libsyn.com/embed/episode/id/20984681/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/59a3d4/" title="Libsyn Player" webkitallowfullscreen="" width="100%"></iframe>
+                                <iframe allowfullscreen="" height="192" mozallowfullscreen="true" msallowfullscreen="true" oallowfullscreen="true" scrolling="no" src="https://play.libsyn.com/embed/episode/id/26825880/height/192/theme/modern/size/large/thumbnail/yes/custom-color/008264/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" title="Embed Player" webkitallowfullscreen="true" width="100%"></iframe>
                                 <div>
                                     <p>
                                     Hear Scott Blanchard, President of Blanchard®, share information about the recent rebrand of the company. He talks about the new tagline—The Heart of Human Achievement™, and the vision of the company—Leaders Powered for Good. He explains how Blanchard will continue to serve a diverse set of organizations with immersive learning experiences that enable leaders at all levels to turn potential into performance.
