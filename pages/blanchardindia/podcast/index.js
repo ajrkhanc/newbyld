@@ -42,6 +42,18 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/the-heart-of-human-achievement-with-scott-blanchard.jpg" alt="Images" />
+                                            <h3>The Heart of Human Achievement™ with Scott Blanchard</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/the-heart-of-human-achievement-with-scott-blanchard"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
                                             <img src="/kbassets/img/podcast/how-to-lead-from-the-future-with-mark-w-johnson.jpg" alt="Images" />
                                             <h3>How to Lead from the Future with Mark W. Johnson</h3>
                                             <div className='row text-center eventsbottomarea2'>

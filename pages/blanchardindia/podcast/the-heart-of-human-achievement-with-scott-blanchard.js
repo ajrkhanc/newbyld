@@ -5,7 +5,7 @@ export default function PodCastinner() {
     return (
         <>
         <Head>
-        <title>Podcast - A Minute to Think with Juliet Funt</title>
+        <title>Podcast - The Heart of Human Achievement™ with Scott Blanchard</title>
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
@@ -18,14 +18,14 @@ export default function PodCastinner() {
                         <div className="row row-eq-height eventsandworkshopbox">
                             <div className="col-sm-8">
                                 <div className="podcastd">
-                                <h3>A Minute to Think with Juliet Funt</h3>
+                                <h3>The Heart of Human Achievement™ with Scott Blanchard</h3>
                                 <iframe allowfullscreen="" height="90" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" scrolling="no" src="//html5-player.libsyn.com/embed/episode/id/20984681/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/59a3d4/" title="Libsyn Player" webkitallowfullscreen="" width="100%"></iframe>
                                 <div>
                                     <p>
-                                    In this episode, Juliet Funt, globally recognized warrior in the battle against busyness, shares tips from her latest book, A Minute to Think: Reclaim Creativity, Conquer Busyness, and Do Your Best Work. Funt developed a framework to help people regain control of an overloaded, chaotic schedule. She reminds us to insert white space—short periods of open time into our daily routine to reinvent the way we approach a maxed-out schedule.
+                                    Hear Scott Blanchard, President of Blanchard®, share information about the recent rebrand of the company. He talks about the new tagline—The Heart of Human Achievement™, and the vision of the company—Leaders Powered for Good. He explains how Blanchard will continue to serve a diverse set of organizations with immersive learning experiences that enable leaders at all levels to turn potential into performance.
                                     </p>
                                     <p>
-                                    For more information about Juliet Funt, visit <a target="_blank" href='https://www.julietfunt.com/'>www.Julietfunt.com</a>
+                                    For more information, visit <a target="_blank" href='https://www.blanchard.com/'>www.Blanchard.com</a>
                                     </p>
                                 </div>
                                 </div>
