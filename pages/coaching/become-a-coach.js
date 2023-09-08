@@ -236,9 +236,9 @@ export default function Home({ country }) {
                                 <select className='borrr' name='slot' required>
                                     <option value=''>Pick up any Slot*</option>                            
                                     <option value='16 September 2023'>16 September 2023</option>
-                                    <option value='25 November 2023'>25 November 2023</option>
-                                    <option value='27 January 2024'>27 January 2024</option>
-                                    <option value='09 March 2024'>09 March 2024</option>
+                                    <option value='28 October 2023'>28 October 2023</option>
+                                    <option value='06 January 2024'>06 January 2024</option>
+                                    <option value='17 February 2024'>17 February 2024</option>
                                 </select>
                             </div>
 
@@ -705,7 +705,7 @@ export default function Home({ country }) {
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
                                 <div className='dateside'>
                                     <div className='datefont'>
-                                        25<br></br> Nov
+                                    28<br></br> Oct
                                     </div>
                                 </div>
                                 <div className='textsidec'>
@@ -729,7 +729,7 @@ export default function Home({ country }) {
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
                                 <div className='dateside'>
                                     <div className='datefont'>
-                                        27<br></br> Jan
+                                    06<br></br> Jan
                                     </div>
                                 </div>
                                 <div className='textsidec'>
@@ -754,7 +754,7 @@ export default function Home({ country }) {
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
                                 <div className='dateside'>
                                     <div className='datefont'>
-                                        09<br></br> March
+                                    17<br></br> Feb
                                     </div>
                                 </div>
                                 <div className='textsidec'>

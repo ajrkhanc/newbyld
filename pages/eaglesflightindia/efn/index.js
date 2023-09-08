@@ -205,7 +205,7 @@ export default function Home() {
                         <div className='col-sm-6'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
                               <h1>We are the authorized partners of Eagle’s Flight in India</h1>
-                              <p>We impact knowledge in various fields to build a sustainable future.</p>
+                              
                               <div className="btn-part ptt-10 pbb-30">
                                  <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                               </div>
@@ -221,9 +221,7 @@ export default function Home() {
                         <div className='col-sm-6'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
                               <h1>We are the authorized partners of Eagle’s Flight in India</h1>
-                              <p>
-                                 Our exclusive partnership with enables you to learn from the best trainers.
-                              </p>
+                             
                               <div className="btn-part ptt-10 pbb-30">
                                  <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                               </div>
