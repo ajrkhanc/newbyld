@@ -16,7 +16,9 @@
 .zinc {
     position: relative;
 }
-
+.ajcenter{
+    text-align: center !important;
+}
 
 .backgroundwhit{
     background-color: #fff !important;

@@ -230,10 +230,10 @@ export default function Home() {
                      <div className='row align-items-center'>
                         <div className='col-sm-5'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
-                              <h1>Leading you towards success</h1>
-                              <p>Everything we do has the potential to ignite your inner spark and transform the world around you.</p>
+                              <h1>Driving You Toward Individual and Organizational Excellence</h1>
+                              <p>With our effective and proven business solutions, we can transform your personal and professional life to help you achieve the pinnacle of success.</p>
                               <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
+                                 <Link href="#"><a className="readon2">Explore More <div className="btn-arrow"></div></a></Link>
                               </div>
                            </div>
                         </div>
@@ -241,7 +241,7 @@ export default function Home() {
                   </div>
                </div>
 
-               <div className='slide2c'>
+               {/* <div className='slide2c'>
                   <div className='container'>
                      <div className='row align-items-center'>
                         <div className='col-sm-5'>
@@ -289,7 +289,7 @@ export default function Home() {
                         </div>
                      </div>
                   </div>
-               </div>
+               </div> */}
             </Slider>
          </section>
 
@@ -297,11 +297,13 @@ export default function Home() {
             <div className='container'>
                <div className='row'>
                   <div className='col-sm-6'>
-                     <div class="sub-text supperh wow fadeInUp delay-0-2s animated animateUP">What We Offer</div>
-                     <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Shaping your abilities with curated solutions</h2>
+                     <div class="sub-text supperh wow fadeInUp delay-0-2s animated animateUP">What can we offer? </div>
+                     <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Nurturing your full potential and abilities with our curated solutions</h2>
                   </div>
                   <div className='col-sm-6'>
-                     <p class="mb-0 mtt-40 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">As a one-stop destination for building extraordinary talent, we create sustainable growth for individuals and organizations by empowering them through our expertise in learning and people solutions.</p>
+                     <p class="mb-0 mtt-40 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
+                     We empower organizations and individuals to excel and achieve sustainable growth by offering them our expertise in learning and people solutions. Further, we are a one-stop destination for business productivity, leadership development, HR solutions, team performance, and other domains.
+                     </p>
                      <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
                         <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                      </div>
@@ -337,7 +339,7 @@ export default function Home() {
                   </div>
                   <div className='col-sm-9'>
                      <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                        BYLD Plus is an initiative of BYLD PeopleFirst Limited – a 100-year legacy in an exclusive partnership with Training, the global leader in behavioral skills. At BYLD Plus, over the years, the mission has expanded from essential and behavioral skills for the corporate sector to HR consultancy and Skilling for employability, entrepreneurship, and empowerment.
+                     BYLD Group is committed to making a difference to people and their organizations through its decades of excellence in business solutions, diverse corporate exposure, and skilled workforce. Our clients across various industries believe us in managing, developing, and aligning their corporate needs with their organizational goals and objectives.
                      </p>
                   </div>
                </div>
@@ -530,8 +532,8 @@ export default function Home() {
                <div className='row'>
                   <div className='col-sm-2'></div>
                   <div className='col-sm-8 text-center'>                    
-                     <p class="mb-0 pall pbb-20 ptt-10 wow fadeInUp delay-0-2s animated animateUP text-center">
-                        Our vision remains true to original dream; to impact as many lives as possible through transformational and self-improvement experiences, that only we offer. At BYLD Plus, we would like to be a strategic partner for the government in its skilling mission. Our goal is to make a brand of choice for corporations and individuals for their training and talent development needs
+                     <p class="mb-0 pall pbb-20 ptt-10 wow fadeInUp delay-0-2s animated animateUP">
+                     We are driven by the mission to impact numerous organizations and individuals through our journey of transformation and self-improvement. BYLD Group aims to empower corporations and individuals to accomplish their training needs and become a trusted partner in their exceptional professional journey.
                      </p>
                      <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
                         <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
@@ -545,7 +547,7 @@ export default function Home() {
             <div className='container'>
                <div className='row'>
                   <div className='col-sm-12 text-center pbb-30'>
-                     <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Join the BYLD family</h2>
+                     <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Join the BYLD Family</h2>
                   </div>
                </div>
             </div>
@@ -564,11 +566,11 @@ export default function Home() {
             <div class="container">
                <div className='row'>
                   <div className='col-sm-3'>
-                     <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Get in touch</h2>
+                     <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Want to Bring the Real Change? </h2>
                   </div>
                   <div className='col-sm-9'>
                      <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                        Avail the development stream that is essential for your professional requirement. For more information, feel free to fill the form and we will get back to you
+                     Whether you want to elevate your leadership skills, improve self-awareness, enhance productivity, unlock the full potential of your workforce, or strengthen communication skills, we are here to help you. Fill out the details in our form, and our experts will get back to you soon.
                      </p>
                   </div>
                </div>

@@ -157,14 +157,14 @@ export default function Home() {
                         <div className='col-sm-1'></div>
                         <div className='col-sm-10 zindx'>
                             <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                                At BYLD PeopleFirst, we are in the business of uplifting lives and augmenting progress. We are a passionate bunch, driven by the desire to bring about true change in individuals and organizations and ultimately, the world. Our aspirations are grand, just like the projects we undertake.
+                            BYLD Group is the frontrunner organization in terms of being people-centric and is working toward transforming businesses and people’s lives. We are highly professional, competent, and determined to change how companies operate, leverage their resources, and optimally utilize their people and skills.
                             </p>
-                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Life @ BYLD</h2>
+                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Professional Life @BYLD Group</h2>
                             <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                                At BYLD, each and every employee is like an important family member. Our everyday lives revolve around each other and across our 6 locations, we live like one big extended family. Collaboration, fun and challenges co-exist in a stimulating environment that enables innovation, a sense of purpose and passion for being an industry benchmark.
+                            We believe in growing together with our employees, who have firmly stood behind us through our thick and thin times. Our organization follows the strong ethics of a healthy work culture where everyone can thrive, communicate, and grow without prejudice.
                             </p>
                             <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                                Whether it’s through the culture of continuous learning or the spirit of community service, there are a number of opportunities to empower heart, mind and soul at BYLD.
+                            We are eager to nurture a workplace environment that fosters innovation, shared purpose, empowerment, and continuous learning among our employees. 
                             </p>
                         </div>
                     </div>
@@ -269,7 +269,7 @@ export default function Home() {
                     <div className="row ">
                         <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Join the BYLD Family</h2>
                         <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                            Want a chance to work with talented professionals in the industry, network, grow, and excel in your <br></br>career? <b>APPLY NOW!</b>
+                        Want to excel professionally, enhance your abilities, and strengthen a strong network of growth opportunities? <b>APPLY NOW!</b>
                         </p>
                     </div>
 
@@ -476,11 +476,11 @@ export default function Home() {
                 <div class="container">
                     <div className='row'>
                         <div className='col-sm-3'>
-                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Get in touch</h2>
+                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Want to Grow with Us?</h2>
                         </div>
                         <div className='col-sm-9'>
                             <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                                Avail the development stream that is essential for your professional requirement. For more information, feel free to fill the form and we will get back to you
+                            If you want to enjoy an impeccable career growth or shape your career in the right direction, join our corporate journey. Fill out our form, and we will quickly get in touch with you.
                             </p>
                         </div>
                     </div>

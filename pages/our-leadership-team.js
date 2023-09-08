@@ -146,7 +146,7 @@ export default function Home() {
                                     Our Leadership Team
                                 </h1>
                                 <span class="sub-text wow fadeInUp delay-0-2s animated animateUP">
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.
+                                The illustrious journey of BYLD Group has been shaped by the vision, beliefs, corporate knowledge, and prowess of our veteran leaders, who have the power to bring real change to people and organizations. With their extraordinary spirit, grit, and determination, we are steadily scaling new milestones every day.
                                 </span>
                             </div>
                         </div>
@@ -351,11 +351,11 @@ export default function Home() {
                 <div class="container">
                     <div className='row'>
                         <div className='col-sm-3'>
-                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Get in touch</h2>
+                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Want to Bring the Real Change? </h2>
                         </div>
                         <div className='col-sm-9'>
                             <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
-                                Avail the development stream that is essential for your professional requirement. For more information, feel free to fill the form and we will get back to you
+                            Whether you want to elevate your leadership skills, improve self-awareness, enhance productivity, unlock the full potential of your manpower, or strengthen communication skills, we are here to help you. Fill out the details in our form, and our experts will get back to you soon.
                             </p>
                         </div>
                     </div>
