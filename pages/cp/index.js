@@ -469,9 +469,40 @@ export default function JoinOurPartnerNetworkLP() {
                 </ModalBody>
             </Modal> */}
 
-            <section className='cplps1 ptt-50 pbb-50'>
+<div class="rs-breadcrumbs cpbg">
+                <div class="container">
+                    <div class="breadcrumb-container theme1 wow fadeInUp delay-0-2s animated animateUP">
+                        <ul>
+                            <li>
+                                <a href="/">
+                                    <span>Home</span>
+                                </a>
+                                <span class="separator">/</span>
+                            </li>
+                            <li>
+                                <a href="/cp">
+                                    <span>Consulting Practice</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div className='row'>
+                        <div className='col-sm-8'>
+                            <div class="breadcrumbs-inner">                                
+                                <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
+                                Consulting Practice
+                                </h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <section className='cplps1 ptt-50 pbb-50 positionrelative'>
                 <div className='container'>
-                    <div className='row align-items-center'>
+                    <div className='row align-items-center zindx'>
                         <div className='col-sm-6'>
                             <div>
                                 <h1>We Diagnose Your Problems, Curate an Action Plan, and Offer Bespoke Solutions for Actionable Results</h1>
@@ -485,6 +516,12 @@ export default function JoinOurPartnerNetworkLP() {
                             </div>
                         </div>
                     </div>
+
+                    <div className='clearfix'></div>                   
+                    <div className='solutionarrowbox2'>
+                        <img src="/assets/img/homeb/orangearrow1.png" />
+                    </div>
+
                 </div>
             </section>
 
@@ -713,9 +750,9 @@ export default function JoinOurPartnerNetworkLP() {
             </section>
 
 
-            <section id='GetinTouch' className='ptt-50 pbb-70 cplps4'>
+           <section id='GetinTouch' className='ptt-50 pbb-70 cplps4 positionrelative'>
                 <div className="container">
-                    <div className="row">
+                    <div className="row zindx">
                         <div className='col-sm-12'>
                             <div class="sec-title3 text-center mb-30">
                                 <h2 class="title color2 font345">Let Us Explore Our Professional Journey Together</h2>
@@ -806,6 +843,15 @@ export default function JoinOurPartnerNetworkLP() {
                             </div>
                         </div> */}
                     </div>
+
+                    <div className='clearfix'></div>
+                    <div className='solutionarrowbox1'>
+                        <img src="/assets/img/homeb/orangearrow.png" />
+                    </div>
+                    <div className='solutionarrowbox2'>
+                        <img src="/assets/img/homeb/bluearrow1.png" />
+                    </div>
+                    
                 </div>
             </section>
 

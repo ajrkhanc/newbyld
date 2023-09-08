@@ -44,18 +44,42 @@ export default function WebinarsAndProgramExperience() {
             <Head>
                 <title>Webinars and Program Experience - BYLD Group</title>
                 <meta name="description" content="Batches till 20th April 2022 Crucial Life Changing Skills Batches till 20th April 2022 Reserve Your Seat Batches till 29th April 2022 Blanchard India Webinars Batches till 29th April 2022 Reserve Your Seat May 4th, 2022Trapologist at WorkTM Webinar 4th May 2022 Reserve Your Seat Webinar May 6th, 2022Five Behaviours Team Development Webinar 6th May… Continue reading Webinars and Program Experience" />
+                <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
+            <div class="rs-breadcrumbs webinarsbg">
+                <div class="container">
+                    <div class="breadcrumb-container theme1 wow fadeInUp delay-0-2s animated animateUP">
+                        <ul>
+                            <li>
+                                <a href="/">
+                                    <span>Home</span>
+                                </a>
+                                <span class="separator">/</span>
+                            </li>
+                            <li>
+                                <a href="/webinars-and-program-experience">
+                                    <span>Webinars</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
 
-            <section className='ptt-20 pbb-20'>
-                <div className='container'>
                     <div className='row'>
-                        <div className='col-sm-12'>
-                            <div className="sec-title3 mbb-35">
-                                <h4 className="countertoph2 text-center font30">Register For Your Complimentary Virtual Events</h4>
-                                <div className="heading-border-line center-style"></div>
+                        <div className='col-sm-8'>
+                            <div class="breadcrumbs-inner">
+                                <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
+                                    Register For Your Complimentary <br></br>Virtual Events
+                                </h1>
                             </div>
                         </div>
-                        <div className='clearfix'></div>
+                    </div>
+                </div>
+            </div>
+
+            <section className='ptt-60 pbb-60 positionrelative'>
+                <div className='container'>
+                    <div className='row zindx'>
+                        
 
 
                         {/* <div className='col-sm-4'>
@@ -303,43 +327,55 @@ export default function WebinarsAndProgramExperience() {
 
 
                     </div>
+                    <div className='clearfix'></div>
+                    <div className='solutionarrowbox1'>
+                        <img src="/assets/img/homeb/orangearrow.png" />
+                    </div>
+                    <div className='solutionarrowbox2'>
+                        <img src="/assets/img/homeb/bluearrow1.png" />
+                    </div>
                 </div>
             </section>
 
-            <div id="Register" className="rs-testimonial style4 tirianformbg ptt-50 pbb-70">
+            <div id="Register" class="homecon ptt-60">
                 <div className="container">
-                    <div className="row">
-                        <div className="clearfix"></div>
 
-                        <div className='col-sm-2'></div>
-                        <div className="col-sm-8">
-                            <div className="bannerform tirianformshd">
+                <div className='row'>
+                        <div className='col-sm-12 text-center'>
+                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Register Now</h2>
+                        </div>
+                    </div>
+                    <div class="row y-middle">                      
+
+                    <div class="col-lg-5 md-mb-50">
+                            <div class="contact-img wow fadeInUp delay-0-2s animated animateUP">
+                                <img src="/assets/img/homeb/contactl.png" alt="Contact" />
+                            </div>
+                        </div>
+
+                        <div class="col-lg-7">
+                        <div class="contact-wrap">
+                            <div className="bannerform wow fadeInUp delay-0-2s animated animateUP">
                                 <form id="contact-form" className='clientcornner ptt-5 pbb-20' onSubmit={registerUser}>
                                     <div className="row">
-                                        <div className='col-sm-12'>
-                                            <div className="sec-title3 mbb-35 text-center">
-                                                <h4 className="countertoph2 text-center font30">Register Now</h4>
-                                                <div className="heading-border-line center-style"></div>
-                                            </div>
-
+              
+                                        <div className="col-sm-6 mb-12">
+                                            <input type="text" className='borrr' name="name" placeholder="Your Name*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <input type="text" name="name" placeholder="Your Name*" required />
+                                            <input type="email" className='borrr' name="email" placeholder="Work Email/Email*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <input type="email" name="email" placeholder="Work Email/Email*" required />
+                                            <input type="text" className='borrr' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <input type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                                            <input type="text" className='borrr' name="organization" placeholder="Organization*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <input type="text" name="organization" placeholder="Organization*" required />
+                                            <input type="text" className='borrr' name="Designation" placeholder="Designation*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <input type="text" name="Designation" placeholder="Designation*" required />
-                                        </div>
-                                        <div className="col-sm-6 mb-12">
-                                            <input type="text" name="Location" placeholder="Location*" required />
+                                            <input type="text" className='borrr' name="Location" placeholder="Location*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
                                             <select name="leadsquared_mx_Showed_Interest_in" required>
@@ -375,6 +411,7 @@ export default function WebinarsAndProgramExperience() {
                                         <p id="showlabel" style={{ display: "none" }}></p>
                                     </div>
                                 </form>
+                            </div>
                             </div>
                         </div>
 

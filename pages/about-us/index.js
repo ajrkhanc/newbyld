@@ -92,8 +92,8 @@ export default function Home() {
 
 
             <Head>
-                <title>Our Leadership Team - BYLD Group</title>
-                <meta name="description" content="Meet Our Leadership Team Yogesh Sood CMD – BYLD Group Sandeep Budhiraja Co-Founder – BYLD Group Anand Dewan Group CEO – BYLD Group Nishit Sood Chief Flow Officer – BYLD Group Amar Vijay Tandur Chief Business Officer Ronald Soans Business Head – BYLD Group Meet Our Consulting Team Naveen Kumar Learning Division at DTCI Ranjeet… Continue reading Our Leadership Team" />
+                <title>Organizational Development | E-learning Portal | BYLD Group</title>
+                <meta name="description" content="Willing to know about our E-learning portal? You can find various options for In house training as well. Connect today to know about it and also get to know about the Train The Trainer training for organizational development."/>
                 <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
                 <script
                     dangerouslySetInnerHTML={{
@@ -120,7 +120,7 @@ export default function Home() {
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
-            <div class="rs-breadcrumbs leadershipbrud">
+            <div class="rs-breadcrumbs aboutusbreadcrum">
                 <div class="container">
                     <div class="breadcrumb-container theme1 wow fadeInUp delay-0-2s animated animateUP">
                         <ul>
@@ -131,8 +131,8 @@ export default function Home() {
                                 <span class="separator">/</span>
                             </li>
                             <li>
-                                <a href="/our-leadership-team">
-                                    <span>Our Leadership Team</span>
+                                <a href="/about-us/">
+                                    <span>About Us</span>
                                 </a>
                             </li>
                         </ul>
@@ -141,12 +141,12 @@ export default function Home() {
                     <div className='row'>
                         <div className='col-sm-7'>
                             <div class="breadcrumbs-inner">
-                                <span class="watermark ">TEAM</span>
+                                <span class="watermark ">BYLD</span>
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                    Our Leadership Team
+                                    About Us
                                 </h1>
                                 <span class="sub-text wow fadeInUp delay-0-2s animated animateUP">
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.
+                                    Founded in the year 1998, BYLD is the largest group in the South Asian region, offering technology-enabled HR and business productivity solutions. We have served 5,00,000+ individuals, worked with more than 50% of the Fortune 500 and over 60% of the Business World top 1000 companies.
                                 </span>
                             </div>
                         </div>
@@ -157,103 +157,73 @@ export default function Home() {
 
 
 
-            <section id="rs-team" className='style2 solutionrow ptt-60 pbb-60 rsteam'>
+            <section className='solutionrow ptt-60 pbb-60'>
                 <div className='container'>
                     <div className='row'>
-                        <div className='col-sm-2'></div>
-                        <div className='col-sm-8'>
-                            <h2 class="title pbb-100 mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP pbb-30">Meet Our Leadership Team</h2>
+                        <div className='col-sm-3'>
+                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Our Group Businesses</h2>
+                        </div>
+                        <div className='col-sm-9'>
+                            <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
+                                Founded in the year 1998, BYLD is the largest group in the South Asian region, offering technology-enabled HR and business productivity solutions.
+                            </p>
                         </div>
                     </div>
                     <div className='row zindx'>
-                        <div className='col-sm-2'></div>
-                        <div className='col-sm-8'>
+                        <div className='col-sm-3'></div>
+                        <div className='col-sm-9 zindx'>
                             <div className='row'>
-                                <div className='col-sm-6'>
-                                    <div className='innerteamc mbb-70'>
-                                        <div className='teamimgc1'>
-                                            <a target="_blank" href="/yogesh-sood"><img src="/assets/img/team/yogesh-sood.jpg" alt="" /></a>
-                                        </div>
-                                        <div className="team-info">
-                                            <div className="name">
-                                                <a target="_blank" href="/yogesh-sood">Yogesh Sood</a>
-                                            </div>
-                                            <span className="post">Chairman and Managing Director</span>
-                                        </div>
-                                        <div>
-                                            <ul className="social-icon">
-                                                <li><a target="_blank" href="https://www.linkedin.com/in/yogesh-sood/"><i className="fa fa-linkedin"></i></a></li>
-                                            </ul>
-                                        </div>
-                                        <div className='teampera'>
-                                            <p>CMD, BYLD Group, Blanchard International India, and founder of first SEA chapter of ICF in 2004</p>
+                                <div className='col-sm-4'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>E</span>xperiential Learning</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/homeb/icon/experiential-learning.png" alt="images" />
+                                            <img className='hover' src="/assets/img/homeb/icon/experiential-learningw.png" alt="images" />
                                         </div>
                                     </div>
                                 </div>
-
-                                <div className='col-sm-6'>
-                                    <div className='innerteamc mbb-70'>
-                                        <div className='teamimgc1'>
-                                            <a href="#"><img src="/assets/img/team/sandeep.jpg" alt="" /></a>
-                                        </div>
-                                        <div className="team-info">
-                                            <div className="name">
-                                                <a href="#">Sandeep Budhiraja</a>
-                                            </div>
-                                            <span className="post">Co-Founder and Executive Director, Chief People Officer - BYLD Group</span>
-                                        </div>
-                                        <div>
-                                            <ul className="social-icon">
-                                                <li><a target="_blank" href="https://www.linkedin.com/in/sanbuds/"><i className="fa fa-linkedin"></i></a></li>
-                                            </ul>
-                                        </div>
-                                        <div className='teampera'>
-                                            <p>Certified trainer for Self Track and Other's Track from Partners in Leadership. Global leader in Accountability Training.</p>
+                                <div className='col-sm-4'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>L</span>eadership & Performance</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
+                                            <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
                                         </div>
                                     </div>
                                 </div>
-
-
-                                <div className='col-sm-6'>
-                                    <div className='innerteamc'>
-                                        <div className='teamimgc1'>
-                                            <a href="#"><img src="/assets/img/team/anand.jpg" alt="" /></a>
-                                        </div>
-                                        <div className="team-info">
-                                            <div className="name">
-                                                <a href="#">Anand Dewan</a>
-                                            </div>
-                                            <span className="post">Group CEO</span>
-                                        </div>
-                                        <div>
-                                            <ul className="social-icon">
-                                                <li><a target="_blank" href="https://www.linkedin.com/in/anand-dewan-87528a129/"><i className="fa fa-linkedin"></i></a></li>
-                                            </ul>
-                                        </div>
-                                        <div className='teampera'>
-                                            <p>Passionate about empowering others to live their purpose. I am passionate about creating a positive, trusting and learning...</p>
+                                <div className='col-sm-4'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>A</span>ssessments</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/homeb/icon/assessments.png" alt="images" />
+                                            <img className='hover' src="/assets/img/homeb/icon/assessmentsw.png" alt="images" />
                                         </div>
                                     </div>
                                 </div>
-
-                                <div className='col-sm-6'>
-                                    <div className='innerteamc'>
-                                        <div className='teamimgc1'>
-                                            <a href="#"><img src="/assets/img/team/nishit.jpg" alt="" /></a>
+                                <div className='col-sm-4'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>B</span>eSpoke</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/homeb/icon/bespoke.png" alt="images" />
+                                            <img className='hover' src="/assets/img/homeb/icon/bespokew.png" alt="images" />
                                         </div>
-                                        <div className="team-info">
-                                            <div className="name">
-                                                <a href="#">Nishit Sood</a>
-                                            </div>
-                                            <span className="post">Chief Flow Officer</span>
+                                    </div>
+                                </div>
+                                <div className='col-sm-4'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>C</span>oaching</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/homeb/icon/coaching.png" alt="images" />
+                                            <img className='hover' src="/assets/img/homeb/icon/coachingw.png" alt="images" />
                                         </div>
-                                        <div>
-                                            <ul className="social-icon">
-                                                <li><a target="_blank" href="https://www.linkedin.com/in/nishitsood/"><i className="fa fa-linkedin"></i></a></li>
-                                            </ul>
-                                        </div>
-                                        <div className='teampera'>
-                                            <p>ENTREPRENEURIAL JOURNEY:- Currently running a pan India business services and IT company.</p>
+                                    </div>
+                                </div>
+                                <div className='col-sm-4'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>S</span>taffing & Search</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/homeb/icon/staffing-search.png" alt="images" />
+                                            <img className='hover' src="/assets/img/homeb/icon/staffing-searchw.png" alt="images" />
                                         </div>
                                     </div>
                                 </div>
@@ -273,13 +243,73 @@ export default function Home() {
             </section>
 
 
+            <section className='aboutmap ptt-50 pbb-40'>
+                <div className='container'>
+                    <div className='row'>
+                        <div className='col-sm-6'>
+                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP"><h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Our Presence</h2></h2>
+                            <p class="mb-0 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
+                                Founded in the year 1998, BYLD is the largest group in the South Asian region, offering technology-enabled HR and business productivity solutions.
+                            </p>
+                            <div className='row'>
+                                <div className='col-sm-6'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>G</span>urugram</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/new/icon/mapn.png" alt="images" />
+                                            <img className='hover' src="/assets/img/new/icon/maph.png" alt="images" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div className='col-sm-6'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>H</span>yderabad</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/new/icon/mapn.png" alt="images" />
+                                            <img className='hover' src="/assets/img/new/icon/maph.png" alt="images" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div className='col-sm-6'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>M</span>umbai</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/new/icon/mapn.png" alt="images" />
+                                            <img className='hover' src="/assets/img/new/icon/maph.png" alt="images" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div className='col-sm-6'>
+                                    <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
+                                        <h4><span>B</span>engaluru</h4>
+                                        <div className='cicon'>
+                                            <img className='active' src="/assets/img/new/icon/mapn.png" alt="images" />
+                                            <img className='hover' src="/assets/img/new/icon/maph.png" alt="images" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='col-sm-6'>
+                            <img src="/assets/img/new/contact-map.svg" />
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+
             <div className="rs-about style2 logosl ptt-50 pbb-50">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12">
                             <div className="pb-50">
-                                <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Authorized Partners</h2>
-                                <br></br>
+                            <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Authorized Partners</h2>
+                            <br></br>
                                 <Slider {...settings}>
 
                                     <div className='logoslider wow fadeInUp delay-0-2s animated animateUP'>

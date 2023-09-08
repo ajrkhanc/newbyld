@@ -15,7 +15,23 @@ export default function Header() {
     </div>
     </div> */}
 
-
+            <div class="modal fade search-modal" id="searchModal" tabindex="-1">
+                <button type="button" class="close" data-bs-dismiss="modal">
+                    <span class="flaticon-cross"></span>
+                </button>
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="search-block clearfix">
+                            <form>
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Search Here..." type="text" />
+                                    <button type="submit" value="Search"><i class="flaticon-search"></i></button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <div className="full-width-header">
                 <header id="rs-header" className="rs-header style2 header-transparent">
@@ -68,8 +84,11 @@ export default function Header() {
                                         <div className="main-menu">
                                             <nav className="rs-menu hidden-md">
                                                 <ul className="nav-menu">
+                                                    {/* <li>
+                                                        <a href="/">HOME</a>
+                                                    </li> */}
                                                     <li className="menu-item-has-children">
-                                                        <a href="#">OUR SOLUTIONS</a>
+                                                    <a href="/our-solutions">OUR SOLUTIONS</a>
                                                         <ul className="sub-menu">
                                                             <li className="last-item menu-item-has-children">
                                                                 <a href="/our-solutions/experiential-learning">Experiential Learning</a>
@@ -84,7 +103,7 @@ export default function Header() {
                                                             <li className="last-item menu-item-has-children">
                                                                 <a href="/our-solutions/leadership-and-talent-development">Leadership & Performance</a>
                                                                 <ul className="sub-menu">
-                                                                    <li><a target="_blank" href="https://byldgroup.com/blanchardindia">Blanchard India</a></li>
+                                                                    <li><a target="_blank" href="https://blanchardinternational.co.in/">Blanchard India</a></li>
                                                                     <li><a target="_blank" href="/cruciallifechangingskills/">Crucial Life Changing Skills</a></li>
                                                                     <li><a href='/tirian'>Tirian</a></li>
                                                                     <li><a href="/leadership-and-performance/trapologist">Trapologist at Work™</a></li>
@@ -101,10 +120,10 @@ export default function Header() {
                                                                 </ul>
                                                             </li>
                                                             <li className="last-item menu-item-has-children">
-                                                                <a href="/bespoke">Custom Solutions (BeSpoke)</a>
+                                                                <a href="/bespoke">BeSpoke</a>
                                                                 <ul className="sub-menu">
                                                                     <li><a href="/bespoke/persona-global">Persona Global</a> </li>
-                                                                    <li><a target='_blank' href="https://doortraining.co.in/">DTCI</a></li>
+                                                                    <li className='d-none'><a href="#">SLI</a></li>
                                                                     <li className='d-none'><a href="#">Large Projects</a></li>
                                                                 </ul>
                                                             </li>
@@ -132,16 +151,15 @@ export default function Header() {
                                                     <li>
                                                         <a href="/cp">CONSULTING PRACTICE</a>
                                                     </li>
+                                                    
                                                     <li className="menu-item-has-children">
                                                         <a href="/about-us">ABOUT US</a>
                                                         <ul className="sub-menu">
                                                             <li><a href="/mission-vision-values">Mission, Vision and Values</a></li>
                                                             <li><a href="/our-leadership-team">Our Leadership Team</a></li>
+                                                            <li><a href="/client-corner">Client Corner</a></li>
                                                         </ul>
-                                                    </li>
-                                                    <li>
-                                                        <a href="/client-corner">CLIENT CORNER</a>
-                                                    </li>
+                                                    </li>                                                    
                                                     <li className="menu-item-has-children">
                                                         <a href="#">EVENTS</a>
                                                         <ul className="sub-menu">
@@ -149,13 +167,8 @@ export default function Header() {
                                                             <li><a href="/workshops">Workshops</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li className="menu-item-has-children">
-                                                        <a href="#">RESOURCES</a>
-                                                        <ul className="sub-menu">
-                                                            <li><a href="/blog">Blogs</a></li>
-                                                            <li><a href="/ebook">E-books</a></li>
-                                                            <li><a href="/white-paper">White Paper</a></li>
-                                                        </ul>
+                                                    <li>
+                                                        <a href="/blog">BLOG</a>
                                                     </li>
                                                     <li className="menu-item-has-children">
                                                         <a href="#">MEDIA</a>
@@ -166,6 +179,9 @@ export default function Header() {
                                                         </ul>
                                                     </li>
                                                     <li>
+                                                        <a href="/careers">CAREERS</a>
+                                                    </li>
+                                                    <li>
                                                         <a href="/contact-us">CONTACT US</a>
                                                     </li>
                                                 </ul>
@@ -173,10 +189,15 @@ export default function Header() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-cell dnoneinpc">
+                                <div className="col-cell">
                                     <div className="expand-btn-inner">
                                         <ul>
-                                            <li className="humburger">
+                                            <li class="search-parent">
+                                                <a class="hidden-xs rs-search" data-bs-toggle="modal" data-bs-target="#searchModal" href="#">
+                                                    <i class="flaticon-search"></i>
+                                                </a>
+                                            </li>
+                                            {/* <li className="humburger">
                                                 <a id="nav-expander" className="nav-expander bar" href="#">
                                                     <div className="bar">
                                                         <span className="dot1"></span>
@@ -190,7 +211,7 @@ export default function Header() {
                                                         <span className="dot9"></span>
                                                     </div>
                                                 </a>
-                                            </li>
+                                            </li> */}
                                         </ul>
                                     </div>
                                 </div>
@@ -261,8 +282,11 @@ export default function Header() {
                             </a>
                         </div>
                         <ul className="nav-menu">
+                            {/* <li>
+                                <a href="/">HOME</a>
+                            </li> */}
                             <li className="menu-item-has-children">
-                                <a href="#">OUR SOLUTIONS</a>
+                            <a href="/our-solutions">OUR SOLUTIONS</a>
                                 <ul className="sub-menu">
                                     <li className="last-item menu-item-has-children">
                                         <a href="/our-solutions/experiential-learning">Experiential Learning</a>
@@ -277,7 +301,7 @@ export default function Header() {
                                     <li className="last-item menu-item-has-children">
                                         <a href="/our-solutions/leadership-and-talent-development">Leadership & Performance</a>
                                         <ul className="sub-menu">
-                                            <li><a target="_blank" href="/blanchardinternational">Blanchard India</a></li>
+                                            <li><a target="_blank" href="https://blanchardinternational.co.in/">Blanchard India</a></li>
                                             <li><a target="_blank" href="/cruciallifechangingskills/">Crucial Life Changing Skills</a></li>
                                             <li><a href='/tirian'>Tirian</a></li>
                                             <li><a href="/leadership-and-performance/trapologist">Trapologist at Work™</a></li>
@@ -294,10 +318,10 @@ export default function Header() {
                                         </ul>
                                     </li>
                                     <li className="last-item menu-item-has-children">
-                                        <a href="/bespoke">Custom Solutions (BeSpoke)</a>
+                                        <a href="/bespoke">BeSpoke</a>
                                         <ul className="sub-menu">
                                             <li><a href="/bespoke/persona-global">Persona Global</a> </li>
-                                            <li><a target='_blank' href="https://doortraining.co.in/">DTCI</a></li>
+                                            <li className='d-none'><a href="#">SLI</a></li>
                                             <li className='d-none'><a href="#">Large Projects</a></li>
                                         </ul>
                                     </li>
@@ -319,11 +343,9 @@ export default function Header() {
                                             <li className=''><a target="_blank" href="https://www.yomatechnologies.in/">YOMA Technologies</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="/join-our-partner-network">Partner Network</a></li>
+
+
                                 </ul>
-                            </li>
-                            <li>
-                                <a href="/cp">CONSULTING PRACTICE</a>
                             </li>
                             <li className="menu-item-has-children">
                                 <a href="/about-us">ABOUT US</a>
@@ -342,13 +364,8 @@ export default function Header() {
                                     <li><a href="/workshops">Workshops</a></li>
                                 </ul>
                             </li>
-                            <li className="menu-item-has-children">
-                                <a href="#">RESOURCES</a>
-                                <ul className="sub-menu">
-                                    <li><a href="/blog">Blogs</a></li>
-                                    <li><a href="/ebook">E-books</a></li>
-                                    <li><a href="/white-paper">White Paper</a></li>
-                                </ul> 
+                            <li>
+                                <a href="/blog">BLOG</a>
                             </li>
                             <li className="menu-item-has-children">
                                 <a href="#">MEDIA</a>
