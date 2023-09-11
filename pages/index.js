@@ -229,7 +229,7 @@ export default function Home() {
                <div className='slide1c'>
                   <div className='container'>
                      <div className='row align-items-center'>
-                        <div className='col-sm-5'>
+                        <div className='col-sm-7'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
                               <h1>Driving You toward Individual and Organizational Excellence</h1>
                               <p>With our effective and proven business solutions, we can transform your personal and professional life to help you achieve the pinnacle of success.</p>
@@ -245,7 +245,7 @@ export default function Home() {
                <div className='slide2c'>
                   <div className='container'>
                      <div className='row align-items-center'>
-                        <div className='col-sm-5'>
+                        <div className='col-sm-6'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
                               <h1>Tailor Your Corporate Needs with Our Customized Solutions </h1>
                               <p>Based on a careful and detailed assessment of client needs, we can curate corporate solutions to drive excellence.</p>
@@ -261,7 +261,7 @@ export default function Home() {
                <div className='slide3c'>
                   <div className='container'>
                      <div className='row align-items-center'>
-                        <div className='col-sm-5'>
+                        <div className='col-sm-7'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
                               <h1>Empowering Businesses to Achieve Their Goals</h1>
                               <p>We offer knowledge, skills, and expertise in various domains to help companies build a sustainable future.</p>
@@ -277,7 +277,7 @@ export default function Home() {
                <div className='slide4c'>
                   <div className='container'>
                      <div className='row align-items-center'>
-                        <div className='col-sm-5'>
+                        <div className='col-sm-7'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
                               <h1>Get Instant Global Credibility and Recognition</h1>
                               <p>
