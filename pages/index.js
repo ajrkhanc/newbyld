@@ -231,10 +231,10 @@ export default function Home() {
                      <div className='row align-items-center'>
                         <div className='col-sm-5'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
-                              <h1>Driving You Toward Individual and Organizational Excellence</h1>
+                              <h1>Driving You toward Individual and Organizational Excellence</h1>
                               <p>With our effective and proven business solutions, we can transform your personal and professional life to help you achieve the pinnacle of success.</p>
                               <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="#our-solutions"><a className="readon2">Explore More <div className="btn-arrow"></div></a></Link>
+                                 <Link href="/contact-us"><a className="readon2">Contact Now <div className="btn-arrow"></div></a></Link>
                               </div>
                            </div>
                         </div>
@@ -242,15 +242,15 @@ export default function Home() {
                   </div>
                </div>
 
-               {/* <div className='slide2c'>
+               <div className='slide2c'>
                   <div className='container'>
                      <div className='row align-items-center'>
                         <div className='col-sm-5'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
-                              <h1>Equipping you with customised solutions</h1>
-                              <p>Our courses for individuals, professionals, organisations, and institutions and thoughtfully curated to drive success.</p>
+                              <h1>Tailor Your Corporate Needs with Our Customized Solutions </h1>
+                              <p>Based on a careful and detailed assessment of client needs, we can curate corporate solutions to drive excellence.</p>
                               <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
+                                 <Link href="/contact-us"><a className="readon2">Contact Now <div className="btn-arrow"></div></a></Link>
                               </div>
                            </div>
                         </div>
@@ -263,10 +263,10 @@ export default function Home() {
                      <div className='row align-items-center'>
                         <div className='col-sm-5'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
-                              <h1>Empowering you with the greatest goals</h1>
-                              <p>We impact knowledge in various fields to build a sustainable future.</p>
+                              <h1>Empowering Businesses to Achieve Their Goals</h1>
+                              <p>We offer knowledge, skills, and expertise in various domains to help companies build a sustainable future.</p>
                               <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
+                                 <Link href="/contact-us"><a className="readon2">Contact Now <div className="btn-arrow"></div></a></Link>
                               </div>
                            </div>
                         </div>
@@ -279,22 +279,22 @@ export default function Home() {
                      <div className='row align-items-center'>
                         <div className='col-sm-5'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
-                              <h1>Paving way for global recognition</h1>
+                              <h1>Get Instant Global Credibility and Recognition</h1>
                               <p>
-                                 Our exclusive partnership with enables you to learn from the best trainers.
+                              Our experienced mentors, trainers, and subject matter experts will ensure you get the best corporate training and exposure.
                               </p>
                               <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
+                                 <Link href="/contact-us"><a className="readon2">Contact Now <div className="btn-arrow"></div></a></Link>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
-               </div> */}
+               </div>
             </Slider>
          </section>
 
-         <section className='ptt-50 pbb-60'>
+         <section className='ptt-50 pbb-30'>
             <div className='container'>
                <div className='row'>
                   <div className='col-sm-6'>
@@ -306,7 +306,7 @@ export default function Home() {
                      We empower organizations and individuals to excel and achieve sustainable growth by offering them our expertise in learning and people solutions. Further, we are a one-stop destination for business productivity, leadership development, HR solutions, team performance, and other domains.
                      </p>
                      <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
-                        <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
+                        <Link href="#our-solutions"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                      </div>
                   </div>
                </div>
@@ -316,7 +316,8 @@ export default function Home() {
          <section className='ptt-0 pbb-60'>
             <div className='container'>
                <div className='row'>
-                  <div className='col-sm-12'>
+                  <div className='col-sm-12 text-center'>
+                  <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP pbb-30">Nurturing a Healthy and Inclusive Work Culture to Transform the <br></br>Lives of People Around Us </h2>
                      <div class="rs-videos choose-video wow fadeInUp delay-0-2s animated animateUP">
                         <div class="images-video">
                            <img src="/assets/img/homeb/newbyldb.jpg" alt="images" />
