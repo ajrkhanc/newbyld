@@ -537,7 +537,7 @@ export default function Home() {
             <div className='container'>
                <div className='row'>
                   <div className='col-sm-12 text-center'>
-                  <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Partnership with a global leader</h2>
+                  <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Partnership with global leaders</h2>
                   </div>
                </div>
             </div>
@@ -546,8 +546,11 @@ export default function Home() {
                <div className='row'>
                   <div className='col-sm-2'></div>
                   <div className='col-sm-8 text-center'>                    
+                     <p class="mb-0 pall pbb-0 ptt-10 wow fadeInUp delay-0-2s animated animateUP ajcenter">
+                     We are driven by the strong desire to deliver the best corporate solutions and trainings to our valuable clients by establishing strong business partnerships with global training and learning providers.
+                     </p>
                      <p class="mb-0 pall pbb-20 ptt-10 wow fadeInUp delay-0-2s animated animateUP ajcenter">
-                     We are driven by the mission to impact numerous organizations and individuals through our journey of transformation and self-improvement. BYLD Group aims to empower corporations and individuals to accomplish their training needs and become a trusted partner in their exceptional professional journey.
+                     To achieve success in this ever-lasting endeavor, BYLD Group is in partnerships with global players such as Everything DiSC and The Five Behaviors (Wiley brands), Blanchard, Trapologist at Work, Eagle’s Flight, Tirian, Jenson8, Crucial Learning, and so on.
                      </p>
                      <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
                         <Link href="/join-our-partner-network"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
