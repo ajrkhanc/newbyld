@@ -3901,27 +3901,27 @@ table td {
 }
 
 .joinfont h2 {
-  font-family: 'Playfair Display', serif !important;
+  /* font-family: 'Playfair Display', serif !important; */
 }
 
 .joinfont h1 {
-  font-family: 'Playfair Display', serif !important;
+  /* font-family: 'Playfair Display', serif !important; */
 }
 
 .joinfont h3 {
-  font-family: 'Playfair Display', serif !important;
+  /* font-family: 'Playfair Display', serif !important; */
 }
 
 .joinfont h4 {
-  font-family: 'Playfair Display', serif !important;
+  /* font-family: 'Playfair Display', serif !important; */
 }
 
 .joinfont p {
-  font-family: 'Playfair Display', serif !important;
+  /* font-family: 'Playfair Display', serif !important; */
   color: #000 !important;
 }
 
-.joinfont a {
+/* .joinfont a {
   font-family: 'Playfair Display', serif !important;
 }
 
@@ -3939,7 +3939,7 @@ table td {
 
 .joinfont select {
   font-family: 'Playfair Display', serif !important;
-}
+} */
 
 .dblocc {
   display: inline-block;

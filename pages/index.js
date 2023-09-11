@@ -234,7 +234,7 @@ export default function Home() {
                               <h1>Driving You Toward Individual and Organizational Excellence</h1>
                               <p>With our effective and proven business solutions, we can transform your personal and professional life to help you achieve the pinnacle of success.</p>
                               <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="#"><a className="readon2">Explore More <div className="btn-arrow"></div></a></Link>
+                                 <Link href="#our-solutions"><a className="readon2">Explore More <div className="btn-arrow"></div></a></Link>
                               </div>
                            </div>
                         </div>
@@ -332,7 +332,7 @@ export default function Home() {
             </div>
          </section>
 
-         <section className='solutionrow ptt-60 pbb-60'>
+         <section id='our-solutions' className='solutionrow ptt-60 pbb-60'>
             <div className='container'>
                <div className='row'>
                   <div className='col-sm-3'>
@@ -349,6 +349,7 @@ export default function Home() {
                   <div className='col-sm-9 zindx'>
                      <div className='row'>
                         <div className='col-sm-4'>
+                           <a href='/our-solutions/experiential-learning'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>E</span>xperiential Learning</h4>
                               <div className='cicon'>
@@ -356,8 +357,10 @@ export default function Home() {
                                  <img className='hover' src="/assets/img/homeb/icon/experiential-learningw.png" alt="images" />
                               </div>
                            </div>
+                           </a>
                         </div>
                         <div className='col-sm-4'>
+                        <a href='/our-solutions/leadership-and-talent-development'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>L</span>eadership & Performance</h4>
                               <div className='cicon'>
@@ -365,8 +368,10 @@ export default function Home() {
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
                               </div>
                            </div>
+                           </a>
                         </div>
                         <div className='col-sm-4'>
+                        <a href='/our-solutions/assessments'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>A</span>ssessments</h4>
                               <div className='cicon'>
@@ -374,8 +379,10 @@ export default function Home() {
                                  <img className='hover' src="/assets/img/homeb/icon/assessmentsw.png" alt="images" />
                               </div>
                            </div>
+                           </a>
                         </div>
                         <div className='col-sm-4'>
+                        <a href='/bespoke'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>B</span>eSpoke</h4>
                               <div className='cicon'>
@@ -383,8 +390,10 @@ export default function Home() {
                                  <img className='hover' src="/assets/img/homeb/icon/bespokew.png" alt="images" />
                               </div>
                            </div>
+                           </a>
                         </div>
                         <div className='col-sm-4'>
+                        <a href='/our-solutions/coaching'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>C</span>oaching</h4>
                               <div className='cicon'>
@@ -392,8 +401,10 @@ export default function Home() {
                                  <img className='hover' src="/assets/img/homeb/icon/coachingw.png" alt="images" />
                               </div>
                            </div>
+                           </a>
                         </div>
                         <div className='col-sm-4'>
+                        <a href='#/our-solutions/staffing'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>S</span>taffing & Search</h4>
                               <div className='cicon'>
@@ -401,6 +412,7 @@ export default function Home() {
                                  <img className='hover' src="/assets/img/homeb/icon/staffing-searchw.png" alt="images" />
                               </div>
                            </div>
+                           </a>
                         </div>
                      </div>
                   </div>
@@ -537,7 +549,7 @@ export default function Home() {
                      We are driven by the mission to impact numerous organizations and individuals through our journey of transformation and self-improvement. BYLD Group aims to empower corporations and individuals to accomplish their training needs and become a trusted partner in their exceptional professional journey.
                      </p>
                      <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
-                        <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
+                        <Link href="/join-our-partner-network"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                      </div>
                   </div>
                </div>
