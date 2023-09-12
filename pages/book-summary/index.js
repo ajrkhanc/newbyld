@@ -26,12 +26,21 @@ export default function Books(){
                                </div>                             
                             </div>
                         </div>
+
+                        <div className="col-sm-3">
+                           <div className="innervideoshd">
+                               <a href='/book-summary/simple-truths-of-leadership'>
+                               <img src='/assets/img/books/simple-truths-of-leadership.jpg' alt="books"/>
+                               <h3 className='booktitlerow1'>Read Book Summary</h3>
+                               </a>
+                            </div>
+                        </div>
                         
                         <div className="col-sm-3">
                            <div className="innervideoshd">
                                <a href='/book-summary/innovation-race-book-summary'>
                                <img src='/assets/img/books/Innovation-race-book-summary.jpg' alt="books"/>
-                               <h3 className='booktitlerow1'>Book Summary</h3>
+                               <h3 className='booktitlerow1'>Read Book Summary</h3>
                                </a>
                             </div>
                         </div>
