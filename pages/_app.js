@@ -2233,12 +2233,12 @@ gtag('config', 'G-5PXTTR960E');
 
 
   const router = useRouter();
-  const canonicalUrl = (`https://blog.byldgroup.com` + (router.asPath === "/blanchardindia" ? "": router.asPath)).split("?")[0];
+  const canonicalUrl = (`https://blog.byldgroup.com` + (router.asPath === "/blanchardindia/" ? "": router.asPath)).split("?")[0];
 
     return (
       <Kblayout>
         <Head>
-        <link rel="canonical" href={canonicalUrl} />
+        {/* <link rel="canonical" href={canonicalUrl} /> */}
           <meta charset="utf-8" />
           <meta http-equiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />

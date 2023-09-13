@@ -51,7 +51,7 @@ const singleblog = ({ posts, posts5, cats, postfeedback }) => {
       <title>{posts.Title}</title>
       <meta name="description" content="Blanchard Research and Training LLP is the leading training provider in South Asia, with expertise in leadership development across hierarchies. Having a global establishment of over 35 years and operational in India since 2008 by Mr Yogesh Sood who is a veteran in business operations and leadership development."/>
       <link rel="icon" href="/favicon.ico" />
-      
+      <link rel="canonical" href={"https://blog.byldgroup.com/blanchardindia/"+posts.posturl} />
       {/* Twitter */}
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:site" content="@blanchard_india" />

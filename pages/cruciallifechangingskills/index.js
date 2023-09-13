@@ -613,7 +613,7 @@ export default function Home() {
                                     <div className='inerbtnccmd'>
                                         <div className='row'>
                                             <div className='col rights3'>
-                                                <a target="_blank" className='cc12btn' href='#'>Assessment</a>
+                                                <a target="_blank" className='cc12btn' href='/cruciallifechangingskills/assessment/style-under-stress-assessment'>Assessment</a>
                                             </div>
                                             <div className='col lefts3'>
                                                 <a className='cc12btn' onClick={() => setModalOpen1(!modalOpen1)}>Download Prevview</a>
