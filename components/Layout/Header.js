@@ -123,6 +123,7 @@ export default function Header() {
                                                                 <a href="/bespoke">BeSpoke</a>
                                                                 <ul className="sub-menu">
                                                                     <li><a href="/bespoke/persona-global">Persona Global</a> </li>
+                                                                    <li><a target='_blank' href="https://doortraining.co.in/">DTCI</a></li>
                                                                     <li className='d-none'><a href="#">SLI</a></li>
                                                                     <li className='d-none'><a href="#">Large Projects</a></li>
                                                                 </ul>

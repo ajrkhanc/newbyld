@@ -105,10 +105,6 @@ export default function Ebookpage(){
                 </div>                 
             </div>
             </div>
-
-        
-            
-  
         </>
     )
 }
