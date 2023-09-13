@@ -2233,7 +2233,7 @@ gtag('config', 'G-5PXTTR960E');
 
 
   const router = useRouter();
-  const canonicalUrl = (`https://blog.byldgroup.com` + (router.asPath === "/" ? "": router.asPath)).split("?")[0];
+  const canonicalUrl = (`https://blog.byldgroup.com` + (router.asPath === "/blanchardindia" ? "": router.asPath)).split("?")[0];
 
     return (
       <Kblayout>
