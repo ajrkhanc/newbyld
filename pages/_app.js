@@ -2233,7 +2233,7 @@ gtag('config', 'G-5PXTTR960E');
 
 
   const router = useRouter();
-  const canonicalUrl = (`https://byldgroup.com` + (router.asPath === "/" ? "": router.asPath)).split("?")[0];
+  const canonicalUrl = (`https://blog.byldgroup.com/blanchardindia` + (router.asPath === "/" ? "": router.asPath)).split("?")[0];
 
     return (
       <Kblayout>
@@ -2351,9 +2351,13 @@ gtag('config', 'G-5PXTTR960E');
 
   else {
 
+    const router = useRouter();
+  const canonicalUrl = (`https://blog.byldgroup.com` + (router.asPath === "/" ? "": router.asPath)).split("?")[0];
+
     return (
       <Layout>
         <Head>
+        <link rel="canonical" href={canonicalUrl} />
           <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
 
           <link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css" />
