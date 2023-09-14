@@ -42,6 +42,18 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/finding-your-true-north-with-bill-george.jpg" alt="Images" />
+                                            <h3>Finding Your True North with Bill George</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/finding-your-true-north-with-bill-george"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
                                             <img src="/kbassets/img/podcast/the-heart-of-human-achievement-with-scott-blanchard.jpg" alt="Images" />
                                             <h3>The Heart of Human Achievement™ with Scott Blanchard</h3>
                                             <div className='row text-center eventsbottomarea2'>
