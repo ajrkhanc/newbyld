@@ -360,7 +360,7 @@ module.exports = {
       
 
       {
-        source: '/[slug]',
+        source: '[slug]',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
       },
