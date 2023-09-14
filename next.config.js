@@ -53,6 +53,14 @@ module.exports = {
 
 
 
+      {
+        source: 'https://byldgroup.com/train-the-trainer-training-is-it-mandatory',
+        destination: 'https://blog.byldgroup.com/train-the-trainer-training-is-it-mandatory',
+        permanent: true,
+      },
+
+
+
 
 
 
