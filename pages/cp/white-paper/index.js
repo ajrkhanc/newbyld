@@ -26,6 +26,16 @@ export default function Books() {
                                 </div>
                             </div>
                         </div>
+
+                        <div className="col-sm-4">
+                            <div className="innervideoshd ebookst text-center">
+                                <a href='/cp/white-paper/pharmaceutical-sector'>
+                                <img src='/assets/img/white-paper/pharmaceutical-sector.jpg' alt="books" />
+                                    <h4 className=''>Pharmaceutical Sector</h4>
+                                    <h3 className='ebookbtn'>Read White Paper</h3>
+                                </a>
+                            </div>
+                        </div>
                         
                         <div className="col-sm-4">
                             <div className="innervideoshd ebookst text-center">

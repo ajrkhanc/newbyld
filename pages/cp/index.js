@@ -763,6 +763,13 @@ export default function JoinOurPartnerNetworkLP() {
 
                         <div className='col-sm-12 cld'>
                             <Slider {...settings}>
+                            <div className='logoslider'>
+                                    <div className='impdf'>
+                                        <img src='/assets/img/white-paper/pharmaceutical-sector.jpg' alt="books" />
+                                        <a href='/cp/white-paper/pharmaceutical-sector'>Download White Paper</a>
+                                    </div>
+                                </div>
+
                                 <div className='logoslider'>
                                     <div className='impdf'>
                                         <img src='/assets/img/white-paper/embracing-a-customer-centric-mindset.png' alt="books" />
