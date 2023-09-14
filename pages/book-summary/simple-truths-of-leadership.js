@@ -24,6 +24,7 @@ export default function Ebookpage(){
                 } else {
                     alert('There was a problem with the request.');
                 }
+                d
             }
         };
         xhttp.send("leadsquared-FirstName=" + event.target.name.value +

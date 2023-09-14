@@ -1107,9 +1107,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                                 <select name='slot' required>
                                                     <option value=''>Pick up any Slot*</option>                                                  
                                                     <option value='16 September 2023'>16 September 2023</option>
-                                                    <option value='25 November 2023'>25 November 2023</option>
-                                                    <option value='27 January 2024'>27 January 2024</option>
-                                                    <option value='09 March 2024'>09 March 2024</option>
+                                                    <option value='28 October 2023'>28 October 2023</option>
+                                                    <option value='06 January 2024'>06 January 2024</option>
+                                                    <option value='17 February 2024'>17 February 2024</option>
                                                 </select>
                                             </div>
 
