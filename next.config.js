@@ -359,6 +359,12 @@ module.exports = {
       },
       
 
+      {
+        source: '/:slug',
+        destination: 'https://blog.byldgroup.com', // Matched parameters can be used in the destination
+        permanent: true,
+      },
+
       
 
     ]
