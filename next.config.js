@@ -359,11 +359,11 @@ module.exports = {
       },
       
 
-      // {
-      //   source: ':slug',
-      //   destination: 'https://blog.byldgroup.com',
-      //   permanent: true,
-      // },
+      {
+        source: ':path*',
+        destination: 'https://blog.byldgroup.com',
+        permanent: true,
+      },
 
       
 
