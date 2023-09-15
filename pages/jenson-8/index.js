@@ -515,7 +515,7 @@ export default function Jenson8() {
           
 
 
-            <section className='ptt-60 pbb-60 solutionrow'>
+            {/* <section className='ptt-60 pbb-60 solutionrow'>
                 <div className='container'>
                     <div className='row zindx'>
                         <div className='col-sm-12'>
@@ -572,7 +572,7 @@ export default function Jenson8() {
                         <img className='opacity4' src="/assets/img/homeb/orangearrow.png" />
                     </div>
                 </div>
-            </section>
+            </section> */}
 
 
 
@@ -611,8 +611,7 @@ export default function Jenson8() {
 
                                         <div className="col-sm-6 mb-12">
                                             <select name="slot" required>
-                                                <option value="">Pick up any Slot*</option>
-                                                <option value="Virtual Course Preview - August 4th, 2023">Virtual Course Preview - August 4th, 2023</option>
+                                                <option value="">Pick up any Slot*</option>                                                
                                                 {/* <option value="Webinar - July 28th, 2023">Webinar - July 28th, 2023</option>
                                                 <option value="Webinar - August 4th, 2023">Webinar - August 4th, 2023</option>
                                                 <option value="Webinar - September 6th, 2023">Webinar - September 6th, 2023</option>
