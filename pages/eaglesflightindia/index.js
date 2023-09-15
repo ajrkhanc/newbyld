@@ -207,7 +207,7 @@ export default function Home() {
                               <h1>We are the authorized partners of Eagle’s Flight in India</h1>
                               
                               <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="/eaglesflightindia/contact-us"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
+                                 <Link href="https://byldgroup.com/eaglesflightindia/contact-us"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                               </div>
                            </div>
                         </div>
@@ -223,7 +223,7 @@ export default function Home() {
                               <h1>We are the authorized partners of Eagle’s Flight in India</h1>
                              
                               <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="#"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
+                                 <Link href="https://byldgroup.com/eaglesflightindia/contact-us"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                               </div>
                            </div>
                         </div>
