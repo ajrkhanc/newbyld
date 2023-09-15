@@ -101,7 +101,7 @@ export default function TeamLeadershipLPWorkshop() {
                            <div className="form-group">
                               <label>Program Name*</label>                              
                               <select className="form-control" name="interest_in" required>
-                                 <option value="Team Leadership Workshop: 11th October, 2023">Team Leadership Workshop: 11th October, 2023</option>
+                                 <option value="Team Leadership Workshop: 19th October, 2023">Team Leadership Workshop: 19th October, 2023</option>
                               </select>
                               <div className="help-block with-errors"></div>
                            </div>

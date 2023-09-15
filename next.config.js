@@ -1215,6 +1215,125 @@ module.exports = {
         destination: 'https://blog.byldgroup.com',
         permanent: true,
         },
+
+
+
+        {
+          source: '/blanchardindia/blog/the-best-leaders-serve-their-people-one-at-a-time',
+          destination: 'https://blog.byldgroup.com/blanchardindia/the-best-leaders-serve-their-people-one-at-a-time',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/3-ways-senior-leaders-can-improve-customer-service-in-their-organizations',
+          destination: 'https://blog.byldgroup.com/blanchardindia/3-ways-senior-leaders-can-improve-customer-service-in-their-organizations',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/4-keys-to-being-more-mindful-at-work-a-coaching-perspective',
+          destination: 'https://blog.byldgroup.com/blanchardindia/4-keys-to-being-more-mindful-at-work-a-coaching-perspective',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/accelerate-learning-with-train-the-trainer-certification-in-india',
+          destination: 'https://blog.byldgroup.com/blanchardindia/accelerate-learning-with-train-the-trainer-certification-in-india',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/how-to-experience-the-best-when-on-a-day-off',
+          destination: 'https://blog.byldgroup.com/blanchardindia/how-to-experience-the-best-when-on-a-day-off',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/stepping-into-a-big-mess-as-a-new-manager-ask-madeleine',
+          destination: 'https://blog.byldgroup.com/blanchardindia/stepping-into-a-big-mess-as-a-new-manager-ask-madeleine',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/importance-of-change-management-training-and-how-it-can-help-employees',
+          destination: 'https://blog.byldgroup.com/blanchardindia/importance-of-change-management-training-and-how-it-can-help-employees',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/understand-the-benefits-of-corporate-training-for-your-organization',
+          destination: 'https://blog.byldgroup.com/blanchardindia/understand-the-benefits-of-corporate-training-for-your-organization',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/87-of-the-times-wrong-leaders-are-preferred-find-the-right-ones-with-us',
+          destination: 'https://blog.byldgroup.com/blanchardindia/87-of-the-times-wrong-leaders-are-preferred-find-the-right-ones-with-us',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/want-to-become-a-customercentric-culture-company-these-7-tips-might-help',
+          destination: 'https://blog.byldgroup.com/blanchardindia/want-to-become-a-customercentric-culture-company-these-7-tips-might-help',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/how-to-be-a-better-manager-with-one-minute-manager',
+          destination: 'https://blog.byldgroup.com/blanchardindia/how-to-be-a-better-manager-with-one-minute-manager',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/decode-the-5cs-for-making-an-inclusive-leader',
+          destination: 'https://blog.byldgroup.com/blanchardindia/decode-the-5cs-for-making-an-inclusive-leader',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/7-tips-to-ensure-a-smooth-change-transition-in-your-organization',
+          destination: 'https://blog.byldgroup.com/blanchardindia/7-tips-to-ensure-a-smooth-change-transition-in-your-organization',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/employee-turnover-has-cost-companies-more-than-49-billion-usd-per-year',
+          destination: 'https://blog.byldgroup.com/blanchardindia/employee-turnover-has-cost-companies-more-than-49-billion-usd-per-year',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/self-determination-and-self-leadership-can-accelerate-your-performance',
+          destination: 'https://blog.byldgroup.com/blanchardindia/self-determination-and-self-leadership-can-accelerate-your-performance',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/cultivating-future-leaders-the-indispensable-role-of-leadership-programs',
+          destination: 'https://blog.byldgroup.com/blanchardindia/cultivating-future-leaders-the-indispensable-role-of-leadership-programs',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/transformational-leadership-inspiring-change-and-driving-innovation',
+          destination: 'https://blog.byldgroup.com/blanchardindia/transformational-leadership-inspiring-change-and-driving-innovation',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/unveiling-the-distinction-leaders-vs-managers--navigating-roles-for-ultimate-success',
+          destination: 'https://blog.byldgroup.com/blanchardindia/unveiling-the-distinction-leaders-vs-managers--navigating-roles-for-ultimate-success',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/empowering-from-within-how-leadership-development-programs-boost-employee-morale',
+          destination: 'https://blog.byldgroup.com/blanchardindia/empowering-from-within-how-leadership-development-programs-boost-employee-morale',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/unveiling-the-spectrum-of-leadership-styles-navigating-the-landscape-of-effective-leadership',
+          destination: 'https://blog.byldgroup.com/blanchardindia/unveiling-the-spectrum-of-leadership-styles-navigating-the-landscape-of-effective-leadership',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/objectives-of-employee-motivation-training-blanchard-india',
+          destination: 'https://blog.byldgroup.com/blanchardindia/objectives-of-employee-motivation-training-blanchard-india',
+          permanent: true,
+        },
+        {
+          source: '/blanchardindia/blog/who-is-your-dronacharya-the-importance-of-mentorship-in-life',
+          destination: 'https://blog.byldgroup.com/blanchardindia/who-is-your-dronacharya-the-importance-of-mentorship-in-life',
+          permanent: true,
+        },
+
+        {
+          source: '/blanchardindia/blog/:path*',
+          destination: 'https://blog.byldgroup.com/blanchardindia/',
+          permanent: false
+        },
         
         
       
