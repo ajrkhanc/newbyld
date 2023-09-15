@@ -1265,7 +1265,7 @@ module.exports = {
         },
         {
           source: '/blanchardindia/blog/want-to-become-a-customercentric-culture-company-these-7-tips-might-help',
-          destination: 'https://blog.byldgroup.com/blanchardindia/want-to-become-a-customercentric-culture-company-these-7-tips-might-help',
+          destination: 'https://blog.byldgroup.com/blanchardindia/want-to-become-a-customer-centric-culture-company-these-7-tips-might-help/',
           permanent: true,
         },
         {
