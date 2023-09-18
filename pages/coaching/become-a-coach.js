@@ -234,8 +234,7 @@ export default function Home({ country }) {
 
                             <div className="col-sm-12 mb-12">
                                 <select className='borrr' name='slot' required>
-                                    <option value=''>Pick up any Slot*</option>                            
-                                    <option value='16 September 2023'>16 September 2023</option>
+                                    <option value=''>Pick up any Slot*</option>                                    
                                     <option value='28 October 2023'>28 October 2023</option>
                                     <option value='06 January 2024'>06 January 2024</option>
                                     <option value='17 February 2024'>17 February 2024</option>
@@ -676,7 +675,7 @@ export default function Home({ country }) {
                                 </div>
                             </div>
                         </div> */}
-                        <div className='col-sm-6'>
+                        {/* <div className='col-sm-6'>
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
                                 <div className='dateside'>
                                     <div className='datefont'>
@@ -699,7 +698,7 @@ export default function Home({ country }) {
                                     <a>Book Now</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className='col-sm-6'>
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
