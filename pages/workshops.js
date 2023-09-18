@@ -232,6 +232,19 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
+                                    <span>October 3rd – 6th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
                                     <span>Workshop - October 5th - 6th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
@@ -402,6 +415,7 @@ export default function Workshops() {
                                                 <option value="The SLII Experience™ - September 25th, 2023">The SLII Experience™ - September 25th, 2023</option>
                                                 <option value="The SLII Experience™ T4T F2F - September 27th, 2023">The SLII Experience™ T4T F2F - September 27th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - September 28th, 2023">Crucial Life Changing Skills, Getting Things Done - September 28th, 2023</option>
+                                                <option value="October 3rd - 6th, 2023 - DiSC Certification Virtual Workshop">October 3rd - 6th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023">Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023</option>
                                                 <option value="October 17th - 20th, 2023 - DiSC Certification Virtual Workshop">October 17th - 20th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - November 29th, 2023">Crucial Life Changing Skills, The Power of Habit - November 29th, 2023</option>
