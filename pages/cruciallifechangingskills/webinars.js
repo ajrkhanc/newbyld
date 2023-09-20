@@ -82,6 +82,22 @@ export default function Webinars() {
                             </div>
                         </div> */}
 
+                         <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content phothemecolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                                    <h4 className='pbb-20'>THE POWER OF HABIT</h4>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> October 5th, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5:00 PM</h6>
+                                    <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
+
+
                         <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content gtdcolor">
@@ -96,7 +112,21 @@ export default function Webinars() {
                                 </div>
                             </div>
                         </div>
-
+     <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content green-col">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                                    <h4>INFLUENCER</h4>
+                                    <p></p>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date green-col">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 30th, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    <a href='#registered'><button class="register">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content phothemecolor">
@@ -219,7 +249,11 @@ export default function Webinars() {
                                 <div class="col-md-6 col-6">
                                     <select name='slot' required>
                                         <option value="">Pick any Slot*</option>                                        
+                                        
+                             <option value="The Power Of Habit – October 5th, 2023">The Power Of HABIT – October 5th, 2023</option>
+
                                         <option value="getting things done – October 23rd, 2023">getting things done – October 23rd, 2023</option>
+                                        <option value="INFLUENCER – November - 30th, 2023">INFLUENCER – November 30th, 2023</option>
                                         <option value="the power of habit – December 5th, 2023">the power of habit – December 5th, 2023</option>
                                     </select>
                                 </div>
