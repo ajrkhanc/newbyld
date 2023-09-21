@@ -39,7 +39,18 @@ export default function PodCast() {
                         <div className="col-lg-12">
                             <div className="what-did-left-content">
                                 <div className="row row-eq-height eventsandworkshopbox">
-
+                                    
+                                       <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/risk-forward-with-victoria-labalme.jpg" alt="Images" />
+                                            <h3>Risk Forward with Victoria Labalme</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/risk-forward-with-victoria-labalme"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/kbassets/img/podcast/finding-your-true-north-with-bill-george.jpg" alt="Images" />
