@@ -160,11 +160,11 @@ export default function BrowseCourses(){
                         <div class="col-md-6 col-6">
                         <select name='slot' required>
                             <option value="">Pick any Slot*</option> 
-                             <option value="Virtual Course Preview - October 5th, 2023">Virtual Course Preview - October 5th, 2023</option>
-                            <option value="Workshop – November 23th, 2023">Workshop – November 23th, 2023</option>
-                            <option value="Workshop – November 29th, 2023">Workshop – November 29th, 2023</option>
-                            <option value="Virtual Course Preview – December 5th, 2023">Virtual Course Preview – December 5th, 2023</option>
-                            <option value="The Power of Habit - March 14th, 2024">The Power of Habit - March 14th, 2024</option>
+                              <option value="Workshop – November 23th, 2023">Workshop – November 23th, 2023</option>
+                                        <option value="Workshop - March 14th, 2024">Workshop - March 14th, 2024</option>
+                                        {/* <option value="Workshop – November 29th, 2023">Workshop – November 29th, 2023</option>
+                                        <option value="Virtual Course Preview – December 5th, 2023">Virtual Course Preview – December 5th, 2023</option>
+                                        <option value="The Power of Habit - March 14th, 2024">The Power of Habit - March 14th, 2024</option>*/}
                         </select>
                         </div>
 
@@ -222,7 +222,7 @@ export default function BrowseCourses(){
                         <h1>Our Upcoming Programs</h1>
                     </div>
                           
-{/*                   
+{/*                  {/*                   
                     <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content phothemecolor"> 
@@ -238,11 +238,11 @@ export default function BrowseCourses(){
                        </div>
                     </div> */}
 
-                    
 
-                    
 
-                    {/* <div class="col-md-4 workshop-col"> 
+
+
+                        {/* <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content phothemecolor"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
@@ -256,20 +256,7 @@ export default function BrowseCourses(){
                             </div>
                        </div>
                     </div> */}
- <div class="col-md-4 workshop-col">
-                            <div class="row workshop-row">
-                                <div class="col-md-12 workshop-content phothemecolor">
-                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
-                                    <h4 className='pbb-20'>THE POWER OF HABIT</h4>
-                                </div>
-                                <h5 className='eventt'>Virtual Course Preview</h5>
-                                <div class="col-md-12 workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> October 5th, 2023</h6>
-                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11.00 AM to 12:00 PM</h6>
-                                    <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
-                                </div>
-                            </div>
-                        </div>
+
 
 
                         <div class="col-md-4 workshop-col">
@@ -286,7 +273,22 @@ export default function BrowseCourses(){
                                 </div>
                             </div>
                         </div>
-                    <div class="col-md-4 workshop-col"> 
+
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content phothemecolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                                    <h4 className='pbb-20'>THE POWER OF HABIT</h4>
+                                </div>
+                                <h5 className='eventt'>Workshop</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> March 14th, 2024</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10.00 AM to 5:00 PM</h6>
+                                    <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
+                        {/* <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content phothemecolor"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
@@ -330,7 +332,8 @@ export default function BrowseCourses(){
                             </div>
                        </div>
                     </div>
-                     
+                      */}
+   
                                     
                 </div>
             </div>
