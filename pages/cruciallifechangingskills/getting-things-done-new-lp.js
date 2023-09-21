@@ -214,8 +214,7 @@ export default function Gettingthingsdone() {
                             <br></br>
                             <Slider {...settings2}>
                               
-
-                                <div>
+      {/* <div>
                                     <h2>Virtual Course Preview</h2>
                                     <div class="workshop-date">
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i> October 23rd, 2023</h6>
@@ -229,7 +228,7 @@ export default function Gettingthingsdone() {
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i> September 28th, 2023</h6>
                                         <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                                     </div>
-                                </div>
+                                </div> */}
 
                                 <div>
                                     <h2>Workshop</h2>
@@ -264,8 +263,8 @@ export default function Gettingthingsdone() {
                                 <div class="col-md-12">
                                     <select name='slot' required>
                                         <option value="">Interested In*</option>                                        
-                                        <option value="Getting Things Done - October 23rd, 2023">Getting Things Done - October 23rd, 2023</option>
-                                        <option value="Getting Things Done - September 28th, 2023">Getting Things Done - September 28th, 2023</option>
+                                       {/* <option value="Getting Things Done - October 23rd, 2023">Getting Things Done - October 23rd, 2023</option>
+                                        <option value="Getting Things Done - September 28th, 2023">Getting Things Done - September 28th, 2023</option> */}
                                         <option value="Getting Things Done - January 11th, 2024">Getting Things Done - January 11th, 2024</option>
                                     </select>
                                 </div>
