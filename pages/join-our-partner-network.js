@@ -155,9 +155,9 @@ export default function JoinOurPartnerNetworkLP() {
 
                                             <div className="col-lg-12 mb-12">
                                                 <select name="intrestedin" required>
-                                                    <option value="">Pick up any Slot*</option>                                        
-                                                    <option value="September 8th 2023 - 11:00 AM - 12:00 PM">September 8th 2023 - 11:00 AM - 12:00 PM</option>
+                                                    <option value="">Pick up any Slot*</option>                                                    
                                                     <option value="October 4th 2023 - 11:00 AM - 12:00 PM">October 4th 2023 - 11:00 AM - 12:00 PM</option>
+                                                    <option value="November 22nd 2023 - 11:00 AM - 12:00 PM">November 22nd 2023 - 11:00 AM - 12:00 PM</option>
                                                 </select>
                                             </div>
 
@@ -506,13 +506,11 @@ export default function JoinOurPartnerNetworkLP() {
                                 </div>
                             </div>
                         </div> */}
-
-                    
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Webinar 8th September 2023</span>
+                                    <span>Webinar 4th October 2023</span>
                                 </div>
 
                                 <div className='eventbottom'>
@@ -527,7 +525,7 @@ export default function JoinOurPartnerNetworkLP() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Webinar 4th October 2023</span>
+                                    <span>Webinar 22nd November 2023</span>
                                 </div>
 
                                 <div className='eventbottom'>
