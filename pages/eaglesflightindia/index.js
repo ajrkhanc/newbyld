@@ -397,7 +397,7 @@ export default function Home() {
                         <div className='col-sm-3'>
                            <a href='/eaglesflightindia/our-offerings/expedition-outback'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
-                              <h4><span>R</span>xpedition Outback™</h4>
+                              <h4><span>E</span>xpedition Outback™</h4>
                               <div className='cicon'>
                               <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
