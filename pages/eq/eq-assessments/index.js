@@ -35,7 +35,8 @@ export default function BrowseCourses() {
         const organization = event.target.organization.value;
         var nameurl = name.replace(/[^a-zA-Z0-9 ]/g, "");
         nameurl = nameurl.toLowerCase();
-        const newnameurl = nameurl.split(' ').join('-')
+        const newnameurl = nameurl.split(' ').join('-')+phone;
+        const result = `https://byldgroup.com/eq/eq-assessments/${newnameurl}`
 
 
 
@@ -86,7 +87,8 @@ export default function BrowseCourses() {
                         '&email=' + email +
                         '&phone=' + phone +
                         '&organization=' + organization +
-                        '&assessment=' + Assessment)
+                        '&assessment=' + Assessment+
+                        '&result=' + result)
 
                     window.setTimeout(function () {
                         window.location.href = `/eq/eq-assessments/${newnameurl}`
