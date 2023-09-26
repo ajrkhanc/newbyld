@@ -1334,6 +1334,117 @@ module.exports = {
           destination: 'https://blog.byldgroup.com/blanchardindia/',
           permanent: false
         },
+
+
+        /* cl blogs */
+
+        {
+          source: '/cruciallifechangingskills/mastering-the-art-of-habit-building-a-guide-to-positive-change',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-the-art-of-habit-building-a-guide-to-positive-change',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/beyond-micromanagement-trustbased-accountability-for-enhanced-productivity',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/beyond-micromanagement-trustbased-accountability-for-enhanced-productivity',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/mastering-crucial-conversations-your-guide-to-effective-communication-skills',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-crucial-conversations-your-guide-to-effective-communication-skills',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/you-can-influence-others-in-the-workplace-without-having-authority',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/you-can-influence-others-in-the-workplace-without-having-authority',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/mastering-communication-skills',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-communication-skills',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/leadership-skills-in-corporate',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/leadership-skills-in-corporate',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/what-should-we-expect-for-the-future-of-corporate-training-in-2021',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-should-we-expect-for-the-future-of-corporate-training-in-2021',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/what-should-be-included-in-leadership-training',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-should-be-included-in-leadership-training',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/skill-development-training-what-are-the-benefits-of-skill-development',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/skill-development-training-what-are-the-benefits-of-skill-development',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/corporate-training-what-is-it-and-why-do-you-need-it',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/corporate-training-what-is-it-and-why-do-you-need-it',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/what-is-effective-communication-and-why-is-it-important',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-is-effective-communication-and-why-is-it-important',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/understand-the-benefits-of-behavioural-skills-training-for-corporate-companies',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/understand-the-benefits-of-behavioural-skills-training-for-corporate-companies',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/responding-to-false-accusations-is-part-of-crucial-accountability',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/responding-to-false-accusations-is-part-of-crucial-accountability',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/how-accountability-will-benefit-your-workplace-and-how-to-achieve-it',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-accountability-will-benefit-your-workplace-and-how-to-achieve-it',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/tips-on-how-to-improve-your-effective-communication-skills',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/tips-on-how-to-improve-your-effective-communication-skills',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/crucial-accountability-book',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/crucial-accountability-book',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/how-to-boost-up-employee-morale',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-to-boost-up-employee-morale',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/how-to-deliver-feedback-without-embarrassing-someone',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-to-deliver-feedback-without-embarrassing-someone',
+          permanent: true,
+        },
+        {
+          source: '/cruciallifechangingskills/significance-of-skill-development-training',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/significance-of-skill-development-training',
+          permanent: true,
+        },
+
+        {
+          source: '/cruciallifechangingskills/top-7-behaviour-skills-to-develop-in-your-employees',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/top-7-behaviour-skills-to-develop-in-your-employees',
+          permanent: true,
+        },
+
+        // {
+        //   source: '/blanchardindia/blog/:path*',
+        //   destination: 'https://blog.byldgroup.com/blanchardindia/',
+        //   permanent: false
+        // },
         
         
       
