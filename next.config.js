@@ -2297,6 +2297,116 @@ module.exports = {
       },
 
 
+      /* ED Blogs */
+
+      {
+        source: '/everythingdisc/blog/psychometric-assessments-and-its-benefits',
+        destination: 'https://blog.byldgroup.com/everythingdisc/psychometric-assessments-and-its-benefits',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/all-you-need-to-know-about-everything-disc-workplace',
+        destination: 'https://blog.byldgroup.com/everythingdisc/all-you-need-to-know-about-everything-disc-workplace',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/how-emotional-intelligence-leads-to-effective-leadership',
+        destination: 'https://blog.byldgroup.com/everythingdisc/how-emotional-intelligence-leads-to-effective-leadership',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/psychometric-analysis-your-key-to-behavioral-challenges',
+        destination: 'https://blog.byldgroup.com/everythingdisc/psychometric-analysis-your-key-to-behavioral-challenges',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/why-are-assessments-becoming-a-necessity',
+        destination: 'https://blog.byldgroup.com/everythingdisc/why-are-assessments-becoming-a-necessity',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/voyage-of-everything-disc-model-from-itowe',
+        destination: 'https://blog.byldgroup.com/everythingdisc/voyage-of-everything-disc-model-from-itowe',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/types-of-personality-tests-for-managers',
+        destination: 'https://blog.byldgroup.com/everythingdisc/types-of-personality-tests-for-managers',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/make-the-most-of-your-daily-meetings-with-disc-profile-assessment',
+        destination: 'https://blog.byldgroup.com/everythingdisc/make-the-most-of-your-daily-meetings-with-disc-profile-assessment',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/develop-a-positive-work-environment-in-the-office',
+        destination: 'https://blog.byldgroup.com/everythingdisc/develop-a-positive-work-environment-in-the-office',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/learn-how-to-manage-your-growing-and-changing-teams',
+        destination: 'https://blog.byldgroup.com/everythingdisc/learn-how-to-manage-your-growing-and-changing-teams',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/how-can-a-singleaccess-platform-change-your-life',
+        destination: 'https://blog.byldgroup.com/everythingdisc/how-can-a-singleaccess-platform-change-your-life',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/your-emotional-intelligence-is-instrumental-for-exceptional-leadership',
+        destination: 'https://blog.byldgroup.com/everythingdisc/your-emotional-intelligence-is-instrumental-for-exceptional-leadership',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/soft-skills-development-at-hard-times',
+        destination: 'https://blog.byldgroup.com/everythingdisc/soft-skills-development-at-hard-times',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/a-quick-guide-for-implementing-disc-assessment-for-employee-upskilling-and-training',
+        destination: 'https://blog.byldgroup.com/everythingdisc/a-quick-guide-for-implementing-disc-assessment-for-employee-upskilling-and-training',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/learn-the-art-of-effective-performance-management-with-employee-assessment',
+        destination: 'https://blog.byldgroup.com/everythingdisc/learn-the-art-of-effective-performance-management-with-employee-assessment',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/understanding-the-reasons-why-personality-tests-are-on-the-rise',
+        destination: 'https://blog.byldgroup.com/everythingdisc/understanding-the-reasons-why-personality-tests-are-on-the-rise',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/exploring-the-science-behind-optimal-employee-performance-with-psychometric-assessment',
+        destination: 'https://blog.byldgroup.com/everythingdisc/exploring-the-science-behind-optimal-employee-performance-with-psychometric-assessment',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/ways-and-benefits-of-an-employee-assessment-in-the-workplace',
+        destination: 'https://blog.byldgroup.com/everythingdisc/ways-and-benefits-of-an-employee-assessment-in-the-workplace',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/unraveling-the-truth-and-enigma-around-disc-assessment',
+        destination: 'https://blog.byldgroup.com/everythingdisc/unraveling-the-truth-and-enigma-around-disc-assessment',
+        permanent: true,
+      },
+      {
+        source: '/everythingdisc/blog/uncovering-the-true-power-of-psychometric-assessment-in-corporate-arena',
+        destination: 'https://blog.byldgroup.com/everythingdisc/uncovering-the-true-power-of-psychometric-assessment-in-corporate-arena',
+        permanent: true,
+      },
+
+      {
+        source: '/everythingdisc/blog/:path*',
+        destination: 'https://blog.byldgroup.com/everythingdisc/',
+        permanent: false
+      },
+
+
 
 
 
