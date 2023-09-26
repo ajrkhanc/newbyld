@@ -97,7 +97,7 @@ export default function singleblog({ posts, posts5, cats, postfeedback }) {
                 <title>{posts.Title}</title>
                 <meta name="description" content="" />
                 <link rel="icon" href="/favicon.png" />
-
+                <link rel="canonical" href={"https://blog.byldgroup.com/cruciallifechangingskills/"+posts.posturl} />
                 {/* Twitter */}
                 <meta name="twitter:card" content="summary" />
                 <meta name="twitter:site" content="@YomaSolutions" />
