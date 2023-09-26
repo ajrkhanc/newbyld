@@ -70,7 +70,7 @@ function Contact() {
                             </div>
                             <div className="col-sm-10">
                                 <div className="innerbedkms text-center">
-                                    <h1>Contact us to get started with the leadership challenge resolutions.</h1>
+                                    <h1>Get started with the leadership challenge resolutions.</h1>
                                     <p className="ptt-15">
                                     We can help train your managers and deliver real roi for your training investment.
                                     </p>

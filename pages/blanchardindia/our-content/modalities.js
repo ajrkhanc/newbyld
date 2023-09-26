@@ -170,7 +170,7 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            ULet’s discuss your leadership delivery needs
+                            Let’s discuss your leadership delivery needs
                             </h2>
                             <p className="headingp pbb-10 font2438">
                             Contact us to explore how we can work with you to provide your organization with dynamic learning experiences tailored to your most pressing leadership needs.
