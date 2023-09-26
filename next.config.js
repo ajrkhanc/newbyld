@@ -63,7 +63,7 @@ module.exports = {
         permanent: true,
       },
 
-     
+
 
       {
         source: '/cruciallifechangingskills/assessment/influencer-assessment-marketing',
@@ -362,1094 +362,1944 @@ module.exports = {
         source: '/how-do-training-companies-help-in-providing-business-productivity-solutions',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/experiential-learning-through-business-simulations',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/why-organizational-culture-matters',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/factors-that-influence-assessment-outcomes',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/building-a-coaching-culture-starts-with-your-people-leaders',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/do-you-have-a-business-acumen-gap-in-your-company',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/10-key-traits-of-a-gen-z-employee',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/a-guide-for-working-from-home-parents',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/not-making-the-best-out-of-your-virtual-meetings-probably-youre-missing-this',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/6-ways-to-talk-to-your-team-when-the-times-are-challenging',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/5-ways-to-answer-unanswerable-questions-effectively',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/ideas-to-maintain-a-great-company-culture-while-working-remotely',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/learn-5-qualities-of-a-great-leader-to-lead-the-change',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-to-prepare-teams-for-the-postpandemic-world',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/excellent-ideas-to-maintain-a-great-company-culture-while',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/secrets-behind-making-smart-decisions-in-the-time-of-uncertainty',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/importance-of-learning-to-keep-employee-morale-higher',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/what-is-the-importance-of-leadership-in-an-organization',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/5-useful-ways-to-communicate-with-employees-during-a-crisis',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/5-effective-ways-to-be-an-inclusive-leader-during-a-crisis',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/what-are-the-ways-to-create-a-strong-company-culture',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/reasons-why-ld-is-vital-in-change-management-during-a-crisis',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-to-put-competency-based-training-to-work-for-your-company',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-importance-of-providing-support-to-a-remote-team',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-coaches-can-help-organizations-during-a-pandemic',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/latest-training-trends-for-remote-workforce',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/importance-of-having-a-good-eq-in-an-organization',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/managing-sales-team-during-virtual-times',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-post-covid19-future-of-facetoface-training',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/importance-of-selfcompassion-for-a-leader',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/ld-support-during-times-of-crisis',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-world-is-changing-and-so-should-your-ld-initiatives',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/difficult-to-find-human-connection-in-this-new-reality-read-on',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/corporate-training-is-the-new-wave-of-survival',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/leadership-development-program-in-india',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/corporate-training-a-necessity-for-the-future',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/executive-coaching-in-india',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-health-of-the-training-market-after-covid19',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/coaching-and-mentoring-for-an-adaptable-workforce',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/psychological-assessment-is-the-key-for-leadership-assessment',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-importance-of-early-leadership-coaching-in-succession-planning',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/need-for-assessment-learning',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/need-for-corporate-training-companies',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/never-underestimate-the-influence-of-corporate-training-companies',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/top-corporate-training-trends-to-look-for-in-2021',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/consultative-selling-is-a-great-way-to--increase-your-profit',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/five-quick-tips-to-mastering-customer-service-skills',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/organizational-development-a-necessity',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-coaching-and-mentoring-can-help-in-succeeding-amid-challenging-business-environment',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-can-coaching-certification-be-advantageous-for-your-organization',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/leadership-training-the-effective-powerhouse-of-an-organization',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/exploring-the-2021-learning-and-development-trends',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/train-the-trainer-program-leads-to-an-organizations-growth-but-how',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/5-perks-of-learning-and-development-for-modern-establishments',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/unable-to-lead-a-successful-change-involve-your-people',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/7-signs-you-have-a-toxic-workplace--and-how-to-fix-it',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/train-the-trainer',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-to-shift-employees-learning-mindset-from-must-do-to-want-to',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-does-psychometric-assessment-help-in-organizational-development',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/best-corporate-training-companies',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/all-you-need-to-know-about-coaching-and-mentoring',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/6-learning-and-development-trends-in-2021-finding-opportunity-in-change',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/psychometric-assessment-provide-the-best-assessment-for-learning-to-enable-your-workforce',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-byld-helps-maximizing-business-and-employee-productivity',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/training-companies-can-make-assessment-for-learning-more-fruitful',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/psychological-assessment-pave-the-way-for-better-leadership-assessment',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/what-types-of-temporary-staffing-solutions-do-staffing-companies-provide',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/coaching-in-the-workplace-revolutionizes-organizational-development',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/revolutionize-coaching-and-mentoring-with-the-help-of-training-companies',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/best-business-productivity-solutions-provided-by-training-companies',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-does-assessment-for-learning-enhance-leadership-training',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/learn-how-psychometric-assessments-and-coaching-certifications-are-transforming-organizations',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-do-training-companies-help-in-providing-business-productivity-solutions-1659027661450',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/reasons-why-temporary-staffing-is-the-most-preferred-staffing-service',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/coaching-and-mentoring-upscale-massive-organizational-development',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-have-corporate-training-companies-utilized-elearning-portals',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/impact-of-elearning-portal-on--organizational-development',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-does-coaching-certification-facilitate-coaching-in-the-workplace',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/psychometric-assessment-improves-the-scope-of-learning-of-your-employees',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/profitability-of-training-companies-providing-business-productivity-solutions',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/learn-the-importance-of-psychometric-assessments-in-your-learning-journey',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/leadership-management-courses-and-trainings-to-upskill-your-managers',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-to-choose-your-staffing-partner',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/learn-how-to-coach-your-people-the-right-way',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/optimizing-the-outcomes-of-corporate-leadership-development-program-a-framework-for-analyzing-the-understanding-and-transfer-of-leadership-mastery',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-psychometric-assessment-helps-in-creating-a-productive-workforce',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/make-corporate-learning-better-with-the-power-of-experiential-learning',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-elearning-portal-is-upskilling-employees-in-an-organization',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/effective-manpower-staffing-leads-to-innovation',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/develop-leadership-skills-with-bylds-coaching-and-mentoring-certifications',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-gateway-for-employee-skill-development-online-elearning-portal',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/become-a-global-leader-with-byld-group',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/how-is-the-psychometric-assessment-test-crucial-for-an-organization',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/why-does-a-corporate-organization-need-a-leadership-management-course',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/need-top-talent-for-your-company-know-how-to-hire-the-best-on-a-shoestring-budget',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/recruit-and-retain-a-skilled-workforce-with-temporary-staffing-services',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/become-a-frontline-leader-in-the-times-of-crisis-with-tips-from-industry-experts',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/facing-increasing-employee-resentment-heres-a-quick-guide-to-address-the-core-issues',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/leadership-development-training-boosts-job-performance-upto-20--a-quick-fact-check',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/infusing-a-learning-culture-into-an-organization-ensures-growth-and-viability--heres-how',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/global-hr-technology-market-at-31-billion-in-20212022-care-to-invest',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/soft-skills-training-yields-250-roi-in-factories-applicable-for-it-employees',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/leadership-training-contributes-to-a-28-improvement-in-onthejob-leadership-behaviors',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/coaching-training-for-managers-helps-unlock-the-potential-within-the-team',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-corporate-leadership-training-market-yoy-growth-rate-in-2022-stands-at-787',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-global-investment-in-leadership-training-is-expected-to-be-over-50-billion',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/training-and-development-to-combat-recession',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/transforming-organizational-culture-by-upskilling-your-managers',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/3-quarters-of-millennials-will-quit-their-jobs-in-2023-due-to-lack-of-skillbuilding-opportunities',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/a-roadmap-for-better-management',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/why-will-leaders-need-training-in-2023',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/great-companies-have-both-productivity-and-efficiency',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/2023-is-all-about-motivation-performance-and-reliability',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/combining-change-management-with-training-to-ensure-better-adjustment',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/best-business-productivity-solutions-in-2023',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/from-vuca-to-bani-understanding-the-changing-business-landscape',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/effective-use-of-humility-to-transform-into-a-mature-leader',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/getting-to-know-the-new-kid-on-the-block-chatgpt-the-fastestgrowing-app-of-all-time',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/quiet-firing-vs-quiet-quitting-impact-and-how-to-stop-it',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/learning-to-lead-through-the-turbulence-with-the-help-of-a-new-alternative-to-vuca',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/bare-minimum-monday-is-the-new-workplace-trend-you-need-to-know-about',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/ready-to-build-an-accountable-workforce-for-optimum-results-these-5-tips-might-help',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/conflict-resolution-or-conflict-management-the-skills-that-are-sought-after-today',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/experiential-learning-and-virtual-reality-are-reshaping-the-future-in-ld',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/improving-your-employees-time-management-skills-to-increase-performance',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/a-quick-guide-to-professional-coaching-and-all-you-need-to-know-in-2023',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/understanding-the-pros-and-cons-of-the-democratic-leadership-style',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-power-of-immersive-learning-on-workforce-productivity',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/an-overview-of-the-most-powerful-leadership-skill--empathy',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/coaching-goals-for-2023-what-to-expect-and-more',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/7-detailed-ways-to-develop-worklife-integration-and-improve-employee-wellbeing',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/leadership-training-and-development-trends-to-follow-in-2023',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/decoding-the-top-hr-trends-in-2023-staffing-solutions-for-businesses',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-market-for-training-in-soft-skills-is-set-to-touch-66075-million-by-the-year-2030',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/being-an-effective-leader-impacts-employee-wellbeing-and-mental-health',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/unlocking-how-to-become-a-life-coach-to-influence-and-motivate-others',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/immersive-learning-your-solution-to-workplace-and-training-problems',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/talent-disruption-quiet-hiring-and-other-workplace-trends-transforming-the-indian-business-sector',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/setting-goals-together-with-leadership-development-are-the-pillars-of-long-time-success',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/pull-your-business-out-of-the-ordinary-standard-with-custom-ld-training-solutions',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/the-secret-sauce-how-custom-coaching-unlocks-hidden-potentials',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/harness-the-power-of-leadership-the-importance-of-leadership-building-for-your-employees',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
-        
-        {
+      },
+
+      {
         source: '/unveiling-the-power-of-executive-coaching-for-your-organizational-growth-and-development',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-        },
+      },
 
 
 
-        {
-          source: '/blanchardindia/blog/the-best-leaders-serve-their-people-one-at-a-time',
-          destination: 'https://blog.byldgroup.com/blanchardindia/the-best-leaders-serve-their-people-one-at-a-time',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/3-ways-senior-leaders-can-improve-customer-service-in-their-organizations',
-          destination: 'https://blog.byldgroup.com/blanchardindia/3-ways-senior-leaders-can-improve-customer-service-in-their-organizations',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/4-keys-to-being-more-mindful-at-work-a-coaching-perspective',
-          destination: 'https://blog.byldgroup.com/blanchardindia/4-keys-to-being-more-mindful-at-work-a-coaching-perspective',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/accelerate-learning-with-train-the-trainer-certification-in-india',
-          destination: 'https://blog.byldgroup.com/blanchardindia/accelerate-learning-with-train-the-trainer-certification-in-india',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/how-to-experience-the-best-when-on-a-day-off',
-          destination: 'https://blog.byldgroup.com/blanchardindia/how-to-experience-the-best-when-on-a-day-off',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/stepping-into-a-big-mess-as-a-new-manager-ask-madeleine',
-          destination: 'https://blog.byldgroup.com/blanchardindia/stepping-into-a-big-mess-as-a-new-manager-ask-madeleine',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/importance-of-change-management-training-and-how-it-can-help-employees',
-          destination: 'https://blog.byldgroup.com/blanchardindia/importance-of-change-management-training-and-how-it-can-help-employees',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/understand-the-benefits-of-corporate-training-for-your-organization',
-          destination: 'https://blog.byldgroup.com/blanchardindia/understand-the-benefits-of-corporate-training-for-your-organization',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/87-of-the-times-wrong-leaders-are-preferred-find-the-right-ones-with-us',
-          destination: 'https://blog.byldgroup.com/blanchardindia/87-of-the-times-wrong-leaders-are-preferred-find-the-right-ones-with-us',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/want-to-become-a-customercentric-culture-company-these-7-tips-might-help',
-          destination: 'https://blog.byldgroup.com/blanchardindia/want-to-become-a-customer-centric-culture-company-these-7-tips-might-help/',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/how-to-be-a-better-manager-with-one-minute-manager',
-          destination: 'https://blog.byldgroup.com/blanchardindia/how-to-be-a-better-manager-with-one-minute-manager',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/decode-the-5cs-for-making-an-inclusive-leader',
-          destination: 'https://blog.byldgroup.com/blanchardindia/decode-the-5cs-for-making-an-inclusive-leader',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/7-tips-to-ensure-a-smooth-change-transition-in-your-organization',
-          destination: 'https://blog.byldgroup.com/blanchardindia/7-tips-to-ensure-a-smooth-change-transition-in-your-organization',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/employee-turnover-has-cost-companies-more-than-49-billion-usd-per-year',
-          destination: 'https://blog.byldgroup.com/blanchardindia/employee-turnover-has-cost-companies-more-than-49-billion-usd-per-year',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/self-determination-and-self-leadership-can-accelerate-your-performance',
-          destination: 'https://blog.byldgroup.com/blanchardindia/self-determination-and-self-leadership-can-accelerate-your-performance',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/cultivating-future-leaders-the-indispensable-role-of-leadership-programs',
-          destination: 'https://blog.byldgroup.com/blanchardindia/cultivating-future-leaders-the-indispensable-role-of-leadership-programs',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/transformational-leadership-inspiring-change-and-driving-innovation',
-          destination: 'https://blog.byldgroup.com/blanchardindia/transformational-leadership-inspiring-change-and-driving-innovation',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/unveiling-the-distinction-leaders-vs-managers--navigating-roles-for-ultimate-success',
-          destination: 'https://blog.byldgroup.com/blanchardindia/unveiling-the-distinction-leaders-vs-managers--navigating-roles-for-ultimate-success',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/empowering-from-within-how-leadership-development-programs-boost-employee-morale',
-          destination: 'https://blog.byldgroup.com/blanchardindia/empowering-from-within-how-leadership-development-programs-boost-employee-morale',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/unveiling-the-spectrum-of-leadership-styles-navigating-the-landscape-of-effective-leadership',
-          destination: 'https://blog.byldgroup.com/blanchardindia/unveiling-the-spectrum-of-leadership-styles-navigating-the-landscape-of-effective-leadership',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/objectives-of-employee-motivation-training-blanchard-india',
-          destination: 'https://blog.byldgroup.com/blanchardindia/objectives-of-employee-motivation-training-blanchard-india',
-          permanent: true,
-        },
-        {
-          source: '/blanchardindia/blog/who-is-your-dronacharya-the-importance-of-mentorship-in-life',
-          destination: 'https://blog.byldgroup.com/blanchardindia/who-is-your-dronacharya-the-importance-of-mentorship-in-life',
-          permanent: true,
-        },
+      {
+        source: '/blanchardindia/blog/the-best-leaders-serve-their-people-one-at-a-time',
+        destination: 'https://blog.byldgroup.com/blanchardindia/the-best-leaders-serve-their-people-one-at-a-time',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/3-ways-senior-leaders-can-improve-customer-service-in-their-organizations',
+        destination: 'https://blog.byldgroup.com/blanchardindia/3-ways-senior-leaders-can-improve-customer-service-in-their-organizations',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/4-keys-to-being-more-mindful-at-work-a-coaching-perspective',
+        destination: 'https://blog.byldgroup.com/blanchardindia/4-keys-to-being-more-mindful-at-work-a-coaching-perspective',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/accelerate-learning-with-train-the-trainer-certification-in-india',
+        destination: 'https://blog.byldgroup.com/blanchardindia/accelerate-learning-with-train-the-trainer-certification-in-india',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/how-to-experience-the-best-when-on-a-day-off',
+        destination: 'https://blog.byldgroup.com/blanchardindia/how-to-experience-the-best-when-on-a-day-off',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/stepping-into-a-big-mess-as-a-new-manager-ask-madeleine',
+        destination: 'https://blog.byldgroup.com/blanchardindia/stepping-into-a-big-mess-as-a-new-manager-ask-madeleine',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/importance-of-change-management-training-and-how-it-can-help-employees',
+        destination: 'https://blog.byldgroup.com/blanchardindia/importance-of-change-management-training-and-how-it-can-help-employees',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/understand-the-benefits-of-corporate-training-for-your-organization',
+        destination: 'https://blog.byldgroup.com/blanchardindia/understand-the-benefits-of-corporate-training-for-your-organization',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/87-of-the-times-wrong-leaders-are-preferred-find-the-right-ones-with-us',
+        destination: 'https://blog.byldgroup.com/blanchardindia/87-of-the-times-wrong-leaders-are-preferred-find-the-right-ones-with-us',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/want-to-become-a-customercentric-culture-company-these-7-tips-might-help',
+        destination: 'https://blog.byldgroup.com/blanchardindia/want-to-become-a-customer-centric-culture-company-these-7-tips-might-help/',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/how-to-be-a-better-manager-with-one-minute-manager',
+        destination: 'https://blog.byldgroup.com/blanchardindia/how-to-be-a-better-manager-with-one-minute-manager',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/decode-the-5cs-for-making-an-inclusive-leader',
+        destination: 'https://blog.byldgroup.com/blanchardindia/decode-the-5cs-for-making-an-inclusive-leader',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/7-tips-to-ensure-a-smooth-change-transition-in-your-organization',
+        destination: 'https://blog.byldgroup.com/blanchardindia/7-tips-to-ensure-a-smooth-change-transition-in-your-organization',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/employee-turnover-has-cost-companies-more-than-49-billion-usd-per-year',
+        destination: 'https://blog.byldgroup.com/blanchardindia/employee-turnover-has-cost-companies-more-than-49-billion-usd-per-year',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/self-determination-and-self-leadership-can-accelerate-your-performance',
+        destination: 'https://blog.byldgroup.com/blanchardindia/self-determination-and-self-leadership-can-accelerate-your-performance',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/cultivating-future-leaders-the-indispensable-role-of-leadership-programs',
+        destination: 'https://blog.byldgroup.com/blanchardindia/cultivating-future-leaders-the-indispensable-role-of-leadership-programs',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/transformational-leadership-inspiring-change-and-driving-innovation',
+        destination: 'https://blog.byldgroup.com/blanchardindia/transformational-leadership-inspiring-change-and-driving-innovation',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/unveiling-the-distinction-leaders-vs-managers--navigating-roles-for-ultimate-success',
+        destination: 'https://blog.byldgroup.com/blanchardindia/unveiling-the-distinction-leaders-vs-managers--navigating-roles-for-ultimate-success',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/empowering-from-within-how-leadership-development-programs-boost-employee-morale',
+        destination: 'https://blog.byldgroup.com/blanchardindia/empowering-from-within-how-leadership-development-programs-boost-employee-morale',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/unveiling-the-spectrum-of-leadership-styles-navigating-the-landscape-of-effective-leadership',
+        destination: 'https://blog.byldgroup.com/blanchardindia/unveiling-the-spectrum-of-leadership-styles-navigating-the-landscape-of-effective-leadership',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/objectives-of-employee-motivation-training-blanchard-india',
+        destination: 'https://blog.byldgroup.com/blanchardindia/objectives-of-employee-motivation-training-blanchard-india',
+        permanent: true,
+      },
+      {
+        source: '/blanchardindia/blog/who-is-your-dronacharya-the-importance-of-mentorship-in-life',
+        destination: 'https://blog.byldgroup.com/blanchardindia/who-is-your-dronacharya-the-importance-of-mentorship-in-life',
+        permanent: true,
+      },
 
-        {
-          source: '/blanchardindia/blog/:path*',
-          destination: 'https://blog.byldgroup.com/blanchardindia/',
-          permanent: false
-        },
+      {
+        source: '/blanchardindia/blog/:path*',
+        destination: 'https://blog.byldgroup.com/blanchardindia/',
+        permanent: false
+      },
 
 
-        /* cl blogs */
+      /* cl blogs */
 
-        // {
-        //   source: '/cruciallifechangingskills/mastering-the-art-of-habit-building-a-guide-to-positive-change',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-the-art-of-habit-building-a-guide-to-positive-change',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/beyond-micromanagement-trustbased-accountability-for-enhanced-productivity',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/beyond-micromanagement-trustbased-accountability-for-enhanced-productivity',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/mastering-crucial-conversations-your-guide-to-effective-communication-skills',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-crucial-conversations-your-guide-to-effective-communication-skills',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/you-can-influence-others-in-the-workplace-without-having-authority',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/you-can-influence-others-in-the-workplace-without-having-authority',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/mastering-communication-skills',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-communication-skills',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/leadership-skills-in-corporate',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/leadership-skills-in-corporate',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/what-should-we-expect-for-the-future-of-corporate-training-in-2021',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-should-we-expect-for-the-future-of-corporate-training-in-2021',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/what-should-be-included-in-leadership-training',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-should-be-included-in-leadership-training',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/skill-development-training-what-are-the-benefits-of-skill-development',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/skill-development-training-what-are-the-benefits-of-skill-development',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/corporate-training-what-is-it-and-why-do-you-need-it',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/corporate-training-what-is-it-and-why-do-you-need-it',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/what-is-effective-communication-and-why-is-it-important',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-is-effective-communication-and-why-is-it-important',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/understand-the-benefits-of-behavioural-skills-training-for-corporate-companies',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/understand-the-benefits-of-behavioural-skills-training-for-corporate-companies',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/responding-to-false-accusations-is-part-of-crucial-accountability',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/responding-to-false-accusations-is-part-of-crucial-accountability',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/how-accountability-will-benefit-your-workplace-and-how-to-achieve-it',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/accountability-in-the-workplace-a-guide-for-managers',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/tips-on-how-to-improve-your-effective-communication-skills',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/tips-on-how-to-improve-your-effective-communication-skills',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/crucial-accountability-book',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/crucial-accountability-a-new-perspective-on-performance-management',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/how-to-boost-up-employee-morale',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-to-boost-up-employee-morale',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/how-to-deliver-feedback-without-embarrassing-someone',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-to-deliver-feedback-without-embarrassing-someone',
-        //   permanent: true,
-        // },
-        // {
-        //   source: '/cruciallifechangingskills/significance-of-skill-development-training',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/significance-of-skill-development-training',
-        //   permanent: true,
-        // },
+      {
+        source: '/cruciallifechangingskills/mastering-the-art-of-habit-building-a-guide-to-positive-change',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-the-art-of-habit-building-a-guide-to-positive-change',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/beyond-micromanagement-trustbased-accountability-for-enhanced-productivity',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/beyond-micromanagement-trustbased-accountability-for-enhanced-productivity',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/mastering-crucial-conversations-your-guide-to-effective-communication-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-crucial-conversations-your-guide-to-effective-communication-skills',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/you-can-influence-others-in-the-workplace-without-having-authority',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/you-can-influence-others-in-the-workplace-without-having-authority',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/mastering-communication-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-communication-skills',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/leadership-skills-in-corporate',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/leadership-skills-in-corporate',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-should-we-expect-for-the-future-of-corporate-training-in-2021',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-should-we-expect-for-the-future-of-corporate-training-in-2021',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-should-be-included-in-leadership-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-should-be-included-in-leadership-training',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/skill-development-training-what-are-the-benefits-of-skill-development',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/skill-development-training-what-are-the-benefits-of-skill-development',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/corporate-training-what-is-it-and-why-do-you-need-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/corporate-training-what-is-it-and-why-do-you-need-it',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-is-effective-communication-and-why-is-it-important',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/what-is-effective-communication-and-why-is-it-important',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/understand-the-benefits-of-behavioural-skills-training-for-corporate-companies',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/understand-the-benefits-of-behavioural-skills-training-for-corporate-companies',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/responding-to-false-accusations-is-part-of-crucial-accountability',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/responding-to-false-accusations-is-part-of-crucial-accountability',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-accountability-will-benefit-your-workplace-and-how-to-achieve-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/accountability-in-the-workplace-a-guide-for-managers',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/tips-on-how-to-improve-your-effective-communication-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/tips-on-how-to-improve-your-effective-communication-skills',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/crucial-accountability-book',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/crucial-accountability-a-new-perspective-on-performance-management',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-boost-up-employee-morale',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-to-boost-up-employee-morale',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-deliver-feedback-without-embarrassing-someone',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-to-deliver-feedback-without-embarrassing-someone',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/significance-of-skill-development-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/significance-of-skill-development-training',
+        permanent: true,
+      },
 
-        // {
-        //   source: '/cruciallifechangingskills/top-7-behaviour-skills-to-develop-in-your-employees',
-        //   destination: 'https://blog.byldgroup.com/cruciallifechangingskills/top-7-behaviour-skills-to-develop-in-your-employees',
-        //   permanent: true,
-        // },
+      {
+        source: '/cruciallifechangingskills/top-7-behaviour-skills-to-develop-in-your-employees',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/top-7-behaviour-skills-to-develop-in-your-employees',
+        permanent: true,
+      },
 
-        // {
-        //   source: '/blanchardindia/blog/:path*',
-        //   destination: 'https://blog.byldgroup.com/blanchardindia/',
-        //   permanent: false
-        // },
-        
-        
-      
 
-      
+
+
+
+      {
+        source: '/cruciallifechangingskills/how-to-deal-with-delicate-workplace-issues',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/transforming-an-undesirable-environment',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/best-ways-to-increase-accountability-in-the-workplace',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/advantages-of-corporate-training-and-enhancing-your-interpersonal-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/an-influential-approach-to-leadership-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/become-a-certified-trainer-with-train-the-trainer-module',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-importance-of-skill-development-training-in-shaping-your-organization',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-importance-of-effective-communication-in-professional-relations',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/lead-your-way-through-skill-development-training-and-corporate-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/understanding-the-importance-of-behavioural-skills-training-at-workplace',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/importance-of-building-accountability-in-the-workplace',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/importance-of-interpersonal-skills-and-how-to-improve-them',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-importance-of-corporate-training-for-business',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-foster-accountability-in-a-tightknit-culture',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-talk-to-a-students-parent-in-crucial-moments',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/lead-your-way-through-skill-development-training-and-corporate-training-1658755551999',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/importance-of-behavioural-training-for-call-center-employees',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/behavioural-skills-training-and-its-importance-in-enhancing-work-culture',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/train-the-trainer-what-is-it-and-why-do-you-need-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/get-leadership-training-program-and-improve-your-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/train-the-trainer--what-is-it-and-why-does-your-organization-need-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/skill-development-training-what-is-it-and-why-do-you-need-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/corporate-training-what-is-corporate-training-why-do-we-need-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/top-10-interpersonal-skills-what-are-interpersonal-skills-and-why-theyre-important',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/repairing-broken-relationship-between-father-and-son',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/components-essential-for-effective-communication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/importance-of-interpersonal-skills-for-organizational-success',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-tell-your-colleague-to-stay-at-home-when-sick',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/importance-of-corporate-training-for-organizational-development-and-growth',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-is-skill-development-and-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/keys-to-manage-newly-remote-teams',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/9-tips-to-minimize-disruption-during-a-pandemic',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/effective-communication--a-complete-guide',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/this-is-how-we-are-leading-through-the-crisis',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/tips-for-successful-video-conferencing',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-rising-importance-of-skill-development-training-in-india',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/invest-in-leadership-training-activities-for-rapid-growth-of-your-organization',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-accountability-is-beneficial-for-the-workplace-and-how-to-achieve-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/are-your-employees-missing-on-these-imperative-behaviour-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/know-why-effective-communication-for-leaders-is-important',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-take-care-of-a-silent-family-member',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/increase-effectiveness-of-your-virtual-meetings',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-listen-positively-when-everything-around-you-is-so-negative',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/tips-to-initiate-a-crucial-conversation-with-a-friend',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/effective-communication--a-complete-guide-1658812074408',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/learning-to-deliver-tough-love-with-respect',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/my-coworker-cuts-me-off-doesnt-listen-and-always-says-no-what--now',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/understanding-responsibility-is-more-than-a-process-of-memofication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/a-new-model-for-ethical-leadership',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-the-secret-to-good-leadership-can-improve-your-life-too',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-ld-helps-in-risk-management',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/role-of-training-and-development-in-helping-revive-organizations-post-covid',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/top-strategies-for-better-decision-making',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/develop-these-4-important-behavioral-skills-that-employers-value',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/are-you-using-smart-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/including-ethics-into-organizational-culture',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/4-communication-skills-every-manager-should-master',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/leading-in-the-future',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/strategic-leadership-development--the-time-is-now',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/3-things-to-stop-doing-and-3-things-to-start-doing-for-more-productivity',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/importance-of-behavioral-skills-training-at-the-workplace',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/important-skill-development-areas-for-employees',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/identifying-skill-gaps-to-lead-the-postcovid-world',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/5-tips-for-turning-2020-disarray-into-2021-direction-insights-from-learning-leaders',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/storytelling-in-a-virtual-training-environment',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/importance-of-effective-communication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/leadership-training-to-be-an-influencer',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/redefining-learning-and-development-success-metrics',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-influences-performance-review-discussions--facts-or-stories-we-tell-ourselves',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/importance-of-behavioral-skills-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/2020-in-review-how-remote-work-has-shifted-learning-and-development-needs',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/decide-how-to-decide',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/changing-trends-in-the-learning-and-development-industry',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/skill-development-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-can-teenagers-deal-with-crucial-conversations',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-do-effective-communication-skills-transform-productivity',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/6-ways-to-level-up-your-communication-game',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/learning-the-art-of-active-listening-become-a-better-communicator',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/change-the-constant-factor-in-our-lives',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/why-companies-need-to-train-leaders-into-trainers',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/key-leadership-skills-you-require-to-excel-in-your-career',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-impact-of-training-the-trainers-what-you-need-to-know-before-choosing-a-course',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-are-the-key-highlights-of-corporate-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-are-the-barriers-to-effective-communication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-is-the-future-of-training-industry-the-ld-edition',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-interpersonal-skills-you-need',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-run-away-car',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-are-behavioral-skills-training-and-why-you-should-invest-in-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/key-areas-to-enhance-for-better-communication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/my-journey-with-vitalsmarts',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-power-of-habit',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-leads-to-accountability-at-workplace',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/key-behavioural-skill-for-employees',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-science-behind-habit-formation',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/crucial-conversations--mastering-dialogues-for-better-working',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/building-accountability-at-work-place',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/fun-leadership-games-for-skill-development',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/why-should-leaders-become-influencers',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/few-ways-to-carry-on-through-change',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/can-leadership-training-assist-professionals-in-2022',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/what-lies-behind-leading-people',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-turn-a-resolution-into-a-habit',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/why-is-communication-important-in-business',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/my-experience-crucial-conversations-for-mastering-dialogue',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/crucial-conversations-leading-to-crucial-outcomes',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/is-willpower-reliable-or-not',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-deliver-a-feedback-safely',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/encouraging-employees-to-provide-inputs',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/why-crucial-conversations-are-important-everywhere',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/practicing-crucial-conversations-to-master-conflicts',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/six-best-practices-for-client-communication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/balancing-work-and-life-tips-to-manage-work-workspace-edition',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/overcome-behaviour-that-is-selfdestructive-through-habits',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/emotional-quotient--why-does-it-matter-in-the-organization',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-are-clear-conversations-a-mark-of-highperforming-individuals',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-achieve-good-communication-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-to-master-crucial-conversations-like-a-pro',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/unable-to-get-through-people-during-a-crucial-conversation-here-is-what-you-need',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/discipline--bridge-between-goals-and-achievement',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/essential-steps-to-master-a-crucial-conversation',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-leaders-can-influence-through-influence-training-courses',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/steps-to-master-accountability-in-personal-and-professional-lives',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/humanizing-artificial-intelligencewhy-ai-needs-emotional-intelligence',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/keep-your-hybrid-employees-engage-with-these-simple-tips',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/tips-to-motivate-your-underperforming-employees',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/are-you-close-to-your-customers',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/know-the-insideout-of-getting-things-done',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/pondering-to-balance-work-and-life-altogether',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/getting-things-done--no-1-productivity-system',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-well-are-you-engaged-with-what-matters-to-you--david-allen',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/7-most-vital-life-changing-skills-to-adapt',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/leverage-productivity-with-better-time-management-training',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/empower-employee-productivity-via-getting-things-done-in-7-prime-ways',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/a-unique-approach-to-boost-personal-productivity-with-3-strategies',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-do-our-training-courses-help-to-solve-common-organizational-problems',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/best-5-advises-to-increase-the-organization-effectiveness',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-best-way-to-identify-opportunities-is-with-development-communication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/ror-of-great-relationships-is-based-on-effective-communication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/train-your-managers-to-talk-effectively-during-a-financial-crisis',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/how-talking-good-can-bring-in-revenue-for-your-company',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/crucial-accountability-can-build-relationships-based-on-trust-that-reduces-burnout-by-40',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/mastering-your-habits-can-change-your-life',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/only-11-feel-that-the-company-has-creative-communication',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/44-of-projects-fail-due-to-poor-business-communications',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/lifechanging-skills-that-you-need-to-become-a-better-manager-in-2023',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/mastering-crucial-conversations-is-the-key-skill-for-high-performance',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/lack-of-selfregard-can-negatively-affect-your-role-as-a-leader',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/effective-habits-that-lead-to-adaptability-and-agility',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/95-of-people-admit-to-putting-off-work-strategies-to-increase-creativity-in-procrastinators',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/poor-communications-in-the-workplace-can-cost-the-company-420000-per-year',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/accountability-or-responsibility-difference-and-impact',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-art-of-spinning-a-conversation-crucial-conversations-in-the-workplace',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/10-habits-of-successful-business-owners',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/getting-things-done-to-change-business-and-deal-with-change',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/increase-productivity-with-time-management-by-getting-things-done',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/communicating-to-influence-importance-of-interpersonal-skills-in-the-workplace',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/employees-responsibility-and-ownership--workplace-accountability',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/lead-to-positive-outcomes-with-the-power-of-habit',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/learn-how-to-influence-without-disrespecting-your-colleagues-employees-or-team-members',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/nonverbal-communication-skills-that-every-professional-needs-to-master',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-importance-of-accountability-in-the-workplace-7-ways-to-foster-it',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/10-great-work-habits-to-set-yourself-up-for-success-insights-from-successful-organizations',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/skills-required-in-2023--industries-prioritizing-communication-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/harnessing-the-power-of-habits-for-accelerating-growth',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-vital-role-of-influence-in-organizational-success-empowering-managers-through-courses',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/cultivating-success-the-power-of-accountability-in-the-workplace',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/7-tips-to-be-more-productive-at-work--the-road-to-success',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/understanding-the-power-of-habit-how-small-changes-can-lead-to-big-results',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+      {
+        source: '/cruciallifechangingskills/the-role-of-emotional-intelligence-in-effective-communication-and-conflict-resolution',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+
+      {
+        source: '/cruciallifechangingskills/blog',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
+        permanent: true,
+      },
+
+
+
+
+
 
     ]
   },
