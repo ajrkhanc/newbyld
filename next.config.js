@@ -1405,7 +1405,7 @@ module.exports = {
         },
         {
           source: '/cruciallifechangingskills/how-accountability-will-benefit-your-workplace-and-how-to-achieve-it',
-          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-accountability-will-benefit-your-workplace-and-how-to-achieve-it',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/accountability-in-the-workplace-a-guide-for-managers',
           permanent: true,
         },
         {
@@ -1415,7 +1415,7 @@ module.exports = {
         },
         {
           source: '/cruciallifechangingskills/crucial-accountability-book',
-          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/crucial-accountability-book',
+          destination: 'https://blog.byldgroup.com/cruciallifechangingskills/crucial-accountability-a-new-perspective-on-performance-management',
           permanent: true,
         },
         {
