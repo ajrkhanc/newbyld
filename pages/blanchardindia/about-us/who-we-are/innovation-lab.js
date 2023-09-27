@@ -48,7 +48,7 @@ export default function ThanYouLP() {
                   </div>
                   <div className="col-sm-6">
                      <div className="mimg100 imgborder pll-90">
-                        <img className="" src="/kbassets/img/kbnew/Transform-and-Extend.jpg" alt="Images" />
+                        <img className="" src="/kbassets/img/kbnew/transform-and-extend.jpg" alt="Images" />
                      </div>
                   </div>
                </div>
@@ -116,7 +116,7 @@ export default function ThanYouLP() {
                      <h2>Why Learning Journeys Deliver Results</h2>
                   </div>
 
-                  <div className="col-sm-6">
+                  <div className="col-sm-4">
                      <div className="howinner">
                         <div className="mimg">
                            <img className="" src="/kbassets/img/kbnew/icon/check-mark.svg" alt="Images" />
@@ -128,7 +128,7 @@ export default function ThanYouLP() {
                      </div>
                   </div>
 
-                  <div className="col-sm-6">
+                  <div className="col-sm-4">
                      <div className="howinner">
                         <div className="mimg">
                            <img className="" src="/kbassets/img/kbnew/icon/check-mark.svg" alt="Images" />
@@ -140,7 +140,7 @@ export default function ThanYouLP() {
                      </div>
                   </div>
 
-                  <div className="col-sm-6">
+                  <div className="col-sm-4">
                      <div className="howinner">
                         <div className="mimg">
                            <img className="" src="/kbassets/img/kbnew/icon/check-mark.svg" alt="Images" />
@@ -151,8 +151,8 @@ export default function ThanYouLP() {
                         </div>
                      </div>
                   </div>
-
-                  <div className="col-sm-6">
+                  <div className="col-sm-2"></div>
+                  <div className="col-sm-4">
                      <div className="howinner">
                         <div className="mimg">
                            <img className="" src="/kbassets/img/kbnew/icon/check-mark.svg" alt="Images" />
@@ -163,8 +163,8 @@ export default function ThanYouLP() {
                         </div>
                      </div>
                   </div>
-                  <div className="col-sm-3"></div>
-                  <div className="col-sm-6">
+                  
+                  <div className="col-sm-4">
                      <div className="howinner">
                         <div className="mimg">
                            <img className="" src="/kbassets/img/kbnew/icon/check-mark.svg" alt="Images" />

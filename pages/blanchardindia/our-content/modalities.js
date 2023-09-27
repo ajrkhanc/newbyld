@@ -16,7 +16,7 @@ export default function ThanYouLP() {
                   <div className="col-sm-12 ptt-25 pbb-50">
                      <ul>
                         <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
-                        <li className="brdlifirst"><a href="/blanchardindia/our-content">WHAT WE DO</a></li>
+                        <li className="brdlifirst"><a href="/blanchardindia/what-we-do">WHAT WE DO</a></li>
                         <li><a><span>MODALITIES</span></a></li>
                      </ul>
                   </div>
