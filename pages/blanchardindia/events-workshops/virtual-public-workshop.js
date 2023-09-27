@@ -290,7 +290,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/ev1.jpg" alt="Images" />
                                  <h3>Self Leadership - Virtual</h3>
                                  <p>October 11th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -303,7 +303,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/ev2.jpg" alt="Images" />
                                  <h3>Team Leadership - Virtual</h3>
                                  <p>October 19th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -316,7 +316,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/ev3.jpg" alt="Images" />
                                  <h3>Building Trust - Virtual</h3>
                                  <p>November 2nd, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -329,7 +329,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/ev4.jpg" alt="Images" />
                                  <h3>The SLII Experience™</h3>
                                  <p>November 20th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -342,7 +342,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/ev5.jpg" alt="Images" />
                                  <h3>The SLII Experience™ T4T F2F</h3>
                                  <p>November 22nd, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -355,7 +355,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/ev6.jpg" alt="Images" />
                                  <h3>Conversational Capacity - Virtual</h3>
                                  <p>December 13th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
@@ -368,7 +368,7 @@ export default function VirtualPublicWorkshop() {
 
                            <div className="col-sm-4">
                               <div className="choose-card">
-                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <img src="/kbassets/img/ev7.jpg" alt="Images" />
                                  <h3>Blanchard Management Essentials - Virtual</h3>
                                  <p>December 20th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
