@@ -321,7 +321,7 @@ function Nav() {
                                                         <div className="row bigmenua">
                                                             <div className="col-sm-12">
                                                                 <h3>
-                                                                    <a className="mh3" href="#">Resources <i className="fa fa-angle-right"></i></a>
+                                                                    <a className="mh3" href="/blanchardindia/resources">Resources <i className="fa fa-angle-right"></i></a>
                                                                 </h3>
                                                             </div>
                                                             <div className="col-sm-4">
