@@ -36,7 +36,7 @@ export default function BrowseCourses() {
         var nameurl = name.replace(/[^a-zA-Z0-9 ]/g, "");
         nameurl = nameurl.toLowerCase();
         const newnameurl = nameurl.split(' ').join('-')+phone;
-        const result = `https://byldgroup.com/eq/eq-assessment/${newnameurl}`
+        const result = `https://byldgroup.com/eq/eq-assessment1/${newnameurl}`
 
 
 

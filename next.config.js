@@ -2406,6 +2406,12 @@ module.exports = {
         permanent: false
       },
 
+      {
+        source: '/eq/eq-assessment',
+        destination: '/eq/eq-assessment1',
+        permanent: true,
+      },
+
 
 
 
