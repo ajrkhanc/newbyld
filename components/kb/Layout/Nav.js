@@ -133,10 +133,10 @@ function Nav() {
                                                 <div className="row">
                                                     <div className="col-sm-3 bigmenu1">
                                                         <h4>Trending Now:</h4>
-                                                        <a href="/blanchardindia/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a>
+                                                        {/* <a href="/blanchardindia/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a>
                                                         <p>
                                                             Membership accelerates leadership and professional growth through live, facilitated courses, best-in-class online content, and collaborative experiences.
-                                                        </p>
+                                                        </p> */}
                                                         <a href="/blanchardindia/what-we-do/custom-solutions">Blanchard Design Studio</a>
                                                         <p>Our solutions combine our award-winning content and methodologies with a collaborative design process.</p>
                                                     </div>
@@ -155,7 +155,7 @@ function Nav() {
                                                                     <li><a href="/blanchardindia/what-we-do/leadership-development/digital-virtual-learning-experiences">Digital & Virtual Learning Experiences</a></li>
                                                                     <li><a href="/blanchardindia/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a></li>
                                                                     <li><a href="/blanchardindia/what-we-do/leadership-development/keynotes">Keynotes</a></li>
-                                                                    <li><a href="/blanchardindia/what-we-do/leadership-development/content-licensing">Content Licensing</a></li>
+                                                                    {/* <li><a href="/blanchardindia/what-we-do/leadership-development/content-licensing">Content Licensing</a></li> */}
                                                                     <li><a className="" href="/blanchardindia/resources/public-courses">Public Courses</a></li>
                                                                     <li><a href="/blanchardindia/what-we-do/leadership-development/training-for-trainers">Training for Trainers</a></li>
                                                                 </ul>
@@ -167,7 +167,7 @@ function Nav() {
                                                                     <li><a href="/blanchardindia/what-we-do/services/facilitation">Facilitation</a></li>
                                                                     <li><a href="/blanchardindia/what-we-do/services/measurement-impact">Measurement & Impact</a></li>
                                                                     <li><a href="/blanchardindia/what-we-do/services/assessments">Assessments</a></li>
-                                                                    <li><a href="/blanchardindia/what-we-do/services/moderation-community-management">Moderation & Community Management</a></li>
+                                                                    {/* <li><a href="/blanchardindia/what-we-do/services/moderation-community-management">Moderation & Community Management</a></li> */}
                                                                     <li><a href="/blanchardindia/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a></li>
                                                                 </ul>
                                                             </div>

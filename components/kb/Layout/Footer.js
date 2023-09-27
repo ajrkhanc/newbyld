@@ -53,7 +53,7 @@ function Footer() {
                      <div className="footer-widget footer-widget-color1">
                      <h3>ABOUT US</h3>
                         <p>
-                           Blanchard Research and Training LLP is the leading training provider in South Asia, with expertise in leadership development across hierarchies.
+                           Blanchard India is the leading training provider in South Asia, with expertise in leadership development across hierarchies.
                         </p>
                         <div className="social-link-content">
                            <h3 className="title">Follow Us On</h3>

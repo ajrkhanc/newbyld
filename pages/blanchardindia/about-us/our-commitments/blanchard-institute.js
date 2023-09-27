@@ -60,7 +60,7 @@ export default function ThanYouLP() {
                             <ul>
                                 <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/blanchardindia/about-us">ABOUT US</a></li>
-                                <li className="brdlifirst"><a href="/blanchardindia/about-us/our-commitments/">OUR COMMITMENTS</a></li>
+                                <li className="brdlifirst"><a href="#">OUR COMMITMENTS</a></li>
                                 <li><a><span>BLANCHARD INSTITUTE</span></a></li>
                             </ul>
                         </div>
