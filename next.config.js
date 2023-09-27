@@ -1340,12 +1340,12 @@ module.exports = {
 
       {
         source: '/cruciallifechangingskills/mastering-the-art-of-habit-building-a-guide-to-positive-change',
-        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-the-art-of-habit-building-a-guide-to-positive-change',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/how-to-break-bad-habits-and-become-the-person-you-want-to-be',
         permanent: true,
       },
       {
         source: '/cruciallifechangingskills/beyond-micromanagement-trustbased-accountability-for-enhanced-productivity',
-        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/beyond-micromanagement-trustbased-accountability-for-enhanced-productivity',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/beyond-micromanagement-trust-based-accountability-for-enhanced-productivity',
         permanent: true,
       },
       {
@@ -1360,12 +1360,12 @@ module.exports = {
       },
       {
         source: '/cruciallifechangingskills/mastering-communication-skills',
-        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/mastering-communication-skills',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/the-secret-to-mastering-effective-communication-skills',
         permanent: true,
       },
       {
         source: '/cruciallifechangingskills/leadership-skills-in-corporate',
-        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/leadership-skills-in-corporate',
+        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/developing-corporate-leadership-skills-strategies-for-success',
         permanent: true,
       },
       {
