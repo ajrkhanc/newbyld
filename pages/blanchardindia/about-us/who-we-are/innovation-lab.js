@@ -151,8 +151,8 @@ export default function ThanYouLP() {
                         </div>
                      </div>
                   </div>
-                  <div className="col-sm-2"></div>
-                  <div className="col-sm-4">
+                  <div className="col-sm-1"></div>
+                  <div className="col-sm-5">
                      <div className="howinner">
                         <div className="mimg">
                            <img className="" src="/kbassets/img/kbnew/icon/check-mark.svg" alt="Images" />
@@ -164,7 +164,7 @@ export default function ThanYouLP() {
                      </div>
                   </div>
                   
-                  <div className="col-sm-4">
+                  <div className="col-sm-5">
                      <div className="howinner">
                         <div className="mimg">
                            <img className="" src="/kbassets/img/kbnew/icon/check-mark.svg" alt="Images" />
