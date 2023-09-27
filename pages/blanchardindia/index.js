@@ -10,8 +10,8 @@ export default function Home() {
       arrows: false,
       infinite: true,
       speed: 500,
-      slidesToShow: 6,
-      slidesToScroll: 6,
+      slidesToShow: 7,
+      slidesToScroll: 5,
       initialSlide: 0,
       autoplay: false,
       autoplaySpeed: 3000,
@@ -19,7 +19,7 @@ export default function Home() {
          {
             breakpoint: 1024,
             settings: {
-               slidesToShow: 4,
+               slidesToShow: 5,
                slidesToScroll: 4,
                infinite: true,
                dots: true
