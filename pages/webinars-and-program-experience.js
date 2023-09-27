@@ -299,6 +299,20 @@ export default function WebinarsAndProgramExperience() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Virtual Course Preview - November 9th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4>
+                                    <h3>BeSpoke Solutions</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
                                     <span>Virtual Course Preview - December 5th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
@@ -386,6 +400,7 @@ export default function WebinarsAndProgramExperience() {
                                                 {/* <option value="Inside Out Coaching, 23rd August 2023">Inside Out Coaching, 23rd August 2023</option>
                                                 <option value="Lumina Spark, 23rd August, 2023">Lumina Spark, 23rd August, 2023</option> */}
                                                 <option value="Crucial Life Changing Skills, Getting things done – October 23rd, 2023">Crucial Life Changing Skills, Getting things done – October 23rd, 2023</option>
+                                                <option value="BeSpoke Solutions – November 9th, 2023">BeSpoke Solutions – November 9th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, The power of habit – December 5th, 2023">Crucial Life Changing Skills, The power of habit – December 5th, 2023</option>
                                             </select>
                                         </div>
