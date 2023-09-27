@@ -42,6 +42,18 @@ export default function PodCast() {
                                     
                                        <div className="col-sm-4">
                                         <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/the-awesome-human-project-with-nataly-kogan.jpg" alt="Images" />
+                                            <h3>Best of 2022: The Awesome Human Project with Nataly Kogan</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/the-awesome-human-project-with-nataly-kogan"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
                                             <img src="/kbassets/img/podcast/risk-forward-with-victoria-labalme.jpg" alt="Images" />
                                             <h3>Risk Forward with Victoria Labalme</h3>
                                             <div className='row text-center eventsbottomarea2'>
