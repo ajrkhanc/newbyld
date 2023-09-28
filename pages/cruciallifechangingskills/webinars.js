@@ -109,7 +109,7 @@ export default function Webinars() {
                                 <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date green-col">
                                     <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 30th, 2023</h6>
-                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
                             </div>
