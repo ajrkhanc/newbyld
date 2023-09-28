@@ -257,7 +257,7 @@ export default function BrowseCourses(){
                                     <h4>INFLUENCER</h4>
                                     <p></p>
                                 </div>
-                                <h5 className='eventt'>Workshop</h5>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date green-col">
                                     <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 30th, 2023</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
