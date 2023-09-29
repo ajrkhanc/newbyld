@@ -10626,7 +10626,7 @@ Media queries for responsive design
 	.navik-header .logo img {
 		max-width: inherit;
 		max-height: 80px;
-		padding: 20px 16px;
+		padding: 8px 4px;
 		width: auto;
 	}
 
