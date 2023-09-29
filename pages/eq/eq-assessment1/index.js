@@ -91,7 +91,7 @@ export default function BrowseCourses() {
                         '&result=' + result)
 
                     window.setTimeout(function () {
-                        window.location.href = `/eq/eq-assessment/${newnameurl}`
+                        window.location.href = `/eq/eq-assessment1/${newnameurl}`
                     }, 1000);
                 }
 
