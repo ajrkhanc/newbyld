@@ -37,9 +37,6 @@ export default function BrowseCourses() {
         nameurl = nameurl.toLowerCase();
         const newnameurl = nameurl.split(' ').join('-')+phone;
         var foremail = 'https://byldgroup.com/eq/eq-assessment2/'+newnameurl;
-
-
-
         var xhr = new XMLHttpRequest();
         xhr.open('POST', 'https://byldblogs.vercel.app/api/dtci-assessment');       
         xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
