@@ -939,10 +939,8 @@ img {
     width: 55%;
     height: 100%;
     background-color: #003146;
-    -webkit-transition: 0.7s;
-    transition: 0.7s;
-    -webkit-transform: skew(-10deg);
-    transform: skew(-10deg);
+    
+   
 }
 
 .default-btn-two::after {
@@ -954,10 +952,7 @@ img {
     width: 50%;
     height: 100%;
     background-color: #008065;
-    -webkit-transition: 0.7s;
-    transition: 0.7s;
-    -webkit-transform: skew(-10deg);
-    transform: skew(-10deg);
+    
 }
 
 .default-btn-two:hover {
@@ -9201,7 +9196,7 @@ h2 .green-bg {
 }
 
 .eventsbottomarea2 {
-    background-color: #333f48;
+    /* background-color: #333f48; */
     margin-top: 10px;
 }
 
