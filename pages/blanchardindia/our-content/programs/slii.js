@@ -61,12 +61,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/blanchardindia/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/blanchardindia/our-content/programs">OUR CONTENT</a></li>
                                 <li className="brdlifirst"><a href="/blanchardindia/our-content/programs">PROGRAMS</a></li>
-                                <li><a><span>SLII®</span></a></li>
+                                <li><a><span>SLII<sup>®</sup></span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>SLII®. Powering Inspired Leaders™</h1>
+                                <h1>SLII<sup>®</sup>. Powering Inspired Leaders™</h1>
                             </div>
                         </div>
                     </div>
@@ -81,10 +81,10 @@ export default function ThanYouLP() {
                                 Use a situational leadership style to achieve success
                             </h2>
                             <p className="headingp">
-                                The world's most well-known leadership development course, SLII®, teaches managers how to forge deep bonds with their employees that have a multiplicative effect. Employee productivity and engagement increase when this occurs.
+                                The world's most well-known leadership development course, SLII<sup>®</sup>, teaches managers how to forge deep bonds with their employees that have a multiplicative effect. Employee productivity and engagement increase when this occurs.
                             </p>
                             <p className="headingp">
-                                SLII® offers much more than just effective leadership development. Across the enterprise, it provides outstanding ROI.
+                                SLII<sup>®</sup> offers much more than just effective leadership development. Across the enterprise, it provides outstanding ROI.
                             </p>
                             <a href='/blanchardindia/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
@@ -109,7 +109,7 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Proven, time-tested leadership model</h2>
                             <p className="headingp">
-                                SLII® is a practical, easy-to-understand framework to help your manager diagnose employee development for the following tasks: D1 - Enthusiastic Beginner; D2 - Disillusioned Learner; D3 - – Capable, but Cautious Contributor; D4 - Self-Reliant Achiever. Next, managers use appropriate support and coaching behaviors to help them succeed: S1 - Directing; S2 - Coaching; S3 - Supporting; S4 - Delegating.
+                                SLII<sup>®</sup> is a practical, easy-to-understand framework to help your manager diagnose employee development for the following tasks: D1 - Enthusiastic Beginner; D2 - Disillusioned Learner; D3 - – Capable, but Cautious Contributor; D4 - Self-Reliant Achiever. Next, managers use appropriate support and coaching behaviors to help them succeed: S1 - Directing; S2 - Coaching; S3 - Supporting; S4 - Delegating.
                             </p>
                             <p className="headingp">
                                 Our award-winning learning program, The SLII Experience™, combines Blanchard's latest research and cutting-edge design theory. This creates a learning experience that enables rapid mastery of the method and allows managers to help their direct reports reach new professional heights.
@@ -134,7 +134,7 @@ export default function ThanYouLP() {
                                 With thousands of qualified facilitators available worldwide, we can give your managers The SLII Experience™ in person or virtually, or we can train your trainers to deliver the course through public or private Training for Trainers courses.
                             </p>
                             <p className="pcl">
-                                To ensure that your managers can learn the methodology wherever they are and whenever they have the time, SLII® can also be a component of a learning journey or taught in a self-directed online or moderated online version.
+                                To ensure that your managers can learn the methodology wherever they are and whenever they have the time, SLII<sup>®</sup> can also be a component of a learning journey or taught in a self-directed online or moderated online version.
                             </p>
                         </div>
 
@@ -163,7 +163,7 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>2 Day Instructor-led Course</h3>
                                                 <p>
-                                                    The SLII® in-person experience is a 2-day, 8-hour course that uses a four-part learning path to ensure participants master the content and become situational leaders. Live in-person training offers the fullest content and the richest opportunities to practice new behaviors.
+                                                    The SLII<sup>®</sup> in-person experience is a 2-day, 8-hour course that uses a four-part learning path to ensure participants master the content and become situational leaders. Live in-person training offers the fullest content and the richest opportunities to practice new behaviors.
                                                 </p>
                                                 <p>
                                                     <b>LAUNCH—</b> participating in prework assignments, including assessments, accelerates
@@ -172,16 +172,16 @@ export default function ThanYouLP() {
                                                     <b>LEARN—</b> Events teach leaders the skills and language to lead situationally and provide opportunities for one-on-one interaction with participants. (seven hours, including a 45-minute lunch break)
                                                 </p>
                                                 <p>
-                                                    <b>Practice—</b> Leaders build new skills and practice their SLII® vocabulary in activities based on individual job challenges. They learn to match their leadership style and practice SLII® conversations. (9 hours, including a 45-minute lunch break)
+                                                    <b>Practice—</b> Leaders build new skills and practice their SLII<sup>®</sup> vocabulary in activities based on individual job challenges. They learn to match their leadership style and practice SLII<sup>®</sup> conversations. (9 hours, including a 45-minute lunch break)
                                                 </p>
                                                 <p>
-                                                    <b>Application—</b> Tools and resources are available after the course to help participants strengthen and maintain their SLII® skills.
+                                                    <b>Application—</b> Tools and resources are available after the course to help participants strengthen and maintain their SLII<sup>®</sup> skills.
                                                 </p>
 
 
                                                 <h3>1 Day Instructor-led Course</h3>
                                                 <p>
-                                                    The SLII® in-person one-day experience uses the same four-part learning route but is eight hours long and more compacted.
+                                                    The SLII<sup>®</sup> in-person one-day experience uses the same four-part learning route but is eight hours long and more compacted.
                                                 </p>
                                                 <p>
                                                     <b>LAUNCH—</b> To jumpstart the learning process and prepare participants' minds for real-world problems, participants complete fun prework projects that include assessments.
@@ -193,7 +193,7 @@ export default function ThanYouLP() {
                                                     <b>PRACTISE—</b> Activities based on one's own professional issues help one learn new abilities.
                                                 </p>
                                                 <p>
-                                                    <b>APPLY—</b> Tools and resources available after the workshops to aid participants in honing and maintaining their SLII® skills.
+                                                    <b>APPLY—</b> Tools and resources available after the workshops to aid participants in honing and maintaining their SLII<sup>®</sup> skills.
                                                 </p>
 
                                             </div>
@@ -205,7 +205,7 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>Virtual Instructor-led Course</h3>
                                                 <p>
-                                                    The SLII® Virtual course consists of five live, two-hour virtual sessions* spread out over a few days. The virtual sessions give learners a fun learning environment incorporating group activities, instruction, and chances to put new abilities to use.
+                                                    The SLII<sup>®</sup> Virtual course consists of five live, two-hour virtual sessions* spread out over a few days. The virtual sessions give learners a fun learning environment incorporating group activities, instruction, and chances to put new abilities to use.
                                                 </p>
                                                 <p>
                                                     <b>LAUNCH—</b> Prework assignments and assessments help participants organize their thoughts before class.
@@ -214,16 +214,16 @@ export default function ThanYouLP() {
                                                     <b>LEARN (Sessions 1 & 2)—</b> Activities teach leaders the abilities and terminology to lead in various situations.
                                                 </p>
                                                 <p>
-                                                    <b>PRACTISE (Sessions 3, 4, & 5)—</b> In activities focused on their own professional problems, leaders build and practice their SLII® vocabulary.
+                                                    <b>PRACTISE (Sessions 3, 4, & 5)—</b> In activities focused on their own professional problems, leaders build and practice their SLII<sup>®</sup> vocabulary.
                                                 </p>
                                                 <p>
-                                                    <b>APPLY—</b> tools and resources to advance and maintain their SLII® skills.
+                                                    <b>APPLY—</b> tools and resources to advance and maintain their SLII<sup>®</sup> skills.
                                                 </p>
                                                 <p>*There is also a shortened option that consists of three 90-minute sessions.</p>
 
                                                 <h3>Online Course with Collaboration</h3>
                                                 <p>
-                                                    The SLII® Collaborative Online Experiences enable participants to learn from their peers and securely hone their abilities through a combination of live weekly sessions conducted by Blanchard experienced facilitators and moderators and asynchronous learning. Cohort-based sessions are spread out over a period of 5 weeks and combine self-directed learning on a cutting-edge platform that encourages interaction through conversations, exercises, reflection, and offline tasks.
+                                                    The SLII<sup>®</sup> Collaborative Online Experiences enable participants to learn from their peers and securely hone their abilities through a combination of live weekly sessions conducted by Blanchard experienced facilitators and moderators and asynchronous learning. Cohort-based sessions are spread out over a period of 5 weeks and combine self-directed learning on a cutting-edge platform that encourages interaction through conversations, exercises, reflection, and offline tasks.
                                                 </p>
 
                                             </div>
@@ -234,16 +234,16 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>Online Program</h3>
                                                 <p>
-                                                    SLII® Online is a self-paced, on-demand training that teaches managers the fundamental ideas of SLII® and gives them conceptual practice. Optional can be added for more practice. The SLII® Online program is a three-hour online course divided into bite-sized modules lasting anywhere from one to twenty minutes. Optional debriefs that promote conversation and cooperation for a blended learning experience are also available. Contains interactive exercises: entertaining, captivating activities range from online discussions to films, games, stories, and case studies.
+                                                    SLII<sup>®</sup> Online is a self-paced, on-demand training that teaches managers the fundamental ideas of SLII<sup>®</sup> and gives them conceptual practice. Optional can be added for more practice. The SLII<sup>®</sup> Online program is a three-hour online course divided into bite-sized modules lasting anywhere from one to twenty minutes. Optional debriefs that promote conversation and cooperation for a blended learning experience are also available. Contains interactive exercises: entertaining, captivating activities range from online discussions to films, games, stories, and case studies.
                                                 </p>
                                                 <h3>Online Overview</h3>
                                                 <p>
-                                                    A self-paced, on-demand course called SLII® Overview introduces the technology while highlighting its key concepts through videos of fundamental material. This 35-minute online overview offers exposure to the key concepts of SLII®. It includes engaging micro-learning activities, videos, games, and worksheets.
+                                                    A self-paced, on-demand course called SLII<sup>®</sup> Overview introduces the technology while highlighting its key concepts through videos of fundamental material. This 35-minute online overview offers exposure to the key concepts of SLII<sup>®</sup>. It includes engaging micro-learning activities, videos, games, and worksheets.
                                                 </p>
 
-                                                <h3>SLII® Challenge Simulation</h3>
+                                                <h3>SLII<sup>®</sup> Challenge Simulation</h3>
                                                 <p>
-                                                    An immersive, simulation-focused experience on Advantexe designed to reinforce, practice, and apply the SLII® framework. Following a series of simulated dialogues, participants select the appropriate response for each circumstance. To show learners the effects of their decisions, scenarios are evaluated against the best practice behavior set for that particular scenario.
+                                                    An immersive, simulation-focused experience on Advantexe designed to reinforce, practice, and apply the SLII<sup>®</sup> framework. Following a series of simulated dialogues, participants select the appropriate response for each circumstance. To show learners the effects of their decisions, scenarios are evaluated against the best practice behavior set for that particular scenario.
                                                 </p>
                                                 <h3>Digital kbassets</h3>
                                                 <p>
@@ -335,7 +335,7 @@ export default function ThanYouLP() {
                             <div className='enablingbox greenboxc textccnn'>
                                 <h4>Research Driven</h4>
                                 <p>
-                                Building on more than 30 years of leadership and desire research, SLII® incorporates the latest advances in neuroscience and evolves with the ever-changing workplace.
+                                Building on more than 30 years of leadership and desire research, SLII<sup>®</sup> incorporates the latest advances in neuroscience and evolves with the ever-changing workplace.
                                 </p>
                             </div>
                         </div>
@@ -344,7 +344,7 @@ export default function ThanYouLP() {
                             <div className='enablingbox darkblueboxc textccnn'>
                                 <h4>Proven Results</h4>
                                 <p>
-                                More than 10,000 companies use SLII® to increase productivity, reduce sales, and increase sales and profits.
+                                More than 10,000 companies use SLII<sup>®</sup> to increase productivity, reduce sales, and increase sales and profits.
                                 </p>
                             </div>
                         </div>
@@ -353,7 +353,7 @@ export default function ThanYouLP() {
                             <div className='enablingbox blueboxc textccnn'>
                                 <h4>Develop Inspiring Leaders</h4>
                                 <p>
-                                SLII® addresses the need for competence, empowerment, and brain engagement by creating a safe workplace where employees can problem-solve, innovate, and collaborate.
+                                SLII<sup>®</sup> addresses the need for competence, empowerment, and brain engagement by creating a safe workplace where employees can problem-solve, innovate, and collaborate.
                                 </p>
                             </div>
                         </div>
@@ -362,7 +362,7 @@ export default function ThanYouLP() {
                             <div className='enablingbox darkgeenboxc textccnn'>
                                 <h4>Universally Effective</h4>
                                 <p>
-                                SLII® is relevant to global leaders, regardless of industry, language, or job role. SLII® teaches leaders to give the right direction or support their people at the right time.
+                                SLII<sup>®</sup> is relevant to global leaders, regardless of industry, language, or job role. SLII<sup>®</sup> teaches leaders to give the right direction or support their people at the right time.
                                 </p>
                             </div>
                         </div>
@@ -386,7 +386,7 @@ export default function ThanYouLP() {
                         <div className='col-sm-8 pbb-70'>
                             <div className="text-center">
                                 <h2 className="sectionh">
-                                SLII® enables leaders to build deeper relationships
+                                SLII<sup>®</sup> enables leaders to build deeper relationships
                                 </h2>
                                 <p>
                                 With more inspired leaders, morale and cohesion will improve, team members will feel supported, and employees will become more creative and productive problem solvers.
@@ -400,7 +400,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/accelerate-development.svg" alt="Images" />
                                 <h3 className="lineh34">Accelerated development</h3>
                                 <p>
-                                SLII® helps managers accelerate the development of their direct reports, from enthusiastic beginners to self-sufficient entrepreneurs.
+                                SLII<sup>®</sup> helps managers accelerate the development of their direct reports, from enthusiastic beginners to self-sufficient entrepreneurs.
                                 </p>
                             </div>
                         </div>
@@ -447,7 +447,7 @@ export default function ThanYouLP() {
                         <div className="col-sm-6 text-center">
                             <h2 className="sectionh">Ready to get started?</h2>
                             <p className="headingp  pbb-10">
-                            SLII® can be taught face-to-face, virtually, online, or as a combination of learning modes. Contact us today to learn how SLII® can empower your leaders to make meaningful connections that create exponential impact.
+                            SLII<sup>®</sup> can be taught face-to-face, virtually, online, or as a combination of learning modes. Contact us today to learn how SLII<sup>®</sup> can empower your leaders to make meaningful connections that create exponential impact.
                             </p>
                             <a href='/blanchardindia/get-started' className='kbbtn kbbtn--orange  mtt-10'>Talk to an Expert</a>
                         </div>
