@@ -15,7 +15,7 @@ export default function Blog(){
                         <h1>Crucial Life-Changing Skills</h1>
                         <h6 className='colorb'>BYLD Group is the Authorized Licensee for Crucial Learning in India.</h6>
                         <p className='colorb'>We focus on improving the world by helping people improve themselves. We offer courses in communication, performance, and leadership, focusing on behaviors that disproportionately impact outcomes, called crucial skills.</p>
-                        <p className='colorb'>Our award-winning courses and accompanying bestselling books include Crucial Conversations®, Crucial Accountability<sup>®</sup>, Influencer, and The Power of Habit™</p>
+                        <p className='colorb'>Our award-winning courses and accompanying bestselling books include Crucial Conversations®, Crucial Accountability<sup>®</sup>, Crucial Influence, The Power of Habit™, and Getting Things Done<sup>®</sup></p>
                     </div>
                     <div class="col-lg-6 right-about-image">
                         <img class="left-image img70" src="/classets/img/sitting-woman.svg" alt="" />

@@ -58,7 +58,7 @@ export default function Influencer(){
                                 <p>
                                 Discover your natural tendencies when trying to influence others and identify areas for improvement with this short self-assessment.
                                 </p>
-                                <a className='regularbtn' href='/cruciallifechangingskills/assessment/influencer-assessment'>Learn More</a>
+                                <a className='regularbtn' target='_blank' href='/cruciallifechangingskills/assessment/influencer-assessment'>Take Assessment</a>
                             </div>
                         </div>
                     </div>
