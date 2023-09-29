@@ -185,7 +185,7 @@ function Footer() {
                               <a href="mailto:blanchard.info@byldgroup.com"><span className="__cf_email__" data-cfemail="ff979a939390bf91968790d19c9092">blanchard.info@byldgroup.com</span></a>
                            </li>
                         </ul>
-                        <h3>Get access to Blanchard updates</h3>
+                        <h3>Get Access to Blanchard India Updates</h3>
                         <form id="footerformreset" className="newsletter-form" onSubmit={registerUser}>
                            
                            <input type="email" className="form-control" placeholder="Email Address" name="fmail" required autocomplete="off" />

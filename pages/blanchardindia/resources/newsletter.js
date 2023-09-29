@@ -37,13 +37,13 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Your monthly guide to bringing out the best in people</h2>
                             <p className="headingp text-justify">
-                            Blanchard newsletter provides invaluable insights and strategies to help you build and cultivate a productive and engaged workforce.
+                            Blanchard's newsletter provides invaluable insights and strategies to help you build and cultivate a productive and engaged workforce.
                             </p>
                             <p className="headingp text-justify">
                             Our team of leadership experts and thought leaders delve into the most pressing topics in employee engagement, productivity, motivation, and performance. We bring you practical and actionable advice that you can implement immediately in your organization.
                             </p>
                             <p className="headingp text-justify">
-                            Whether you are a seasoned leader or new to the field, the Blanchard newsletter is the perfect resource to keep you up-to-date with the latest trends and best practices in talent development. 
+                            Whether you are a seasoned leader or new to the field, the Blanchard's newsletter is the perfect resource to keep you up-to-date with the latest trends and best practices in talent development. 
                             </p>
                             <p className="headingp text-justify">
                             Subscribe today and join our community of inspired leaders who better themselves as they better others and drive success in their organizations.
