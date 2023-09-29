@@ -11,10 +11,10 @@ export default function Influencer(){
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 contact-title">
-                        <img src="/classets/img/Influencer.svg" />
+                        <img src="/classets/img/clf.png" />
                         <h1>The New Science of Leadership</h1>
                         <p>
-                        Backed by the 50 years of research in social science, Influencer takes a route on corporate perks and charismatic personalities to help learn techniques that can alter ingrained human behavior.
+                        Backed by 50 years of research in social science, Influencer takes a route on corporate perks and charismatic personalities to help learn techniques that can alter ingrained human behavior.
                         </p>
                       <h6>
                         <a class="submit" href='/cruciallifechangingskills/course-overview-influencer'> Download the Course Overview </a>
@@ -23,6 +23,47 @@ export default function Influencer(){
                 </div>
             </div>
         </section>
+
+        <section className='darkbg patt-70 pabb-70'>
+                <div className='container'>
+                    <div className='row'>
+                        <div className='col-sm-12 text-center'>
+                            <h2 className='font50 cblack'>Leadership Development Starts Here</h2>
+                            <p className='font24 pabb-20'>Learn more about the Crucial Influence leadership course and begin improving your <br></br>leadership skills with these resources.</p>
+                        </div>
+                        <div className='col-sm-4'>
+                            <div className='incbox'>
+                                <img src="/classets/img/in1.jpg" />
+                                <h3>Crucial Influence Miniseries</h3>
+                                <p>
+                                Join Joseph Grenny, coauthor of Crucial Influence and cofounder of Crucial Learning, in this video series that introduces concepts and skills from the course.
+                                </p>
+                                <a className='regularbtn' href='#'>Learn More</a>
+                            </div>
+                        </div>
+                        <div className='col-sm-4'>
+                            <div className='incbox'>
+                            <img src="/classets/img/in2.jpg" />
+                                <h3>What’s New in Crucial Influence</h3>
+                                <p>
+                                Formerly Influencer, Crucial Influence teaches leaders how to apply the Six Sources of Influence to create lasting behavior change. See what’s new.
+                                </p>
+                                <a className='regularbtn' download href='https://vitalsmarts.widen.net/s/7qxxml9fls/whats-new---crucial-influence'>Download</a>
+                            </div>
+                        </div>
+                        <div className='col-sm-4'>
+                            <div className='incbox'>
+                            <img src="/classets/img/in3.jpg" />
+                                <h3>Crucial Influence Assessment</h3>
+                                <p>
+                                Discover your natural tendencies when trying to influence others and identify areas for improvement with this short self-assessment.
+                                </p>
+                                <a className='regularbtn' href='/cruciallifechangingskills/assessment/influencer-assessment'>Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
         <section class="video-section-main">
             <div class="container-fluid">
@@ -36,13 +77,34 @@ export default function Influencer(){
             </div>
         </section>
 
+
+        <section className='darkbg patt-70 pabb-70'>
+                <div className='container'>
+                    <div className='row'>
+                    <div className='col-sm-1'></div>
+                        <div className='col-sm-5'>
+                            <h2 className='font50 cblack'>LEARN ESSENTIAL LEADERSHIP SKILLS</h2>
+                            <p className='font24 pabb-20 text-justify'>
+                            Crucial Influence is rooted in 50 years of social science research and teaches the renowned Six Sources of Influence model. The course reveals the personal, social, and structural sources that shape behavior and teaches a method for using these sources to influence people and results.
+                            </p>
+                        </div>
+                      
+                        <div className='col-sm-5'>
+                            <div className='incbox'>
+                            <img src="/classets/img/in4.png" />                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
         <section class="features courses-features">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12 learn-title text-center"> 
                         <h1>LEARN AND MASTER THE SKILLS OF THE WORLD’S GREATEST LEADERS</h1>
                         <p>
-                        Any emerging leader — be it a first-time manager without any formal authority, emerging leader, or a senior leader — can reconstruct persuasion and perks with powerful influence strategies and skills that bring real-life changes with influence skills training.
+                        Any emerging leader — a first-time manager without formal authority, an emerging leader, or a senior leader — can reconstruct persuasion and perks with powerful influence strategies and skills that bring real-life changes with influence skills training.
                         </p>
                      </div>
                     <div class="col-md-4">
@@ -114,7 +176,7 @@ export default function Influencer(){
                             <div class="col-md-10 feature-content">
                                 <h5>SOURCE 4: SOCIAL ABILITY</h5>
                                 <p>
-                                To gain the power of social pressure, find strengths in numbers through the influencing course.
+                                Find strength in numbers through the influencing course to gain social pressure's power.
                                 </p>
                             </div>
                         </div>

@@ -400,7 +400,7 @@ export default function Home() {
 
                             <div className='ffffb'>
                                 <h1>Learn Life-Transforming Skills</h1>
-                                <p>Enroll in our award-winning trainings and learn how to handle the most<br></br>crucial challenges of life and work.</p><br />
+                                <p>Enrol in our award-winning trainings and learn how to handle the most<br></br>crucial challenges of life and work.</p><br />
                                 <h6>
                                     <a class="btn1" href="/cruciallifechangingskills/browse-courses/">Browse Courses</a>
                                     <a class="btn2" href="/cruciallifechangingskills/contact-us">Get Started</a>
@@ -430,12 +430,12 @@ export default function Home() {
                         </div>
                         <div className='col-sm-4'>
                             <div className='incbox'>
-                                <img src="classets/img/new/webinars-cruciallearning-editorial.jpg" />
-                                <h3>Live Webinars</h3>
+                                <img src="classets/img/clinf.jpg" />
+                                <h3>New Leadership Course</h3>
                                 <p>
-                                    Learn big ideas and practical tips in LIVE webinars with bestselling authors, thought leaders, and master trainers.
+                                Explore our new leadership course—find assessments, webinars, even a free miniseries with Joseph Grenny.
                                 </p>
-                                <a className='regularbtn' href='#'>Learn More</a>
+                                <a className='regularbtn' href='/cruciallifechangingskills/influencer'>Learn More</a>
                             </div>
                         </div>
                         <div className='col-sm-4'>
@@ -445,7 +445,7 @@ export default function Home() {
                                 <p>
                                     When faced with an argument, do you dig in, or give in? Shut down, or lash out? Take the Style Under Stress assessment and find out.
                                 </p>
-                                <a className='regularbtn' href='#'>Learn More</a>
+                                <a className='regularbtn' href='/cruciallifechangingskills/assessment/style-under-stress-assessment'>Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -541,9 +541,9 @@ export default function Home() {
                         </div>
                         <div className='col-sm-6'>
                             <div className='blackboxl'>
-                                <h2 className='blh22'>167%</h2>
+                                <h2 className='blh22'>40 MINS</h2>
                                 <p>
-                                    Employees at MaineGeneral Health were 167% more likely to speak up and resolve problems with colleagues after learning the skills taught in Crucial Conversations<sup>®</sup> for Mastering Dialogue.
+                                Nine of ten Getting Things Done<sup>®</sup> graduates report permanently changing a time-management behavior and saving an average of 40 minutes every day for more focused work.
                                 </p>
                                 <h2 className='blh22'>$7,500</h2>
                                 <p>

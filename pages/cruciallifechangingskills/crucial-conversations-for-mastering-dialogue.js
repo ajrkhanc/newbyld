@@ -42,7 +42,7 @@ export default function CrucialConversationsforMasteringDialogue(){
                 <div class="row">
                     <div class="col-lg-12 learn-title text-center"> 
                         <h1>Here is what you will learn</h1>
-                        <p>Explore and learn the nine powerful skills to obtain results with clear and effective dialogues for you to work through disagreements. Learn to make crucial conversations for lasting improvement.</p>
+                        <p>Explore and learn the nine powerful skills to obtain results with clear and effective dialogues to work through disagreements. Learn to make crucial conversations for lasting improvement.</p>
                      </div>
                     <div class="col-md-4">
                         <div class="row feature-right">
@@ -156,7 +156,8 @@ export default function CrucialConversationsforMasteringDialogue(){
                 <div class="row">
                     <div class="col-md-10 offset-md-1 text-center title">
                         <h2><span>Learning Formats</span></h2>
-                        <p>To ensure you and your organization beneﬁts from our world-renowned trainings, we offer courses in ﬂexible formats including in person, virtually, or on demand—or you can blend them for a unique and engaging learning experience.
+                        <p>
+                        To ensure you and your organization benefit from our world-renowned training, we offer courses in ﬂexible formats, including in person, virtually, or on demand—or you can blend them for a unique and engaging learning experience.
                         </p>
                     </div>
                 </div>

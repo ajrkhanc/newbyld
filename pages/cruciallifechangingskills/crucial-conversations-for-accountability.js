@@ -14,7 +14,7 @@ export default function crucialconversationsforaccountability(){
                         <img src="/classets/img/Crucial-Accountability.svg" />
                         <h1>Performance Management Improved</h1>
                         <p>
-                        When it comes to creating healthy relationships amongst people and organizations, accountability becomes critical in nature. If people are able to hold each other accountable, they are able to build trust, fulfill commitments, efficiency, engagement, and more.
+                        When it comes to creating healthy relationships between people and organizations, accountability becomes critical. If people hold each other accountable, they can build trust, fulfill commitments, efficiency, engagement, and more.
                         </p>
                       <h6>
                         <a class="submit" href='/cruciallifechangingskills/course-overview-crucial-conversations-for-accountability'> Download the Course Overview </a>

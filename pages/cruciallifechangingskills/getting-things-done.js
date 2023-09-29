@@ -52,7 +52,7 @@ export default function Gettingthingsdone(){
                             </div>
                             <div class="col-md-10 feature-content">
                                 <h5>SEIZE</h5>
-                                <p>Direct everything to a few chosen capture tools that you empty regularly</p>
+                                <p>Direct everything to a few chosen capture tools that you empty regularly.</p>
                             </div>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ export default function Gettingthingsdone(){
                             <div class="col-md-10 feature-content">
                                 <h5>CLARIFY</h5>
                                 <p>
-                                Identify the very next action that would move you toward closure
+                                Identify the very next action that would move you toward closure.
                                 </p>
                             </div>
                         </div>
@@ -77,7 +77,7 @@ export default function Gettingthingsdone(){
                             <div class="col-md-10 feature-content">
                                 <h5>ORGANIZE</h5>
                                 <p>
-                                Set context to your next actions rather than topic to make completing them easier
+                                Set context to your next actions rather than topic to make completing them easier.
                                 </p>
                             </div>
                         </div>
@@ -89,7 +89,7 @@ export default function Gettingthingsdone(){
                             </div>
                             <div class="col-md-10 feature-content">
                                 <h5>REFLECT</h5>
-                                <p>Skim through your calendar and lists at the right times</p>
+                                <p>Skim through your calendar and lists at the right times.</p>
                             </div>
                         </div>
                     </div>
@@ -101,7 +101,7 @@ export default function Gettingthingsdone(){
                             <div class="col-md-10 feature-content">
                                 <h5>ENGAGE</h5>
                                 <p>
-                                Use your system to take appropriate action with confidence
+                                Use your system to take appropriate action with confidence.
                                 </p>
                             </div>
                         </div>
@@ -114,7 +114,7 @@ export default function Gettingthingsdone(){
                             <div class="col-md-10 feature-content">
                                 <h5>REVIEW</h5>
                                 <p>
-                                Make time each week to conduct a formal review of your tasks and goals
+                                Make time each week to conduct a formal review of your tasks and goals.
                                 </p>
                             </div>
                         </div>

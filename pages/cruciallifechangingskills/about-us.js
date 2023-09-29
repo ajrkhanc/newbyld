@@ -14,8 +14,8 @@ export default function Blog(){
                     <div class="col-lg-6 left-about-area">
                         <h1>Crucial Life-Changing Skills</h1>
                         <h6 className='colorb'>BYLD Group is the Authorized Licensee for Crucial Learning in India.</h6>
-                        <p className='colorb'>We focus on improving the world by helping people improve themselves. We offer courses in the areas of communication, performance, and leadership, focusing on behaviors that have a disproportionate impact on outcomes, called <strong>crucial skills.</strong></p>
-                        <p className='colorb'>Our award-winning courses and accompanying bestselling books include Crucial Conversations®, Crucial Accountability®, Influencer, and The Power of Habit™</p>
+                        <p className='colorb'>We focus on improving the world by helping people improve themselves. We offer courses in communication, performance, and leadership, focusing on behaviors that disproportionately impact outcomes, called crucial skills.</p>
+                        <p className='colorb'>Our award-winning courses and accompanying bestselling books include Crucial Conversations®, Crucial Accountability<sup>®</sup>, Influencer, and The Power of Habit™</p>
                     </div>
                     <div class="col-lg-6 right-about-image">
                         <img class="left-image img70" src="/classets/img/sitting-woman.svg" alt="" />
@@ -32,11 +32,13 @@ export default function Blog(){
                     </div>
                     <div class="col-lg-6 who-we-are title">
                         <h1>Who we are?</h1>
-                        <p>We at BYLD Group, as the Authorized Licensee for Crucial Learning (formerly known as VitalSmarts) have served 5,00,000+ individuals, worked with more than 50% of the Fortune 500,
-                        and over 60% of the Business World top 1000 companies.</p>
-                        <p>Today, we work with professionals/consultants having 1000+ years of accumulated professional experience and have served nearly half a million clients (both corporates and Individuals) 
-                        in India and outside.</p>
-                        <p>Our practice areas include: Assessments, Coaching, Leadership Development and Performance Enhancement, Staffing and Experiential Learning.</p>
+                        <p>We at BYLD Group, as the Authorized Licensee for Crucial Learning (formerly known as VitalSmarts), have served 5,00,000+ individuals and worked with more than 50% of the Fortune 500 and over 60% of the Business World top 1000 companies.</p>
+                        <p>
+                        Today, we work with professionals/consultants having 1000+ years of accumulated professional experience and have served nearly half a million clients (both corporates and Individuals) in India and outside.
+                        </p>
+                        <p>
+                        Our practice areas include Assessments, Coaching, Leadership Development and Performance Enhancement, Staffing, and Experiential Learning.
+                        </p>
                     </div>
                     
                 </div>

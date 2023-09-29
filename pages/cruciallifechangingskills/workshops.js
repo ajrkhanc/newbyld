@@ -50,7 +50,8 @@ export default function Workshops(){
                 <div class="row">
                     <div class="col-lg-12 contact-title"> 
                         <h1>DO YOU THINK VIRTUAL INSTRUCTOR-LED TRAINING IS NOT ENGAGING?</h1>
-                        <p>Then, probably you haven’t attended a real one. Join our upcoming online, on-demand, and virtual courses, and gain new insights to develop crucial skills for better behavior, and results. Our trainings focus on the fundamentals of human behavior and its impact on productivity at Individual, team and organizational level.
+                        <p>
+                        Then, you probably haven’t attended a real one. Join our upcoming online, on-demand, and virtual courses, and gain new insights to develop crucial skills for better behavior and results. Our training focus on the fundamentals of human behavior and its impact on individual, team, and organizational productivity.
                         </p>
                      </div>
                 </div>
