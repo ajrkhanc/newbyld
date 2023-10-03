@@ -2412,6 +2412,113 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/fivebehaviors/blog/11-ways-to-completely-revamp-your-team-development',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/11-ways-to-completely-revamp-your-team-development',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/why-having-the-right-personality-matters',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/why-having-the-right-personality-matters',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/eliminate-your-fear-and-pick-up-personal-development-training-today',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/eliminate-your-fear-and-pick-up-personal-development-training-today',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/the-five-behaviors-of-a-cohesive-team-that-leads-to-a-greater-business-efficiency',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/the-five-behaviors-of-a-cohesive-team-that-leads-to-a-greater-business-efficiency',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/how-to-create-a-culture-of-teamwork-that-sustains-an-organizational-change',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/how-to-create-a-culture-of-teamwork-that-sustains-an-organizational-change',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/how-does-teambuilding-training-help-in-forming-intact-teams',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/how-does-teambuilding-training-help-in-forming-intact-teams',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/how-to-develop-and-sustain-highperformance-teams-at-workplace',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/how-to-develop-and-sustain-highperformance-teams-at-workplace',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/stretch-your-comfort-zone-for-personal-development',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/stretch-your-comfort-zone-for-personal-development',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/why-is-teambuilding-important',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/why-is-teambuilding-important',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/5-behaviors-of-a-cohesive-team-in-a-virtual-work-environment',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/5-behaviors-of-a-cohesive-team-in-a-virtual-work-environment',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/resolve-passiveaggressive-behavior-in-your-team-with-effective-team-development',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/resolve-passiveaggressive-behavior-in-your-team-with-effective-team-development',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/encourage-positive-team-behavior-that-boosts-organizational-productivity',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/encourage-positive-team-behavior-that-boosts-organizational-productivity',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/the-importance-of-setting-goals-for-team-development',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/the-importance-of-setting-goals-for-team-development',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/resolving-conflicts-at-work-to-build-a-culture-of-teamwork',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/resolving-conflicts-at-work-to-build-a-culture-of-teamwork',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/learning-how-to-change-the-behaviors-of-your-team-to-increase-performance',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/learning-how-to-change-the-behaviors-of-your-team-to-increase-performance',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/want-to-become-an-effective-manager-build-a-cohesive-team-with-these-7-tips',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/want-to-become-an-effective-manager-build-a-cohesive-team-with-these-7-tips',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/team-development--reasons-for-failure-and-how-to-succeed',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/team-development--reasons-for-failure-and-how-to-succeed',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/realize-the-goal-of-better-organizational-growth-by-focusing-on-personal-development',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/realize-the-goal-of-better-organizational-growth-by-focusing-on-personal-development',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/diffusing-increasing-employee-resistance-in-your-team-with-team-development',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/diffusing-increasing-employee-resistance-in-your-team-with-team-development',
+        permanent: true,
+      },
+      {
+        source: '/fivebehaviors/blog/boosting-productivity-uncovering-the-secrets-of-highperformance-teams',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/boosting-productivity-uncovering-the-secrets-of-highperformance-teams',
+        permanent: true,
+      },
+
+      {
+        source: '/fivebehaviors/blog/:path*',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/',
+        permanent: false
+      },
+
 
 
 
