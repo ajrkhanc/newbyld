@@ -2622,6 +2622,411 @@ module.exports = {
       },
 
 
+      {
+        source: '/eaglesflightindia/blogs',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+
+
+
+
+
+
+
+
+      {
+        source: '/eaglesflightindia/everything-you-need-to-know-about-experiential-learning',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/learn-why-time-management-and-teambuilding-activities-are-so-important',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/best-experiential-business-games-for-teambuilding',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/the-nature-of-true-experiential-learning',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/the-4-key-elements-of-experiential-learning-how-to-create-a-growing-environment-for-employees-virtually',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-do-corporate-teambuilding-games-lead-to-increased-productivity',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/why-are-teamwork-and-collaboration-necessary-for-digital-transformation',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/top-10-benefits-of-teamwork-you-should-know',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/experiential-learning-vs-dynamic-learning-whats-the-difference',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/everything-you-need-to-know-about-experiential-teambuilding',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/7-vital-tips-for-implementing-teambuilding-games',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/essential-skills-for-teamwork',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/best-teambuilding-activities-for-work',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/experiential-learning-helps-in-modernizing--employee-development',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/importance-of-teambuilding-activities-for-an-individual',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-can-business-teambuilding-activities-help-your-team',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/can-effective-communication-really-help-your-organization-thrive-for-success',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-can-you-add-fun-to-virtual-team-activities',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/learn-timemanagement-with-teambuilding-activities',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/can-virtual-teambuilding-activities-excite-things-during-workfromhome',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/do-you-want-your-boss-to-allow-having-fun-in-office',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/are-virtual-teambuilding-activities-effective',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-to-measure-employee-centricity-with-virtual-teambuilding-business-games',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/learn-the-art-of-transforming-your-companys-culture',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/can-simulation-programs-help-in-effective-communication',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/5-ways-to-improve-performance-through-virtual-teambuilding-activities',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/4-ways-to-plan-successful-virtual-fun-team-activities',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/6-effective-strategies-to-motivate-your-team-virtually',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/selfimprovement-plan-with-council-of-the-marble-star-game',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/confine-at-home-or-shine-at-work',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/building-relationships-build-organizations',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/leadership-is-not-a-position-it-is-an-action',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/you-train-your-people-but-do-they-learn',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/become-a-leader-others-shall-look-up-to',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/importance-of-teambuilding-activities-for-work-in-shaping-your-future',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/build-highperforming-winning-teams',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/embrace-creativity-to-keep-your-employees-engaged-and-satisfied',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/develop-trust-respect-and-cooperation-with-business-team-building-activities',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/achieve-your-organizational-goals-by-team-building-activities',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/virtual-team-building-games-for-a-positive-work-environment',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/gain-corporate-advantage-with-virtual-team-building-activities',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/reduce-arguments-and-enhance-communication-with-team-building-activities-for-work',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/the-alternative-to-team-building-activities-virtual-team-games',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/experience-a-whole-new-world-of-learning-with-virtual-group-games',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/importance-of-virtual-employee-engagement-activities-in-a-globalized-world',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/tackle-communication-gaps-in-an-organization-with-these-golden-tips',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/want-highly-successful-teams-in-your-organization',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/trying-hard-to-build-effective-communication-at-workplace-master-the-art-with-promises-promises',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/time-to-learn-and-optimize-your-corporate-skills-with-these-team-games',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/crosscultural-teams-not-performing-to-their-fullest-try-these-5-tips',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-king-kahufu-virtual-team-game-is-a-great-learning-platform-for-employees-1667986371831',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-windjammer-helps-in-optimizing-corporate-planning-and-execution-1667986798898',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/planning-team-building-exercises-these-7-tips-can-determine-your-success',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/want-employee-engagement-in-crisis-these-7-tips-can-be-your-savior',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/poor-team-engagement-costing-you-billions-of-dollars-learn-how-to-save-your-pocket',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/making-learning-fun-can-help-increase-retention-in-organizations',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/unlock-the-gateway-to-team-productivity-with-gold-of-the-desert-kings',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/the-rise-of-digital-team-building-and-the-ld-transformation',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/breaking-boundaries-to-discover-your-inner-potential-with-experiential-learning',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/a-quick-corporate-tip-team-building-will-be-the-most-important-investment-in-2023',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/stuck-with-optimizing-virtual-employee-engagement-follow-these-5-tips',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/implement-these-5-tips-to-build-a-successful-business-development-team',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-virtual-team-games-are-evolving-and-their-impact-in-2023',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-are-team-building-programs-redefining-company-culture',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/employees-who-work-in-collaboration-are-17-more-satisfied-use-team-building-games-to-make-meaningful-connections',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/sync-up-the-personal-and-professional-growth-with-team-building-training',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/agile-product-management-teams-require-rigorous-team-building-to-meet-objectives',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/team-building-today-is-about-being-hypervigilant-to-accomplish-a-collaborative-mindset',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/team-building-and-cost-control-are-all-about-visibility-and-dedication',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/5-team-building-activities-to-enhance-the-creativity-of-your-employees',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/5-tips-to-build-a-futureready-resilient-team-for-your-organization',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/express-gratitude-toward-your-employees-to-win-over-their-loyalty-and-trust',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/resolve-internal-crisis-and-build-a-strong-team-with-these-5-tips',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/7-powerful-strategies-to-foster-ownership-and-drive-change-among-your-team',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/revolutionizing-the-workplace-environment-virtual-team-games-and-experiential-learning',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/resolving-workplace-resenteeism-conquering-the-demon-through-team-building-activities',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      },
+      {
+        source: '/eaglesflightindia/how-to-build-teams-virtually',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia',
+        permanent: true,
+      }
+
+
+
+
+
+
+
 
 
 
