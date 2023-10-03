@@ -2439,12 +2439,12 @@ module.exports = {
       },
       {
         source: '/fivebehaviors/blog/how-does-teambuilding-training-help-in-forming-intact-teams',
-        destination: 'https://blog.byldgroup.com/fivebehaviors/how-does-teambuilding-training-help-in-forming-intact-teams',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/how-does-team-building-training-help-in-forming-intact-teams',
         permanent: true,
       },
       {
         source: '/fivebehaviors/blog/how-to-develop-and-sustain-highperformance-teams-at-workplace',
-        destination: 'https://blog.byldgroup.com/fivebehaviors/how-to-develop-and-sustain-highperformance-teams-at-workplace',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/how-to-develop-and-sustain-high-performance-teams-at-workplace',
         permanent: true,
       },
       {
@@ -2454,7 +2454,7 @@ module.exports = {
       },
       {
         source: '/fivebehaviors/blog/why-is-teambuilding-important',
-        destination: 'https://blog.byldgroup.com/fivebehaviors/why-is-teambuilding-important',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/why-is-team-building-important',
         permanent: true,
       },
       {
@@ -2464,7 +2464,7 @@ module.exports = {
       },
       {
         source: '/fivebehaviors/blog/resolve-passiveaggressive-behavior-in-your-team-with-effective-team-development',
-        destination: 'https://blog.byldgroup.com/fivebehaviors/resolve-passiveaggressive-behavior-in-your-team-with-effective-team-development',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/resolve-passive-aggressive-behavior-in-your-team-with-effective-team-development',
         permanent: true,
       },
       {
@@ -2509,7 +2509,7 @@ module.exports = {
       },
       {
         source: '/fivebehaviors/blog/boosting-productivity-uncovering-the-secrets-of-highperformance-teams',
-        destination: 'https://blog.byldgroup.com/fivebehaviors/boosting-productivity-uncovering-the-secrets-of-highperformance-teams',
+        destination: 'https://blog.byldgroup.com/fivebehaviors/boosting-productivity-uncovering-the-secrets-of-high-performance-teams',
         permanent: true,
       },
 
