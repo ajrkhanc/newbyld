@@ -2527,7 +2527,7 @@ module.exports = {
       },
       {
         source: '/eaglesflightindia/team-building-activities-for-work',
-        destination: 'https://blog.byldgroup.com/eaglesflightindia/team-building-activities-for-work',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia/building-the-dream-team-fun-and-engaging-team-building-activities-for-work/',
         permanent: true,
       },
       {
@@ -2552,7 +2552,7 @@ module.exports = {
       },
       {
         source: '/eaglesflightindia/business-teambuilding-activities-and-experiential-learning-perfect-combo',
-        destination: 'https://blog.byldgroup.com/eaglesflightindia/business-teambuilding-activities-and-experiential-learning-perfect-combo',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia/business-team-building-activities-and-experiential-learning-perfect-combo',
         permanent: true,
       },
       {
