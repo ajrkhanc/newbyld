@@ -2557,7 +2557,7 @@ module.exports = {
       },
       {
         source: '/eaglesflightindia/surprisingly-fun-teambuilding-activities-games-and-exercises-for-work-in-2021',
-        destination: 'https://blog.byldgroup.com/eaglesflightindia/surprisingly-fun-teambuilding-activities-games-and-exercises-for-work-in-2021',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia/surprisingly-fun-team-building-activities-games-and-exercises-for-work-in-2021',
         permanent: true,
       },
       {
@@ -2612,7 +2612,7 @@ module.exports = {
       },
       {
         source: '/eaglesflightindia/team-building-games-that-will-increase-morale-and-make-an-effective-ondemand-workforce',
-        destination: 'https://blog.byldgroup.com/eaglesflightindia/team-building-games-that-will-increase-morale-and-make-an-effective-ondemand-workforce',
+        destination: 'https://blog.byldgroup.com/eaglesflightindia/team-building-games-that-will-increase-morale-and-make-an-effective-on-demand-workforce',
         permanent: true,
       },
       {
