@@ -34,6 +34,21 @@ export default function Elearning() {
                                     <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/kbassets/img/fivec.jpg" alt="Images" />
+                                            <h3>Taking a Situational Approach to Management</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/ebooks/why-its-crucial-for-your-leaders-to-take-a-situational-approach-to-managementk">
+                                                        <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
+                                                    </Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/ebook11.jpg" alt="Images" />
                                             <h3>Five Communication strategies that make leading change work in turbulent times</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>

@@ -48,7 +48,7 @@ export default function Footer() {
                         <a href="/cruciallifechangingskills/the-power-of-habit"> The Power of Habit</a>
                     </li>
                     <li>
-                        <a href="/cruciallifechangingskills/influencer"> Influencer</a>
+                        <a href="/cruciallifechangingskills/influencer"> Crucial Influence</a>
                     </li>
                     <li>
                         <a href='/cruciallifechangingskills/getting-things-done'>Getting Things Done</a>

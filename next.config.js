@@ -1894,11 +1894,7 @@ module.exports = {
         destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
         permanent: true,
       },
-      {
-        source: '/cruciallifechangingskills/the-power-of-habit',
-        destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
-        permanent: true,
-      },
+   
       {
         source: '/cruciallifechangingskills/what-leads-to-accountability-at-workplace',
         destination: 'https://blog.byldgroup.com/cruciallifechangingskills/',
