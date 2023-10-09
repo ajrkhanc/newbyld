@@ -37,7 +37,7 @@ export default function Elearning() {
                                             <h3>Taking a Situational Approach to Management</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
-                                                    <Link href="/blanchardindia/ebooks/why-its-crucial-for-your-leaders-to-take-a-situational-approach-to-managementk">
+                                                    <Link href="/blanchardindia/ebooks/why-its-crucial-for-your-leaders-to-take-a-situational-approach-to-management">
                                                         <a className="default-btn-two">Read eBook<i className="bx bx-right-arrow-alt"></i></a>
                                                     </Link>
                                                 </div>
