@@ -33,7 +33,7 @@ export default function Elearning() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/kbassets/img/fivec.jpg" alt="Images" />
+                                            <img src="/kbassets/img/ebook6.jpg" alt="Images" />
                                             <h3>Taking a Situational Approach to Management</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
