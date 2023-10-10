@@ -42,6 +42,18 @@ export default function PodCast() {
                                     
                                        <div className="col-sm-4">
                                         <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/compassionate-accountability-with-nate-regier.jpg" alt="Images" />
+                                            <h3>Compassionate Accountability with Nate Regier</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/compassionate-accountability-with-nate-regier"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
                                             <img src="/kbassets/img/podcast/change-your-questions-change-your-life-with-dr-marilee-adams.jpg" alt="Images" />
                                             <h3>Change Your Questions, Change Your Life with Dr. Marilee Adams</h3>
                                             <div className='row text-center eventsbottomarea2'>
