@@ -15359,3 +15359,55 @@ table td {
 	font-family: "HelveticaNeueLT Pro 57 Cn" !important;
 }
 
+.ccmcv{
+	display: flex;
+    width: 100%;
+    flex-direction: inherit;
+    align-items: flex-start;
+    padding-left: 15%;
+}
+
+.clccc{
+	opacity: 1;
+    color: #fff;
+    padding: 25px;
+    float: left;
+	position: absolute;
+}
+
+.ccmcv img{
+	width: 100px;
+}
+.ppcc{
+	position: fixed;
+    width: 100%;
+    background: #000;
+    bottom: 0px;
+    z-index: 999;
+	padding: 22px 0px;
+}
+
+.ppcc h3{
+	color: #FFFFFF;
+    font-size: 40px;
+}
+
+.ppcc h3 span{
+	color: rgb(98, 171, 108);
+}
+
+.ppcc p{
+	color: #FFFFFF;
+}
+
+.ppcc .cfa{
+	background: #ed1b2f !important;
+    color: #fff;
+    border-radius: 25px;
+    padding: 12px 30px;
+}
+
+.xcm{
+	padding-left: 30px;
+}
+

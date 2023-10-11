@@ -106,6 +106,51 @@ export default function Footer() {
             </div>
         </section>
 
+        <div id="popuphidec" class='popup wow fadeInUp delay-0-2s animated animateUP ppcc'>
+            <div class='cnt223'>
+            <a href='' class='close popupclose clccc'>X</a>
+               <div className='popupinner'>
+                  <div className='popupimg ccmcv'>
+                    <div>
+                        <img src='https://a.omappapi.com/users/e020f3435f2d/images/322a72183c921692140758-icon-Influencer.svg'/>
+                    </div>
+                     <div className='xcm'>
+                     <h3>Leadership requires influence. <span>Crucial Influence.</span></h3>
+                     <p>Meet the new course for all leaders—from new managers to seasoned executives.</p>
+                     <a className='cfa' href='/cruciallifechangingskills/influencer'>See the New Course</a>
+                     </div>
+                  </div>
+                  <div className='popupform'>
+                 
+                  </div>
+               </div>
+            </div>
+         </div>
+
+         <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
+            <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              $(function() {
+               var overlay = $('<div id="overlay"></div>');
+               overlay.delay();
+               overlay.appendTo(document.body);
+               $('.popup').delay(1000).fadeIn();
+               $('.close').click(function() {
+                 $('.popup').hide();
+                 overlay.appendTo(document.body).remove();
+                 return false;
+               });
+               $('.x').click(function() {
+                 $('.popup').hide();
+                 overlay.appendTo(document.body).remove();
+                 return false;
+               });
+             });
+          `,
+            }}
+          />
+
     </>
   )
 }

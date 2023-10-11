@@ -278,6 +278,7 @@ export default function Home() {
             <Head>
                 <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
                 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+                
             </Head>
 
             <Modal className='toppc' toggle={() => setModalOpen1(!modalOpen1)} isOpen={modalOpen1} backdrop="static" keyboard={false}>
@@ -742,6 +743,8 @@ export default function Home() {
                     </div>
                 </div>
             </section>
+
+            
 
         </>
     )
