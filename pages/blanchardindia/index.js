@@ -114,7 +114,7 @@ fbq('track', 'PageView');
                <div className='row'>
                   <div className='col-sm-12'>
                      <div className='kbisblanchardin'>
-                        <h1>The Ken Blanchard Companies® is now Blanchard®!</h1>
+                        <h1>Discover the new Blanchard®!</h1>
                         <a href='/blanchardindia/about-us' className='kbbtn kbbtn--orange'>Know More</a>
                      </div>
                   </div>

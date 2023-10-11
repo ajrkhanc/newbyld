@@ -15411,3 +15411,81 @@ table td {
 	padding-left: 30px;
 }
 
+.blckbgc{
+	background-color: #000;
+	padding: 50px 0px 40px 0px;
+}
+.firsts h1{
+	font-weight: 400;
+
+    font-size: 60px;
+    color: rgb(98, 171, 108);
+    font-style: normal;
+}
+
+.firsts h2{
+	font-weight: 400;
+    font-size: 40px;
+    color: #fff;
+    font-style: normal;
+}
+
+.firsts p{
+	font-weight: 400;
+    color: #fff;
+    font-style: normal;
+}
+
+.firsts a{
+	background-color: #ed1b2f;
+	padding: 14px 28px;
+	border-radius: 25px;
+	color: #fff;
+	margin-top: 15px;
+	display: inline-block;
+}
+
+
+.imgwwc{
+	width: 80%;
+}
+.section2c{
+	padding: 50px 0px;
+}
+.section2c h2{
+	font-size: 45px;
+	padding-bottom: 30px;
+}
+
+.section2c p{
+	font-size: 20px;
+}
+
+.secc3{
+	background-color: #62ab6c;
+	padding: 60px;
+}
+
+.secc3 h2{
+	color: #fff;
+	font-size: 42px;
+}
+
+.secc3 a{
+	background-color: #ed1b2f;
+	padding: 14px 28px;
+	border-radius: 25px;
+	color: #fff;
+	margin-top: 15px;
+	display: inline-block;
+}
+
+.soldout{
+	display: inline-block;
+    padding: 1px 15px;
+    color: #eb8122;
+    border: 2px dashed #eb8122;
+	position: absolute;
+    right: 0px;
+    top: 40px;
+}
