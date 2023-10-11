@@ -145,7 +145,7 @@ export default function EdgeManagerAssessment() {
                      </div>
 
                      <div className="col-sm-6">
-                     <img src="/assets/img/bme-asssimg.jpg" alt="Images" />
+                     <img src="/kbassets/img/bme-asssimg.jpg" alt="Images" />
                      </div>
                   </div>
                </div>
