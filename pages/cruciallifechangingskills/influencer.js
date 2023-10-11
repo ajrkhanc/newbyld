@@ -4,8 +4,9 @@ export default function Influencer(){
     return(
         <>
         <Head>
-            <title>Influencer - Crucial Life-Changing Skills</title>
+            <title>Crucial Influence - Crucial Life-Changing Skills</title>
             <meta name="description" content="The Greatest Predictor of High Performance Habits can determine your success more than talent, intelligence, luck, or decision-making. Many are aware of this fact but still lack control over their... Read more"/> 
+            <link rel="stylesheet" type="text/css" href="/classets/css/cl.css" />
         </Head>
         <section class="about-section">
             <div class="container">
