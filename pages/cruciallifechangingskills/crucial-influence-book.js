@@ -15,7 +15,7 @@ export default function BrowseCourses(){
         xhttp.onload = function () {
             console.log(this.responseText);
         }
-        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/22/feedback');
+        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/169/feedback');
         xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
         xhttp.onreadystatechange = function () {
             if (xhttp.readyState == 4) {
@@ -24,7 +24,7 @@ export default function BrowseCourses(){
                     document.getElementById("contactForm").reset();
                     document.getElementById("showlabel").style.display = "block";
                     window.setTimeout(function() {
-                        window.location.href = "/cruciallifechangingskills/thank-you"
+                        window.location.href = "/classets/pdf/book-excerpt-crucial-influence.pdf"
                     }, 3000);
 
                 } else {
@@ -35,11 +35,7 @@ export default function BrowseCourses(){
         xhttp.send("leadsquared-FirstName=" + event.target.name.value +
             "&leadsquared-EmailAddress=" + event.target.email.value +
             "&leadsquared-Mobile=" + event.target.phone.value +
-            "&leadsquared-Company=" + event.target.organization.value +
-            "&leadsquared-JobTitle=" + event.target.designation.value +
-            "&leadsquared-mx_Showed_Interest_in=" + event.target.slot.value +
-            "&leadsquared-Notes=" + event.target.nots.value +
-            "&leadsquared-mx_Business_Entity=" + event.target.Business_Entity.value )
+            "&leadsquared-Company=" + event.target.organization.value)
 
     }
 
@@ -104,7 +100,14 @@ export default function BrowseCourses(){
                         </div>
                         <div class="col-md-12">
                             <input type="email" name="email" class="form-control" placeholder="Your Work Email*" required />
-                        </div>                        
+                        </div>
+                        <div class="col-md-12">
+                            <input type="text" name="phone" class="form-control" placeholder="Phone No.*" required />
+                        </div>
+
+                        <div class="col-md-12">
+                            <input type="text" name="organization" class="form-control" placeholder="Organization*" required />
+                        </div>
                         <div class="col-md-12 text-center">
                         <input id='submitbuttonform1' class="formbtn" type="submit" value="Submit"/>
                         </div>
