@@ -271,6 +271,33 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
+                                    <span>November 6th - 8th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>Getting Things Done Workshop</h3>
+                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>November 9th - 10th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>Getting Things Done (TTT) - Workshop</h3>
+                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
                                     <span>November 14th - 17th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
@@ -279,7 +306,6 @@ export default function Workshops() {
                                 </div>
                             </div>
                         </div>
-
 
 
                         <div className='col-sm-4'>
@@ -444,6 +470,8 @@ export default function Workshops() {
                                                 <option value="October 3rd - 6th, 2023 - DiSC Certification Virtual Workshop">October 3rd - 6th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023">Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023</option> */}
                                                 <option value="October 17th - 20th, 2023 - DiSC Certification Virtual Workshop">October 17th - 20th, 2023 - DiSC Certification Virtual Workshop</option>
+                                                <option value="Getting Things Done - November 6th to 8th, 2023">Getting Things Done - November 6th to 8th, 2023</option>
+                                            <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option>
                                                 <option value="November 14th - 17th, 2023 - DiSC Certification Virtual Workshop">November 14th - 17th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - November 29th, 2023">Crucial Life Changing Skills, The Power of Habit - November 29th, 2023</option>
                                                 <option value="November 13th - 14th, 2023 - DiSC Certification Virtual Workshop">November 13th - 14th, 2023 - DiSC Certification Virtual Workshop</option>
