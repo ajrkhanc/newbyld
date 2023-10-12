@@ -60,7 +60,7 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder prr-90">
-                                <img className="" src="/kbassets/img/kbnew/BT-model-understand-and-develop.jpg" alt="Images" />
+                                <img className="" src="/kbassets/img/CE-model-develop-a-consistent-coaching-culture.jpg" alt="Images" />
                             </div>
                         </div>
 
