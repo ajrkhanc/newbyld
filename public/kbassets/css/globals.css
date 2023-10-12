@@ -1126,3 +1126,28 @@ section.enterprise {
 .fcol1c h2{
   padding: 0px !important;
 }
+
+.workshopc{
+  background-color: #f4f4f4;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.workshopc img{
+    border-radius: 20px;
+}
+
+.innertext{
+  padding: 15px 15px;
+}
+
+.innertext h3{
+  font-size: 28px;
+    font-weight: 600;
+    line-height: 35px;
+    padding-bottom: 5px;
+}
+.innertext a{
+  color: #E55300;
+  font-weight: 600;
+}
