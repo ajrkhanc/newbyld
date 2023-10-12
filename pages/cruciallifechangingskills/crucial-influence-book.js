@@ -10,7 +10,7 @@ export default function BrowseCourses(){
 
     const WorkshopsForm = async event => {
         event.preventDefault()
-        document.getElementById("submitbuttonform").value = "Submitting form...."
+        document.getElementById("submitbuttonform1").value = "Submitting form...."
         const xhttp = new XMLHttpRequest();
         xhttp.onload = function () {
             console.log(this.responseText);
