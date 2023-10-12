@@ -213,7 +213,7 @@ export default function Workshops(){
                     </div> */}
 
                     
-                    <div class="col-md-4 workshop-col">
+                    {/* <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content">
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-conversations.svg" alt="" />
@@ -228,7 +228,37 @@ export default function Workshops(){
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
+
+                        <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content gtdcolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 6th - 8th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 02:30 PM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
+
+                    <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content gtdcolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                            </div>
+                            <h5 className='eventt'>Train-The-Trainers (TTT) - Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 9th - 10th, 2023</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 4:00 PM</h6>
+                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+                    </div>
 
                         
                         <div class="col-md-4 workshop-col">
@@ -447,8 +477,9 @@ export default function Workshops(){
                                     </div>
                                     <div class="col-md-6 col-6">                                        
                                         <select name='slot' required>
-                                            <option value="">Pick any Slot*</option>                                            
-                                           <option value="Crucial Conversation for Accountability - October 12th - 13th, 2023">Crucial Conversation for Accountability - October 12th - 13th, 2023</option>
+                                            <option value="">Pick any Slot*</option>
+                                            <option value="Getting Things Done - November 6th to 8th, 2023">Getting Things Done - November 6th to 8th, 2023</option>
+                                            <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option>
                                             <option value="The Power of Habit - November 23th, 2023">The Power of Habit - November 23th, 2023</option>
                                             <option value="Influencer - December 14th - 15th, 2023">Influencer - December 14th - 15th, 2023</option> 
                                             <option value="Getting Things Done - January 11th, 2023">Getting Things Done - January 11th, 2023</option>
