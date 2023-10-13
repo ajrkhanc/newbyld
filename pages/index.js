@@ -322,11 +322,11 @@ export default function Home() {
                         <div class="images-video">
                            <img src="/assets/img/homeb/newbyldb.jpg" alt="images" />
                         </div>
-                        <div class="animate-border">
+                        {/* <div class="animate-border">
                            <a class="popup-border" target="_blank" href="https://www.youtube.com/watch?v=LXd9OtxQQQA&t=16s">
                               <i class="fa fa-play"></i>
                            </a>
-                        </div>
+                        </div> */}
                      </div>
                   </div>
                </div>

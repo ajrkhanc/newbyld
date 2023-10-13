@@ -190,15 +190,15 @@ export default function Header() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-cell">
+                                <div className="col-cell dnoneinpc">
                                     <div className="expand-btn-inner">
                                         <ul>
-                                            <li class="search-parent">
+                                            {/* <li class="search-parent">
                                                 <a class="hidden-xs rs-search" data-bs-toggle="modal" data-bs-target="#searchModal" href="#">
                                                     <i class="flaticon-search"></i>
                                                 </a>
-                                            </li>
-                                            {/* <li className="humburger">
+                                            </li> */}
+                                            <li className="humburger rrr">
                                                 <a id="nav-expander" className="nav-expander bar" href="#">
                                                     <div className="bar">
                                                         <span className="dot1"></span>
@@ -212,7 +212,7 @@ export default function Header() {
                                                         <span className="dot9"></span>
                                                     </div>
                                                 </a>
-                                            </li> */}
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
