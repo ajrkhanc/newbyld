@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import React from 'react'
-
+const displayNone = {
+   display: 'none'
+};
 function Header() {
    return (
 
@@ -35,6 +37,8 @@ function Header() {
                            <a href="/blanchardindia/our-content/programs/slii">SLII®. POWERING INSPIRED LEADERS™</a>
                            <a href="/blanchardindia/get-started">CONTACT US</a>
                            <a target='_blank' href="https://blanchardcommunity.com/">BLANCHARD COMMUNITY</a>
+                                 <div class="header-search-trigger" > <img src='https://i.imgur.com/0eIAax8.png' /></div>
+
                         </div>                       
                      </div>
                   </div>
@@ -48,8 +52,18 @@ function Header() {
                            <a target="_blank" href="https://twitter.com/blanchard_india"><i className="bx bxl-twitter"></i></a>
                            <a target="_blank" href="https://www.instagram.com/blanchard_research_india/"><i className="bx bxl-instagram"></i></a>
                         </div>
+                        
                      </div>
                   </div> */}
+               </div>
+                       <div class='searchBar-container' style={displayNone}>
+                  <input class='searchBox' id='keyword' type='text' placeholder='Search here...' />
+               </div>
+
+               <div class='search-result-container' style={displayNone}>
+                  <ol id='searchList'>
+
+                  </ol>
                </div>
             </div>
          </div>
