@@ -39,8 +39,20 @@ export default function PodCast() {
                         <div className="col-lg-12">
                             <div className="what-did-left-content">
                                 <div className="row row-eq-height eventsandworkshopbox">
-                                    
+                                
                                        <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/finding-your-dream-job-with-alexa-shoen.jpg" alt="Images" />
+                                            <h3>Finding Your Dream Job with Alexa Shoen</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/finding-your-dream-job-with-alexa-shoen"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/kbassets/img/podcast/awaken-your-genius-with-ozan-varol.jpg" alt="Images" />
                                             <h3>Awaken Your Genius with Ozan Varol</h3>
