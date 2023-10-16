@@ -347,7 +347,7 @@ function callAPI() {
 	var keyword = document.getElementById('keyword').value;
 	console.log(keyword);
 	
-	const apiUrl = `https://kbblogs.vercel.app/api/getall/${caturl}` + keyword;
+	const apiUrl = `https://kbblogs.vercel.app/api/getAll/` + keyword;
 
 	//const apiUrl = 'http://localhost:3001/api/getall/' + keyword;
 	$('#searchList').html('');
