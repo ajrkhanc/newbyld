@@ -330,3 +330,45 @@ jQuery(document).ready(function() {
 	});
 
 });
+
+//global search functionality
+
+$('.header-search-trigger').click(function () {
+	$('.searchBar-container').fadeToggle();
+})
+
+$('.searchBox').keyup(function () {
+	$('.search-result-container').fadeIn();
+	callAPI();
+	
+});
+
+function callAPI() {
+	var keyword = document.getElementById('keyword').value;
+	console.log(keyword);
+	
+	const apiUrl = `https://kbblogs.vercel.app/api/getall/${caturl}` + keyword;
+
+	//const apiUrl = 'http://localhost:3001/api/getall/' + keyword;
+	$('#searchList').html('');
+	fetch(apiUrl)
+	  .then(response => {
+		if (!response.ok) {
+		  throw new Error('Network response was not ok');
+		}
+		return response.json();
+	  })
+	  .then(data => {
+		console.log(data);
+		for (var count = 0; count < data.length; count++) {
+			var optionValue = data[count];
+			// console.log();
+			// console.log();
+			$('#searchList').append (`<li class='resultText'><a href='${optionValue.Searchurl}'>${optionValue.keyword}</a></li>`)
+		}
+	  })
+	  .catch(error => {
+		console.error('There was a problem with the fetch operation:', error);
+	  });
+  }
+  
