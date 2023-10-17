@@ -139,20 +139,39 @@ export default function MuseumCaper() {
                                         <li>UNIVERSAL TRUTHS: Principles and skills learned are applicable in all cultures.</li>
                                         <li>WORK RELATED: Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
                                     </ul>
-                                </div>
+                                </div>                                
+                            </div>
+                        </div>
 
+                    </div>
+                </div>
+            </div>
+
+            <div className="rs-achievement style1 relative ptt-40 pbb-40">
+                <div className="container">
+                    <div className="row rs-vertical-middle">
+                    <div className="col-lg-6 pr-0">
+                            <div className='onlyshd'>
+                               
                                 <div className='rs-estimate'>
-                                    <h4 className="countertoph2 text-left font26">KEY LEARNING POINTS:</h4>
+                                    <h4 className="countertoph2 text-left font26">Learning Outcomes</h4>
+                                    <h5>Effective Salesperson at the interpersonal level</h5>
                                     <ul className="estimate-info mtt-5">
-                                        <li>Provide timely feedback that can keep the team progressing to the goal</li>
-                                        <li>A team’s productivity increases with virtual team building activities for employees</li>
-                                        <li>Seek understanding to achieve the right results</li>
-                                        <li>Improve accuracy and efficiency of communications</li>
-                                        <li>Create overall clarity and prevent miscommunications</li>
+                                        <li>Understanding the importance of people skills, principles of good communication and cooperation.</li>                                        
+                                    </ul>
+                                    <h5>Communication Style Basics</h5>
+                                    <ul className="estimate-info mtt-5">
+                                        <li>Introduction to Persona’s four style concepts – Controlling, Promoting, Facilitating, and analytical</li>                                        
                                     </ul>
                                 </div>
                             </div>
+                        </div>                        
+                        <div className="col-lg-6 md-pt-50">
+                            <div className="">
+                                <img src="/efassets/img/museum-caper-2.png" alt="" />
+                            </div>
                         </div>
+                        
 
                     </div>
                 </div>

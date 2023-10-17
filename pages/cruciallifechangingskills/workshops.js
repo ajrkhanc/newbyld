@@ -269,7 +269,7 @@ export default function Workshops(){
                                 </div>
                                 <h5 className='eventt'>Workshop</h5>
                                 <div class="col-md-12 workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 23th, 2023</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 17th, 2023</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                                     <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
                                 </div>
@@ -480,7 +480,7 @@ export default function Workshops(){
                                             <option value="">Pick any Slot*</option>
                                             <option value="Getting Things Done - November 6th to 8th, 2023">Getting Things Done - November 6th to 8th, 2023</option>
                                             <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option>
-                                            <option value="The Power of Habit - November 23th, 2023">The Power of Habit - November 23th, 2023</option>
+                                            <option value="The Power of Habit - November 17th, 2023">The Power of Habit - November 17th, 2023</option>
                                             <option value="Influencer - December 14th - 15th, 2023">Influencer - December 14th - 15th, 2023</option> 
                                             <option value="Getting Things Done - January 11th, 2023">Getting Things Done - January 11th, 2023</option>
                                             <option value="Crucial Conversations for Accountability - February 28th - 29th, 2024">Crucial Conversations for Mastering Dialogue - February 28th - 29th, 2024</option>                                            
