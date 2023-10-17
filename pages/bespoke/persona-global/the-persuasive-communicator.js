@@ -44,8 +44,8 @@ export default function MuseumCaper() {
     return (
         <>
             <Head>
-                <title>Best Team Activities Virtually for Communication- Museum Caper</title>
-                <meta name="description" content="If you want to develop your communication skills, then you need outdoor team-building activities. You’ll do great with these team activities virtually." />
+                <title>The Persuasive Communicator</title>
+                <meta name="description" content="The Persuasive Communicator" />
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
@@ -66,8 +66,8 @@ export default function MuseumCaper() {
                                 <span class="separator">/</span>
                             </li>
                             <li>
-                                <a href="/bespoke/persona-global/the-persuasive-salesperson">
-                                    <span>The Persuasive SalespersonTM</span>
+                                <a href="/bespoke/persona-global/the-persuasive-communicator">
+                                    <span>The Persuasive Communicator</span>
                                 </a>
                             </li>
                         </ul>
