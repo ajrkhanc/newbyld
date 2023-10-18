@@ -298,7 +298,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>November 14th - 17th, 2023</span>
+                                    <span>November 20th - 24th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
@@ -472,7 +472,7 @@ export default function Workshops() {
                                                 <option value="October 17th - 20th, 2023 - DiSC Certification Virtual Workshop">October 17th - 20th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Getting Things Done - November 6th to 8th, 2023">Getting Things Done - November 6th to 8th, 2023</option>
                                             <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option>
-                                                <option value="November 14th - 17th, 2023 - DiSC Certification Virtual Workshop">November 14th - 17th, 2023 - DiSC Certification Virtual Workshop</option>
+                                                <option value="November 20th - 24th, 2023 - DiSC Certification Virtual Workshop">November 20th - 24th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - November 29th, 2023">Crucial Life Changing Skills, The Power of Habit - November 29th, 2023</option>
                                                 <option value="November 13th - 14th, 2023 - DiSC Certification Virtual Workshop">November 13th - 14th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023">Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023</option>
