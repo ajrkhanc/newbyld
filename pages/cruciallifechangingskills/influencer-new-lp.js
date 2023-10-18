@@ -79,7 +79,7 @@ export default function BrowseCourses(){
     return(
         <>
         <Head>
-            <title>Influencer New LP - Crucial Life-Changing Skills</title>
+            <title>Crucial Influence New LP - Crucial Life-Changing Skills</title>
             <meta name="description" content="Utilize the new Science of Leadership with Influencer programA course backed by 50 years of research to help transform your ingrained human behavior.https://www.youtube.com/watch?v=vbflk9hXOUY LEARN AND MASTER THE SKILLS OF THE... Read more"/> 
             <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" /> 
             <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
@@ -88,8 +88,8 @@ export default function BrowseCourses(){
             <div className='container'>
                 <div className='row y-middle'>
                     <div className='col-md-6 text-center'>
-                        <img className='prlogo' src="/classets/img/Influencer.svg"/>
-                        <h1>Utilize the new Science of Leadership with Influencer program</h1>
+                        <img className='prlogo' src="/classets/img/clf.png"/>
+                        <h1>Utilize the new Science of Leadership with Crucial Influence program</h1>
                         <p className='genericp'>
                         A course backed by <span>50</span> years of research to help transform your ingrained human behavior.
                         </p>
@@ -254,7 +254,7 @@ export default function BrowseCourses(){
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content green-col">
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
-                                    <h4>INFLUENCER</h4>
+                                    <h4>Crucial Influence</h4>
                                     <p></p>
                                 </div>
                                 <h5 className='eventt'>Virtual Course Preview</h5>
@@ -269,7 +269,7 @@ export default function BrowseCourses(){
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content green-col">
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
-                                    <h4>INFLUENCER</h4>
+                                    <h4>Crucial Influence</h4>
                                     <p></p>
                                 </div>
                                 <h5 className='eventt'>Workshop</h5>

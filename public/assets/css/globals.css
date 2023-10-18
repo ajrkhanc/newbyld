@@ -4652,3 +4652,15 @@ text-align: center;
     display: block;
 }
 
+.personabg{
+  background: #f8f8f8;
+}
+
+.h5cc{
+  padding: 6px 0px 0px 0px;
+  margin: 0px;
+  font-size: 19px;
+  color: #e88026;
+  letter-spacing: 1px;
+}
+

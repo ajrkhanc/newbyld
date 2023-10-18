@@ -44,8 +44,8 @@ export default function MuseumCaper() {
     return (
         <>
             <Head>
-                <title>Best Team Activities Virtually for Communication- Museum Caper</title>
-                <meta name="description" content="If you want to develop your communication skills, then you need outdoor team-building activities. You’ll do great with these team activities virtually." />
+                <title>Beyond Coaching, Mentoring</title>
+                <meta name="description" content="Beyond Coaching, Mentoring" />
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
@@ -66,8 +66,8 @@ export default function MuseumCaper() {
                                 <span class="separator">/</span>
                             </li>
                             <li>
-                                <a href="/bespoke/persona-global/the-persuasive-salesperson">
-                                    <span>The Persuasive SalespersonTM</span>
+                                <a href="/bespoke/persona-global/beyond-coaching-mentoring">
+                                    <span>Beyond Coaching, Mentoring</span>
                                 </a>
                             </li>
                         </ul>
@@ -77,9 +77,8 @@ export default function MuseumCaper() {
                         <div className='col-sm-7'>
                             <div class="breadcrumbs-inner">                                
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                    The Persuasive SalespersonTM
+                                Beyond Coaching, Mentoring
                                 </h1>
-
                             </div>
                         </div>
                     </div>
@@ -91,13 +90,16 @@ export default function MuseumCaper() {
                 <div class="container">
                     <div class="row y-middle">
                         <div class="col-lg-6">
-                            <div class="sec-title3 mbb-35 text-left onlyshd">
-                                <h4 class="countertoph2 text-left font28">The Persuasive SalespersonTM (PS)</h4>
+                            <div class="sec-title3 mbb-35 text-left">
+                                <h4 class="countertoph2 text-left font28">Championing for Performance Improvement!</h4>
                                 <div class="heading-border-line left-style"></div>
-                                <p class="mtt-40 justify mbb-10">
-                                    The Persuasive SalespersonTM (PS) is a 16-hour, skills training methodology, which gives participants a lifelong tool for communicating more powerfully and persuasively in different types of business and professional situations.</p>
-                                    <p className='justify'>
-                                    The methodology is based on Persona’s Social Styles and Trust Building Models, proven over the past 37 years to be one of the world’s most effective communication skills training programs.
+                                <br></br>
+                                <h5 className='h5cc'>The Ultimate Manager Performance Enhancing Process</h5>
+                                <p class="mtt-10 text-justify mbb-10">
+                                Mentoring is a process of building workplace relationships to empower individuals... to develop personal and professional abilities, achieve performance goals at increasingly higher levels, and make progress toward their career goals.
+                                </p>
+                                <p class='text-justify'>
+                                    The Communication Style Profile is a tool to assess your preferences on communication styles, flexibility and empathy as seen by others. Participants will fill in one questionnaire and select a number of their colleagues to fill in another set for a computer generated feedback of the participant’s ability to understand the differences and needs among people. From that, participants will be given a personal Gameplan to formulate communication strategies for any mentee they want to influence.
                                 </p>
                               
                             </div>
@@ -125,19 +127,15 @@ export default function MuseumCaper() {
                             </div>
                         </div>
                         <div className="col-lg-6 pr-0">
-                            <div className=''>
+                            <div className='pll-20'>
                                 <div className='rs-estimate'>
-                                    <h4 className="countertoph2 text-left font26">Key Benefits</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>ACTIONABLE: Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
-                                        <li>EASILY UNDERSTANDABLE: A simple practical methodology that keys on existing personal and work experience.</li>
-                                        <li>LONG-TERM BENEFIT: The Gameplanning Software can be applied repeatedly to future communication challenges.</li>
-                                        <li>MULTI-PURPOSE: Skills are effective in both business and personal settings.</li>
-                                        <li>TAILORED PROGRAMMING: The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services.</li>
-                                        <li>THOROUGH DOCUMENTATION: Reports and guides give complete feedback and information.</li>
-                                        <li>UNIVERSAL TRUTHS: Principles and skills learned are applicable in all cultures.</li>
-                                        <li>WORK RELATED: Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
-                                    </ul>
+                                    <h4 className="countertoph2 text-left font26">The Key Benefits</h4>
+                                    <h5 className='h5cc'>For Mentee</h5>
+                                    <p>Take charge of his/her own learning Advance his/her career Improve his/her performance</p>
+                                    <h5 className='h5cc'>For Mentor/Manager</h5>
+                                    <p>Improve organizational performance Feel pride in accomplishments of mentees</p>
+                                    <h5 className='h5cc'>For Organization</h5>
+                                    <p>Achieve organizational goals Build a learning organization Grow the business</p>                                 
                                 </div>                                
                             </div>
                         </div>
@@ -146,65 +144,38 @@ export default function MuseumCaper() {
                 </div>
             </div>
 
+
             <div className="rs-achievement style1 relative ptt-40 pbb-40">
                 <div className="container">
-                    <div className="row">
-                        <div className='col-sm-12 sec-title3 mbb-35 text-center'>
-                        <h4 class="countertoph2 font28">Learning Outcomes</h4>
-                        <div class="heading-border-line center-style"></div>
-                        </div>
-                    <div className="col-lg-6 pr-0">
-                            <div className=''>
-                               
+                    <div className="row rs-vertical-middle">                        
+                        <div className="col-lg-6 pr-0">
+                            <div className='onlyshd'>
                                 <div className='rs-estimate'>
-                                <h4 className="countertoph2 text-left font26">Effective Salesperson at the interpersonal level</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Understanding the importance of people skills, principles of good communication and cooperation.</li>                                        
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">Communication Style Basics</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Introduction to Persona’s four style concepts – Controlling, Promoting, Facilitating, and analytical</li>                                        
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">How to Build Trust</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>The Persona Trust Model</li>
-                                        <li>How people perceive you as a trust builder</li>
-                                        <li>Working with individuals and teams to achieve the optimum results</li>
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">Empathy, Flexibility & Defensiveness</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Change and defensiveness – how to respond to defensive behavior and turn it around</li>
-                                        <li>Interpersonal flexibility</li>
-                                        <li>How to build empathy and flexibility with others.</li>
-                                    </ul>
-
+                                    <h4 className="countertoph2 text-left font26">Learning Outcomes</h4>
                                     
-                                </div>
-                            </div>
-                        </div>                        
-                        <div className="col-lg-6 md-pt-50">
-                            <div className="rs-estimate">
-                            <h4 className="countertoph2 text-left font26">Selling Process</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>A step-by-step analysis of the sales process.</li>
-                                        <li>Developing goals and appropriate actions for each stage of the sales cycle.</li>
-                                        <li>Applying the knowledge of communication styles to the sales process.</li>
+                                        <li>Gain awareness of the importance and benefits of mentoring as a supervisory/management role and responsibility</li>
+                                        <li>Develop an understanding of...</li>
+                                        <li>– The mentoring process and how to use it to “grow” people and organizations.</li>
+                                        <li>The critical success factors/competencies for effective mentoring.</li>
+                                        <li>Identify their own mentoring style and learn how to apply and adapt that style in different mentoring relationships.</li>
+                                        <li>Learn specific tools and techniques to mentor their people more effectively.</li>
                                     </ul>
-
-                                    <h4 className="countertoph2 text-left font26">Role Playing–Preparing for that Difficult Client</h4>
-                                    <p>Introduction of each participant’s individual Gameplan:</p>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Reviewing the Gameplan’s step-by-step approach and effectively communicating with your targeted key account or difficult client.</li>
-                                        <li>Role playing with participants on applying improved sales skills.</li>
-                                        <li>Action planning for continued application of the skills acquired for your most important customers.</li>
-                                    </ul>
+                                </div>                                
                             </div>
                         </div>
-                        
+
+                        <div className="col-lg-6 md-pt-50">
+                            <div className="">
+                                <img src="/efassets/img/museum-caper-2.png" alt="" />
+                            </div>
+                        </div>
 
                     </div>
                 </div>
             </div>
+
+    
 
             <div className="rs-testimonial style4 bg16 ptt-30 pbb-70 personabg">
                 <div className="container">

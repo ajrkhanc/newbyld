@@ -44,8 +44,8 @@ export default function MuseumCaper() {
     return (
         <>
             <Head>
-                <title>Best Team Activities Virtually for Communication- Museum Caper</title>
-                <meta name="description" content="If you want to develop your communication skills, then you need outdoor team-building activities. You’ll do great with these team activities virtually." />
+                <title>Team Building and Training</title>
+                <meta name="description" content="Team Building and Training" />
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
@@ -66,8 +66,8 @@ export default function MuseumCaper() {
                                 <span class="separator">/</span>
                             </li>
                             <li>
-                                <a href="/bespoke/persona-global/the-persuasive-salesperson">
-                                    <span>The Persuasive SalespersonTM</span>
+                                <a href="/bespoke/persona-global/team-building-and-training">
+                                    <span>Team Building and Training</span>
                                 </a>
                             </li>
                         </ul>
@@ -77,9 +77,8 @@ export default function MuseumCaper() {
                         <div className='col-sm-7'>
                             <div class="breadcrumbs-inner">                                
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                    The Persuasive SalespersonTM
+                                Team Building and Training
                                 </h1>
-
                             </div>
                         </div>
                     </div>
@@ -91,13 +90,14 @@ export default function MuseumCaper() {
                 <div class="container">
                     <div class="row y-middle">
                         <div class="col-lg-6">
-                            <div class="sec-title3 mbb-35 text-left onlyshd">
-                                <h4 class="countertoph2 text-left font28">The Persuasive SalespersonTM (PS)</h4>
+                            <div class="sec-title3 mbb-35 text-left">
+                                <h4 class="countertoph2 text-left font28">Trust is the Key to Team Success</h4>
                                 <div class="heading-border-line left-style"></div>
                                 <p class="mtt-40 justify mbb-10">
-                                    The Persuasive SalespersonTM (PS) is a 16-hour, skills training methodology, which gives participants a lifelong tool for communicating more powerfully and persuasively in different types of business and professional situations.</p>
+                                In teamwork, interpersonal conflict is the single most frequently cited reason for failure to meet deadlines as well as for miscommunication, stress, inefficiency, and low productivity.
+                                </p>
                                     <p className='justify'>
-                                    The methodology is based on Persona’s Social Styles and Trust Building Models, proven over the past 37 years to be one of the world’s most effective communication skills training programs.
+                                    As business organizations grow in complexity, the need for cohesive work teams also grows. Persona GLOBAL<sup>®</sup>, Inc.’s Team Building and Training workshop lays a solid foundation of mutual understanding and Trust through a comprehensive People Skill program that helps teams reach their full potential.
                                 </p>
                               
                             </div>
@@ -125,18 +125,18 @@ export default function MuseumCaper() {
                             </div>
                         </div>
                         <div className="col-lg-6 pr-0">
-                            <div className=''>
+                            <div className='pll-20'>
                                 <div className='rs-estimate'>
-                                    <h4 className="countertoph2 text-left font26">Key Benefits</h4>
+                                    <h4 className="countertoph2 text-left font26">The Key Benefits</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>ACTIONABLE: Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
-                                        <li>EASILY UNDERSTANDABLE: A simple practical methodology that keys on existing personal and work experience.</li>
-                                        <li>LONG-TERM BENEFIT: The Gameplanning Software can be applied repeatedly to future communication challenges.</li>
-                                        <li>MULTI-PURPOSE: Skills are effective in both business and personal settings.</li>
-                                        <li>TAILORED PROGRAMMING: The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services.</li>
-                                        <li>THOROUGH DOCUMENTATION: Reports and guides give complete feedback and information.</li>
-                                        <li>UNIVERSAL TRUTHS: Principles and skills learned are applicable in all cultures.</li>
-                                        <li>WORK RELATED: Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
+                                        <li>Renewed team spirit.</li>
+                                        <li>Renewed commitment to project goals and vision.</li>
+                                        <li>Provides a foundation to support effective teamwork.</li>
+                                        <li>Reduction of interpersonal tension and stress.</li>
+                                        <li>Team members gain the ability to build trust by creating win/win situations.</li>
+                                        <li>Team members learn strategies that lead to individual achievement and team success.</li>
+                                        <li>Team members leave with an understanding of the strategies that lead to individual achievement and team success.</li>
+                                        <li>Team members learn to better understand, respect, and respond to each other’s needs.</li>
                                     </ul>
                                 </div>                                
                             </div>
@@ -146,65 +146,44 @@ export default function MuseumCaper() {
                 </div>
             </div>
 
+
             <div className="rs-achievement style1 relative ptt-40 pbb-40">
                 <div className="container">
-                    <div className="row">
-                        <div className='col-sm-12 sec-title3 mbb-35 text-center'>
-                        <h4 class="countertoph2 font28">Learning Outcomes</h4>
-                        <div class="heading-border-line center-style"></div>
-                        </div>
-                    <div className="col-lg-6 pr-0">
-                            <div className=''>
-                               
+                    <div className="row rs-vertical-middle">                        
+                        <div className="col-lg-6 pr-0">
+                            <div className='onlyshd'>
                                 <div className='rs-estimate'>
-                                <h4 className="countertoph2 text-left font26">Effective Salesperson at the interpersonal level</h4>
+                                    <h4 className="countertoph2 text-left font26">Learning Outcomes</h4>
+                                    <h5 className='h5cc'>Establish participants’ case studies</h5>
                                     <ul className="estimate-info mtt-5">
-                                        <li>Understanding the importance of people skills, principles of good communication and cooperation.</li>                                        
+                                        <li>Understand the difference between describing and judging behavior</li>
+                                        <li>Learn how to recognize communication styles</li>
+                                        <li>Learn stylistic needs of each communication style</li>
+                                        <li>Examine cooperation and conflict among people of different styles</li>
                                     </ul>
-                                    <h4 className="countertoph2 text-left font26">Communication Style Basics</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Introduction to Persona’s four style concepts – Controlling, Promoting, Facilitating, and analytical</li>                                        
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">How to Build Trust</h4>
+
+                                    <h5 className='h5cc'>Trust and Empathy</h5>
                                     <ul className="estimate-info mtt-5">
                                         <li>The Persona Trust Model</li>
-                                        <li>How people perceive you as a trust builder</li>
-                                        <li>Working with individuals and teams to achieve the optimum results</li>
+                                        <li>Learn the elements of trust</li>
+                                        <li>Understand the importance of empathy and practice empathy projection</li>
+                                        <li>See ourselves as others see us</li>
                                     </ul>
-                                    <h4 className="countertoph2 text-left font26">Empathy, Flexibility & Defensiveness</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Change and defensiveness – how to respond to defensive behavior and turn it around</li>
-                                        <li>Interpersonal flexibility</li>
-                                        <li>How to build empathy and flexibility with others.</li>
-                                    </ul>
-
-                                    
-                                </div>
-                            </div>
-                        </div>                        
-                        <div className="col-lg-6 md-pt-50">
-                            <div className="rs-estimate">
-                            <h4 className="countertoph2 text-left font26">Selling Process</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>A step-by-step analysis of the sales process.</li>
-                                        <li>Developing goals and appropriate actions for each stage of the sales cycle.</li>
-                                        <li>Applying the knowledge of communication styles to the sales process.</li>
-                                    </ul>
-
-                                    <h4 className="countertoph2 text-left font26">Role Playing–Preparing for that Difficult Client</h4>
-                                    <p>Introduction of each participant’s individual Gameplan:</p>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Reviewing the Gameplan’s step-by-step approach and effectively communicating with your targeted key account or difficult client.</li>
-                                        <li>Role playing with participants on applying improved sales skills.</li>
-                                        <li>Action planning for continued application of the skills acquired for your most important customers.</li>
-                                    </ul>
+                                </div>                                
                             </div>
                         </div>
-                        
+
+                        <div className="col-lg-6 md-pt-50">
+                            <div className="">
+                                <img src="/efassets/img/museum-caper-2.png" alt="" />
+                            </div>
+                        </div>
 
                     </div>
                 </div>
             </div>
+
+    
 
             <div className="rs-testimonial style4 bg16 ptt-30 pbb-70 personabg">
                 <div className="container">

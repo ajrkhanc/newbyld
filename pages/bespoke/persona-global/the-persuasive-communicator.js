@@ -77,9 +77,8 @@ export default function MuseumCaper() {
                         <div className='col-sm-7'>
                             <div class="breadcrumbs-inner">                                
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                    The Persuasive SalespersonTM
+                                The Persuasive Communicator<sup>®</sup>
                                 </h1>
-
                             </div>
                         </div>
                     </div>
@@ -91,13 +90,14 @@ export default function MuseumCaper() {
                 <div class="container">
                     <div class="row y-middle">
                         <div class="col-lg-6">
-                            <div class="sec-title3 mbb-35 text-left onlyshd">
-                                <h4 class="countertoph2 text-left font28">The Persuasive SalespersonTM (PS)</h4>
+                            <div class="sec-title3 mbb-35 text-left">
+                                <h4 class="countertoph2 text-left font28">The Persuasive Communicator<sup>®</sup></h4>
                                 <div class="heading-border-line left-style"></div>
                                 <p class="mtt-40 justify mbb-10">
-                                    The Persuasive SalespersonTM (PS) is a 16-hour, skills training methodology, which gives participants a lifelong tool for communicating more powerfully and persuasively in different types of business and professional situations.</p>
+                                The Persuasive Communicator<sup>®</sup> (PC) is a 16 hour workshop presenting lifelong skills enabling delegates to communicate effectively, become more influential and ultimately become successful persuasive communicators!
+                                </p>
                                     <p className='justify'>
-                                    The methodology is based on Persona’s Social Styles and Trust Building Models, proven over the past 37 years to be one of the world’s most effective communication skills training programs.
+                                    This robust workshop provides delegates with an intuitive, practical system for dealing with all people, especially those “difficult or uncooperative people” whom they have not been able to influence yet.
                                 </p>
                               
                             </div>
@@ -116,7 +116,7 @@ export default function MuseumCaper() {
             
 
 
-            <div className="rs-achievement style1 relative ptt-40 pbb-40">
+            <div className="rs-achievement style1 relative ptt-40 pbb-40 personabg">
                 <div className="container">
                     <div className="row rs-vertical-middle">
                         <div className="col-lg-6 md-pt-50">
@@ -125,18 +125,18 @@ export default function MuseumCaper() {
                             </div>
                         </div>
                         <div className="col-lg-6 pr-0">
-                            <div className='onlyshd'>
+                            <div className='pll-20'>
                                 <div className='rs-estimate'>
-                                    <h4 className="countertoph2 text-left font26">Key Benefits</h4>
+                                    <h4 className="countertoph2 text-left font26">The Key Benefits</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>ACTIONABLE: Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
-                                        <li>EASILY UNDERSTANDABLE: A simple practical methodology that keys on existing personal and work experience.</li>
-                                        <li>LONG-TERM BENEFIT: The Gameplanning Software can be applied repeatedly to future communication challenges.</li>
-                                        <li>MULTI-PURPOSE: Skills are effective in both business and personal settings.</li>
-                                        <li>TAILORED PROGRAMMING: The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services.</li>
-                                        <li>THOROUGH DOCUMENTATION: Reports and guides give complete feedback and information.</li>
-                                        <li>UNIVERSAL TRUTHS: Principles and skills learned are applicable in all cultures.</li>
-                                        <li>WORK RELATED: Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
+                                        <li>Actionable: Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
+                                        <li>Easily understandable: A simple practical methodology that keys on existing personal and work experience.</li>
+                                        <li>Long-term benefit: The Gameplanning Software either online or with the iPad application can be applied repeatedly to future communication challenges.</li>
+                                        <li>Multi-purpose: Skills are effective in both business and personal settings.</li>
+                                        <li>Tailored programming: The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services. A unique capability.</li>
+                                        <li>Thorough documentation: Reports and guides give complete feedback and information.</li>
+                                        <li>Universal truths: Principles and skills learned are applicable in all cultures.</li>
+                                        <li>Work related: Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
                                     </ul>
                                 </div>                                
                             </div>
@@ -146,58 +146,56 @@ export default function MuseumCaper() {
                 </div>
             </div>
 
+
             <div className="rs-achievement style1 relative ptt-40 pbb-40">
                 <div className="container">
-                    <div className="row">
-                        <div className='col-sm-12 sec-title3 mbb-35 text-center'>
-                        <h4 class="countertoph2 font28">Learning Outcomes</h4>
-                        <div class="heading-border-line center-style"></div>
+                    <div className="row rs-vertical-middle">                        
+                        <div className="col-lg-6 pr-0">
+                            <div className='onlyshd'>
+                                <div className='rs-estimate'>
+                                    <h4 className="countertoph2 text-left font26">The Persuasive Communicator Methodology</h4>
+                                    <p>
+                                    The ideal workshop size is 12-16 participants in order to promote maximum interaction and learning. Since each participant has a personal case study subject, the methodology is appropriate for both in-company and public/open programs.
+                                    </p>
+                                    <h4 className="countertoph2 text-left font26">Value Added</h4>
+                                    <p>
+                                    One exclusive benefit for participating in The Persuasive Communicator® workshop is the possibility to gain access to Persona GLOBAL’s proprietary expert system – the Gameplanning software.
+                                    </p>
+                                </div>                                
+                            </div>
                         </div>
+
+                        <div className="col-lg-6 md-pt-50">
+                            <div className="">
+                                <img src="/efassets/img/museum-caper-2.png" alt="" />
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div className="rs-achievement style1 relative ptt-40 pbb-40 personabg">
+                <div className="container">
+                    <div className="row rs-vertical-middle">
+                        
                     <div className="col-lg-6 pr-0">
                             <div className=''>
                                
                                 <div className='rs-estimate'>
-                                <h4 className="countertoph2 text-left font26">Effective Salesperson at the interpersonal level</h4>
+                                <h4 className="countertoph2 text-left font26">Unique Value Proposition for Trainers and Consultants</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>Understanding the importance of people skills, principles of good communication and cooperation.</li>                                        
+                                        <li>Easy-to-understand: Leader Guide and PowerPoint program gives the trainer full support in facilitating the workshop.</li>                                        
+                                        <li>GLOBAL reach: Online Assessment Center enables 24/7 data collection and processing over the internet allowing distribution of feedback reports in multiple languages.</li>
+                                        <li>Track record: The Persuasive CommunicatorTM methodology has been tested and proven for more than 30 years in multiple cultures.</li>
                                     </ul>
-                                    <h4 className="countertoph2 text-left font26">Communication Style Basics</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Introduction to Persona’s four style concepts – Controlling, Promoting, Facilitating, and analytical</li>                                        
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">How to Build Trust</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>The Persona Trust Model</li>
-                                        <li>How people perceive you as a trust builder</li>
-                                        <li>Working with individuals and teams to achieve the optimum results</li>
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">Empathy, Flexibility & Defensiveness</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Change and defensiveness – how to respond to defensive behavior and turn it around</li>
-                                        <li>Interpersonal flexibility</li>
-                                        <li>How to build empathy and flexibility with others.</li>
-                                    </ul>
-
-                                    
+                                   
                                 </div>
                             </div>
                         </div>                        
                         <div className="col-lg-6 md-pt-50">
-                            <div className="rs-estimate">
-                            <h4 className="countertoph2 text-left font26">Selling Process</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>A step-by-step analysis of the sales process.</li>
-                                        <li>Developing goals and appropriate actions for each stage of the sales cycle.</li>
-                                        <li>Applying the knowledge of communication styles to the sales process.</li>
-                                    </ul>
-
-                                    <h4 className="countertoph2 text-left font26">Role Playing–Preparing for that Difficult Client</h4>
-                                    <p>Introduction of each participant’s individual Gameplan:</p>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Reviewing the Gameplan’s step-by-step approach and effectively communicating with your targeted key account or difficult client.</li>
-                                        <li>Role playing with participants on applying improved sales skills.</li>
-                                        <li>Action planning for continued application of the skills acquired for your most important customers.</li>
-                                    </ul>
+                            <div className="">
+                                <img src="/efassets/img/museum-caper-2.png" alt="" />
                             </div>
                         </div>
                         

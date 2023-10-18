@@ -44,8 +44,8 @@ export default function MuseumCaper() {
     return (
         <>
             <Head>
-                <title>Best Team Activities Virtually for Communication- Museum Caper</title>
-                <meta name="description" content="If you want to develop your communication skills, then you need outdoor team-building activities. You’ll do great with these team activities virtually." />
+                <title>Transition to Management</title>
+                <meta name="description" content="Transition to Management" />
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
@@ -66,8 +66,8 @@ export default function MuseumCaper() {
                                 <span class="separator">/</span>
                             </li>
                             <li>
-                                <a href="/bespoke/persona-global/the-persuasive-salesperson">
-                                    <span>The Persuasive SalespersonTM</span>
+                                <a href="/bespoke/persona-global/transition-to-management">
+                                    <span>Transition to Management</span>
                                 </a>
                             </li>
                         </ul>
@@ -77,9 +77,8 @@ export default function MuseumCaper() {
                         <div className='col-sm-7'>
                             <div class="breadcrumbs-inner">                                
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                    The Persuasive SalespersonTM
+                                Transition to Management
                                 </h1>
-
                             </div>
                         </div>
                     </div>
@@ -91,13 +90,15 @@ export default function MuseumCaper() {
                 <div class="container">
                     <div class="row y-middle">
                         <div class="col-lg-6">
-                            <div class="sec-title3 mbb-35 text-left onlyshd">
-                                <h4 class="countertoph2 text-left font28">The Persuasive SalespersonTM (PS)</h4>
+                            <div class="sec-title3 mbb-35 text-left">
+                                <h4 class="countertoph2 text-left font28">Essential Skills for the Newly Appointed Manager</h4>
                                 <div class="heading-border-line left-style"></div>
-                                <p class="mtt-40 justify mbb-10">
-                                    The Persuasive SalespersonTM (PS) is a 16-hour, skills training methodology, which gives participants a lifelong tool for communicating more powerfully and persuasively in different types of business and professional situations.</p>
-                                    <p className='justify'>
-                                    The methodology is based on Persona’s Social Styles and Trust Building Models, proven over the past 37 years to be one of the world’s most effective communication skills training programs.
+                                <p class="mtt-40 text-justify mbb-10">
+                                Many new managers, when placed in a position of authority over former peers, need to know how to handle this unfamiliar situation. They need to learn how to recognize the various work styles of those they manage in order to tailor their leadership approach accordingly. Persona GLOBAL®, Inc.’s Transition to Management workshop gives them the skills necessary to fulfill their new responsibilities with confidence.
+                                </p>
+                                <h5 className='h5cc'>The Manager as a Leader</h5>
+                                    <p className='text-justify'>
+                                    Employees only produce quality work and give excellent service when they are inspired to do so through effective leadership. While effective managers keep the system on an even keel and headed in the right direction, effective leaders provide the dynamics to make new things happen.
                                 </p>
                               
                             </div>
@@ -125,19 +126,26 @@ export default function MuseumCaper() {
                             </div>
                         </div>
                         <div className="col-lg-6 pr-0">
-                            <div className=''>
+                            <div className='pll-20'>
                                 <div className='rs-estimate'>
-                                    <h4 className="countertoph2 text-left font26">Key Benefits</h4>
+                                    <h4 className="countertoph2 text-left font26">The Key Benefits</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>ACTIONABLE: Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
-                                        <li>EASILY UNDERSTANDABLE: A simple practical methodology that keys on existing personal and work experience.</li>
-                                        <li>LONG-TERM BENEFIT: The Gameplanning Software can be applied repeatedly to future communication challenges.</li>
-                                        <li>MULTI-PURPOSE: Skills are effective in both business and personal settings.</li>
-                                        <li>TAILORED PROGRAMMING: The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services.</li>
-                                        <li>THOROUGH DOCUMENTATION: Reports and guides give complete feedback and information.</li>
-                                        <li>UNIVERSAL TRUTHS: Principles and skills learned are applicable in all cultures.</li>
-                                        <li>WORK RELATED: Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
+                                        <li>Examine the importance of Vision and Communication in effective Leadership.</li>
+                                        <li>Discover how and why people do or do not communicate effectively.</li>
+                                        <li>Learn to see yourself as others perceive you and identify your management style.</li>
+                                        <li>Learn how to build trust in your communications with subordinates as a basis for teamwork and cooperation.</li>
+                                        <li>Practice applying flexibility in problem solving to develop winning solutions that support teamwork.</li>
+                                        <li>Build increased awareness of your behavior, needs and values, and how these impact your effectiveness in leading and managing others.</li>
+                                        <li>Develop a personal plan for maximizing leadership and management effectiveness by:</li>                                        
                                     </ul>
+                                    <p className='mbb-0'>– Learning what effective leadership is.</p>
+                                        <p className='mbb-0'>– Assessing your current strengths.</p>
+                                        <p className='mbb-0'>– Identifying areas of opportunity for improvement.</p>
+                                        <p className='mbb-0'>– Completing the Manager as a Leader</p>
+                                        <h5 className='h5cc'>Development:</h5>
+                                        <ul className="estimate-info mtt-5">
+                                            <li>Plan to identify specific activities and behaviors that will result in increased leadership effectiveness.</li>
+                                        </ul>
                                 </div>                                
                             </div>
                         </div>
@@ -146,65 +154,37 @@ export default function MuseumCaper() {
                 </div>
             </div>
 
+
             <div className="rs-achievement style1 relative ptt-40 pbb-40">
                 <div className="container">
-                    <div className="row">
-                        <div className='col-sm-12 sec-title3 mbb-35 text-center'>
-                        <h4 class="countertoph2 font28">Learning Outcomes</h4>
-                        <div class="heading-border-line center-style"></div>
-                        </div>
-                    <div className="col-lg-6 pr-0">
-                            <div className=''>
-                               
+                    <div className="row rs-vertical-middle">                        
+                        <div className="col-lg-6 pr-0">
+                            <div className='onlyshd'>
                                 <div className='rs-estimate'>
-                                <h4 className="countertoph2 text-left font26">Effective Salesperson at the interpersonal level</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Understanding the importance of people skills, principles of good communication and cooperation.</li>                                        
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">Communication Style Basics</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Introduction to Persona’s four style concepts – Controlling, Promoting, Facilitating, and analytical</li>                                        
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">How to Build Trust</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>The Persona Trust Model</li>
-                                        <li>How people perceive you as a trust builder</li>
-                                        <li>Working with individuals and teams to achieve the optimum results</li>
-                                    </ul>
-                                    <h4 className="countertoph2 text-left font26">Empathy, Flexibility & Defensiveness</h4>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Change and defensiveness – how to respond to defensive behavior and turn it around</li>
-                                        <li>Interpersonal flexibility</li>
-                                        <li>How to build empathy and flexibility with others.</li>
-                                    </ul>
-
+                                    <h4 className="countertoph2 text-left font26">Learning Outcomes</h4>
                                     
-                                </div>
-                            </div>
-                        </div>                        
-                        <div className="col-lg-6 md-pt-50">
-                            <div className="rs-estimate">
-                            <h4 className="countertoph2 text-left font26">Selling Process</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>A step-by-step analysis of the sales process.</li>
-                                        <li>Developing goals and appropriate actions for each stage of the sales cycle.</li>
-                                        <li>Applying the knowledge of communication styles to the sales process.</li>
+                                        <li>Knowledge of your communication style as others perceive you.</li>
+                                        <li>Your strengths and weaknesses as a trust builder and leader.</li>
+                                        <li>A systematic approach to understanding and managing others.</li>
+                                        <li>A new plan for interacting with colleagues, especially those with whom you most need a more effective approach.</li>
+                                        <li>A proven leadership process you can use continually to deal with anyone—especially those difficult people in your life.</li>
                                     </ul>
-
-                                    <h4 className="countertoph2 text-left font26">Role Playing–Preparing for that Difficult Client</h4>
-                                    <p>Introduction of each participant’s individual Gameplan:</p>
-                                    <ul className="estimate-info mtt-5">
-                                        <li>Reviewing the Gameplan’s step-by-step approach and effectively communicating with your targeted key account or difficult client.</li>
-                                        <li>Role playing with participants on applying improved sales skills.</li>
-                                        <li>Action planning for continued application of the skills acquired for your most important customers.</li>
-                                    </ul>
+                                </div>                                
                             </div>
                         </div>
-                        
+
+                        <div className="col-lg-6 md-pt-50">
+                            <div className="">
+                                <img src="/efassets/img/museum-caper-2.png" alt="" />
+                            </div>
+                        </div>
 
                     </div>
                 </div>
             </div>
+
+    
 
             <div className="rs-testimonial style4 bg16 ptt-30 pbb-70 personabg">
                 <div className="container">
