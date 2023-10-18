@@ -60,8 +60,8 @@ export default function MuseumCaper() {
                                 <span class="separator">/</span>
                             </li>
                             <li>
-                                <a href="/bespoke">
-                                    <span>Bespoke</span>
+                                <a href="/bespoke/persona-global">
+                                    <span>Persona Global</span>
                                 </a>
                                 <span class="separator">/</span>
                             </li>
@@ -206,7 +206,7 @@ export default function MuseumCaper() {
                 </div>
             </div>
 
-            <div className="rs-testimonial style4 bg16 ptt-30 pbb-70 personabg">
+            {/* <div className="rs-testimonial style4 bg16 ptt-30 pbb-70 personabg">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-2"></div>
@@ -264,7 +264,7 @@ export default function MuseumCaper() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
         </>

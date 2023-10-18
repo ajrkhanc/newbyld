@@ -49,7 +49,7 @@ export default function MuseumCaper() {
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
-            <div class="rs-breadcrumbs leadershipbrud">
+            <div class="rs-breadcrumbs teammb">
                 <div class="container">
                     <div class="breadcrumb-container theme1 wow fadeInUp delay-0-2s animated animateUP">
                         <ul>
@@ -60,8 +60,8 @@ export default function MuseumCaper() {
                                 <span class="separator">/</span>
                             </li>
                             <li>
-                                <a href="/bespoke">
-                                    <span>Bespoke</span>
+                                <a href="/bespoke/persona-global">
+                                    <span>Persona Global</span>
                                 </a>
                                 <span class="separator">/</span>
                             </li>
@@ -104,7 +104,7 @@ export default function MuseumCaper() {
                         </div>
 
                         <div className="col-lg-6">
-                            <img className="img100" src="/efassets/img/virtual-team-building-inner.png" />
+                            <img className="img100" src="/assets/img/tea1.png" />
                         </div>
 
                     </div>
@@ -175,7 +175,7 @@ export default function MuseumCaper() {
 
                         <div className="col-lg-6 md-pt-50">
                             <div className="">
-                                <img src="/efassets/img/museum-caper-2.png" alt="" />
+                            <img src="/assets/img/tea2.png" alt="" />
                             </div>
                         </div>
 
@@ -185,7 +185,7 @@ export default function MuseumCaper() {
 
     
 
-            <div className="rs-testimonial style4 bg16 ptt-30 pbb-70 personabg">
+            {/* <div className="rs-testimonial style4 bg16 ptt-30 pbb-70 personabg">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-2"></div>
@@ -243,7 +243,7 @@ export default function MuseumCaper() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
         </>

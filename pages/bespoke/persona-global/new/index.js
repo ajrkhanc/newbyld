@@ -177,29 +177,15 @@ export default function Home() {
 
          <section className='bannersection'>
             <Slider {...homeslider}>
-               <div className='slide3c'>
-                  <div className='container'>
-                     <div className='row align-items-center'>
-                        <div className='col-sm-6'>
-                           <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
-                              <h1>We are the authorized partners of Eagle’s Flight in India</h1>
-                              
-                              <div className="btn-part ptt-10 pbb-30">
-                                 <Link href="#get-in-touch"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+              
 
                <div className='slide4c'>
                   <div className='container'>
                      <div className='row align-items-center'>
                         <div className='col-sm-6'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
-                              <h1>We are the authorized partners of Eagle’s Flight in India</h1>
-                             
+                              <h1>WE MAKE PERFORMANCE HAPPEN. </h1>
+                             <p>EXPLORE OUR PROGRAMS</p>
                               <div className="btn-part ptt-10 pbb-30">
                                  <Link href="#get-in-touch"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                               </div>
@@ -295,7 +281,7 @@ export default function Home() {
             </div>
          </section>
 
-         <section className='solutionrow ptt-60 pbb-60'>
+         <section id='programs' className='solutionrow ptt-60 pbb-60'>
             <div className='container'>
                <div className='row'>
                   <div className='col-sm-12 pbb-20'>
@@ -317,7 +303,7 @@ export default function Home() {
                            </a>
                         </div>
                         <div className='col-sm-4'>
-                           <a href='/eaglesflightindia/our-offerings/king-kahufu'>
+                           <a href='/bespoke/persona-global/the-persuasive-communicator'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>T</span>he Persuasive<br></br> Communicator<sup>®</sup></h4>
                               <div className='cicon'>
@@ -328,7 +314,7 @@ export default function Home() {
                            </a>
                         </div>
                         <div className='col-sm-4'>
-                           <a href='/eaglesflightindia/our-offerings/gold-of-the-desert-kings'>
+                           <a href='/bespoke/persona-global/team-building-and-training'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>T</span>eam Building <br></br>and Training</h4>
                               <div className='cicon'>
@@ -339,7 +325,7 @@ export default function Home() {
                            </a>
                         </div>
                         <div className='col-sm-4'>
-                          <a href='/eaglesflightindia/our-offerings/council-of-the-marble-star'>
+                          <a href='/bespoke/persona-global/beyond-coaching-mentoring'>
                           <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>B</span>eyond Coaching,<br></br> Mentoring</h4>
                               <div className='cicon'>
@@ -350,7 +336,7 @@ export default function Home() {
                           </a>
                         </div>
                         <div className='col-sm-4'>
-                           <a href='/eaglesflightindia/our-offerings/promises-promises'>
+                           <a href='/bespoke/persona-global/transition-to-management'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>T</span>ransition to<br></br> Management</h4>
                               <div className='cicon'>
@@ -361,7 +347,7 @@ export default function Home() {
                            </a>
                         </div>
                         <div className='col-sm-4'>
-                          <a href='/eaglesflightindia/our-offerings/rattlesnake-canyon'>
+                          <a href='/bespoke/persona-global/pride'>
                           <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>P</span>ride</h4>
                               <div className='cicon'>

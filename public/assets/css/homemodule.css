@@ -1122,6 +1122,26 @@ max-width: 40px !important;
 }
 
 
+.beyooo {
+    background-image: url(/assets/img/beyoba.jpg);
+}
+
+.prideb {
+    background-image: url(/assets/img/prideb.jpg);
+}
+
+.teammb {
+    background-image: url(/assets/img/teammb.jpg);
+}
+
+.ajb {
+    background-image: url(/assets/img/ajb.jpg);
+}
+
+.ajcba {
+    background-image: url(/assets/img/ajcba.jpg);
+}
+
 /* leadership team */
 .leadershipbrud {
     background-image: url(/assets/img/new/banner/leadership.jpg);

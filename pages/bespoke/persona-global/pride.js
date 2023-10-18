@@ -44,12 +44,12 @@ export default function MuseumCaper() {
     return (
         <>
             <Head>
-                <title>Transition to Management</title>
-                <meta name="description" content="Transition to Management" />
+                <title>Pride</title>
+                <meta name="description" content="pride" />
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
-            <div class="rs-breadcrumbs ajcba">
+            <div class="rs-breadcrumbs prideb">
                 <div class="container">
                     <div class="breadcrumb-container theme1 wow fadeInUp delay-0-2s animated animateUP">
                         <ul>
@@ -66,8 +66,8 @@ export default function MuseumCaper() {
                                 <span class="separator">/</span>
                             </li>
                             <li>
-                                <a href="/bespoke/persona-global/transition-to-management">
-                                    <span>Transition to Management</span>
+                                <a href="/bespoke/persona-global/pride">
+                                    <span>Pride</span>
                                 </a>
                             </li>
                         </ul>
@@ -77,7 +77,7 @@ export default function MuseumCaper() {
                         <div className='col-sm-7'>
                             <div class="breadcrumbs-inner">                                
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                Transition to Management
+                                Pride
                                 </h1>
                             </div>
                         </div>
@@ -91,21 +91,25 @@ export default function MuseumCaper() {
                     <div class="row y-middle">
                         <div class="col-lg-6">
                             <div class="sec-title3 mbb-35 text-left">
-                                <h4 class="countertoph2 text-left font28">Essential Skills for the Newly Appointed Manager</h4>
+                                <h4 class="countertoph2 text-left font28">Pride</h4>
                                 <div class="heading-border-line left-style"></div>
                                 <p class="mtt-40 text-justify mbb-10">
-                                Many new managers, when placed in a position of authority over former peers, need to know how to handle this unfamiliar situation. They need to learn how to recognize the various work styles of those they manage in order to tailor their leadership approach accordingly. Persona GLOBAL®, Inc.’s Transition to Management workshop gives them the skills necessary to fulfill their new responsibilities with confidence.
+                                PRIDE is a first-class approach to team building that is enjoyable, comprehensive, and cost-effective.
                                 </p>
-                                <h5 className='h5cc'>The Manager as a Leader</h5>
                                     <p className='text-justify'>
-                                    Employees only produce quality work and give excellent service when they are inspired to do so through effective leadership. While effective managers keep the system on an even keel and headed in the right direction, effective leaders provide the dynamics to make new things happen.
+                                    PRIDE is divided into five categories corresponding to the key requirements for team and individual development. PRIDE training builds skills around these core concepts and can easily be integrated into existing quality and productivity initiatives or PRIDE can be the basis for those efforts.
                                 </p>
-                              
+                              <h5 className='h5cc'>The PRIDE Methodology are:</h5>
+                              <ol>
+                                <li>Group Exercises</li>
+                                <li>Individual Exercises</li>
+                                <li>Discussions, Brief Lectures, and Role Playing</li>
+                              </ol>
                             </div>
                         </div>
 
                         <div className="col-lg-6">
-                            <img className="img100" src="/assets/img/commc.png" />
+                            <img className="img100" src="/efassets/img/virtual-team-building-inner.png" />
                         </div>
 
                     </div>
@@ -122,30 +126,31 @@ export default function MuseumCaper() {
                     <div className="row rs-vertical-middle">
                         <div className="col-lg-6 md-pt-50">
                             <div className="">
-                                <img src="/assets/img/comm.png" alt="" />
+                                <img src="/efassets/img/museum-caper-2.png" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-6 pr-0">
                             <div className='pll-20'>
                                 <div className='rs-estimate'>
-                                    <h4 className="countertoph2 text-left font26">The Key Benefits</h4>
+                                    <h4 className="countertoph2 text-left font26">PRIDE FUNDAMENTALS</h4>
+                                    <h5 className='h5cc'>Purpose</h5>
                                     <ul className="estimate-info mtt-5">
-                                        <li>Examine the importance of Vision and Communication in effective Leadership.</li>
-                                        <li>Discover how and why people do or do not communicate effectively.</li>
-                                        <li>Learn to see yourself as others perceive you and identify your management style.</li>
-                                        <li>Learn how to build trust in your communications with subordinates as a basis for teamwork and cooperation.</li>
-                                        <li>Practice applying flexibility in problem solving to develop winning solutions that support teamwork.</li>
-                                        <li>Build increased awareness of your behavior, needs and values, and how these impact your effectiveness in leading and managing others.</li>
-                                        <li>Develop a personal plan for maximizing leadership and management effectiveness by:</li>                                        
+                                        <li>Pyramid of Success</li>
+                                        <li>The Chain of Customers</li>
+                                        <li>Customer Requirements</li>
+                                        <li>Performance Measurements</li>
+                                        <li>The Visual Workplace</li>
                                     </ul>
-                                    <p className='mbb-0'>– Learning what effective leadership is.</p>
-                                        <p className='mbb-0'>– Assessing your current strengths.</p>
-                                        <p className='mbb-0'>– Identifying areas of opportunity for improvement.</p>
-                                        <p className='mbb-0'>– Completing the Manager as a Leader</p>
-                                        <h5 className='h5cc'>Development:</h5>
-                                        <ul className="estimate-info mtt-5">
-                                            <li>Plan to identify specific activities and behaviors that will result in increased leadership effectiveness.</li>
-                                        </ul>
+
+                                    <h5 className='h5cc'>Recognition</h5>
+                                    <ul className="estimate-info mtt-5">
+                                        <li>Positive Reinforcement</li>
+                                        <li>Types of Recognition</li>
+                                        <li>Making Reinforcement Effective</li>
+                                        <li>Giving Recognition</li>
+                                        <li>Job Enrichment</li>
+                                        <li>Self-Management</li>
+                                    </ul>
                                 </div>                                
                             </div>
                         </div>
@@ -159,16 +164,31 @@ export default function MuseumCaper() {
                 <div className="container">
                     <div className="row rs-vertical-middle">                        
                         <div className="col-lg-6 pr-0">
-                            <div className='onlyshd'>
+                            <div className=''>
                                 <div className='rs-estimate'>
-                                    <h4 className="countertoph2 text-left font26">Learning Outcomes</h4>
-                                    
+                                    <h5 className="h5cc">Influence</h5>
                                     <ul className="estimate-info mtt-5">
-                                        <li>Knowledge of your communication style as others perceive you.</li>
-                                        <li>Your strengths and weaknesses as a trust builder and leader.</li>
-                                        <li>A systematic approach to understanding and managing others.</li>
-                                        <li>A new plan for interacting with colleagues, especially those with whom you most need a more effective approach.</li>
-                                        <li>A proven leadership process you can use continually to deal with anyone—especially those difficult people in your life.</li>
+                                        <li>Factors Promoting High Performance Teams</li>
+                                        <li>Group Influence</li>
+                                        <li>Cooperation vs. Competition</li>
+                                        <li>Giving and Receiving Feedback</li>
+                                        <li>Conflict Management</li>
+                                    </ul>
+
+                                    <h5 className="h5cc">Development</h5>
+                                    <ul className="estimate-info mtt-5">
+                                        <li>Goal Setting and Continuous Improvement</li>
+                                        <li>Team Development</li>
+                                        <li>Personal Development</li>
+                                        <li>Customer-focused Continuous Improvement System</li>
+                                        <li>Problem Solving</li>
+                                        <li>Decision Making</li>
+                                    </ul>
+                                    <h5 className="h5cc">Energy</h5>
+                                    <ul className="estimate-info mtt-5">
+                                        <li>Team Building Meeting</li>
+                                        <li>Conducting Meetings</li>
+                                        <li>Maintaining Performance</li>
                                     </ul>
                                 </div>                                
                             </div>
@@ -176,7 +196,7 @@ export default function MuseumCaper() {
 
                         <div className="col-lg-6 md-pt-50">
                             <div className="">
-                                <img src="/efassets/img/museum-caper-2.png" alt="" />
+                                <img src="/assets/img/pri1.png" alt="" />
                             </div>
                         </div>
 
@@ -184,7 +204,66 @@ export default function MuseumCaper() {
                 </div>
             </div>
 
-    
+            <div className="rs-achievement style1 relative ptt-40 pbb-40 personabg">
+                <div className="container">
+                    <div className="row rs-vertical-middle">
+                    <div className="col-lg-6 md-pt-50">
+                            <div className="">
+                                <img src="/assets/img/pri2.png" alt="" />
+                            </div>
+                        </div>
+                    <div className="col-lg-6 pr-0">
+                            <div className=''>
+                               
+                                <div className='rs-estimate'>
+                                <h5 className="h5cc">The Key Benefits</h5>
+                                    <ul className="estimate-info mtt-5">
+                                        <li>Make teams and individuals learn more effective</li>                                        
+                                        <li>Enhance Productivity</li>
+                                        <li>Build internal and external customer relationships</li>
+                                        <li>Improve customer service and satisfaction</li>
+                                        <li>Get bottom-line results in less time with less waste and stress</li>
+                                    </ul>
+                                   
+                                </div>
+                            </div>
+                        </div>                        
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div className="rs-achievement style1 relative ptt-40 pbb-40">
+                <div className="container">
+                    <div className="row rs-vertical-middle">
+                        
+                    <div className="col-lg-6 pr-0">
+                            <div className=''>
+                               
+                                <div className='rs-estimate'>
+                                <h5 className="h5cc">Learning outcomes</h5>
+                                    <ul className="estimate-info mtt-5">
+                                        <li>Easy to implement process to empower the front-line to improve their team’s productivity</li>                                        
+                                        <li>Strategy to get people involved and committed to improving quality and performance throughout your organization</li>
+                                        <li>Framework for integrating your company’s various quality, service, and productivity initiatives and avoid the “program of the week” phenomenon</li>
+                                        <li>Way to directly link competitive strategy to the day-to-day activities of every front-line employee</li>
+                                        <li>Methods to measure performance to ensure every team member knows how to meet customer requirements</li>
+                                        <li>Problem Solving and goal setting skills to ensure continuous improvement of products and services</li>
+                                        <li>Way to assess team development progress in your organization</li>
+                                        <li>Self-direction techniques to develop the capabilities of each individual team member</li>
+                                    </ul>
+                                   
+                                </div>
+                            </div>
+                        </div>                        
+                        <div className="col-lg-6 md-pt-50">
+                            <div className="">
+                                <img src="/assets/img/pri3.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             {/* <div className="rs-testimonial style4 bg16 ptt-30 pbb-70 personabg">
                 <div className="container">
