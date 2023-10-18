@@ -294,7 +294,7 @@ export default function Home() {
                         <div className='col-sm-4'>
                            <a href='/bespoke/persona-global/the-persuasive-salesperson'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
-                              <h4><span>T</span>he Persuasive<br></br> SalespersonTM (PS)</h4>
+                              <h4><span>T</span>he Persuasive<br></br> Salesperson™ (PS)</h4>
                               <div className='cicon'>
                               <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
@@ -349,7 +349,7 @@ export default function Home() {
                         <div className='col-sm-4'>
                           <a href='/bespoke/persona-global/pride'>
                           <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
-                              <h4><span>P</span>ride</h4>
+                              <h4><span>P</span>RIDE</h4>
                               <div className='cicon'>
                               <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />

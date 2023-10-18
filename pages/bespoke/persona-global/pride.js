@@ -67,7 +67,7 @@ export default function MuseumCaper() {
                             </li>
                             <li>
                                 <a href="/bespoke/persona-global/pride">
-                                    <span>Pride</span>
+                                    <span>PRIDE</span>
                                 </a>
                             </li>
                         </ul>
@@ -77,7 +77,7 @@ export default function MuseumCaper() {
                         <div className='col-sm-7'>
                             <div class="breadcrumbs-inner">                                
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                Pride
+                                PRIDE
                                 </h1>
                             </div>
                         </div>
@@ -91,7 +91,7 @@ export default function MuseumCaper() {
                     <div class="row y-middle">
                         <div class="col-lg-6">
                             <div class="sec-title3 mbb-35 text-left">
-                                <h4 class="countertoph2 text-left font28">Pride</h4>
+                                <h4 class="countertoph2 text-left font28">PRIDE</h4>
                                 <div class="heading-border-line left-style"></div>
                                 <p class="mtt-40 text-justify mbb-10">
                                 PRIDE is a first-class approach to team building that is enjoyable, comprehensive, and cost-effective.

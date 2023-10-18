@@ -67,7 +67,7 @@ export default function MuseumCaper() {
                             </li>
                             <li>
                                 <a href="/bespoke/persona-global/the-persuasive-salesperson">
-                                    <span>The Persuasive SalespersonTM</span>
+                                    <span>The Persuasive Salesperson™</span>
                                 </a>
                             </li>
                         </ul>
@@ -77,7 +77,7 @@ export default function MuseumCaper() {
                         <div className='col-sm-7'>
                             <div class="breadcrumbs-inner">                                
                                 <h1 class="page-title wow fadeInUp delay-0-2s animated animateUP">
-                                    The Persuasive SalespersonTM
+                                    The Persuasive Salesperson™
                                 </h1>
 
                             </div>
@@ -92,10 +92,10 @@ export default function MuseumCaper() {
                     <div class="row y-middle">
                         <div class="col-lg-6">
                             <div class="sec-title3 mbb-35 text-left onlyshd">
-                                <h4 class="countertoph2 text-left font28">The Persuasive SalespersonTM (PS)</h4>
+                                <h4 class="countertoph2 text-left font28">The Persuasive Salesperson™ (PS)</h4>
                                 <div class="heading-border-line left-style"></div>
                                 <p class="mtt-40 justify mbb-10">
-                                    The Persuasive SalespersonTM (PS) is a 16-hour, skills training methodology, which gives participants a lifelong tool for communicating more powerfully and persuasively in different types of business and professional situations.</p>
+                                    The Persuasive Salesperson™ (PS) is a 16-hour, skills training methodology, which gives participants a lifelong tool for communicating more powerfully and persuasively in different types of business and professional situations.</p>
                                     <p className='justify'>
                                     The methodology is based on Persona’s Social Styles and Trust Building Models, proven over the past 37 years to be one of the world’s most effective communication skills training programs.
                                 </p>
