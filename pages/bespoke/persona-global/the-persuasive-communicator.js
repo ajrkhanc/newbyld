@@ -129,14 +129,14 @@ export default function MuseumCaper() {
                                 <div className='rs-estimate'>
                                     <h4 className="countertoph2 text-left font26">The Key Benefits</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>Actionable: Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
-                                        <li>Easily understandable: A simple practical methodology that keys on existing personal and work experience.</li>
-                                        <li>Long-term benefit: The Gameplanning Software either online or with the iPad application can be applied repeatedly to future communication challenges.</li>
-                                        <li>Multi-purpose: Skills are effective in both business and personal settings.</li>
-                                        <li>Tailored programming: The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services. A unique capability.</li>
-                                        <li>Thorough documentation: Reports and guides give complete feedback and information.</li>
-                                        <li>Universal truths: Principles and skills learned are applicable in all cultures.</li>
-                                        <li>Work related: Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
+                                        <li><b className='bup'>Actionable:</b> Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
+                                        <li><b className='bup'>Easily understandable:</b> A simple practical methodology that keys on existing personal and work experience.</li>
+                                        <li><b className='bup'>Long-term benefit:</b> The Gameplanning Software either online or with the iPad application can be applied repeatedly to future communication challenges.</li>
+                                        <li><b className='bup'>Multi-purpose:</b> Skills are effective in both business and personal settings.</li>
+                                        <li><b className='bup'>Tailored programming:</b> The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services. A unique capability.</li>
+                                        <li><b className='bup'>Thorough documentation:</b> Reports and guides give complete feedback and information.</li>
+                                        <li><b className='bup'>Universal truths:</b> Principles and skills learned are applicable in all cultures.</li>
+                                        <li><b className='bup'>Work related:</b> Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
                                     </ul>
                                 </div>                                
                             </div>
@@ -190,9 +190,9 @@ export default function MuseumCaper() {
                                 <div className='rs-estimate'>
                                 <h4 className="countertoph2 text-left font26">Unique Value Proposition for Trainers and Consultants</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>Easy-to-understand: Leader Guide and PowerPoint program gives the trainer full support in facilitating the workshop.</li>                                        
-                                        <li>GLOBAL reach: Online Assessment Center enables 24/7 data collection and processing over the internet allowing distribution of feedback reports in multiple languages.</li>
-                                        <li>Track record: The Persuasive CommunicatorTM methodology has been tested and proven for more than 30 years in multiple cultures.</li>
+                                        <li><b>Easy-to-understand:</b> Leader Guide and PowerPoint program gives the trainer full support in facilitating the workshop.</li>                                        
+                                        <li><b>GLOBAL reach:</b> Online Assessment Center enables 24/7 data collection and processing over the internet allowing distribution of feedback reports in multiple languages.</li>
+                                        <li><b>Track record:</b> The Persuasive CommunicatorTM methodology has been tested and proven for more than 30 years in multiple cultures.</li>
                                     </ul>
                                    
                                 </div>

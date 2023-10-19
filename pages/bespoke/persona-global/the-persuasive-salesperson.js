@@ -129,14 +129,14 @@ export default function MuseumCaper() {
                                 <div className='rs-estimate'>
                                     <h4 className="countertoph2 text-left font26">Key Benefits</h4>
                                     <ul className="estimate-info mtt-5">
-                                        <li>ACTIONABLE: Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
-                                        <li>EASILY UNDERSTANDABLE: A simple practical methodology that keys on existing personal and work experience.</li>
-                                        <li>LONG-TERM BENEFIT: The Gameplanning Software can be applied repeatedly to future communication challenges.</li>
-                                        <li>MULTI-PURPOSE: Skills are effective in both business and personal settings.</li>
-                                        <li>TAILORED PROGRAMMING: The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services.</li>
-                                        <li>THOROUGH DOCUMENTATION: Reports and guides give complete feedback and information.</li>
-                                        <li>UNIVERSAL TRUTHS: Principles and skills learned are applicable in all cultures.</li>
-                                        <li>WORK RELATED: Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
+                                        <li><b>ACTIONABLE:</b> Emphasis is on acquiring immediately usable skills rather than learning theory.</li>
+                                        <li><b>EASILY UNDERSTANDABLE:</b> A simple practical methodology that keys on existing personal and work experience.</li>
+                                        <li><b>LONG-TERM BENEFIT:</b> The Gameplanning Software can be applied repeatedly to future communication challenges.</li>
+                                        <li><b>MULTI-PURPOSE:</b> Skills are effective in both business and personal settings.</li>
+                                        <li><b>TAILORED PROGRAMMING:</b> The Gameplanning Software can be integrated to incorporate the benefits of a company’s specific products and services.</li>
+                                        <li><b>THOROUGH DOCUMENTATION:</b> Reports and guides give complete feedback and information.</li>
+                                        <li><b>UNIVERSAL TRUTHS:</b> Principles and skills learned are applicable in all cultures.</li>
+                                        <li><b>WORK RELATED:</b> Participants address real-life challenges by developing an actionable plan to communicate more effectively with a specific individual at work.</li>
                                     </ul>
                                 </div>                                
                             </div>
