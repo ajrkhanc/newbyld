@@ -165,7 +165,8 @@ export default function BrowseCourses() {
             <div className='col-md-6'>
               <h2>ARE YOU AN INFLUENTIAL LEADER?</h2>
               <p>The greatest capacity we possess is the ability to influence behavior—our own and others’. And yet our ability to influence often evades us when we need it most. Never mind charisma or charm, discover whether you have the skills of influence with this short assessment.</p>
-            </div>
+              <img className='widd' src='/classets/img/clf.png'/>
+            </div> 
             <div className='col-md-6'>
               <div className='assesmentimgbanner'>
                 <img src="/classets/img/influencer-assessment.jpg" />
