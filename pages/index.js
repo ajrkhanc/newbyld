@@ -19,7 +19,7 @@ export default function Home() {
       xhttp.onload = function () {
          console.log(this.responseText);
       }
-      xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/11/feedback');
+      xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/252/feedback');
       xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
       xhttp.onreadystatechange = function () {
          if (xhttp.readyState == 4) {
@@ -42,9 +42,7 @@ export default function Home() {
          "&location=" + event.target.Location.value +
          "&Company=" + event.target.organization.value +
          "&Designation=" + event.target.designation.value +
-         "&Product=" + event.target.product.value +
-         "&referredby=" + event.target.referredby.value +
-         "&textarea=" + event.target.leadsquared_Notes.value)
+         "&Product=" + event.target.product.value)
 
    }
 
@@ -163,7 +161,7 @@ export default function Home() {
       slidesToShow: 1,
       slidesToScroll: 1,
       initialSlide: 0,
-      autoplay: false,
+      autoplay: true,
       autoplaySpeed: 3000,
       responsive: [
          {
@@ -302,7 +300,7 @@ export default function Home() {
                      <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Nurturing your full potential and abilities with our curated solutions</h2>
                   </div>
                   <div className='col-sm-6'>
-                     <p class="mb-0 mtt-40 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP">
+                     <p class="mb-0 mtt-40 pall pbb-20 wow fadeInUp delay-0-2s animated animateUP ajccm">
                      We empower organizations and individuals to excel and achieve sustainable growth by offering them our expertise in learning and people solutions. Further, we are a one-stop destination for business productivity, leadership development, HR solutions, team performance, and other domains.
                      </p>
                      <div className="btn-part ptt-10 pbb-30 wow fadeInUp delay-0-2s animated animateUP">
@@ -319,8 +317,8 @@ export default function Home() {
                   <div className='col-sm-12 text-center'>
                   <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP pbb-30">Nurturing a Healthy and Inclusive Work Culture to Transform the <br></br>Lives of People Around Us </h2>
                      <div class="rs-videos choose-video wow fadeInUp delay-0-2s animated animateUP">
-                        <div class="images-video">
-                           <img src="/assets/img/homeb/newbyldb.jpg" alt="images" />
+                        <div class="images-video fvideo">
+                        <iframe src="https://www.youtube.com/embed/LXd9OtxQQQA?si=fLtvIRyKpbvr6dCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
                         {/* <div class="animate-border">
                            <a class="popup-border" target="_blank" href="https://www.youtube.com/watch?v=LXd9OtxQQQA&t=16s">
@@ -593,7 +591,7 @@ export default function Home() {
                </div>
 
                <div class="row y-middle">
-                  <div class="col-lg-5 md-mb-50">
+                  <div class="col-lg-5 md-mb-50 dnoneinm">
                      <div class="contact-img wow fadeInUp delay-0-2s animated animateUP">
                         <img src="/assets/img/homeb/contactl.png" alt="Contact" />
                      </div>
@@ -610,7 +608,7 @@ export default function Home() {
                                     <input className='borrr' type="email" name="email" placeholder="Work Email/Email*" required />
                                  </div>
                                  <div className="col-sm-6 mb-12">
-                                    <input className='borrr' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
+                                    <input className='borrr' type="number" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                  </div>
                                  <div className="col-sm-6 mb-12">
                                     <input className='borrr' type="text" name="Location" placeholder="Location" />
@@ -621,7 +619,7 @@ export default function Home() {
                                  <div className="col-sm-6 mb-12">
                                     <input className='borrr' type="text" name="designation" placeholder="Designation*" required />
                                  </div>
-                                 <div className="col-sm-6 mb-12">
+                                 <div className="col-sm-12 mb-12">
                                     <select name="product" required>
                                        <option value="">Product / Services</option>
                                        <option value="Sales and Services">Sales and Services</option>
@@ -630,21 +628,8 @@ export default function Home() {
                                        <option value="Leadership and Performance">Leadership and Performance</option>
                                        <option value="Experiential Learning">Experiential Learning</option>
                                     </select>
-                                 </div>
-                                 <div className="col-sm-6 mb-12">
-                                    <select name="referredby" required>
-                                       <option value="">Referred By</option>
-                                       <option value="Email">Email</option>
-                                       <option value="Social Media">Social Media</option>
-                                       <option value="Google Search">Google Search</option>
-                                       <option value="Website">Website</option>
-                                       <option value="Reference">Reference</option>
-                                       <option value="Sales Representative">Sales Representative</option>
-                                    </select>
-                                 </div>
-                                 <div className="col-lg-12 mb-12">
-                                    <textarea className="from-control" name="leadsquared_Notes" placeholder="Let us know what you are looking for."></textarea>
-                                 </div>
+                                 </div>                                
+                                
                                  <div className="col-lg-12 mb-12">
                                     <input id="submitbuttonform" className="clientcornnerbtn bord0" type="submit" value="Submit" />
                                  </div>
