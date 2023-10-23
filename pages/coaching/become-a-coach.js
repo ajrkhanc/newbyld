@@ -613,7 +613,7 @@ export default function Home({ country }) {
                                     <div className='pll-20'>
                                         <h2 class="title mb-0 md-pb-20 h2call wow fadeInUp delay-0-2s animated animateUP">Program Details</h2>
                                         <ul className='programul ptt-20'>
-                                            <li>Program Starts : (May onwards)</li>
+                                            <li>Program Starts : (October onwards)</li>
                                             <li>Language : English</li>
                                             <li>Delivery Method: Combination (face-to-face, webinar, telephonic, combination)</li>
                                             <li>Program is for : HR, Learning Professionals, Freelancers,Managers</li>

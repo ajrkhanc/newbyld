@@ -184,8 +184,10 @@ export default function Home() {
                      <div className='row align-items-center'>
                         <div className='col-sm-6'>
                            <div className='siderco wow fadeInUp delay-0-2s animated animateUP'>
-                              <h1>WE MAKE PERFORMANCE HAPPEN. </h1>
-                             <p>EXPLORE OUR PROGRAMS</p>
+                              <h1 className='mfon'>WE MAKE PERFORMANCE HAPPEN. </h1>
+                             <p>
+                             Persona GLOBAL<sup>®</sup> is a people performance development management consultancy that publishes and distributes culturally adapted, customizable workshops, assessments, simulations models , and board games targeted to improve  communication,coordination and  leadership.
+                             </p>
                               <div className="btn-part ptt-10 pbb-30">
                                  <Link href="#get-in-touch"><a className="readon2">Learn More <div className="btn-arrow"></div></a></Link>
                               </div>
@@ -233,7 +235,7 @@ export default function Home() {
             </div>
          </section> */}
 
-         <section className='solutionrow ptt-60 pbb-60'>
+         {/* <section className='solutionrow ptt-60 pbb-60'>
             <div className='container'>               
                <div className='row align-items-center zindx'>
                   <div className='col-sm-6'>
@@ -254,7 +256,7 @@ export default function Home() {
                </div>
 
             </div>
-         </section>
+         </section> */}
 
          <section className='solutionrow backwhite ptt-60 pbb-60'>
             <div className='container'>               
@@ -295,10 +297,10 @@ export default function Home() {
                            <a href='/bespoke/persona-global/the-persuasive-salesperson'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>T</span>he Persuasive<br></br> Salesperson™ (PS)</h4>
-                              <div className='cicon'>
+                              {/* <div className='cicon'>
                               <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
-                              </div>
+                              </div> */}
                            </div>
                            </a>
                         </div>
@@ -306,10 +308,10 @@ export default function Home() {
                            <a href='/bespoke/persona-global/the-persuasive-communicator'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>T</span>he Persuasive<br></br> Communicator<sup>®</sup></h4>
-                              <div className='cicon'>
+                              {/* <div className='cicon'>
                                  <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
-                              </div>
+                              </div> */}
                            </div>
                            </a>
                         </div>
@@ -317,10 +319,10 @@ export default function Home() {
                            <a href='/bespoke/persona-global/team-building-and-training'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>T</span>eam Building <br></br>and Training</h4>
-                              <div className='cicon'>
+                              {/* <div className='cicon'>
                               <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
-                              </div>
+                              </div> */}
                            </div>
                            </a>
                         </div>
@@ -328,10 +330,10 @@ export default function Home() {
                           <a href='/bespoke/persona-global/beyond-coaching-mentoring'>
                           <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>B</span>eyond Coaching,<br></br> Mentoring</h4>
-                              <div className='cicon'>
+                              {/* <div className='cicon'>
                               <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
-                              </div>
+                              </div> */}
                            </div>
                           </a>
                         </div>
@@ -339,10 +341,10 @@ export default function Home() {
                            <a href='/bespoke/persona-global/transition-to-management'>
                            <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>T</span>ransition to<br></br> Management</h4>
-                              <div className='cicon'>
+                              {/* <div className='cicon'>
                               <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
-                              </div>
+                              </div> */}
                            </div>
                            </a>
                         </div>
@@ -350,10 +352,10 @@ export default function Home() {
                           <a href='/bespoke/persona-global/pride'>
                           <div className='solutionbox wow fadeInUp delay-0-2s animated animateUP'>
                               <h4><span>P</span>RIDE</h4>
-                              <div className='cicon'>
+                              {/* <div className='cicon'>
                               <img className='active' src="/assets/img/homeb/icon/leadership-performance.png" alt="images" />
                                  <img className='hover' src="/assets/img/homeb/icon/leadership-performancew.png" alt="images" />
-                              </div>
+                              </div> */}
                            </div>
                           </a>
                         </div>
