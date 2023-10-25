@@ -48,6 +48,30 @@ function EbooksKB() {
             <meta name="description" content="Taking a Situational Approach to Management" />            
          </Head>
 
+         <div className="what-did-area pt-45">
+   <div className="container">
+      <div className="row row-eq-height">
+         <div className="col-lg-6 bgshd">
+            <div className="what-did-content">
+               <div className="section-title pt-20">                 
+                  <h2 className="titleh2">Done well, performance management is a partnership.</h2>
+                  
+                  <p className="text-justify">
+                  But research indicates there are significant gaps between what employees expect from their leaders and what they actually experience at work.
+                  </p>
+                  <p>Left unaddressed, these gaps represent a drain on overall organizational vitality through lowered employee intentions to stay, endorse, and apply discretionary effort as needed.</p>
+               </div>
+            </div>
+         </div>
+         <div className="col-lg-6">
+            <div className="img100">
+            <img src="/kbassets/img/7warning.jpg" alt="Images"/>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
     <div id="REQUEST" className="contact-area pt-45 pb-25 themebg">
         <div className="container">
             <div className="row">
