@@ -42,6 +42,18 @@ export default function PodCast() {
                                 
                                        <div className="col-sm-4">
                                         <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/learn-how-to-master-your-motivation-with-susan-fowler.jpg" alt="Images" />
+                                            <h3>Learn How to Master Your Motivation with Susan Fowler</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/learn-how-to-master-your-motivation-with-susan-fowler"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
                                             <img src="/kbassets/img/podcast/finding-your-dream-job-with-alexa-shoen.jpg" alt="Images" />
                                             <h3>Finding Your Dream Job with Alexa Shoen</h3>
                                             <div className='row text-center eventsbottomarea2'>
