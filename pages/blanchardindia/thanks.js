@@ -5,7 +5,7 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Who We Help | Blanchard International</title>
+                <title>Thank You | Blanchard International</title>
                 <meta name="description" content="At Blanchard, we help organizations of all sizes, leaders at every career stage, and leadership trainers and coaches gain the skills they need to unlock their people’s potential."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
