@@ -117,8 +117,8 @@ export default function VirtualPublicWorkshop() {
                                        <option value="Coaching Essentials - Virtual - September 21st, 2023">Coaching Essentials - Virtual - September 21st, 2023</option>
                                        <option value="The SLII Experience™ - September 25th, 2023">The SLII Experience™ - September 25th, 2023</option>
                                        <option value="The SLII Experience™ T4T F2F - September 27th, 2023">The SLII Experience™ T4T F2F - September 27th, 2023</option> */}
-                                       <option value="Self Leadership - Virtual - October 11th, 2023">Self Leadership - Virtual - October 11th, 2023</option>
-                                       <option value="Team Leadership - Virtual - October 19th, 2023">Team Leadership - Virtual - October 19th, 2023</option>
+                                       {/* <option value="Self Leadership - Virtual - October 11th, 2023">Self Leadership - Virtual - October 11th, 2023</option>
+                                       <option value="Team Leadership - Virtual - October 19th, 2023">Team Leadership - Virtual - October 19th, 2023</option> */}
                                        <option value="Building Trust - Virtual - November 2nd, 2023">Building Trust - Virtual - November 2nd, 2023</option>
                                        <option value="The SLII Experience™ - November 20th, 2023">The SLII Experience™ - November 20th, 2023</option>
                                        <option value="The SLII Experience™ T4T F2F - November 22nd, 2023">The SLII Experience™ T4T F2F - November 22nd, 2023</option>
@@ -288,7 +288,7 @@ export default function VirtualPublicWorkshop() {
                               </div>
                            </div> */}
 
-                           <div className="col-sm-4">
+                           {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev1.jpg" alt="Images" />
                                  <h3>Self Leadership - Virtual</h3>
@@ -312,7 +312,7 @@ export default function VirtualPublicWorkshop() {
                                     </div>
                                  </div>
                               </div>
-                           </div>
+                           </div> */}
 
                            <div className="col-sm-4">
                               <div className="choose-card">

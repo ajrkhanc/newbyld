@@ -188,7 +188,7 @@ export default function EventsAndWorkshop() {
                               </div>
                            </div> */}
 
-                           <div className="col-sm-4">
+                           {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev1.jpg" alt="Images" />
                                  <h3>Self Leadership - Virtual</h3>
@@ -212,7 +212,7 @@ export default function EventsAndWorkshop() {
                                     </div>
                                  </div>
                               </div>
-                           </div>
+                           </div> */}
 
                            <div className="col-sm-4">
                               <div className="choose-card">

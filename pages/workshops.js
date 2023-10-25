@@ -254,7 +254,7 @@ export default function Workshops() {
                             </div>
                         </div> */}
 
-                        <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
@@ -265,7 +265,7 @@ export default function Workshops() {
                                     <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -469,7 +469,7 @@ export default function Workshops() {
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - September 28th, 2023">Crucial Life Changing Skills, Getting Things Done - September 28th, 2023</option>
                                                 <option value="October 3rd - 6th, 2023 - DiSC Certification Virtual Workshop">October 3rd - 6th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023">Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023</option> */}
-                                                <option value="October 17th - 20th, 2023 - DiSC Certification Virtual Workshop">October 17th - 20th, 2023 - DiSC Certification Virtual Workshop</option>
+                                                {/* <option value="October 17th - 20th, 2023 - DiSC Certification Virtual Workshop">October 17th - 20th, 2023 - DiSC Certification Virtual Workshop</option> */}
                                                 <option value="Getting Things Done - November 6th to 8th, 2023">Getting Things Done - November 6th to 8th, 2023</option>
                                             <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option>
                                                 <option value="November 20th - 24th, 2023 - DiSC Certification Virtual Workshop">November 20th - 24th, 2023 - DiSC Certification Virtual Workshop</option>
