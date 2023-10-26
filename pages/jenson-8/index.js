@@ -515,7 +515,7 @@ export default function Jenson8() {
           
 
 
-            {/* <section className='ptt-60 pbb-60 solutionrow'>
+            <section className='ptt-60 pbb-60 solutionrow'>
                 <div className='container'>
                     <div className='row zindx'>
                         <div className='col-sm-12'>
@@ -524,7 +524,7 @@ export default function Jenson8() {
                             </div>
                         </div>
                         <div className='clearfix'></div>
-                        <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                             <div className='eventsbox wow fadeInUp delay-0-2s animated animateUP'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
@@ -536,9 +536,9 @@ export default function Jenson8() {
                                     <a className="eventbtn" href='#Reserve'>REGISTER NOW</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                         <div className='col-sm-4'>
+                         {/* <div className='col-sm-4'>
                         <div className='eventsbox wow fadeInUp delay-0-2s animated animateUP'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -550,16 +550,16 @@ export default function Jenson8() {
                                 <a className="eventbtn" href='#Reserve'>REGISTER NOW</a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className='col-sm-4'>
                         <div className='eventsbox wow fadeInUp delay-0-2s animated animateUP'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Showcase - October 20th, 2023</span>
+                                <span>Jenson8 Product Showcase 14 Dec 2023</span>
                             </div>
                             <div className='eventbottom'>
-                            <h4 className='eventtitlec'>Showcase</h4>
+                           
                                 <h3>Time: 11:00 AM -12:00 PM</h3>
                                 <a className="eventbtn" href='#Reserve'>REGISTER NOW</a>
                             </div>
@@ -572,7 +572,7 @@ export default function Jenson8() {
                         <img className='opacity4' src="/assets/img/homeb/orangearrow.png" />
                     </div>
                 </div>
-            </section> */}
+            </section>
 
 
 
@@ -612,11 +612,8 @@ export default function Jenson8() {
                                         <div className="col-sm-6 mb-12">
                                             <select name="slot" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                {/* <option value="Webinar - July 28th, 2023">Webinar - July 28th, 2023</option>
-                                                <option value="Webinar - August 4th, 2023">Webinar - August 4th, 2023</option>
-                                                <option value="Webinar - September 6th, 2023">Webinar - September 6th, 2023</option>
-                                                <option value="Webinar - October 13th, 2023">Webinar - October 13th, 2023</option>                                                 */}
-                                            </select>
+                                                <option value="Jenson8 Product Showcase 14 Dec 2023">Jenson8 Product Showcase 14 Dec 2023</option>
+                                                </select>
                                         </div>
 
 
@@ -627,7 +624,6 @@ export default function Jenson8() {
                                                 <option value="Social Media">Social Media</option>
                                                 <option value="Google Search">Google Search</option>
                                                 <option value="Reference">Reference</option>
-
                                             </select>
                                         </div>
                                         <div className="col-lg-12 mb-12">
