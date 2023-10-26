@@ -325,6 +325,19 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
+                                    <span>December 5th - 8th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
                                     <span>Workshop - December 14th - 15th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
@@ -334,18 +347,7 @@ export default function Workshops() {
                             </div>
                         </div>
 
-                        <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>December 13th - 14th, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h3>DiSC Certification Virtual Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div>
+                        
 
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -474,7 +476,7 @@ export default function Workshops() {
                                             <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option>
                                                 <option value="November 20th - 24th, 2023 - DiSC Certification Virtual Workshop">November 20th - 24th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, The Power of Habit - November 29th, 2023">Crucial Life Changing Skills, The Power of Habit - November 29th, 2023</option>
-                                                <option value="November 13th - 14th, 2023 - DiSC Certification Virtual Workshop">November 13th - 14th, 2023 - DiSC Certification Virtual Workshop</option>
+                                                <option value="December 5th - 8th, 2023 - DiSC Certification Virtual Workshop">December 5th - 8th, 2023 - DiSC Certification Virtual Workshop</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023">Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023</option>
                                                 <option value="Crucial Life Changing Skills, Getting Things Done - January 11th, 2024">Crucial Life Changing Skills, Getting Things Done - January 11th, 2024</option>
                                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - January 30th - 31st, 2024">Crucial Life Changing Skills, Crucial Conversations for Accountability - January 30th - 31st, 2024</option>
