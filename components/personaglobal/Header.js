@@ -57,7 +57,7 @@ export default function Header() {
                                 <div className="col-cell header-logo">
                                     <div className="logo-area">
                                         <a href="/">
-                                            <img src="/assets/img/personaglobal.svg" alt="logo" />
+                                            <img className='plogoc' src="/assets/img/personaglobal.svg" alt="logo" />
                                         </a>
                                     </div>
                                 </div>
