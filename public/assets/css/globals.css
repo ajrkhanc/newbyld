@@ -4664,5 +4664,11 @@ text-align: center;
   letter-spacing: 1px;
 }
 
-
+.policyinh{
+  color: #e88026 !important;
+  font-size: 20px;
+  margin-bottom: 6px;
+  padding-top: 0px;
+  font-weight: 500;
+}
 

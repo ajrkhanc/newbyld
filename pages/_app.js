@@ -2254,18 +2254,7 @@ gtag('config', 'G-5PXTTR960E');
 
           <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
           <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-5PXTTR960E"></script>
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-              window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5PXTTR960E');
-          `,
-            }}
-          />
+          
 
           <script
             dangerouslySetInnerHTML={{
@@ -2274,18 +2263,7 @@ gtag('config', 'G-5PXTTR960E');
             }}
           />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9GPQ8EC4C"></script>
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-              window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P9GPQ8EC4C');
-          `,
-            }}
-          />
+          
         </Head>
         <Component {...pageProps} />
       </PersonaGlobal>
