@@ -39,8 +39,8 @@ export default function BrowseCourses() {
     
         const name = event.target.name.value;
         const email = event.target.email.value;
-        const phone = event.target.phone.value;
-        const organization = event.target.organization.value;
+        const phone = "null";
+        const organization = "null";
         var nameurl = name.replace(/[^a-zA-Z0-9 ]/g, "");
         nameurl = nameurl.toLowerCase();
         const newnameurl = nameurl.split(' ').join('-')
@@ -83,8 +83,8 @@ export default function BrowseCourses() {
        
           '&name=' + name +
           '&email=' + email +
-        //   '&phone=' + phone +
-        //   '&organization=' + organization +
+          '&phone=' + phone +
+          '&organization=' + organization +
           '&newnameurl=' + newnameurl
         );
     
@@ -119,10 +119,7 @@ export default function BrowseCourses() {
             var Assessment ="Style Under Stress - Assessment Form Client" 
             xhttp.send("name=" + event.target.name.value +
             '&email=' + email +
-            '&assessment=' + Assessment)
-    
-    
-    
+            '&assessment=' + Assessment)    
         }
     
         xhr.onerror = function () {
