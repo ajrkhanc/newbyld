@@ -231,6 +231,14 @@ export default function Gettingthingsdone() {
                                 </div>
 
                                 <div>
+                                    <h2>Virtual Course Preview</h2>
+                                    <div class="workshop-date">
+                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> December 21st, 2023</h6>
+                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 4:00 PM</h6>
+                                    </div>
+                                </div>
+
+                                <div>
                                     <h2>Workshop</h2>
                                     <div class="workshop-date">
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 11th, 2024</h6>
@@ -265,6 +273,7 @@ export default function Gettingthingsdone() {
                                         <option value="">Pick any Slot*</option>
                                             <option value="Getting Things Done - November 6th to 8th, 2023">Getting Things Done - November 6th to 8th, 2023</option>
                                             <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option>
+                                            <option value="Getting Things Done, Virtual Course Preview -  December 21st, 2023">Getting Things Done, Virtual Course Preview - December 21st, 2023</option>
                                             <option value="Getting Things Done - January 11th, 2024">Getting Things Done - January 11th, 2024</option>
                                     </select>
                                 </div>
