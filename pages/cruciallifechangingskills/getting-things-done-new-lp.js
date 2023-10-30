@@ -234,7 +234,7 @@ export default function Gettingthingsdone() {
                                     <h2>Virtual Course Preview</h2>
                                     <div class="workshop-date">
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i> December 21st, 2023</h6>
-                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 4:00 PM</h6>
+                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
                                     </div>
                                 </div>
 
