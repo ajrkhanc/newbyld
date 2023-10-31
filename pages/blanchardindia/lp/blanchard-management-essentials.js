@@ -102,7 +102,7 @@ export default function BlanchardManaE() {
                            <label>Interested In*</label>
                            <select name="interest_in" className="form-control" required>
                               <option value="">---Select---</option>
-                              <option value="Blanchard Management Essentials® Workshop 13th September 2023">Blanchard Management Essentials® Workshop 13th September 2023</option>
+                              <option value="Blanchard Management Essentials®  20th December, 2023">Blanchard Management Essentials® Workshop 13th September 2023</option>
                            </select>
                            <div className="help-block with-errors"></div>
                         </div>
@@ -159,7 +159,7 @@ export default function BlanchardManaE() {
          </div>
          <div className="col-lg-6 themebg2">
             <div className="">
-               <img src="/kbassets/img/bme.jpg" alt="Images" />
+               <img src="/kbassets/img/bme1.jpg" alt="Images" />
             </div>
          </div>
       </div>
