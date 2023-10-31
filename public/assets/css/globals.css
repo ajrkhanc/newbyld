@@ -4672,3 +4672,69 @@ text-align: center;
   font-weight: 500;
 }
 
+.termsandconditions-head-headbg {
+  background-image: url(https://byldgroup.com/kbassets/img/termsandconditions.jpg);
+}
+
+.inner-banner {
+  position: relative;
+  z-index: 1;
+  background-position: center center;
+  background-size: cover;
+}
+
+.inner-banner::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #003146;
+  opacity: 0.8;
+}
+
+.inner-banner .inner-title h3 {
+  font-size: 45px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.inner-banner .inner-title {
+  padding-top: 160px;
+  padding-bottom: 120px;
+  position: relative;
+  z-index: 1;
+}
+
+.inner-banner .inner-title ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.inner-banner .inner-title ul li::before {
+  content: "";
+  position: absolute;
+  top: 15px;
+  right: -30px;
+  height: 1px;
+  width: 15px;
+  background-color: #fff;
+}
+
+.inner-banner .inner-title ul li {
+  font-size: 18px;
+  color: #fff;
+  display: inline-block;
+  position: relative;
+  margin-right: 40px;
+  font-weight: 500;
+}
+
+.inner-banner .inner-title ul li a {
+  color: #fff;
+}
+
+
