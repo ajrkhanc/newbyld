@@ -45,7 +45,7 @@ which is created by a computer system.
                             <p className='text-justify pb-10'>
                             In accordance with Rule 3 (1) of the Information Technology (Intermediaries Guidelines) Rules, 2011,
 this document outlines the rules and regulations, privacy policy, and Terms and Conditions for
-accessing and using the website <a href='www.blanchardinternational.co.in.'>www.blanchardinternational.co.in.</a>  
+accessing and using the website <a href='https://byldgroup.com/'>www.byldgroup.com</a>  
                             </p>
 
                             <p className='text-justify pb-10'>
