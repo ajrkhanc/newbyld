@@ -306,7 +306,18 @@ export default function Workshops() {
                                 </div>
                             </div>
                         </div>
-
+                          <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>December 12th - 15th, 2023</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
 
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -333,7 +344,20 @@ export default function Workshops() {
                                 </div>
                             </div>
                         </div>
-                        
+
+                            
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>January 22nd - 25th , 2024</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
                         <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
