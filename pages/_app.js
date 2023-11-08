@@ -2429,7 +2429,7 @@ gtag('config', 'G-5PXTTR960E');
             `,
             }}
           />
-          <script src="/assets/js/meanmenu.js"></script>
+         {/* <script src="/assets/js/meanmenu.js"></script> */}
           <script src="/assets/js/custom.js"></script>
 
 
