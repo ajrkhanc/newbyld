@@ -50,6 +50,7 @@ class MyDocument extends Document {
           <script src="/assets/js/wow.js"></script>
           <script src="/assets/js/main.js"></script>
           <script src="/classets/js/script.js"></script>
+          <script src="/kbassets/js/meanmenu.js"></script>
           <script src="https://raw.githack.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js"></script>
         </body>
       </Html>
