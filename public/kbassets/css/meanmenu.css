@@ -2222,11 +2222,7 @@ div[id*='form-'] .field-validation-error,
 .form-group {
   position: relative; }
 
-.form-group label {
-  position: absolute;
-  left: 20px;
-  top: 18px;
-  transition: all 0.18s ease-in-out; }
+
 
 .form-group svg ~ label {
   left: 50px; }
