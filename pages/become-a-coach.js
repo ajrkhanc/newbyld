@@ -1072,7 +1072,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                         <div className='col-sm-4'>
                             <div className='formhh'>
                                 <div className="bannerform msddd">
-                                    <h3>Enroll in our ICF Accredited Coach Certification Batch 43, 28 October 10:00 am to 4:00 pm</h3>
+                                    <h3>Enroll in our ICF Accredited Coach Certification Batch 43, 06 January 10:00 am to 4:00 pm</h3>
 
                                     <form id="contactForm" className='clientcornner ptt-5 pbb-0' onSubmit={submit}>
                                         <div className="row">
