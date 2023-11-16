@@ -131,14 +131,6 @@ export default function Footer() {
 
                                     </ul>
 
-        <p className="widget-desc white-color mtt-25">Subscribe to our newsletter</p>
-                            <form className='mtt-5' onSubmit={FooregisterUser}>
-                                <p>
-                                <input type="email" name="email" placeholder="Your email address" required/>
-                                <input id="submitbuttonform1" type="submit" value="Subscribe Now"/>
-                                <p id="showlabel1" style={{ display: "none" }}></p>
-                                </p>
-                            </form>
                                 </div>
                             </div>
                         </div>
