@@ -700,7 +700,7 @@ export default function Home({ country }) {
                             </div>
                         </div> */}
 
-                        <div className='col-sm-6'>
+                       {/* <div className='col-sm-6'>
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
                                 <div className='dateside'>
                                     <div className='datefont'>
@@ -723,7 +723,7 @@ export default function Home({ country }) {
                                     <a>Book Now</a>
                                 </div>
                             </div>
-                        </div>
+                        </div>*/}
                         <div className='col-sm-6'>
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
                                 <div className='dateside'>
