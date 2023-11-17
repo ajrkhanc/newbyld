@@ -917,6 +917,20 @@ img {
     color: #fff;
 }
 
+.btn{
+    border: 2px solid transparent;
+    border-radius: 30px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    background: #008065;
+    cursor: pointer;
+    transition: all 0.18s ease-in-out;
+    line-height: 1.4;
+}
+
 .btn-bg1 {
     background-color: #008065;
 }
