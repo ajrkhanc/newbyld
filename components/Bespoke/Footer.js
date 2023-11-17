@@ -121,7 +121,7 @@ export default function Footer() {
                 <ul class="footer-social md-mb-30">
                   <li>
                     <a
-                      href="https://www.facebook.com/BYLDCoaching"
+                      href="https://www.facebook.com/doortandcindia"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -132,7 +132,7 @@ export default function Footer() {
                   </li>
                   <li>
                     <a
-                      href="https://www.linkedin.com/company/byld-coaching/"
+                      href="https://www.linkedin.com/company/231625/admin/feed/posts/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -143,7 +143,7 @@ export default function Footer() {
                   </li>
                   <li>
                     <a
-                      href="https://twitter.com/Byld_Coaching"
+                      href="https://twitter.com/DTCI_India"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -154,12 +154,24 @@ export default function Footer() {
                   </li>
                   <li>
                     <a
-                      href="https://www.youtube.com/@BYLDgroup"
+                      href="https://www.youtube.com/@doortrainingindia/playlists"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <span>
                         <i class="fa fa-youtube"></i>
+                      </span>
+                    </a>
+                  </li>
+
+                         <li>
+                    <a
+                      href="https://www.instagram.com/dtci_india/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <span>
+                        <i class="fa fa-instagram"></i>
                       </span>
                     </a>
                   </li>
