@@ -1,7 +1,11 @@
 import Head from 'next/head'
+import React from "react";
+import { Button, Modal, ModalBody, ModalFooter } from "reactstrap";
 
 export default function BrowseCourses() {
 
+    const [modalOpen8, setModalOpen8] = React.useState(false);
+     
     const submitF = async (event) => {
         event.preventDefault();
         document.getElementById("submitbuttonform").value = "Submitting ....";
@@ -114,6 +118,48 @@ export default function BrowseCourses() {
                     }}
                 />
             </Head>
+            <Modal
+        className="toppc modal-lg popUpModal"
+        toggle={() => setModalOpen8(!modalOpen8)}
+        isOpen={modalOpen8}
+        backdrop="static"
+        keyboard={false}
+      >
+        <button
+          aria-label="Close"
+          className="close popcl"
+          type="button"
+          onClick={() => setModalOpen8(!modalOpen8)}
+        >
+          <span aria-hidden={true}>×</span>
+        </button>
+
+        <ModalBody>
+          <div class="row">
+            <div class="col-md-8">
+              <div class="text-center">
+                <h4 class="text-danger">Register Now and Avail 10% OFF</h4>
+                {/* <h5 class="mb-4">Register now and save $200.</h5> */}
+                <p class="mb-3">
+                  Use checkout code <span class="text-danger"> BYLDCL</span> by
+                  December 31 on any 2024 course and get 10% OFF. First 20
+                  registrations will get extra 5% discount
+                </p>
+
+                <a class="btn btn-sm rounded-pill btn-danger" href="#">
+                  See In-Person Courses
+                </a>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <img
+                class="img-fluid"
+                src="../../classets/img/Human_In-Person-Teaching_Color.webp"
+              ></img>
+            </div>
+          </div>
+        </ModalBody>
+      </Modal>
 
             <section className='assesmentbannnerbg'>
                 <div className='container'>
@@ -933,8 +979,9 @@ export default function BrowseCourses() {
                  </form>
                 </div>
             </section>
-
-
+            <button onClick={() => setModalOpen8(!modalOpen8)} id="myButton" style={{ display: "none" }}>
+                    modalevent
+                  </button>
         </>
     )
 }
