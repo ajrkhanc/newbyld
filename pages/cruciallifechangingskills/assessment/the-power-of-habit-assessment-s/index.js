@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import React from "react";
 import { Button, Modal, ModalBody, ModalFooter } from "reactstrap";
-
 export default function BrowseCourses() {
 
     const [modalOpen8, setModalOpen8] = React.useState(false);
