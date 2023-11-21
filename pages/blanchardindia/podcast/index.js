@@ -39,6 +39,67 @@ export default function PodCast() {
                         <div className="col-lg-12">
                             <div className="what-did-left-content">
                                 <div className="row row-eq-height eventsandworkshopbox">
+
+                                <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/Love+WorkWithMarcus.webp" alt="Images" />
+                                            <h3>Love + Work with Marcus Buckingham</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/love+work-With-Marcus-Buckingham"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/fearless-leadership.webp" alt="Images" />
+                                            <h3>Best of Series-Fearless Leadership with Carey Lohrenz</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/bestofSeries-FearlessLeadershipwithCareyLohrenz"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/5-practice.webp" alt="Images" />
+                                            <h3>The 5 Practices of Highly Resilient People with Dr. Taryn Marie Stejskal</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/the5PracticesofHighlyResilientPeoplewithDr.TarynMarieStejskal"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/motivators-linda.webp" alt="Images" />
+                                            <h3>Understanding Essential Motivators with Linda Berens</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/Understanding-Essential-Motivators-with-Linda-Berens"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/inner-journey.webp" alt="Images" />
+                                            <h3>The Inner Journey of Leadership with Dan Rockwell</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/The-Inner-Journey-of-Leadership-with-Dan-Rockwell"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                    
                                 <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/kbassets/img/podcast/the-song-of-significance-with-seth-godin.jpg" alt="Images" />
