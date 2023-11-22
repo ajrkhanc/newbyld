@@ -252,7 +252,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
             <div class="col-md-4">
               <img
                 class="img-fluid"
-                src="classets/img/Human_In-Person-Teaching_Color.webp"
+                src="../../classets/img/Human_In-Person-Teaching_Color.webp"
               ></img>
             </div>
           </div>
