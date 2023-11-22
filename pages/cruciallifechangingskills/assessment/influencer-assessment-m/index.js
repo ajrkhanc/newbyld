@@ -213,7 +213,7 @@ export default function BrowseCourses() {
             </div> 
             <div className='col-md-6'>
               <div className='assesmentimgbanner'>
-                <img src="/classets/img/influencer-assessment.jpg" />
+                <img src="../..//classets/img/influencer-assessment.jpg" />
               </div>
             </div>
           </div>
