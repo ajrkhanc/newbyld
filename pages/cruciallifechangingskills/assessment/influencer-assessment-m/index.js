@@ -184,11 +184,9 @@ export default function BrowseCourses() {
             <div class="col-md-8">
               <div class="text-center">
                 <h4 class="text-danger">Register Now and Avail 10% OFF</h4>
-                {/* <h5 class="mb-4">Register now and save $200.</h5> */}
-                <p class="mb-3">
-                  Use checkout code <span class="text-danger"> BYLDCL</span> by
-                  December 31 on any 2024 course and get 10% OFF. First 20
-                  registrations will get extra 5% discount
+                <p>
+                  Register by December 31 on any course and get 10% OFF. First
+                  20 registrations will get an extra 5% discount{" "}
                 </p>
 
                 <a class="btn btn-sm rounded-pill btn-danger" href="#">
@@ -199,12 +197,11 @@ export default function BrowseCourses() {
             <div class="col-md-4">
               <img
                 class="img-fluid"
-                src="../../classets/img/Human_In-Person-Teaching_Color.webp"
+                src="classets/img/Human_In-Person-Teaching_Color.webp"
               ></img>
             </div>
           </div>
-        </ModalBody>
-      </Modal>
+        </ModalBody>      </Modal>
 
       <section className='assesmentbannnerbg'>
         <div className='container'>
