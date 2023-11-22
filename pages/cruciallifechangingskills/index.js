@@ -625,16 +625,14 @@ export default function Home() {
           <span aria-hidden={true}>×</span>
         </button>
 
-        <ModalBody>
+ <ModalBody>
           <div class="row">
             <div class="col-md-8">
               <div class="text-center">
                 <h4 class="text-danger">Register Now and Avail 10% OFF</h4>
-                {/* <h5 class="mb-4">Register now and save $200.</h5> */}
-                <p class="mb-3">
-                  Use checkout code <span class="text-danger"> BYLDCL</span> by
-                  December 31 on any 2024 course and get 10% OFF. First 20
-                  registrations will get extra 5% discount
+                <p>
+                  Register by December 31 on any course and get 10% OFF. First
+                  20 registrations will get an extra 5% discount{" "}
                 </p>
 
                 <a class="btn btn-sm rounded-pill btn-danger" href="#">
