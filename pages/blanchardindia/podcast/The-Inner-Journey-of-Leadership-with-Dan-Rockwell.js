@@ -22,7 +22,7 @@ export default function PodCastinner() {
                   <div className="col-sm-8">
                     <div className="podcastd">
                       <h3>
-                      Understanding Essential Motivators with Linda Berens
+                    The Inner Journey of Leadership with Dan Rockwell
                       </h3>
                       <iframe
                         allowfullscreen=""
