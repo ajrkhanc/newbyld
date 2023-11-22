@@ -19,7 +19,7 @@ export default function PodCastinner() {
                             <div className="col-sm-8">
                                 <div className="podcastd">
                                 <h3>Love + Work with Marcus Buckingham</h3>
-                                <iframe allowfullscreen="" height="192" mozallowfullscreen="true" msallowfullscreen="true" oallowfullscreen="true" scrolling="no" src="https://html5-player.libsyn.com/embed/episode/id/2315451/height/90/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/3c5853/" title="Embed Player" webkitallowfullscreen="true" width="100%"></iframe>
+                                <iframe allowfullscreen="" height="192" mozallowfullscreen="true" msallowfullscreen="true" oallowfullscreen="true" scrolling="no" src="https://html5-player.libsyn.com/embed/episode/id/23154515/height/90/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/3c5853/" title="Embed Player" webkitallowfullscreen="true" width="100%"></iframe>
                                 <div>
                                     <p>
                                     Do what you love. Sounds simple, right? Hear Marcus Buckingham share how to determine when you are at your best, so you can do what you love, and do it for the rest of your life. His newest book Love + Work focuses on bringing love, the most powerful of human emotions, back into your work and in life.
