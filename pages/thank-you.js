@@ -6,9 +6,7 @@ export default function ThankYou(){
         <Head>
             <title>Thank You Lp - BYLD Group</title>
             <meta name="description" content="BYLD is a pioneering name in leadership development, corporate training, assessment, and staffing. Founded in 1998, the company is the largest group in South Asia offering HR and business productivity solutions for individuals, teams, and organizations. It has also served 300 of 500 Fortune companies."/> 
-        <!-- Google tag (gtag.js) --> 
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-R93RP8FMVC"></script> 
-       
+      
         </Head>
 
         
