@@ -32,23 +32,23 @@ function Footer() {
 
    return (
       <footer className="footer-area footer-bg2">
-         <div className="footer-top ptt-70">
+         <div className="footer-top ptt-70 py-10">
             <div className="container">
                <div className='row'>
                   <div className='col-sm-12'>
-                     <div className='innercallt'>
-                        <div className='flogoc'>
+                     <div className='innercallt flex-column'>
+                        <div className='flogoc text-align-center'>
                            <a href=''><img src="/kbassets/img/kbnew/blanchard_logo_footer.png" alt="Images" /></a>
                         </div>
-                        <div className='calltoaa'>
-                           <h3>Ready to get started? Talk to us today.</h3>
-                           <a href='/blanchardindia/get-started' className='kbbtn kbbtn--orange  mtt-10'>Get Started</a>
+                        <div className='calltoaa flex-column'>
+                           <h3 className='heading-text text-center'>Ready to get started? Talk to us today.</h3>
+                           <a href='/blanchardindia/get-started' className='kbbtn kbbtn--orange  mtt-10 btn-size'>Get Started</a>
                         </div>
                      </div>
                   </div>
                
                </div>
-               <div className="row mmiddlec">
+               <div className="row mmiddlec mt-10 py-10">
                   <div className="col-lg-3 col-md-6">
                      <div className="footer-widget footer-widget-color1">
                      <h3>ABOUT US</h3>
