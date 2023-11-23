@@ -52,7 +52,19 @@ class MyDocument extends Document {
           <script src="/classets/js/script.js"></script>
           <script src="/kbassets/js/meanmenu.js"></script>
           <script src="https://raw.githack.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js"></script>
-        </body>
+       <script async src="https://www.googletagmanager.com/gtag/js?id=G-R93RP8FMVC"></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                    window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R93RP8FMVC');
+                `,
+            }}
+          />
+  </body>
       </Html>
     )
   }
