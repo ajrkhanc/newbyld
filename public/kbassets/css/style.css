@@ -9452,7 +9452,44 @@ line-height: 47px !important;
     border: 1px solid #fff !important;
 }
 
-
+/*======= new-css =========*/
+.right-content{
+    display: flex !important;
+    justify-content: end;
+    align-items: center;
+    white-space: nowrap;
+    flex-wrap: wrap;
+    margin-right:unset !important
+}
+.header-left-list ul li{
+    padding-top: unset !important;
+    padding-bottom: unset !important;
+  
+}
+/* 
+.heading-text{
+    font-size: 2rem !important;
+    padding: unset !important;
+    line-height: 38px !important
+} */
+.text-size{
+    font-size: unset !important;
+}
+.list-item{
+    position: relative;
+    width: 100% !important;
+    float: unset !important;
+}
+.arrow-position{
+    position: absolute;
+    right: 14px;
+}
+.h-530{
+    height: 530px !important;
+}
+.display-flex{
+    display: flex !important;
+}
 
 
 
