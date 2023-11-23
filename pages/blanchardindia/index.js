@@ -51,7 +51,7 @@ export default function Home() {
       slidesToShow: 3,
       slidesToScroll: 1,
       initialSlide: 0,
-      autoplay: true,
+      autoplay: false,
       autoplaySpeed: 2000,
       responsive: [
          {
@@ -113,28 +113,28 @@ fbq('track', 'PageView');
             <div className='container'>
                <div className='row'>
                   <div className='col-sm-12'>
-                     <div className='kbisblanchardin'>
-                        <h1>Discover the new Blanchard®!</h1>
-                        <a href='/blanchardindia/about-us' className='kbbtn kbbtn--orange'>Know More</a>
+                     <div className='kbisblanchardin flex-column'>
+                        <h1 className='heading-text new-text'>Discover the new Blanchard®!</h1>
+                        <a href='/blanchardindia/about-us' className='kbbtn kbbtn--orange btn-size'>Know More</a>
                      </div>
                   </div>
                </div>
             </div>
          </section>
 
-         <section className='bannehome'>
+         <section className='bannehome mt-4'>
             <div className='container-fluid bgreduiswihite'>
                <div className='row align-items-center'>
                   <div className='col-sm-7'>
                      <div className='left-ba'>
-                        <h1>The Heart of Human <br></br>Achievement™</h1>
-                        <p>Developing Inspired Leaders through Engaging, Human-powered Learning Experiences</p>
-                        <a href='/blanchardindia/what-we-do' className='kbbtn kbbtn--orange'>Learn More</a>
+                        <h1 className='heading-text mt-10 new-heading'>The Heart of Human <br></br>Achievement™</h1>
+                        <p className='text-size new-textsize'>Developing Inspired Leaders through Engaging, Human-powered Learning Experiences</p>
+                        <a href='/blanchardindia/what-we-do' className='kbbtn kbbtn--orange btn-size'>Learn More</a>
                      </div>
                   </div>
                   <div className='col-sm-5'>
-                     <div>
-                        <img src="/kbassets/img/kbnew/banner-right.jpg" alt="Images" />
+                     <div className='img-end'>
+                        <img src="/kbassets/img/kbnew/banner-right.jpg" alt="Images" className='banner-size' />
                      </div>
                   </div>
                </div>
@@ -147,50 +147,50 @@ fbq('track', 'PageView');
                   <div className='col-sm-12'>
                      <div className='row'>
                         <div className='col-sm-6'>
-                           <h2 className='pbb-50'>Trending Insights</h2>
+                           <h2 className='pbb-50 heading-text'>Trending Insights</h2>
                         </div>
-                        <div className='col-sm-6 viewall'>
-                           <a href='/blanchardindia/resources/research-insights/amping-up-your-learning-investment'>View All Trending Insights <i class="bx bx-right-arrow-alt"></i></a>
-                        </div>
-                     </div>
-                  </div>
-
-                  <div className='col-sm-3'>
-                     <div className='innerbox'>
-                        <h3>01</h3>
-                        <div className='innerp'>
-                           <p>Amping Up the Value and Return on Your Learning Investment</p>
-                           <a href='/blanchardindia/resources/research-insights/amping-up-your-learning-investment'>Read Now</a>
+                        <div className='col-sm-6 viewall new-viewall'>
+                           <a className='mt-10 text-underline' href='/blanchardindia/resources/research-insights/amping-up-your-learning-investment'>View All Trending Insights <i class="bx bx-right-arrow-alt"></i></a>
                         </div>
                      </div>
                   </div>
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-12 col-md-6 col-lg-3 mt-30'>
                      <div className='innerbox'>
-                        <h3>02</h3>
+                        <h3 className='fs-24'>01</h3>
                         <div className='innerp'>
-                           <p>An Unvarnished Look at Asking Employees to Return to the Office</p>
-                           <a href='/blanchardindia/resources/research-insights/hybrid-work-pov'>Read Now</a>
+                           <p className='text-size new-text-innerp'>Amping Up the Value and Return on Your Learning Investment</p>
+                           <a className='py-10' href='/blanchardindia/resources/research-insights/amping-up-your-learning-investment'>Read Now</a>
                         </div>
                      </div>
                   </div>
 
-                  <div className='col-sm-3'>
-                     <div className='innerbox'>
-                        <h3>03</h3>
+                  <div className='col-sm-12 col-md-6 col-lg-3'>
+                     <div className='innerbox '>
+                        <h3 className='fs-24'>02</h3>
                         <div className='innerp'>
-                           <p>Six Ways to Supercharge Your Next One-on-One with Your Boss</p>
-                           <a href='/blanchardindia/resources/research-insights/supercharge-your-one-on-one'>Read Now</a>
+                           <p className='text-size new-text-innerp'>An Unvarnished Look at Asking Employees to Return to the Office</p>
+                           <a className='py-10' href='/blanchardindia/resources/research-insights/hybrid-work-pov'>Read Now</a>
                         </div>
                      </div>
                   </div>
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-12 col-md-6 col-lg-3'>
                      <div className='innerbox'>
-                        <h3>04</h3>
+                        <h3 className='fs-24'>03</h3>
                         <div className='innerp'>
-                           <p>Transformational Leadership: Inspiring Change and Driving Innovation</p>
-                           <a href='/blanchardindia/blog/transformational-leadership-inspiring-change-and-driving-innovation'>Read Now</a>
+                           <p className='text-size new-text-innerp'>Six Ways to Supercharge Your Next One-on-One with Your Boss</p>
+                           <a className='py-10' href='/blanchardindia/resources/research-insights/supercharge-your-one-on-one'>Read Now</a>
+                        </div>
+                     </div>
+                  </div>
+
+                  <div className='col-sm-12 col-md-6 col-lg-3'>
+                     <div className='innerbox'>
+                        <h3 className='fs-24'>04</h3>
+                        <div className='innerp'>
+                           <p className='text-size new-text-innerp'>Transformational Leadership: Inspiring Change and Driving Innovation</p>
+                           <a className='py-10' href='/blanchardindia/blog/transformational-leadership-inspiring-change-and-driving-innovation'>Read Now</a>
                         </div>
                      </div>
                   </div>
@@ -204,28 +204,28 @@ fbq('track', 'PageView');
                <div className='row'>
                   <div className='col-sm-6 pa0000'>
                      <div className='prr-90'>
-                        <img src="/kbassets/img/kbnew/Innovative-training-solutions.jpg" alt="Images" />
+                        <img src="/kbassets/img/kbnew/Innovative-training-solutions.jpg" alt="Images" className='new-imgsize'/>
                      </div>
                   </div>
                   <div className='col-sm-6'>
                      <div>
-                        <h2>
+                        <h2 className='heading-text mt-10'>
                            Meet Your Most Pressing Leadership Challenges via Innovative Learning Journeys
                         </h2>
                         <p>
                            We empower businesses for the workplace of the future by meeting you and your students where they are today and where they need to be in the future.
                         </p>
-                        <h4>
+                        <h4> 
                            <strong>Our biggest challenges are in:</strong>
                         </h4>
                         <ul>
-                           <li><a href='/blanchardindia/our-content/challenges/leadership-capabilities'>Leadership Capabilities <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='/blanchardindia/our-content/challenges/change-agility'>Change & Agility <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='/blanchardindia/our-content/challenges/diversity-inclusion'>Diversity & Inclusion <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='/blanchardindia/our-content/challenges/engagement-retention'>Engagement & Retention <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='/blanchardindia/our-content/challenges/organizational-performance'>Organizational Performance <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='/blanchardindia/our-content/challenges/teaming-collaboration'>Teaming & Collaboration <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='/blanchardindia/our-content/challenges/personal-effectiveness'>Personal Effectiveness <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li className='list-item'><a className='fs-12 new-fs-16' href='/blanchardindia/our-content/challenges/leadership-capabilities'>Leadership Capabilities <i class="bx bx-right-arrow-alt arrow-position"></i></a></li>
+                           <li className='list-item'><a className='fs-12 new-fs-16' href='/blanchardindia/our-content/challenges/change-agility'>Change & Agility <i class="bx bx-right-arrow-alt arrow-position"></i></a></li>
+                           <li className='list-item'><a className='fs-12 new-fs-16' href='/blanchardindia/our-content/challenges/diversity-inclusion'>Diversity & Inclusion <i class="bx bx-right-arrow-alt arrow-position"></i></a></li>
+                           <li className='list-item'><a className='fs-12 new-fs-16' href='/blanchardindia/our-content/challenges/engagement-retention'>Engagement & Retention <i class="bx bx-right-arrow-alt arrow-position"></i></a></li>
+                           <li className='list-item'><a className='fs-12 new-fs-16' href='/blanchardindia/our-content/challenges/organizational-performance'>Organizational Performance <i class="bx bx-right-arrow-alt arrow-position"></i></a></li>
+                           <li className='list-item'><a className='fs-12 new-fs-16' href='/blanchardindia/our-content/challenges/teaming-collaboration'>Teaming & Collaboration <i class="bx bx-right-arrow-alt arrow-position"></i></a></li>
+                           <li className='list-item'><a className='fs-12 new-fs-16' href='/blanchardindia/our-content/challenges/personal-effectiveness'>Personal Effectiveness <i class="bx bx-right-arrow-alt arrow-position"></i></a></li>
                         </ul>
                      </div>
                   </div>
@@ -237,50 +237,50 @@ fbq('track', 'PageView');
             <div className='container pbb-60'>
                <div className='row'>
                   <div className='col-sm-12'>
-                     <h2 className='pbb-50'>One Stop to All Leadership Solutions</h2>
+                     <h2 className='pbb-50 heading-text mt-3'>One Stop to All Leadership Solutions</h2>
                   </div>
 
-                  <div className='col-sm-4'>
-                     <div className='leadershipinner'>
+                  <div className='col-sm-12 col-md-6 col-lg-4 mt-3'>
+                     <div className='leadershipinner h-100 '>
                         <a href='/blanchardindia/who-we-help/teams' className='leadershpa'>
                            <img src="/kbassets/img/kbnew/icon/Team-Leaders-and-managers.svg" alt="Images" />
                            <div className='onestoppboxx'>
-                              <h4>Team Leaders and <br></br>Managers</h4>
+                              <h4 className='new-teamtext'>Team Leaders and <br></br>Managers</h4>
                               <p>
                                  Whether you are just starting your leadership journey or want to hone your leadership skills, Blanchard can help you become an Inspired Leader.
                               </p>
                            </div>
-                           <a href='/blanchardindia/who-we-help/teams' className='kbbtn kbbtn--orange'>Learn More</a>
+                           <a  href='/blanchardindia/who-we-help/teams' className='kbbtn kbbtn--orange btn-size'>Learn More</a>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-4'>
-                     <div className='leadershipinner'>
+                  <div className='col-sm-12 col-md-6 col-lg-4 mt-3'>
+                     <div className='leadershipinner h-100 '>
                         <a href='/blanchardindia/who-we-help/organizations' className='leadershpa'>
                            <img src="/kbassets/img/kbnew/icon/L-D-professionals.svg" alt="Images" />
                            <div className='onestoppboxx'>
-                              <h4>Learning and Development Professionals</h4>
+                              <h4 className='new-teamtext'>Learning and Development Professionals</h4>
                               <p>
                                  Looking to make a transformative impact on your organization and people? Our team of experts is constantly working to deliver dynamic yet time-tested solutions and learning experiences.
                               </p>
                            </div>
-                           <a href='/blanchardindia/who-we-help/organizations' className='kbbtn kbbtn--orange'>Learn More</a>
+                           <a href='/blanchardindia/who-we-help/organizations' className='kbbtn kbbtn--orange btn-size'>Learn More</a>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-4'>
-                     <div className='leadershipinner'>
+                  <div className='col-sm-12 col-md-6 col-lg-4 mt-3'>
+                     <div className='leadershipinner h-100 '>
                         <a href='/blanchardindia/who-we-help/training-professionals' className='leadershpa'>
                            <img src="/kbassets/img/kbnew/icon/Training-and-coaching-professionals.svg" alt="Images" />
                            <div className='onestoppboxx'>
-                              <h4>Training and Coaching Professionals</h4>
+                              <h4 className='new-teamtext'>Training and Coaching Professionals</h4>
                               <p>
                                  From a robust community of expert practitioners to a market-leading partner program, we passionately support you in delivering Blanchard content and courses that inspire learners and realize results.
                               </p>
                            </div>
-                           <a href='/blanchardindia/who-we-help/training-professionals' className='kbbtn kbbtn--orange'>Learn More</a>
+                           <a href='/blanchardindia/who-we-help/training-professionals' className='kbbtn kbbtn--orange btn-size'>Learn More</a>
                         </a>
                      </div>
                   </div>
@@ -289,47 +289,47 @@ fbq('track', 'PageView');
             </div>
          </section>
 
-         <section className='EnablingFuture ptt-50 pbb-10'>
-            <div className='container pbb-60'>
+         <section className='EnablingFuture ptt-50 pbb-10 '>
+            <div className='container pbb-60 p-10'>
                <div className='row'>
                   <div className='col-sm-12 text-center'>
-                     <h2 className='sectionh'>Enabling Future-ready <br></br>Transformation</h2>
+                     <h2 className='sectionh heading-text'>Enabling Future-ready <br></br>Transformation</h2>
                      <p className='headingp pbb-50'>
                         Whether you are looking to provide guidance and support to new managers or to help your experienced leaders <br></br>create a more engaged and productive culture, we can help your organization reach its goals.
                      </p>
                   </div>
 
-                  <div className='col-sm-6'>
-                     <div className='enablingbox greenboxc textccnn2'>
-                        <h4>Coaching</h4>
-                        <p>
+                  <div className='col-sm-6 mt-2'>
+                     <div className='enablingbox greenboxc textccnn2 h-100'>
+                        <h4  className='fs-24'>Coaching</h4>
+                        <p className='fs-14'>
                            Personalized, one-on-one, and team leadership coaching to help your executives, managers, and individual learners develop their leadership skills. <a href='/blanchardindia/what-we-do/services/coaching'>Learn More</a>
                         </p>
                      </div>
                   </div>
 
-                  <div className='col-sm-6'>
-                     <div className='enablingbox darkblueboxc textccnn2'>
-                        <h4>Leadership Programs</h4>
-                        <p>
+                  <div className='col-sm-6 mt-2'>
+                     <div className='enablingbox darkblueboxc textccnn2 h-100'>
+                        <h4 className='fs-24'>Leadership Programs</h4>
+                        <p className='fs-14'>
                            Build your leadership bench strength, create self-motivated individuals, improve employee engagement, or lead a change initiative. <a href='/blanchardindia/what-we-do/leadership-development/leadership-development-programs'>Learn More</a>
                         </p>
                      </div>
                   </div>
 
-                  <div className='col-sm-6'>
-                     <div className='enablingbox blueboxc textccnn2'>
-                        <h4>Customized Learning Experiences</h4>
-                        <p>
+                  <div className='col-sm-6 mt-2'>
+                     <div className='enablingbox blueboxc textccnn2 h-100'>
+                        <h4 className='fs-24'>Customized Learning Experiences</h4>
+                        <p className='fs-14'>
                            We will partner with you, dive into your needs, and create a solution that unlocks your people’s leadership potential. <a href='/blanchardindia/what-we-do/custom-solutions/customized-learning-experiences'>Learn More</a>
                         </p>
                      </div>
                   </div>
 
-                  <div className='col-sm-6'>
-                     <div className='enablingbox darkgeenboxc textccnn2'>
-                        <h4>Public Courses</h4>
-                        <p>
+                  <div className='col-sm-6 mt-2'>
+                     <div className='enablingbox darkgeenboxc textccnn2 h-100'>
+                        <h4 className='fs-24'>Public Courses</h4>
+                        <p className='fs-14'>
                            Leadership development and training courses help worldwide throughout the year, whenever and wherever it works best for you. <a href='/blanchardindia/events-workshops'>Learn More</a>
                         </p>
                      </div>
@@ -342,16 +342,16 @@ fbq('track', 'PageView');
          <section className='ExperiencesCourses pbb-60'>
             <div className='container'>
                <div className='row'>
-                  <div className='col-sm-12 pbb-40'>
+                  <div className='col-sm-12 pbb-40 py-10'>
                      <hr></hr>
                   </div>
                   <div className='col-sm-12'>
                      <div className='row'>
                         <div className='col-sm-8'>
-                           <h2 className='pbb-50'>Experiences and Courses</h2>
+                           <h2 className='pbb-50 heading-text '>Experiences and Courses</h2>
                         </div>
-                        <div className='col-sm-4 viewall'>
-                           <a href='/blanchardindia/what-we-do/leadership-development/leadership-development-programs'>Explore Additional Resources <i class="bx bx-right-arrow-alt"></i></a>
+                        <div className='col-sm-4 viewall new-exploretext'>
+                           <a className='mt-10' href='/blanchardindia/what-we-do/leadership-development/leadership-development-programs'>Explore Additional Resources <i class="bx bx-right-arrow-alt"></i></a>
                         </div>
                      </div>
                   </div>
@@ -362,75 +362,75 @@ fbq('track', 'PageView');
 
                   <div className='col-sm-12'>
                      <Slider {...settings2}>
-                        <div className='slxpd30'>
+                        <div className='slxpd30 p-10 h-530'>
                            <div className='slbox greenboxc forwhitec'>
                               <div className='slboxheader'>
                                  <div className='slboxfigure'>
                                     <div className='slboximg1'></div>
                                  </div>
                               </div>
-                              <div className='slboxbottom'>
+                              <div className='slboxbottom sliderpadding'>
                                  <div className="slboxheight">
                                     <span className='sltype'>Program</span>
-                                    <h3>SLII® Powering Inspired Leaders™</h3>
-                                    <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
+                                    <h3 className='heading-text'>SLII® Powering Inspired Leaders™</h3>
+                                    <p className='fs-14'>Only situational leaders can motivate their workers to rise to the challenge.</p>
                                  </div>
-                                 <a href='/blanchardindia/our-content/programs/slii' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                                 <a href='/blanchardindia/our-content/programs/slii' className='kbbtn kbbtn--orange mtt-0 btn-size'>Learn More</a>
                               </div>
                            </div>
                         </div>
 
-                        <div className='slxpd30'>
+                        <div className='slxpd30 p-10 h-530'>
                            <div className='slbox darkblueboxc forwhitec'>
                               <div className='slboxheader'>
                                  <div className='slboxfigure'>
                                     <div className='slboximg2'></div>
                                  </div>
                               </div>
-                              <div className='slboxbottom'>
+                              <div className='slboxbottom sliderpadding'>
                                  <div className="slboxheight">
                                     <span className='sltype'>Program</span>
-                                    <h3>Coaching Essentials®</h3>
-                                    <p>Essential coaching abilities for managers and leaders</p>
+                                    <h3 className='heading-text'>Coaching Essentials®</h3>
+                                    <p className='fs-14'>Essential coaching abilities for managers and leaders</p>
                                  </div>
-                                 <a href='/blanchardindia/our-content/programs/coaching-essentials' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                                 <a href='/blanchardindia/our-content/programs/coaching-essentials' className='kbbtn kbbtn--orange mtt-0 btn-size'>Learn More</a>
                               </div>
                            </div>
                         </div>
 
-                        <div className='slxpd30'>
+                        <div className='slxpd30 p-10 h-530'>
                            <div className='slbox darkwhiteboxc forwhitec'>
                               <div className='slboxheader'>
                                  <div className='slboxfigure'>
                                     <div className='slboximg3'></div>
                                  </div>
                               </div>
-                              <div className='slboxbottom'>
+                              <div className='slboxbottom sliderpadding'>
                                  <div className="slboxheight">
                                     <span className='sltype'>Program</span>
-                                    <h3 className='colortheme'>Essential Motivators™</h3>
-                                    <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
+                                    <h3 className='colortheme heading-text'>Essential Motivators™</h3>
+                                    <p className='colorblack fs-14'>Enhance collaboration by knowing yourself and others</p>
                                  </div>
-                                 <a href='/blanchardindia/our-content/programs/essential-motivators' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                                 <a href='/blanchardindia/our-content/programs/essential-motivators' className='kbbtn kbbtn--orange mtt-0 btn-size'>Learn More</a>
                               </div>
                            </div>
                         </div>
 
 
-                        <div className='slxpd30'>
+                        <div className='slxpd30 p-10 h-530'>
                            <div className='slbox darkwhiteboxc forwhitec'>
                               <div className='slboxheader'>
                                  <div className='slboxfigure'>
                                     <div className='slboximg4'></div>
                                  </div>
                               </div>
-                              <div className='slboxbottom'>
+                              <div className='slboxbottom sliderpadding'>
                                  <div className="slboxheight">
                                     <span className='sltype'>Services</span>
-                                    <h3 className='colortheme'>Design Studio</h3>
-                                    <p className='colorblack'>Custom services to support your learning initiatives</p>
+                                    <h3 className='colortheme heading-text'>Design Studio</h3>
+                                    <p className='colorblack fs-14'>Custom services to support your learning initiatives</p>
                                  </div>
-                                 <a href='/blanchardindia/what-we-do/custom-solutions' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                                 <a href='/blanchardindia/what-we-do/custom-solutions' className='kbbtn kbbtn--orange mtt-0 btn-size'>Learn More</a>
                               </div>
                            </div>
                         </div>
@@ -443,22 +443,22 @@ fbq('track', 'PageView');
          </section>
 
          <section className='SuccessStory'>
-            <div className='container-fluid ptt-90 pbb-60'>
+            <div className='container-fluid ptt-90 pbb-60 p-10'>
                <div className='row align-items-center'>
                   <div className='col-sm-6'>
                      <div>
-                        <h2>
+                        <h2 className='heading-text'>
                            Client Success Story
                         </h2>
                         <h4>
                            BUSINESS SERVICES
                         </h4>
-                        <h3>HCL Technologies</h3>
+                        <h3 className='heading-text new-texthcl'>HCL Technologies</h3>
 
-                        <p>
+                        <p className='fs-12 newfs-20'>
                         HCL Technologies is one of India’s leading global IT Services companies, providing software-led IT solutions, remote infrastructure management services, and business process outsourcing. With 35 offices in 17 countries, HCL’s customer base reads like a who’s who in business.
                         </p>
-                        <a href='/blanchardindia/resources/client-spotlights/hcl-technologies' className='kbbtn kbbtn--orange  mtt-10'>Learn More</a>
+                        <a href='/blanchardindia/resources/client-spotlights/hcl-technologies' className='kbbtn kbbtn--orange  mtt-10 btn-size'>Learn More</a>
                      </div>
                   </div>
 
@@ -473,11 +473,11 @@ fbq('track', 'PageView');
          </section>
 
 
-         <div className="brand-area">
+         <div className="brand-area py-10">
             <div className="container">
                <div className='row'>
-                  <div className='col-sm-12 text-center pbb-40'>
-                     <h2 className='sectionh ptt-50'>Our Clients</h2>
+                  <div className='col-sm-12 text-center pbb-40 py-10'>
+                     <h2 className='sectionh ptt-50 py-10 heading-text'>Our Clients</h2>
                   </div>
                   <div className='col-sm-12 pbb-40'>
                      <Slider {...settings}>
@@ -522,42 +522,42 @@ fbq('track', 'PageView');
             <div className="container pbb-50">
                <div className='row'>
                   <div className='col-sm-12 text-center pbb-40'>
-                     <h2 className='sectionh ptt-50'>Online Leadership Resources</h2>
+                     <h2 className='sectionh ptt-50 heading-text'>Online Leadership Resources</h2>
                      <p className='headingp'>Explore valuable articles, videos, and tools to support your business transformation.</p>
                   </div>
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-12 col-md-6 col-lg-3'>
                      <div className='reinner'>
                         <a href='/blanchardindia/ebooks'>
                            <img src="/kbassets/img/kbnew/icon/eBooks.svg" alt="Images" />
-                           <h3>eBooks</h3>
+                           <h3 className='new-reinnertext'>eBooks</h3>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-12 col-md-6 col-lg-3'>
                      <div className='reinner'>
                         <a href='/blanchardindia/white-paper'>
                            <img src="/kbassets/img/kbnew/icon/accelerate-development.svg" alt="Images" />
-                           <h3>White Papers</h3>
+                           <h3 className='new-reinnertext'>White Papers</h3>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-12 col-md-6 col-lg-3'>
                      <div className='reinner'>
                         <a href='/blanchardindia/blog'>
                            <img src="/kbassets/img/kbnew/icon/Articles.svg" alt="Images" />
-                           <h3>Blog Articles</h3>
+                           <h3 className='new-reinnertext'>Blog Articles</h3>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-12 col-md-6 col-lg-3'>
                      <div className='reinner'>
                         <a href='/blanchardindia/podcast'>
                            <img src="/kbassets/img/kbnew/icon/podcasts.svg" alt="Images" />
-                           <h3>Podcasts</h3>
+                           <h3 className='new-reinnertext'>Podcasts</h3>
                         </a>
                      </div>
                   </div>
