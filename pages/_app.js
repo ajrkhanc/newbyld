@@ -736,8 +736,7 @@ export default function MyApp({ Component, pageProps, router }) {
             }}
           />
         </Head>
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WF8WJWJ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  
         <Component {...pageProps} />
       </Eaglesflightindia>
     )
