@@ -170,7 +170,11 @@ export default function Home() {
          <Head>
             <title>Eagle’s Flight | Experiential Learning | BYLD Group</title>
             <meta name="description" content="Eagle’s Flight offers corporate team building games in a virtual immersive learning environment for effective self-learning. To know more, check out the page." />
-             
+             <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');</script>
       <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
             <script
                dangerouslySetInnerHTML={{
@@ -200,7 +204,8 @@ export default function Home() {
 <link rel="stylesheet" type="text/css" href="/efassets/css/homemodule.css" />
          </Head>
 
-           
+           <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WF8WJWJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
          <section className='bannersection'>
             <Slider {...homeslider}>
