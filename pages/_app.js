@@ -189,6 +189,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 `,
             }}
           />
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
 
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EZ957QPRY"></script>
           <script
@@ -300,7 +311,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11220859115"></script>
           <script
             dangerouslySetInnerHTML={{
@@ -391,7 +412,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
           <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
           <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
-          <script
+         
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
+      <script
             dangerouslySetInnerHTML={{
               __html: `var chatbot_id=12480;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://smatbot.s3.amazonaws.com/files/smatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();
               `,
@@ -417,7 +450,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/wileyassets/css/bootstrap.min.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
 
         </Head>
         <Component {...pageProps} />
@@ -437,7 +480,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
 
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </Hhf>
@@ -456,7 +509,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
 
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </Hhf>
@@ -474,7 +537,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/wileyassets/css/bootstrap.min.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
 
         </Head>
         <Component {...pageProps} />
@@ -493,6 +566,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/wileyassets/css/bootstrap.min.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
+
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </Hhf>
@@ -510,6 +595,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/wileyassets/css/bootstrap.min.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </Hhf>
@@ -527,6 +623,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/wileyassets/css/bootstrap.min.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </Hhf>
@@ -544,6 +651,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/wileyassets/css/bootstrap.min.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </Hhf>
@@ -561,6 +679,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <link rel="stylesheet" type="text/css" href="/wileyassets/css/bootstrap.min.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/globals.css" />
           <link rel="stylesheet" type="text/css" href="/efassets/css/style.css" />
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </Hhf>
@@ -616,6 +745,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   gtag('config', 'UA-205257587-1');
                 `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
             }}
           />
 
@@ -699,6 +840,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   gtag('config', 'UA-205257587-1');
                 `,
+            }}
+          />
+
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
             }}
           />
 
@@ -818,6 +971,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             }}
           />
 
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
+
         </Head>
 
         <Component {...pageProps} />
@@ -869,6 +1034,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('js', new Date());
 
   gtag('config', 'G-5PXTTR960E');
+          `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
           `,
             }}
           />
@@ -929,6 +1106,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             }}
           />
 
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
+
         </Head>
 
         <Component {...pageProps} />
@@ -979,6 +1168,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('js', new Date());
 
   gtag('config', 'G-5PXTTR960E');
+          `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
           `,
             }}
           />
@@ -1040,6 +1241,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             }}
           />
 
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
+
         </Head>
 
         <Component {...pageProps} />
@@ -1091,6 +1304,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('js', new Date());
 
   gtag('config', 'G-5PXTTR960E');
+          `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
           `,
             }}
           />
@@ -1150,6 +1375,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             }}
           />
 
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
+
         </Head>
 
         <Component {...pageProps} />
@@ -1200,6 +1437,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('js', new Date());
 
   gtag('config', 'G-5PXTTR960E');
+          `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
           `,
             }}
           />
@@ -1258,7 +1507,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
 
         <Component {...pageProps} />
@@ -1310,6 +1569,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('js', new Date());
 
   gtag('config', 'G-5PXTTR960E');
+          `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
           `,
             }}
           />
@@ -1368,6 +1639,18 @@ gtag('js', new Date());
 
 gtag('config', 'G-5PXTTR960E');
         `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
             }}
           />
 
@@ -1433,6 +1716,18 @@ gtag('config', 'G-5PXTTR960E');
             }}
           />
 
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
+
         </Head>
 
         <Component {...pageProps} />
@@ -1489,6 +1784,18 @@ gtag('config', 'G-5PXTTR960E');
             }}
           /> */}
 
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
+
         </Head>
 
         <Component {...pageProps} />
@@ -1543,7 +1850,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           /> */}
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
 
         <Component {...pageProps} />
@@ -1601,6 +1918,18 @@ gtag('config', 'G-5PXTTR960E');
             }}
           /> */}
 
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
+
         </Head>
 
         <Component {...pageProps} />
@@ -1657,7 +1986,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           /> */}
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
 
         <Component {...pageProps} />
@@ -1711,6 +2050,18 @@ gtag('config', 'G-5PXTTR960E');
   gtag('config', 'G-5PXTTR960E');
           `,
             }}
+
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           />
 
           <script
@@ -1777,7 +2128,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           /> */}
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
 
         <Component {...pageProps} />
@@ -1834,7 +2195,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
         </Head>
         <Component {...pageProps} />
       </BYLDNEW>
@@ -1886,6 +2257,18 @@ gtag('config', 'G-5PXTTR960E');
   gtag('js', new Date());
 
   gtag('config', 'G-5PXTTR960E');
+          `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
           `,
             }}
           />
@@ -1951,7 +2334,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           <script
             dangerouslySetInnerHTML={{
               __html: `var chatbot_id=12480;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://smatbot.s3.amazonaws.com/files/smatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();
@@ -2013,7 +2406,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           <script
             dangerouslySetInnerHTML={{
               __html: `var chatbot_id=12480;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://smatbot.s3.amazonaws.com/files/smatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();
@@ -2075,7 +2478,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           <script
             dangerouslySetInnerHTML={{
               __html: `var chatbot_id=12480;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://smatbot.s3.amazonaws.com/files/smatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();
@@ -2151,7 +2564,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           <script
             dangerouslySetInnerHTML={{
               __html: `var chatbot_id=12480;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://smatbot.s3.amazonaws.com/files/smatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();
@@ -2224,7 +2647,17 @@ gtag('config', 'G-5PXTTR960E');
           `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           <script
             dangerouslySetInnerHTML={{
               __html: `var chatbot_id=12480;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://smatbot.s3.amazonaws.com/files/smatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();
@@ -2293,6 +2726,18 @@ gtag('config', 'G-5PXTTR960E');
               `,
             }}
           />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
           
         </Head>
@@ -2342,6 +2787,18 @@ gtag('config', 'G-5PXTTR960E');
             dangerouslySetInnerHTML={{
               __html: `var chatbot_id=12480;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://smatbot.s3.amazonaws.com/files/smatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();
               `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
             }}
           />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script>
@@ -2397,6 +2854,18 @@ gtag('config', 'G-5PXTTR960E');
   gtag('js', new Date());
 
   gtag('config', 'G-5PXTTR960E');
+          `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
           `,
             }}
           />
@@ -2460,7 +2929,17 @@ gtag('config', 'G-5PXTTR960E');
                   `,
             }}
           />
-
+  <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
 
           <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26893767-1"></script>
 
@@ -2496,6 +2975,18 @@ gtag('config', 'G-5PXTTR960E');
   $.src="https://v2.zopim.com/?1H9zQ0Y1HchN8fWyjU9CO4zfNgoQjP7F";z.t=+new Date;$.
   type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
             `,
+            }}
+          />
+
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
             }}
           />
 
@@ -2589,6 +3080,17 @@ gtag('config', 'G-5PXTTR960E');
             }}
           />
 
+              <script
+            dangerouslySetInnerHTML={{
+              __html: `
+             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WF8WJWJ');
+          `,
+            }}
+          />
           <script
             dangerouslySetInnerHTML={{
               __html: `var chatbot_id=12480;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://smatbot.s3.amazonaws.com/files/smatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();
