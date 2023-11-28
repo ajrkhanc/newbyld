@@ -200,7 +200,7 @@ export default function Home() {
 <link rel="stylesheet" type="text/css" href="/efassets/css/homemodule.css" />
          </Head>
 
-         <!-- Google Tag Manager (noscript) -->
+       
     <noscript>
       <iframe
         src="https://www.googletagmanager.com/ns.html?id=GTM-WF8WJWJ"
@@ -209,7 +209,7 @@ export default function Home() {
         style="display:none;visibility:hidden"
       ></iframe>
     </noscript>
-    <!-- End Google Tag Manager (noscript) -->
+  
 
          <section className='bannersection'>
             <Slider {...homeslider}>
