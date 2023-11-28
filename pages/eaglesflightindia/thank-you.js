@@ -7,6 +7,14 @@ export default function ThankYou(){
             <title>Thank You Lp - BYLD Group</title>
             <meta name="description" content="BYLD is a pioneering name in leadership development, corporate training, assessment, and staffing. Founded in 1998, the company is the largest group in South Asia offering HR and business productivity solutions for individuals, teams, and organizations. It has also served 300 of 500 Fortune companies."/> 
           </Head>
+        <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-WF8WJWJ"
+        height="0"
+        width="0"
+        style={{ display: "none" }}
+      ></iframe>
+    </noscript>
           <div className="rs-services  ptt-40 pbb-40">
             <div className="container">
                 <div className="row y-middle">
