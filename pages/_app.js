@@ -2050,8 +2050,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('config', 'G-5PXTTR960E');
           `,
             }}
+          />
 
-  <script
+             <script
             dangerouslySetInnerHTML={{
               __html: `
              (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -2061,7 +2062,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WF8WJWJ');
           `,
             }}
-          />
           />
 
           <script
