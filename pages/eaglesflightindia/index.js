@@ -206,7 +206,7 @@ export default function Home() {
         src="https://www.googletagmanager.com/ns.html?id=GTM-WF8WJWJ"
         height="0"
         width="0"
-        style="display:none;visibility:hidden"
+        style={{ display: "none" }}
       ></iframe>
     </noscript>
   
