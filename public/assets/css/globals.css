@@ -1381,6 +1381,28 @@ width: 84px;
   font-weight: 500;
 }
 
+.book-details{
+  padding: 10px 12px;
+  line-height: 1.5;
+  background: #ededed;
+  text-align: center;
+}
+
+.book-details .title{
+  font-size: 18px;
+}
+
+.price{
+  font-size: 22px;
+}
+
+/* .innervideoshd .price {
+  color: #2468B0;
+  font-size: 16px;
+  padding: 0px 15px;
+  font-weight: 500;
+} */
+
 /* Contact Us */
 .contactusbg {
   background: url(/assets/img/banner/contact-us.jpg);
