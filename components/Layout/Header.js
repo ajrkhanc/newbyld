@@ -174,6 +174,7 @@ export default function Header() {
                                                             <li><a href="/blog">Blogs</a></li>
                                                             <li><a href="/ebook">E-books</a></li>
                                                             <li><a href="/white-paper">White Paper</a></li>
+                                                            <li><a href="/books">Books</a></li>
                                                         </ul>
                                                     </li>
                                                     <li className="menu-item-has-children">
@@ -377,6 +378,7 @@ export default function Header() {
                                     <li><a href="/blog">Blogs</a></li>
                                     <li><a href="/ebook">E-books</a></li>
                                     <li><a href="/white-paper">White Paper</a></li>
+                                    <li><a href="/books">Books</a></li>
                                 </ul>
                             </li>
                             <li className="menu-item-has-children">
