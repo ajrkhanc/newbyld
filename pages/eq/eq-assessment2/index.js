@@ -83,7 +83,7 @@ export default function BrowseCourses() {
                     xhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
                     var Assessment = "EQ+ Assessment 2"
-                    xhttp.send("name=" + event.target.name.value +
+                    xhttp.send("name=" + name +
                         '&email=' + email +
                         '&phone=' + phone +
                         '&organization=' + organization +
