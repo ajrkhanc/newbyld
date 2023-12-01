@@ -29,95 +29,62 @@ export default function Books(){
                         
                         <div className="col-sm-3">
                            <div className="innervideoshd">
-                               <a href='#'>
+                               <a href='https://payments.byldgroup.com/Home' target='_blank'>
                                <img src='/assets/img/books/crucialconversations.svg' alt="books"/>
-                               <h3 className='booktitlerow1'>Crucial Conversations First Chapter</h3>
+                              <div className='book-details'>
+                              <div className='title'>Crucial Conversations First Chapter</div>
+                              </div>
+
+                              <div className='d-flex justify-content-between align-items-center text-center p-3'>
+                              <div className='price'>Rs.419.00/-</div>
+                              <a href='https://payments.byldgroup.com/Home' target='_blank' class="ebookbtn mt-0">Buy Now</a>
+                              </div>
                                </a>
                             </div>
                         </div>
 
                         <div className="col-sm-3">
                            <div className="innervideoshd">
-                               <a href='#'>
+                               <a href='https://payments.byldgroup.com/Home' target='_blank'>
                                <img src='/assets/img/books/crucialaccountability.svg' alt="books"/>
-                               <h3 className='booktitlerow1'>Crucial Accountability First Chapter</h3>
+
+                               <div className='book-details'>
+                              <div className='title'>Crucial Accountability First Chapter</div>
+                              </div>
+
+                              <div className='d-flex justify-content-between align-items-center text-center p-3'>
+                              <div className='price'>Rs.642.00/-</div>
+                              <a href='https://payments.byldgroup.com/Home' target='_blank' class="ebookbtn mt-0">Buy Now</a>
+                              </div>
+
+                               
                                </a>
                             </div>
                         </div>
 
                         <div className="col-sm-3">
                            <div className="innervideoshd">
-                               <a href='#'>
+                               <a href='https://payments.byldgroup.com/Home' target='_blank'>
                                <img src='/assets/img/books/influencer.svg' alt="books"/>
-                               <h3 className='booktitlerow1'>Influencer First Chapter</h3>
+                               <div className='book-details'>
+                              <div className='title'>Influencer First Chapter</div>
+                              </div>
+
+                              <div className='d-flex justify-content-between align-items-center text-center p-3'>
+                              <div className='price'>Rs.742.00/-</div>
+                              <a href='https://payments.byldgroup.com/Home' target='_blank' class="ebookbtn mt-0">Buy Now</a>
+                              </div>
+
+                            
                                </a>
                             </div>
                         </div>
-                        <div className="col-sm-3">
-                           <div className="innervideoshd">
-                               <a href='#'>
-                               <img src='/assets/img/books/the-power-of-habit-book-cover-2.svg' alt="books"/>
-                               <h3 className='booktitlerow1'>The Power of Habit Book</h3>
-                               </a>
-                            </div>
-                        </div>
+                      
 
                     </div>
                 </div>                
             </div>
 
-
-            <div className="rs-about style2 clientcornnerlogo ptt-20 pbb-30">
-                <div className="container">
-                    <div className="row">
-                        <div className="col-sm-12">
-                           <div className="">
-                               <div className="sec-title3 mbb-35">
-                                    <h4 className="countertoph2 text-center font30">Online Management and Leadership Resources</h4>
-                                    <div className="heading-border-line center-style"></div>
-                               </div>                             
-                            </div>
-                        </div>
-                        
-                        <div className="col-sm-3">
-                           <div className="innervideoshd">
-                               <a href='#'>
-                               <img src='/assets/img/books/measuring-the-impact-and-roi-of-leadership-training-1.jpg' alt="books"/>
-                               <h3 className='booktitlerow2'>Measuring the Impact and ROI of Leadership Training</h3>
-                               </a>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-3">
-                           <div className="innervideoshd">
-                               <a href='#'>
-                               <img src='/assets/img/books/img2-1.jpg' alt="books"/>
-                               <h3 className='booktitlerow2'>7 Ways Poor Leaders Are Costing Your Company Money</h3>
-                               </a>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-3">
-                           <div className="innervideoshd">
-                               <a href='#'>
-                               <img src='/assets/img/books/img3.jpg' alt="books"/>
-                               <h3 className='booktitlerow2'>3 Fatal Mistakes Managers Make When Coaching Their Teams</h3>
-                               </a>
-                            </div>
-                        </div>
-                        
-                        <div className="col-sm-3">
-                           <div className="innervideoshd">
-                               <a href='#'>
-                               <img src='/assets/img/books/img4.jpg' alt="books"/>
-                               <h3 className='booktitlerow2'>When It Comes to Customer Service, Is Your Business Flourishing or Failing?</h3>
-                               </a>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>                
-            </div>
 
             
         </>
