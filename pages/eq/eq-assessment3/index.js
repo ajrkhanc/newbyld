@@ -90,7 +90,9 @@ export default function BrowseCourses() {
                         '&assessment=' + Assessment+
                         '&result=' + result)
 
-                       
+                        // window.setTimeout(function () {
+                        //     window.location.href = `/thank-you`
+                        // }, 1000);
                 }
 
             }
