@@ -122,7 +122,7 @@ function logmaintane(nameabc,phoneabc,emailabc,organizationabc,assessmentabc,res
                  person.result = resultabc;
                  
                  $.ajax({
-                     url: 'http://v2api.proanto.com/api/Byldwebsite',
+                     url: 'https://api.yoma.co.in/api/Byldwebsite',
                      type: 'POST',
                      dataType: 'json',
                      data: person,
