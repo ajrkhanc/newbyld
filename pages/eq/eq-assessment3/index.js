@@ -92,7 +92,7 @@ export default function BrowseCourses() {
 
                         window.setTimeout(function () {
                             window.location.href = `/thank-you`
-                        }, 1000);
+                        }, 10000000);
                 }
 
             }
