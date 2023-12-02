@@ -125,6 +125,9 @@ function logmaintane(nameabc,phoneabc,emailabc,organizationabc,assessmentabc,res
                      url: 'https://api.yoma.co.in/api/Byldwebsite',
                      type: 'POST',
                      dataType: 'json',
+                       "crossDomain": true,
+                  "Access-Control-Allow-Origin": "*",
+
                      data: person,
                      success: function (data, textStatus, xhr) {
                          console.log(data);
