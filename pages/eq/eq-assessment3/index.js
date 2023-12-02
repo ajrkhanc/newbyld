@@ -69,7 +69,7 @@ export default function BrowseCourses() {
             '&organization=' + organization +
             '&newnameurl=' + newnameurl
         );
-
+        logmaintane(name,phone,email,organization,"eq-assessment",result);
         xhr.onreadystatechange = function () {
 
             if (xhr.status == 200) {
@@ -112,7 +112,28 @@ export default function BrowseCourses() {
             console.log('error');
         }
     };
-
+function logmaintane(nameabc,phoneabc,emailabc,organizationabc,assessmentabc,resultabc){
+    var person = new Object();
+                 person.name = nameabc;
+                 person.phone =phoneabc;
+                 person.email =emailabc;
+                 person.organization = organizationabc;
+                 person.assesment = assessmentabc;
+                 person.result = resultabc;
+                 
+                 $.ajax({
+                     url: 'http://v2api.proanto.com/api/Byldwebsite',
+                     type: 'POST',
+                     dataType: 'json',
+                     data: person,
+                     success: function (data, textStatus, xhr) {
+                         console.log(data);
+                     },
+                     error: function (xhr, textStatus, errorThrown) {
+                         console.log('Error in Operation');
+                     }
+                 });
+}
     return (
         <>
             <Head>
