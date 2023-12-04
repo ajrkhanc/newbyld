@@ -82,10 +82,10 @@ export default function Trapologist(){
                                         <div className="col-sm-6 pppp8">
                                             <select name="anyslot" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="Workshop: 10th August, 2023">Workshop: 10th August, 2023</option>
-                                                <option value="Webinar: 7th September, 2023">Webinar: 7th September, 2023</option>
-                                                <option value="Workshop: 26th October, 2023">Workshop: 26th October, 2023</option>
+                                                <option value="Virtual Course Previews: 13th February, 2024">Virtual Course Previews: 13th February, 2024</option>
                                                 <option value="Workshop: 15th February, 2024">Workshop: 15th February, 2024</option>
+                                                <option value="Workshop: 18th March, 2024">Workshop: 18th March, 2024</option>
+                                                {/* <option value="Workshop: 26th October, 2023">Workshop: 26th October, 2023</option> */}
                                             </select>                                            
                                         </div>
                                         <div className="col-sm-12 pppp8">
@@ -147,27 +147,7 @@ export default function Trapologist(){
                                         </div>
                                         <div className='eventstext'>
                                             <h3>Trapologist at Work<sup>®</sup></h3>
-                                            <h4>Workshop: 10th August, 2023</h4>
-                                        </div>
-                                    </div>
-
-                                    <div className='eventslist'>
-                                        <div className='eventicon'>
-                                            <i className='fa fa-calendar'></i>
-                                        </div>
-                                        <div className='eventstext'>
-                                            <h3>Trapologist at Work<sup>®</sup></h3>
-                                            <h4>Webinar: 7th September, 2023</h4>
-                                        </div>
-                                    </div>
-
-                                    <div className='eventslist'>
-                                        <div className='eventicon'>
-                                            <i className='fa fa-calendar'></i>
-                                        </div>
-                                        <div className='eventstext'>
-                                            <h3>Trapologist at Work<sup>®</sup></h3>
-                                            <h4>Workshop: 26th October, 2023</h4>
+                                            <h4> Virtual Course Previews: 13th February, 2024</h4>
                                         </div>
                                     </div>
 
@@ -180,6 +160,28 @@ export default function Trapologist(){
                                             <h4>Workshop: 15th February, 2024</h4>
                                         </div>
                                     </div>
+
+                                    <div className='eventslist'>
+                                        <div className='eventicon'>
+                                            <i className='fa fa-calendar'></i>
+                                        </div>
+                                        <div className='eventstext'>
+                                            <h3>Trapologist at Work<sup>®</sup></h3>
+                                            <h4>Workshop: 18th March, 2024</h4>
+                                        </div>
+                                    </div>
+
+                                    {/* <div className='eventslist'>
+                                        <div className='eventicon'>
+                                            <i className='fa fa-calendar'></i>
+                                        </div>
+                                        <div className='eventstext'>
+                                            <h3>Trapologist at Work<sup>®</sup></h3>
+                                            <h4>Workshop: 26th October, 2023</h4>
+                                        </div>
+                                    </div> */}
+
+                                    
                                 </div>
                             </div>                            
                     </div>
