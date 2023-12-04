@@ -158,8 +158,8 @@ export default function BrowseCourses() {
                                 <div class="col-md-6 col-6">
                                     <select name='slot' required>
                                         <option value="">Pick any Slot*</option>                                        
-                                         {/* <option value="Workshop – October 5th - 6th, 2023">Workshop – October 5th - 6th, 2023</option> */}
-                                        {/* <option value="Workshop – October 12th - 13th, 2023">Workshop – October 12th - 13th, 2023</option> */}
+                                         <option value="Virtual Course Preview – 30th January, 2024">Virtual Course Preview – 30th January, 2024</option> 
+                                        <option value="Workshop – 22nd & 23rd February, 2024">Workshop – 22nd & 23rd February, 2024</option>
 
                                         {/* <option value="Crucial Conversations for Accountability - January 30th - 31st, 2024">Crucial Conversations for Accountability - January 30th - 31st, 2024</option> */}
                                     </select>
@@ -223,23 +223,23 @@ export default function BrowseCourses() {
 
                       
 
-                        {/* <div class="col-md-4 workshop-col">
+                        <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content">
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-conversations.svg" alt="" />
                                     <h4>CRUCIAL CONVERSATIONS</h4>
                                     <p>for Accountability</p>
                                 </div>
-                                <h5 className='eventt'>Workshop</h5>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> October 12th - 13th, 2023</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> 30th January, 2024</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
-                                    <p className='soldout'>Sold Out</p>
+                                    {/* <p className='soldout'>Sold Out</p> */}
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
                             </div>
-                        </div> */}
-{/*                         
+                        </div>
+                        
                         <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content">
@@ -249,12 +249,12 @@ export default function BrowseCourses() {
                                 </div>
                                 <h5 className='eventt'>Workshop</h5>
                                 <div class="col-md-12 workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 30th - 31st, 2024</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> 22nd & 23rd February, 2024</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
                             </div>
-                        </div> */}
+                        </div>
 
 
 
