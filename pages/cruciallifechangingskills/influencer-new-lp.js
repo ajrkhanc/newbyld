@@ -157,8 +157,8 @@ export default function BrowseCourses(){
                             <option value="">Pick any Slot*</option>                            
                             
                                      {/* <option value="Virtual Course Preview - November 30th, 2023">Virtual Course Preview - November 30th, 2023</option> */}
-                                        <option value="Virtual Course Preview - November 30th, 2023">Virtual Course Preview - November 30th, 2023</option>
-                                        <option value="Workshop - December 14th  2023">Workshop - December 14th  2023</option>
+                                        <option value="Virtual Course Preview - 20th February, 2024">Virtual Course Preview - 20th February, 2024</option>
+                                        <option value="Workshop - 7th March, 2024">Workshop - 7th March, 2024</option>
                                         {/* <option value="Workshop - February 28th - 29th, 2024">Workshop - February 28th - 29th, 2024</option> */}
                         </select>
                         </div>
@@ -259,7 +259,7 @@ export default function BrowseCourses(){
                                 </div>
                                 <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date green-col">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 30th, 2023</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i>February 20th, 2024</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
@@ -274,7 +274,7 @@ export default function BrowseCourses(){
                                 </div>
                                 <h5 className='eventt'>Workshop</h5>
                                 <div class="col-md-12 workshop-date green-col">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> December 14th 2023</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> March 7th, 2024</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
