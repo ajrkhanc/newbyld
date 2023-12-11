@@ -98,22 +98,7 @@ export default function Webinars() {
                         </div> */}
 
 
-                      
-     <div class="col-md-4 workshop-col">
-                            <div class="row workshop-row">
-                                <div class="col-md-12 workshop-content green-col">
-                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
-                                    <h4>INFLUENCER</h4>
-                                    <p></p>
-                                </div>
-                                <h5 className='eventt'>Virtual Course Preview</h5>
-                                <div class="col-md-12 workshop-date green-col">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> November 30th, 2023</h6>
-                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
-                                    <a href='#registered'><button class="register">REGISTER NOW</button></a>
-                                </div>
-                            </div>
-                        </div>
+
                        <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content gtdcolor">
@@ -128,19 +113,17 @@ export default function Webinars() {
                                 </div>
                             </div>
                         </div>
-
-
-
-                        {/* <div class="col-md-4 workshop-col">
+                        <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content">
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-conversations.svg" alt="" />
                                     <h4>CRUCIAL CONVERSATIONS</h4>
                                     <p>for Mastering Dialogue</p>
                                 </div>
-                                <h5 className='eventt'>Webinar</h5>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+
                                 <div class="col-md-12 workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> April 20th, 2023</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> December 21st, 2023</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5.00 PM</h6>
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
@@ -149,19 +132,89 @@ export default function Webinars() {
 
                         <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content gtdcolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                                    <h4 className='pbb-20'>Getting Things Done</h4>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 5th, 2024</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11.00 AM to 12:00 PM</h6>
+                                    <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content">
                                     <img class="left-image img100px mbb-30" src="/classets/img/logo-conversations.svg" alt="" />
                                     <h4>CRUCIAL CONVERSATIONS</h4>
                                     <p>for Accountability</p>
                                 </div>
-                                <h5 className='eventt'>Webinar</h5>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+
                                 <div class="col-md-12 workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> May 18th, 2023</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i>January 30th, 2024</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5.00 PM</h6>
                                     <a href='#registered'><button class="register">REGISTER NOW</button></a>
                                 </div>
                             </div>
-                        </div> */}
+                        </div>
+
+                                              
+     <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content green-col">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                                    <h4>INFLUENCER</h4>
+                                    <p></p>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date green-col">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> February 20th, 2024</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
+                                    <a href='#registered'><button class="register">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-conversations.svg" alt="" />
+                                    <h4>CRUCIAL CONVERSATIONS</h4>
+                                    <p>for Mastering Dialogue</p>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> March 8th, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM to 5.00 PM</h6>
+                                    <a href='#registered'><button class="register">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content gtdcolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                                    <h4 className='pbb-20'>Getting Things Done</h4>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> March 14th, 2023</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11.00 AM to 12:00 PM</h6>
+                                    <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
+
+
+        
+
+    
+
+                   
 
 
                         <div id="registered" class="col-md-12 form-area workshop-form">
@@ -238,8 +291,17 @@ export default function Webinars() {
                                         <option value="">Pick any Slot*</option>                                        
                                         
                                         
-                                        <option value="INFLUENCER – November - 30th, 2023">INFLUENCER – November 30th, 2023</option>
-                                        <option value="getting things done – December 21st, 2023">Getting Things Done – December 21st, 2023</option>
+                                        {/* <option value="INFLUENCER – November - 30th, 2023">INFLUENCER – November 30th, 2023</option> */}
+                                           <option value="getting things done – December 21st, 2023">Getting Things Done – December 21st, 2023</option>
+                                           <option value="Crucial Conversations for Mastering Dialogue - December 21st , 2023">Crucial Conversations for Mastering Dialogue - December 21st, 2023</option>  
+                                           <option value="Getting Things Done - January 5th, 2024">Getting Things Done - January 5th, 2024</option>
+                                           <option value="Getting Things Done - March 8th, 2024">Getting Things Done - March 8th, 2024</option>
+
+                                           <option value="Crucial Conversations for Accountability - January 30th, 2024">Crucial Conversations for Accountability - January 30th, 2024</option>     
+
+                                           <option value="Influencer - February 20th, 2023">Influencer - February 20th, 2024</option> 
+                                           <option value="Crucial Conversations for Mastering Dialogue - March 8th, 2024">Crucial Conversations for Mastering Dialogue - March 8th, 2024</option>                                            
+
                                     </select>
                                 </div>
                                 <div class="col-md-6 col-6">
