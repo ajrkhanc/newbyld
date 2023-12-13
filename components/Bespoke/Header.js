@@ -44,7 +44,6 @@ export default function Header() {
                                             <li><a target="_blank" href="https://twitter.com/DTCI_India"><i className="fa fa-twitter"></i></a></li>
                                             <li><a target="_blank" href="https://www.youtube.com/@doortrainingindia/playlists"><i className="fa fa-youtube"></i></a></li>
                                             <li><a target="_blank" href="https://www.instagram.com/dtci_india/"><i className="fa fa-instagram"></i></a></li>
-
                                         </ul>
                                     </div>
                                 </div>
