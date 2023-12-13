@@ -38,13 +38,12 @@ export default function Header() {
                                 </div>
                                 <div className="col-lg-5 text-right">
                                     <div className="toolbar-sl-share">
-                                        <ul className='ptt-10'>
-                                            <li className="opening"></li>
-                                            <li><a target="_blank" href="https://www.facebook.com/AssessmentsandSignaturePrograms"><i className="fa fa-facebook"></i></a></li>
-                                            <li><a target="_blank" href="https://www.linkedin.com/company/byld-assessments-signature-programs/"><i className="fa fa-linkedin"></i></a></li>
-                                            <li><a target="_blank" href="https://twitter.com/ByldAssessments"><i className="fa fa-twitter"></i></a></li>
-                                            <li><a target="_blank" href="https://www.youtube.com/@BYLDassessments"><i className="fa fa-youtube"></i></a></li>
-                                            <li><a target="_blank" href="https://instagram.com/byld_assessments?igshid=YmMyMTA2M2Y="><i className="fa fa-instagram"></i></a></li>
+                                        <li className="opening"></li>
+                                            <li><a target="_blank" href="https://www.facebook.com/doortandcindia"><i className="fa fa-facebook"></i></a></li>
+                                            <li><a target="_blank" href="https://www.linkedin.com/company/231625/admin/feed/posts/"><i className="fa fa-linkedin"></i></a></li>
+                                            <li><a target="_blank" href="https://twitter.com/DTCI_India"><i className="fa fa-twitter"></i></a></li>
+                                            <li><a target="_blank" href="https://www.youtube.com/@doortrainingindia/playlists"><i className="fa fa-youtube"></i></a></li>
+                                            <li><a target="_blank" href="https://www.instagram.com/dtci_india/"><i className="fa fa-instagram"></i></a></li>
 
                                         </ul>
                                     </div>
