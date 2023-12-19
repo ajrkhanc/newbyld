@@ -283,7 +283,7 @@ export default function WebinarsAndProgramExperience() {
 
                         
 
-                        <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
@@ -322,7 +322,7 @@ export default function WebinarsAndProgramExperience() {
                                     <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
 
 
