@@ -386,6 +386,36 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop - January 11th, 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>The Power Of Habit Workshop</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>January 22nd -23rd , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>Crucial Conversations® For Mastering Dialogue Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
                   <span>January 22nd , 2024</span>
                 </div>
                 <div className="eventbottom">
@@ -476,6 +506,21 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
+                  <span>February 9th , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>Getting Things Done® Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
                   <span>February 15th , 2024</span>
                 </div>
                 <div className="eventbottom">
@@ -518,6 +563,22 @@ export default function Workshops() {
               </div>
             </div>
 
+            
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop - February 22nd - 23rd, 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>Crucial Conversations for Accountability®</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
@@ -537,10 +598,40 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop - March 7th, 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>Crucial Influence Workshop</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
                   <span>Workshop - March 14th, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Crucial Life Changing Skills Online Workshop</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop - March 18th, 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>Trapologist at Work® Workshop</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -751,11 +842,18 @@ export default function Workshops() {
                            DCA BAtch 43 -
                             January 6th, 2024
                           </option>
+                          <option value="DCA BAtch 43  - January 6th, 2024">
+                           The Power Of Habit -
+                            January 11th, 2024
+                          </option>
                           <option value="Crucial Life Changing Skills, Getting Things Done - January 11th, 2024">
                             Crucial Life Changing Skills, Getting Things Done -
                             January 11th, 2024
                           </option>
-
+                          <option value="Crucial Conversations® For Mastering Dialogue Workshop - January 22nd-23rd, 2024">
+                          Crucial Conversations® For Mastering Dialogue Workshop -
+                            January 22nd -23rd, 2024
+                          </option>
                           <option value="DiSC Certification Virtual Workshop - January 22nd, 2024">
                           DiSC Certification Virtual Workshop -
                             January 22nd, 2024
@@ -779,6 +877,10 @@ export default function Workshops() {
                             Crucial Life Changing Skills, Crucial Conversations
                             for Accountability - January 30th - 31st, 2024
                           </option>
+                          <option value="Getting Things Done®Workshop - February 9th, 2024">
+                          Getting Things Done® Workshop -
+                            February 9th, 2024
+                          </option>
                           <option value="DiSC Certification Virtual Workshop - February 15th, 2024">
                           DiSC Certification Virtual Workshop -
                             February 15th, 2024
@@ -791,13 +893,25 @@ export default function Workshops() {
                           DCA BAtch 43 - February
                             17th, 2024
                           </option>
+                          <option value="Crucial Conversations for Accountability®- February 22nd-23rd, 2024">
+                          Crucial Conversations for Accountability®
+                            22nd - 23rd, 2024
+                          </option>
                           <option value="Crucial Life Changing Skills, Influencer - February 28th - 29th, 2024">
                             Crucial Life Changing Skills, Influencer - February
                             28th - 29th, 2024
                           </option>
+                          <option value="Crucial Influence - March 7th, 2024">
+                          Crucial Influence -
+                            March 7th, 2024
+                          </option>
                           <option value="Crucial Life Changing Skills, The Power of Habit - March 14th, 2024">
                             Crucial Life Changing Skills, The Power of Habit -
                             March 14th, 2024
+                          </option>
+                          <option value="Trapologist at Work® - March 18th, 2024">
+                          Trapologist at Work® -
+                            March 18th, 2024
                           </option>
                           <option value="DiSC Certification Virtual Workshop - March 19th, 2024">
                           DiSC Certification Virtual Workshop -
