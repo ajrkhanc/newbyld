@@ -386,7 +386,53 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 22nd - 25th , 2024</span>
+                  <span>January 22nd , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>January 23rd , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>January 24th , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>January 25th , 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>DiSC Certification Virtual Workshop</h3>
@@ -420,6 +466,37 @@ export default function Workshops() {
                 <div className="eventbottom">
                   <h3>Crucial Life Changing Skills Online Workshop</h3>
                   <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>February 15th , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>February 16th , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
@@ -470,8 +547,70 @@ export default function Workshops() {
                 </div>
               </div>
             </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>March 19th , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>March 20th , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>March 21st , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>March 22nd , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
           </div>
 
+          </div>
           <div className="clearfix"></div>
           <div className="solutionarrowbox1">
             <img src="/assets/img/homeb/orangearrow.png" />
@@ -479,7 +618,6 @@ export default function Workshops() {
           <div className="solutionarrowbox2">
             <img src="/assets/img/homeb/bluearrow1.png" />
           </div>
-        </div>
       </section>
 
       <div id="Register" class="homecon ptt-60">
@@ -617,9 +755,37 @@ export default function Workshops() {
                             Crucial Life Changing Skills, Getting Things Done -
                             January 11th, 2024
                           </option>
+
+                          <option value="DiSC Certification Virtual Workshop - January 22nd, 2024">
+                          DiSC Certification Virtual Workshop -
+                            January 22nd, 2024
+                          </option>
+
+                          <option value="DiSC Certification Virtual Workshop - January 23rd, 2024">
+                          DiSC Certification Virtual Workshop -
+                            January 23rd, 2024
+                          </option>
+
+                          <option value="DiSC Certification Virtual Workshop - January 24th, 2024">
+                          DiSC Certification Virtual Workshop -
+                            January 24th, 2024
+                          </option>
+
+                          <option value="DiSC Certification Virtual Workshop - January 25th, 2024">
+                          DiSC Certification Virtual Workshop -
+                            January 25th, 2024
+                          </option>
                           <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - January 30th - 31st, 2024">
                             Crucial Life Changing Skills, Crucial Conversations
                             for Accountability - January 30th - 31st, 2024
+                          </option>
+                          <option value="DiSC Certification Virtual Workshop - February 15th, 2024">
+                          DiSC Certification Virtual Workshop -
+                            February 15th, 2024
+                          </option>
+                          <option value="DiSC Certification Virtual Workshop - February 16th, 2024">
+                          DiSC Certification Virtual Workshop -
+                            February 16th, 2024
                           </option>
                           <option value="DCA BAtch 43 - February 17th, 2024">
                           DCA BAtch 43 - February
@@ -632,6 +798,22 @@ export default function Workshops() {
                           <option value="Crucial Life Changing Skills, The Power of Habit - March 14th, 2024">
                             Crucial Life Changing Skills, The Power of Habit -
                             March 14th, 2024
+                          </option>
+                          <option value="DiSC Certification Virtual Workshop - March 19th, 2024">
+                          DiSC Certification Virtual Workshop -
+                            March 19th, 2024
+                          </option>
+                          <option value="DiSC Certification Virtual Workshop - March 20th, 2024">
+                          DiSC Certification Virtual Workshop -
+                            March 20th, 2024
+                          </option>
+                          <option value="DiSC Certification Virtual Workshop - March 21st, 2024">
+                          DiSC Certification Virtual Workshop -
+                            March 21st, 2024
+                          </option>
+                          <option value="DiSC Certification Virtual Workshop - March 22nd, 2024">
+                          DiSC Certification Virtual Workshop -
+                            March 22nd, 2024
                           </option>
                         </select>
                       </div>
