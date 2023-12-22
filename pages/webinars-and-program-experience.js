@@ -82,39 +82,39 @@ export default function WebinarsAndProgramExperience() {
                         
 
 
-                        {/* <div className='col-sm-4'>
+                        <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar January 20th, 2023</span>
+                                <span>Webinar January 5th, 2024</span>
                             </div>
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
-                                <h3>Lumina Spark</h3>
+                                <h3>Getting Things Done®</h3>
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
+
+                        <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar January 5th, 2024</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
+                                <h3>Crucial Influence®</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div>
 
                         {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar February 3rd, 2023</span>
-                            </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
-                                <h3>The Five Behaviors<sup>®️</sup> Personal Development</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div> */}
-
-                        {/* <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar February 15th, 2023</span>
+                                <span>Webinar January 30th, 2024</span>
                             </div>
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 4.00 PM to 5.00 PM</h4>
@@ -122,35 +122,50 @@ export default function WebinarsAndProgramExperience() {
                                 <a className="eventbtn" href='/cruciallifechangingskills/webinars/'>Reserve Your Seat</a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar February 17th, 2023</span>
+                                <span>Webinar January 30th, 2024</span>
                             </div>
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
-                                <h3>The Five Behaviors<sup>®️</sup> Team Development</h3>
+                                <h3>Crucial Conversations for Accountability®</h3>
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
 
-                        {/* <div className='col-sm-4'>
+                    <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar February 13th, 2024</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
+                                    <h3>Trapologist at Work®</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar March 17th, 2023</span>
+                                <span>Webinar February 20th, 2024</span>
                             </div>
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
-                                <h3>Agile EQ Virtual Course Preview</h3>
-                                <a className="eventbtn" target="_blank" href='/everythingdisc/everything-disc-agile-eq-webinar'>Reserve Your Seat</a>
+                                <h3>Crucial Influence®</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
 
 
 
@@ -188,19 +203,19 @@ export default function WebinarsAndProgramExperience() {
 
 
 
-                        {/* <div className='col-sm-4'>
+                        <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar Wednesday, 7th June 2023</span>
+                                <span>Webinar 8th March 2024</span>
                             </div>
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 3:00 pm - 4:00 pm</h4>
-                                <h3>Everything DiSC Management</h3>
+                                <h3>Crucial Conversations® For Mastering Dialogue</h3>
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
 
                         
 
@@ -211,34 +226,21 @@ export default function WebinarsAndProgramExperience() {
 
                         
 
-                        {/* <div className='col-sm-4'>
+                        <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Virtual Course Preview - July 24th, 2023</span>
+                                    <span>Webinar 14th March 2024</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4>
-                                    <h3>Crucial Life Changing Skills</h3>
+                                    <h3>Getting Things Done®</h3>
                                     <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Webinar - July 28th, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
-                                    <h3>Foster Diversity and Inclusion in Automotive Sector</h3>
-                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div> */}
-
+                      
                         {/* <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
@@ -400,9 +402,14 @@ export default function WebinarsAndProgramExperience() {
                                                 {/* <option value="Five Behaviour Personal Development, 2nd August, 2023">Five Behaviour Personal Development, 2nd August, 2023</option> */}
                                                 {/* <option value="Inside Out Coaching, 23rd August 2023">Inside Out Coaching, 23rd August 2023</option>
                                                 <option value="Lumina Spark, 23rd August, 2023">Lumina Spark, 23rd August, 2023</option> */}
-                                                <option value="BeSpoke Solutions – November 9th, 2023">BeSpoke Solutions – November 9th, 2023</option>
-                                                <option value="Crucial Life Changing Skills, INFLUENCER – November 30th, 2023">Crucial Life Changing Skills, INFLUENCER – November 30th, 2023</option>                                                
-                                                <option value="Crucial Life Changing Skills, The power of habit – December 5th, 2023">Crucial Life Changing Skills, The power of habit – December 5th, 2023</option>
+                                                <option value="Getting Things Done® – January 5th, 2024">Getting Things Done® – January 5th, 2024</option>
+                                                <option value="Crucial Influence® – January 5th, 2024">Crucial Influence® – January 5th, 2024</option>                                                
+                                                <option value="Crucial Conversations for Accountability® – January 30th, 2024">Crucial Conversations for Accountability® – January 30th, 2024</option>
+                                                <option value="Crucial Influence® – February 20th, 2024">Crucial Influence® – February 20th, 2024</option>
+                                                <option value="Crucial Conversations® For Mastering Dialogue – March 8th, 2024">Crucial Conversations® For Mastering Dialogue – March 8th, 2024</option>
+                                                <option value="Getting Things Done® – March 14th, 2024">Getting Things Done® – March 14th, 2024</option>
+                                                <option value="Trapologist at Work® – February 13th, 2024">Trapologist at Work® – February 13th, 2024</option>
+
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">
