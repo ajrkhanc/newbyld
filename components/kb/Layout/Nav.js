@@ -15,9 +15,9 @@ function Nav() {
                <div className="header-container container container--large">
                   <div className="header-row">
                      <div className="header-col">
-                        <div className="header-logo">
-                           <a href="index.htm" className="brand">
-                           <img src="/kbassets/img/Blanchard_Global Partner Logo_India-01.png" alt="Images" />
+                                    <div className="header-logo logo-size">
+                           <a href="/blanchardindia" className="brand">
+                           <img src="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" alt="Images" />
                            </a>
                         </div>
                         <button className="header-mobile-btn hamburger" data-expander="header-nav" data-expander-css="" data-expander-nofocus="">
