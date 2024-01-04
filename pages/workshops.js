@@ -495,7 +495,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 15th & 16th , 2024</span>
+                  <span>February 22nd & 23rd , 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>DiSC Certification Virtual Workshop</h3>
@@ -809,7 +809,7 @@ export default function Workshops() {
                           Getting Things Done® Workshop -
                             February 9th, 2024
                           </option>
-                          <option value="DiSC Certification Virtual Workshop - February 15th & 16th , 2024">
+                          <option value="DiSC Certification Virtual Workshop - February 22nd & 23rd , 2024">
                           DiSC Certification Virtual Workshop -
                             February 15th & 16th , 2024
                           </option>
