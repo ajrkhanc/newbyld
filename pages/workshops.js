@@ -809,9 +809,9 @@ export default function Workshops() {
                           Getting Things Done® Workshop -
                             February 9th, 2024
                           </option>
-                          <option value="DiSC Certification Virtual Workshop - February 22nd & 23rd , 2024">
+                          <option value="DiSC Certification Virtual Workshop - February 15th & 16th , 2024">
                           DiSC Certification Virtual Workshop -
-                            February 15th & 16th , 2024
+                            February 22nd & 23rd , 2024
                           </option>
                         
                           <option value="DCA BAtch 43 - February 17th, 2024">
@@ -820,7 +820,7 @@ export default function Workshops() {
                           </option>
                           <option value="Crucial Conversations for Accountability®- February 22nd-23rd, 2024">
                           Crucial Conversations for Accountability®
-                            22nd - 23rd, 2024
+                          February 22nd - 23rd, 2024
                           </option>
                         
                           <option value="Crucial Influence - March 7th, 2024">
