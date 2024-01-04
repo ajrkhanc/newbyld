@@ -97,10 +97,10 @@ export default function TirianIndex(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="slot" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="Showcase 15th September 2023">Showcase 15th September 2023</option>
+                                                {/* <option value="Showcase 15th September 2023">Showcase 15th September 2023</option>
                                                 <option value="Webinar 6th October 2023">Webinar 6th October 2023</option>
                                                 <option value="Webinar 10th November 2023">Webinar 10th November 2023</option>
-                                                <option value="Webinar 1st December 2023">Webinar 1st December 2023</option>
+                                                <option value="Webinar 1st December 2023">Webinar 1st December 2023</option> */}
                                                 <option value="Webinar 5th January 2024">Webinar 5th January 2024</option>
                                             </select>
                                         </div>
@@ -175,7 +175,7 @@ export default function TirianIndex(){
                         </div>
                     </div> */}
 
-                    <div className='col-sm-4'>
+                    {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -225,7 +225,7 @@ export default function TirianIndex(){
                                 <a className="eventbtn" href='#Reserve'>REGISTER NOW</a>
                             </div>
                         </div>
-                    </div> 
+                    </div>  */}
 
                     <div className='col-sm-4'>
                         <div className='eventsbox'>
