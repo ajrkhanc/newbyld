@@ -156,8 +156,7 @@ export default function JoinOurPartnerNetworkLP() {
                                             <div className="col-lg-12 mb-12">
                                                 <select name="intrestedin" required>
                                                     <option value="">Pick up any Slot*</option>                                                    
-                                                    <option value="October 4th 2023 - 11:00 AM - 12:00 PM">October 4th 2023 - 11:00 AM - 12:00 PM</option>
-                                                    <option value="November 22nd 2023 - 11:00 AM - 12:00 PM">November 22nd 2023 - 11:00 AM - 12:00 PM</option>
+                                                    
                                                 </select>
                                             </div>
 
@@ -506,7 +505,7 @@ export default function JoinOurPartnerNetworkLP() {
                                 </div>
                             </div>
                         </div> */}
-                        <div className='col-sm-4'>
+                    {/*     <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
@@ -535,7 +534,7 @@ export default function JoinOurPartnerNetworkLP() {
                                 </div>
                             </div>
                         </div>
-
+                    */}
                     </div>
 
                     <div className='clearfix'></div>
