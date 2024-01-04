@@ -367,20 +367,7 @@ export default function Workshops() {
               </div>
             </div>
 
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop - January 11th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Crucial Life Changing Skills Online Workshop</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
+         
 
             <div className="col-sm-4">
               <div className="eventsbox">
@@ -487,20 +474,7 @@ export default function Workshops() {
 
  
 
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop - January 30th - 31st, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Crucial Life Changing Skills Online Workshop</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
+           
 
             <div className="col-sm-4">
               <div className="eventsbox">
@@ -579,20 +553,7 @@ export default function Workshops() {
               </div>
             </div>
 
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop - February 28th - 29th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Crucial Life Changing Skills Online Workshop</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
+          
 
             <div className="col-sm-4">
               <div className="eventsbox">
@@ -609,20 +570,7 @@ export default function Workshops() {
               </div>
             </div>
 
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop - March 14th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Crucial Life Changing Skills Online Workshop</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
+            
 
             <div className="col-sm-4">
               <div className="eventsbox">
@@ -846,10 +794,7 @@ export default function Workshops() {
                            The Power Of Habit -
                             January 11th, 2024
                           </option>
-                          <option value="Crucial Life Changing Skills, Getting Things Done - January 11th, 2024">
-                            Crucial Life Changing Skills, Getting Things Done -
-                            January 11th, 2024
-                          </option>
+                         
                           <option value="Crucial Conversations® For Mastering Dialogue Workshop - January 22nd-23rd, 2024">
                           Crucial Conversations® For Mastering Dialogue Workshop -
                             January 22nd -23rd, 2024
@@ -859,10 +804,7 @@ export default function Workshops() {
                           22nd, 23rd, 24th, 25th January, 2024
                           </option>
 
-                                 <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - January 30th - 31st, 2024">
-                            Crucial Life Changing Skills, Crucial Conversations
-                            for Accountability - January 30th - 31st, 2024
-                          </option>
+                            
                           <option value="Getting Things Done®Workshop - February 9th, 2024">
                           Getting Things Done® Workshop -
                             February 9th, 2024
@@ -880,18 +822,12 @@ export default function Workshops() {
                           Crucial Conversations for Accountability®
                             22nd - 23rd, 2024
                           </option>
-                          <option value="Crucial Life Changing Skills, Influencer - February 28th - 29th, 2024">
-                            Crucial Life Changing Skills, Influencer - February
-                            28th - 29th, 2024
-                          </option>
+                        
                           <option value="Crucial Influence - March 7th, 2024">
                           Crucial Influence -
                             March 7th, 2024
                           </option>
-                          <option value="Crucial Life Changing Skills, The Power of Habit - March 14th, 2024">
-                            Crucial Life Changing Skills, The Power of Habit -
-                            March 14th, 2024
-                          </option>
+                         
                           <option value="Trapologist at Work® - March 18th, 2024">
                           Trapologist at Work® -
                             March 18th, 2024
