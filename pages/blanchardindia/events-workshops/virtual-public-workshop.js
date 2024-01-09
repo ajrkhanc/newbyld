@@ -112,18 +112,23 @@ export default function VirtualPublicWorkshop() {
                                        {/* <option value="Team Leadership - Virtual July 26th, 2023">Team Leadership - Virtual July 26th, 2023</option> */}
                                        {/* <option value="The SLII Experience™, Virtual - August 7th to 8th, 2023">The SLII Experience™, Virtual - August 7th to 8th, 2023</option>
                                        <option value="The SLII Experience™, T4T - August 9th to 10th, 2023">The SLII Experience™, T4T - August 9th to 10th, 2023</option> */}
-                                       {/* <option value="Conversational Capacity - Virtual - August 23rd, 2023">Conversational Capacity - Virtual - August 23rd, 2023</option> */}
-                                       {/* <option value="Blanchard Management Essentials - Virtual - September 13th, 2023">Blanchard Management Essentials - Virtual - September 13th, 2023</option>
-                                       <option value="Coaching Essentials - Virtual - September 21st, 2023">Coaching Essentials - Virtual - September 21st, 2023</option>
-                                       <option value="The SLII Experience™ - September 25th, 2023">The SLII Experience™ - September 25th, 2023</option>
-                                       <option value="The SLII Experience™ T4T F2F - September 27th, 2023">The SLII Experience™ T4T F2F - September 27th, 2023</option> */}
-                                       {/* <option value="Self Leadership - Virtual - October 11th, 2023">Self Leadership - Virtual - October 11th, 2023</option>
-                                       <option value="Team Leadership - Virtual - October 19th, 2023">Team Leadership - Virtual - October 19th, 2023</option> */}
-                                       <option value="Building Trust - Virtual - November 2nd, 2023">Building Trust - Virtual - November 2nd, 2023</option>
-                                       <option value="The SLII Experience™ - November 20th, 2023">The SLII Experience™ - November 20th, 2023</option>
-                                       <option value="The SLII Experience™ T4T F2F - November 22nd, 2023">The SLII Experience™ T4T F2F - November 22nd, 2023</option>
-                                       <option value="Conversational Capacity - Virtual - December 13th, 2023">Conversational Capacity - Virtual - December 13th, 2023</option>
-                                       <option value="Blanchard Management Essentials - Virtual - December 20th, 2023">Blanchard Management Essentials - Virtual - December 20th, 2023</option>
+                                       <option value="The SLII Experience™ - Virtual - January 12th - 13th, 2024">The SLII Experience™ - Virtual - January 12th - 13th, 2024</option>
+                                       <option value="The SLII Experience™ T4T F2F - January 19th - 20th, 2024">The SLII Experience™ T4T F2F  - January 19th -20th, 2024</option>
+                                       <option value="Self Leadership - Virtual - February 1st, 2024">Self Leadership - Virtual - February 1st, 2024</option>
+                                       <option value="Conversational Capacity - Virtual - February 10th, 2024">Conversational Capacity - Virtual - February 10th, 2024</option>
+                                       <option value="Fearless Innovation - February 22nd, 2024">Fearless Innovation - February 22nd, 2024</option>
+                                       <option value="The SLII Experience™ - Virtual - March 13th -14th, 2024">The SLII Experience™ - Virtual - March 13th - 14th, 2024</option>
+                                       <option value="The SLII Experience™ T4T F2F - March 21st -22nd, 2024">The SLII Experience™ T4T F2F - March 21st - 22nd, 2024</option>
+                                       <option value="Blanchard Management Essentials - Virtual - March 21st, 2024">Blanchard Management Essentials - Virtual - March 21st, 2024</option>
+                                       <option value="The SLII Experience™ - April 4th, 2024">The SLII Experience™ - April 4th, 2024</option>
+                                       <option value="Self Leadership - Virtual - April 18th - 19th, 2024">Self Leadership - Virtual - April 18th -19th, 2024</option>
+                                       <option value="The SLII Experience™ - Virtual - May 8th - 9th, 2024">The SLII Experience™ - Virtual - May 8th - 9th, 2024</option>
+                                       <option value="The SLII Experience™ T4T F2F - May 16th - 17th, 2024">The SLII Experience™ T4T F2F - May 16th -17th, 2024</option>
+                                       <option value="Essential Motivators - F2F - June 6th, 2024">Essential Motivators - F2F - June 6th, 2024</option>
+                                       <option value="Leading People Through Change - June 13th, 2024">Leading People Through Change - June 13th, 2024</option>
+
+                                       <option value="Building Trust - June 20th, 2024">Building Trust - June 20th, 2024</option>
+
                                     </select>
                                  </div>
                               </div>
@@ -170,7 +175,7 @@ export default function VirtualPublicWorkshop() {
                      <div className="what-did-left-content">
                         <div className="row row-eq-height eventsandworkshopbox">
 
-                           {/* <div className="col-sm-4">
+                          {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™ - Virtual</h3>
@@ -181,10 +186,10 @@ export default function VirtualPublicWorkshop() {
                                     </div>
                                  </div>
                               </div>
-                           </div> */}
+                           </div> 
                            
 
-                           {/* <div className="col-sm-4">
+                           <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3 className="ptt10 mbb-0">Team Leadership - Virtual</h3>
@@ -273,26 +278,26 @@ export default function VirtualPublicWorkshop() {
                                     </div>
                                  </div>
                               </div>
-                           </div>
+                           </div>*/}
 
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ T4T F2F</h3>
-                                 <p>September 27th, 2023</p>
+                                 <h3>The SLII Experience™ - Virtual </h3>
+                                 <p> January 12th - 13th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
                                     <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
-                           </div> */}
+                           </div> 
 
-                           {/* <div className="col-sm-4">
+                           <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev1.jpg" alt="Images" />
-                                 <h3>Self Leadership - Virtual</h3>
-                                 <p>October 11th, 2023</p>
+                                 <h3>The SLII Experience™ T4T F2F</h3>
+                                 <p>January 19th - 20th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
                                     <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
@@ -304,21 +309,21 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev2.jpg" alt="Images" />
-                                 <h3>Team Leadership - Virtual</h3>
-                                 <p>October 19th, 2023</p>
+                                 <h3>Self Leadership - Virtual</h3>
+                                 <p>February 1st, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
                                     <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
                                     </div>
                                  </div>
                               </div>
-                           </div> */}
+                           </div>
 
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev3.jpg" alt="Images" />
-                                 <h3>Building Trust - Virtual</h3>
-                                 <p>November 2nd, 2023</p>
+                                 <h3>Conversational Capacity - Virtual</h3>
+                                 <p>February 10th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
                                     <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
@@ -330,8 +335,8 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev4.jpg" alt="Images" />
-                                 <h3>The SLII Experience™</h3>
-                                 <p>November 20th, 2023</p>
+                                 <h3>Fearless Innovation</h3>
+                                 <p>February 22nd, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
                                     <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
@@ -343,8 +348,8 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev5.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ T4T F2F</h3>
-                                 <p>November 22nd, 2023</p>
+                                 <h3>The SLII Experience™ - Virtual</h3>
+                                 <p>March 13th - 14th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
                                     <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
@@ -356,8 +361,8 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev6.jpg" alt="Images" />
-                                 <h3>Conversational Capacity - Virtual</h3>
-                                 <p>December 13th, 2023</p>
+                                 <h3>The SLII Experience™ T4T F2F</h3>
+                                 <p>March 21st - 22nd, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
                                     <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
@@ -370,7 +375,7 @@ export default function VirtualPublicWorkshop() {
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev7.jpg" alt="Images" />
                                  <h3>Blanchard Management Essentials - Virtual</h3>
-                                 <p>December 20th, 2023</p>
+                                 <p>March 21st, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
                                     <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
@@ -380,7 +385,96 @@ export default function VirtualPublicWorkshop() {
                            </div>
 
 
+                           <div className="col-sm-4">
+                              <div className="choose-card">
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <h3>The SLII Experience™</h3>
+                                 <p>April 4th, 2024</p>
+                                 <div className='row eventsbottomarea2 text-center'>
+                                    <div className='col-sm-12'>
+                                    <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
 
+                           <div className="col-sm-4">
+                              <div className="choose-card">
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <h3>Self Leadership - Virtual</h3>
+                                 <p>April 18th - 19th, 2024</p>
+                                 <div className='row eventsbottomarea2 text-center'>
+                                    <div className='col-sm-12'>
+                                    <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+
+                           <div className="col-sm-4">
+                              <div className="choose-card">
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <h3>The SLII Experience™ - Virtual</h3>
+                                 <p>May 8th - 9th, 2024</p>
+                                 <div className='row eventsbottomarea2 text-center'>
+                                    <div className='col-sm-12'>
+                                    <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+
+                           <div className="col-sm-4">
+                              <div className="choose-card">
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <h3>The SLII Experience™ T4T F2F</h3>
+                                 <p>May 16th - 17th, 2024</p>
+                                 <div className='row eventsbottomarea2 text-center'>
+                                    <div className='col-sm-12'>
+                                    <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+
+                           <div className="col-sm-4">
+                              <div className="choose-card">
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <h3>Essential Motivators - F2F</h3>
+                                 <p>June 6th, 2024</p>
+                                 <div className='row eventsbottomarea2 text-center'>
+                                    <div className='col-sm-12'>
+                                    <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+
+                           <div className="col-sm-4">
+                              <div className="choose-card">
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <h3>Leading People Through Change </h3>
+                                 <p>June 13th, 2024</p>
+                                 <div className='row eventsbottomarea2 text-center'>
+                                    <div className='col-sm-12'>
+                                    <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+
+                           <div className="col-sm-4">
+                              <div className="choose-card">
+                                 <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
+                                 <h3>Building Trust </h3>
+                                 <p>June 20th, 2024</p>
+                                 <div className='row eventsbottomarea2 text-center'>
+                                    <div className='col-sm-12'>
+                                    <a href="#REQUEST" className="default-btn-two">REQUEST INFO<i className="bx bx-right-arrow-alt"></i></a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
 
                         </div>
                      </div>
