@@ -394,18 +394,33 @@ export default function Home({ country }) {
                             </div>
                         </div>
                     </div>
-                    <div className='row mmssb zindx'>
+                    <div className='row mmssb zindx new-line'>
                         <div className='col-sm-12'>
                             <div className='text-center'>
-                                <div className='minnerb wow fadeInUp delay-0-2s animated animateUP'>
-                                    <h3>Time - 130 hrs</h3>
-                                    <h4> Max students - 20 </h4>
+                                <div className='minnerb wow fadeInUp delay-0-2s animated animateUP new-box'>
+                                <div className='d-flex justify-content-between align-items-center'>
+                                <div className='text-left'>
+                                <p className='mb-0'>Total Time -170Hours</p>
+                                <p className='mb-0'>Module 1 -30 Hours Credit</p>
+                                <p className='mb-0'>Module 2 -30 Hours Credit</p>
+                                <p className='mb-0'>Mentor Coaching - 10 Hours</p>
+                                <p className='mb-0'>Coaching - 100 Hours</p>
+                                <p className='mb-0'>Max Students - 20</p>
+                                </div>
+                                <div>
+                                <img src="/assets/img/icf-logo.png" className='icf-width' alt="images" />
+
+                                </div>
+                                </div>
+                                
+                             {/*<h3>Time - 130 hrs</h3>
+                                    <h4> Max students - 20 </h4>*/}
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div className='row mmssb2 zindx'>
+                    <div className='row mmssb2 zindx new-line1'>
                         <div className='col-sm-6 zindexx'>
                             <div className='moduleinner'>
                                 <h3 className='wow fadeInUp delay-0-2s animated animateUP'>Coaching Foundation Module 1</h3>
