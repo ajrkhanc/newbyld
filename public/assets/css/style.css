@@ -8983,3 +8983,22 @@ body .search-modal .close:hover {
 
 
 .plogoc{max-height: 55px !important;}
+
+
+/* new css */
+.icf-width{
+  width:100px !important
+}
+
+.new-line::after {
+  height: 50px !important;
+  top: 350px !important;
+}
+
+.new-line1::before {
+  top: 25rem !important;
+}
+
+.new-box {
+  width: 30%;
+}
