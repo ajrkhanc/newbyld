@@ -42,6 +42,30 @@ export default function PodCast() {
 
                                 <div className="col-sm-4">
                                         <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/podcast .png" alt="Images" />
+                                            <h3>The Trusted Learning Advisor with Dr. Keith Keating</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/The-Trusted-Learning-Advisor-with-Dr.-Keith-Keating"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/blanchard logo change .png" alt="Images" />
+                                            <h3>2023 The Year in Review with Ken Blanchard and Chad Gordon</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/2023-The-Year-in-Review-with-Ken-Blanchard-and-Chad-Gordon"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                <div className="col-sm-4">
+                                        <div className="choose-card">
                                             <img src="/kbassets/img/podcast/Love+WorkWithMarcus.webp" alt="Images" />
                                             <h3>Love + Work with Marcus Buckingham</h3>
                                             <div className='row text-center eventsbottomarea2'>
@@ -66,7 +90,7 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/5-practice.webp" alt="Images" />
+                                            <img src="/kbassets/img/podcast/The 5 Practices of Highly Resilient People with Dr. Taryn Marie Stejskal.png" alt="Images" />
                                             <h3>The 5 Practices of Highly Resilient People with Dr. Taryn Marie Stejskal</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -90,7 +114,7 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/inner-journey.webp" alt="Images" />
+                                            <img src="/kbassets/img/podcast/The Inner Journey of Leadership with Dan Rockwell.png" alt="Images" />
                                             <h3>The Inner Journey of Leadership with Dan Rockwell</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -99,10 +123,10 @@ export default function PodCast() {
                                             </div>
                                         </div>
                                     </div>
-                    
+
                                 <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/the-song-of-significance-with-seth-godin.jpg" alt="Images" />
+                                            <img src="/kbassets/img/podcast/The Song of Significance with Seth Godin.png" alt="Images" />
                                             <h3>The Song of Significance with Seth Godin</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -150,7 +174,7 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/compassionate-accountability-with-nate-regier.jpg" alt="Images" />
+                                            <img src="/kbassets/img/podcast/Compassionate Accountability with Nate Regier.png" alt="Images" />
                                             <h3>Compassionate Accountability with Nate Regier</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -162,7 +186,7 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/change-your-questions-change-your-life-with-dr-marilee-adams.jpg" alt="Images" />
+                                            <img src="/kbassets/img/podcast/Change Your Questions, Change Your Life with Dr. Marilee Adams.png" alt="Images" />
                                             <h3>Change Your Questions, Change Your Life with Dr. Marilee Adams</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -209,7 +233,7 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/the-heart-of-human-achievement-with-scott-blanchard.jpg" alt="Images" />
+                                            <img src="/kbassets/img/podcast/The Heart of Human Achievement™ with Scott Blanchard.png" alt="Images" />
                                             <h3>The Heart of Human Achievement™ with Scott Blanchard</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
@@ -257,7 +281,7 @@ export default function PodCast() {
 
                                     <div className="col-sm-4">
                                         <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/motivating-your-team-with-catherine-stothart.jpg" alt="Images" />
+                                            <img src="/kbassets/img/podcast/Motivating Your Team with Catherine Stothart.png" alt="Images" />
                                             <h3>Motivating Your Team with Catherine Stothart</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
