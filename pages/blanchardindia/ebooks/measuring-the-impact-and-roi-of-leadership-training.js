@@ -54,7 +54,7 @@ function EbooksKB() {
             <div className="row">
                <div className="col-sm-5">
                   <div className="ebbokshd">
-                  <img src="/assets/img/ebook1.jpg" alt="Images" />
+                  <img src="/kbassets/img/Measuring the Impact and ROI of Leadership Training.png" alt="Images" />
                   </div>
                </div>
                 <div className="col-sm-7">

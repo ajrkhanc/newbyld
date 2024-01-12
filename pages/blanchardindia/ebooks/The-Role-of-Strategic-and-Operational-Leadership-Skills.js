@@ -100,7 +100,7 @@ function EbooksKB() {
             </div>
             <div className="col-lg-6">
               <div className="img100">
-                <img src="/kbassets/img/7warning.jpg" alt="Images" />
+                <img src="/kbassets/img/The Role of Strategic and Operational Leadership Skills How and When to Use in a Government Setting.png" alt="Images" />
               </div>
             </div>
           </div>

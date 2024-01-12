@@ -73,7 +73,7 @@ on human resources professionals and leaders.
          </div>
          <div className="col-lg-6">
             <div className="img100">
-            <img src="/kbassets/img/l&d.png" alt="Images"/>
+            <img src="/kbassets/img/2024 HRL&D Trends Survey Navigating the High-Expectation Work Environment.png" alt="Images"/>
             </div>
          </div>
       </div>
@@ -86,7 +86,7 @@ on human resources professionals and leaders.
                 <div className="col-lg-12">
                 <div className='text-center pb-25'>
                     
-                    <h3 className='titleh2'>Taking a Situational Approach to Management</h3>
+                    {/* <h3 className='titleh2'>Taking a Situational Approach to Management</h3> */}
                     <h3 className='titleh2'>Fill in your details to read more</h3>
                 </div>
                 <div className="contact-form">                  

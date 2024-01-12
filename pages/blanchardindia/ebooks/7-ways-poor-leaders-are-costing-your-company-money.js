@@ -49,11 +49,11 @@ function EbooksKB() {
          </Head> 
             
   
-  <section>
+  {/* <section>
       <div className="img100">
           <img src="/assets/img/7wayb.jpg"  alt="diversity-equity-inclusion-pov"/>
       </div>
-  </section>          
+  </section>           */}
             
  <div className="what-did-area pt-45">
    <div className="container">
@@ -71,7 +71,7 @@ function EbooksKB() {
          </div>
          <div className="col-lg-6">
             <div className="img100">
-            <img src="/assets/img/7way.jpg" alt="Images"/>
+            <img src="/kbassets/img/7 Ways Poor Leaders Are Costing Your Company Money.png" alt="Images"/>
             </div>
          </div>
       </div>

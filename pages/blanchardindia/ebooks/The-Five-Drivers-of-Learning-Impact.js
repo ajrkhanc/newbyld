@@ -91,7 +91,7 @@ function EbooksKB() {
             </div>
             <div className="col-lg-6">
               <div className="img100">
-                <img src="/kbassets/img/FiveDrivers.png" alt="Images" />
+                <img src="/kbassets/img/The Five Drivers of Learning Impact.png" alt="Images" />
               </div>
             </div>
           </div>

@@ -48,11 +48,11 @@ function EbooksKB() {
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>
 
-  <section>
+  {/* <section>
       <div className="img100">
           <img src="/kbassets/img/7warningb.jpg"  alt="diversity-equity-inclusion-pov"/>
       </div>
-  </section>          
+  </section>           */}
             
  <div className="what-did-area pt-45">
    <div className="container">
@@ -70,7 +70,7 @@ function EbooksKB() {
          </div>
          <div className="col-lg-6">
             <div className="img100">
-            <img src="/kbassets/img/7warning.jpg" alt="Images"/>
+            <img src="/kbassets/img/7 Warning Signs That Distrust Is Harming Your Organization.png" alt="Images"/>
             </div>
          </div>
       </div>

@@ -33,7 +33,7 @@ export default function Elearning() {
                 <div className="row row-eq-height eventsandworkshopbox">
                   <div className="col-sm-4">
                     <div className="choose-card">
-                      <img src="/kbassets/img/l&d.png" alt="Images" />
+                      <img src="/kbassets/img/2024 HRL&D Trends Survey Navigating the High-Expectation Work Environment.png" alt="Images" />
                       <h3>
                         2024 HR/L&D Trends Survey: Navigating the
                         High-Expectation Work Environment
@@ -53,7 +53,7 @@ export default function Elearning() {
                   <div className="col-sm-4">
                     <div className="choose-card">
                       <img
-                        src="/kbassets/img/Innovation-Organization.png"
+                        src="/kbassets/img/The Factors That Encourage and That Discourage Innovation in Organizations (1).png"
                         alt="Images"
                       />
                       <h3>
@@ -75,7 +75,7 @@ export default function Elearning() {
 
                   <div className="col-sm-4">
                     <div className="choose-card">
-                      <img src="/kbassets/img/human.png" alt="Images" />
+                      <img src="/kbassets/img/Exploring The Heart of Human Achievement.png" alt="Images" />
                       <h3>Exploring The Heart of Human Achievement</h3>
                       <div className="row text-center eventsbottomarea2">
                         <div className="col-sm-12">
@@ -92,7 +92,7 @@ export default function Elearning() {
 
                   <div className="col-sm-4">
                     <div className="choose-card">
-                      <img src="/kbassets/img/FiveDrivers.png" alt="Images" />
+                      <img src="/kbassets/img/The Five Drivers of Learning Impact.png" alt="Images" />
                       <h3>The Five Drivers of Learning Impact</h3>
                       <div className="row text-center eventsbottomarea2">
                         <div className="col-sm-12">
@@ -110,7 +110,7 @@ export default function Elearning() {
                   <div className="col-sm-4">
                     <div className="choose-card">
                       <img
-                        src="/kbassets/img/RoleOfStrategic.png"
+                        src="/kbassets/img/The Role of Strategic and Operational Leadership Skills How and When to Use in a Government Setting.png"
                         alt="Images"
                       />
                       <h3>
@@ -132,7 +132,7 @@ export default function Elearning() {
 
                   <div className="col-sm-4">
                     <div className="choose-card">
-                      <img src="/kbassets/img/ebook6.jpg" alt="Images" />
+                      <img src="/kbassets/img/Taking a Situational Approach to Management.png" alt="Images" />
                       <h3>Taking a Situational Approach to Management</h3>
                       <div className="row text-center eventsbottomarea2">
                         <div className="col-sm-12">
@@ -169,7 +169,7 @@ export default function Elearning() {
                   <div className="col-sm-4">
                     <div className="choose-card">
                       <img
-                        src="/kbassets/img/situational-approach-to-leadership.jpg"
+                        src="/kbassets/img/SLII. Why a Situational Approach to Leadership Makes All the Difference.png"
                         alt="Images"
                       />
                       <h3>
@@ -234,7 +234,7 @@ export default function Elearning() {
 
                   <div className="col-sm-4">
                     <div className="choose-card">
-                      <img src="/kbassets/img/ebook5.jpg" alt="Images" />
+                      <img src="/kbassets/img/7 Warning Signs That Distrust Is Harming Your Organization.png" alt="Images" />
                       <h3>
                         7 Warning Signs That Distrust Is Harming Your
                         Organization
@@ -254,7 +254,7 @@ export default function Elearning() {
 
                   <div className="col-sm-4">
                     <div className="choose-card">
-                      <img src="/kbassets/img/ebook2.jpg" alt="Images" />
+                      <img src="/kbassets/img/7 Ways Poor Leaders Are Costing Your Company Money.png" alt="Images" />
                       <h3>
                         7 Ways Poor Leaders Are Costing Your Company Money
                       </h3>
@@ -333,7 +333,7 @@ export default function Elearning() {
 
                   <div className="col-sm-4">
                     <div className="choose-card">
-                      <img src="/kbassets/img/ebook1.jpg" alt="Images" />
+                      <img src="/kbassets/img/Measuring the Impact and ROI of Leadership Training.png" alt="Images" />
                       <h3>
                         Measuring the Impact and ROI of Leadership Training
                       </h3>
@@ -352,7 +352,7 @@ export default function Elearning() {
 
                   <div className="col-sm-4">
                     <div className="choose-card">
-                      <img src="/kbassets/img/ebook3.jpg" alt="Images" />
+                      <img src="/kbassets/img/3 Fatal Mistakes Managers Make When Coaching Their Teams.png" alt="Images" />
                       <h3>
                         3 Fatal Mistakes Managers Make When Coaching Their Teams
                       </h3>

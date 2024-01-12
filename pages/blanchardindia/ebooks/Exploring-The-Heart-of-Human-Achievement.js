@@ -84,7 +84,7 @@ function EbooksKB() {
             </div>
             <div className="col-lg-6">
             <div className="img100">
-            <img src="/kbassets/img/human.png" alt="Images"/>
+            <img src="/kbassets/img/Exploring The Heart of Human Achievement.png" alt="Images"/>
             </div>
          </div>
           </div>
@@ -96,9 +96,9 @@ function EbooksKB() {
           <div className="row">
             <div className="col-lg-12">
               <div className="text-center pb-25">
-                <h3 className="titleh2">
+                {/* <h3 className="titleh2">
                   Taking a Situational Approach to Management
-                </h3>
+                </h3> */}
                 <h3 className="titleh2">Fill in your details to read more</h3>
               </div>
               <div className="contact-form">
