@@ -249,8 +249,8 @@ export default function Gettingthingsdone() {
                                     <div class="workshop-date">
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 5th, 2024</h6>
                                         <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
-                                    </div> */}
-                                </div>
+                                    </div>
+                                </div> */}
                                
                                 {/* <div>
                                     <h2>Workshop</h2>
