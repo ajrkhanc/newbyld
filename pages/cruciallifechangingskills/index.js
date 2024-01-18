@@ -346,6 +346,7 @@ export default function Home() {
   return (
     <>
       <Head>
+      <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills" />
         <link
           rel="stylesheet"
           type="text/css"
