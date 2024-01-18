@@ -5,6 +5,7 @@ export default function Blog(){
         <>
         <Head>
             <title>About Us - Crucial Life-Changing Skills</title>
+            <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/about-us" />
             <meta name="description" content="Crucial Life-Changing Skills BYLD Group is the Authorized Licensee for Crucial Learning in India. We focus on improving the world by helping people improve themselves. We offer courses in the... Read more"/> 
         </Head>
         <section class="about-section">
