@@ -227,15 +227,11 @@ export default function BrowseCourses() {
                     <option value="">Pick any Slot*</option>
 
                     {/* <option value="Virtual Course Preview - November 30th, 2023">Virtual Course Preview - November 30th, 2023</option> */}
-                    <option value="Virtual Course Preview - 5th January, 2024">
-                      Virtual Course Preview - 5th January, 2024
+                    <option value="Virtual Course Preview - 19th January, 2024">
+                      Virtual Course Preview - 19th Jan, 2024
                     </option>
-
-                    <option value="Virtual Course Preview - 20th February, 2024">
-                      Virtual Course Preview - 20th February, 2024
-                    </option>
-                    <option value="Workshop - 7th March, 2024">
-                      Workshop - 7th March, 2024
+                    <option value="Workshop - 26th February, 2024">
+                      Workshop - 26th Feb, 2024
                     </option>
                     {/* <option value="Workshop - February 28th - 29th, 2024">Workshop - February 28th - 29th, 2024</option> */}
                   </select>
@@ -375,11 +371,11 @@ export default function BrowseCourses() {
                 <div class="col-md-12 workshop-date green-col">
                   <h6>
                     <i class="fa fa-calendar" aria-hidden="true"></i>January
-                    5th, 2024
+                    19th, 2024
                   </h6>
                   <h6>
-                    <i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to
-                    12:00 PM
+                    <i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM to
+                    4:00 PM
                   </h6>
                   <a href="#registered">
                     <button class="register">REGISTER NOW</button>
@@ -387,7 +383,7 @@ export default function BrowseCourses() {
                 </div>
               </div>
             </div>
-
+{/* 
             <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content green-col">
@@ -414,7 +410,7 @@ export default function BrowseCourses() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content green-col">
@@ -429,7 +425,7 @@ export default function BrowseCourses() {
                 <h5 className="eventt">Workshop</h5>
                 <div class="col-md-12 workshop-date green-col">
                   <h6>
-                    <i class="fa fa-calendar" aria-hidden="true"></i> March 7th,
+                    <i class="fa fa-calendar" aria-hidden="true"></i> February 26th,
                     2024
                   </h6>
                   <h6>
