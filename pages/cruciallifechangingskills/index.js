@@ -610,46 +610,46 @@ export default function Home() {
         </ModalBody>
       </Modal>
 
-      <Modal
-        className="toppc modal-lg popUpModal"
-        toggle={() => setModalOpen6(!modalOpen6)}
-        isOpen={modalOpen6}
-        backdrop="static"
-        keyboard={false}
-      >
-        <button
-          aria-label="Close"
-          className="close popcl"
-          type="button"
-          onClick={() => setModalOpen6(!modalOpen6)}
-        >
-          <span aria-hidden={true}>×</span>
-        </button>
+ //      <Modal
+ //        className="toppc modal-lg popUpModal"
+ //        toggle={() => setModalOpen6(!modalOpen6)}
+ //        isOpen={modalOpen6}
+ //        backdrop="static"
+ //        keyboard={false}
+ //      >
+ //        <button
+ //          aria-label="Close"
+ //          className="close popcl"
+ //          type="button"
+ //          onClick={() => setModalOpen6(!modalOpen6)}
+ //        >
+ //          <span aria-hidden={true}>×</span>
+ //        </button>
 
- <ModalBody>
-          <div class="row">
-            <div class="col-md-8">
-              <div class="text-center">
-                <h4 class="text-danger">Register Now and Avail 10% OFF</h4>
-                <p>
-                  Register by December 31 on any course and get 10% OFF. First
-                  20 registrations will get an extra 5% discount{" "}
-                </p>
+ // <ModalBody>
+ //          <div class="row">
+ //            <div class="col-md-8">
+ //              <div class="text-center">
+ //                <h4 class="text-danger">Register Now and Avail 10% OFF</h4>
+ //                <p>
+ //                  Register by December 31 on any course and get 10% OFF. First
+ //                  20 registrations will get an extra 5% discount{" "}
+ //                </p>
 
-                <a class="btn btn-sm rounded-pill btn-danger" href="#">
-                  See In-Person Courses
-                </a>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <img
-                class="img-fluid"
-                src="classets/img/Human_In-Person-Teaching_Color.webp"
-              ></img>
-            </div>
-          </div>
-        </ModalBody>
-      </Modal>
+ //                <a class="btn btn-sm rounded-pill btn-danger" href="#">
+ //                  See In-Person Courses
+ //                </a>
+ //              </div>
+ //            </div>
+ //            <div class="col-md-4">
+ //              <img
+ //                class="img-fluid"
+ //                src="classets/img/Human_In-Person-Teaching_Color.webp"
+ //              ></img>
+ //            </div>
+ //          </div>
+ //        </ModalBody>
+ //      </Modal>
 
       <section class="hero-section pad0">
         <div class="container-fluid">
