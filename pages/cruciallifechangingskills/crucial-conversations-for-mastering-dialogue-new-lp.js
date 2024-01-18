@@ -227,16 +227,16 @@ export default function BrowseCourses() {
                   <select name="slot" required>
                     <option value="">Pick any Slot*</option>
                     {/* <option value="Workshop - September 13th - 14th, 2023">Workshop - September 13th - 14th, 2023</option> */}
-                    <option value="Crucial Conversations for Mastering Dialogue - 21st December,2023">
+                   {/* <option value="Crucial Conversations for Mastering Dialogue - 21st December,2023">
                       Crucial Conversations for Mastering Dialogue - 21st December,2023
-                    </option>
+                    </option>*/}
                     <option value="Crucial Conversations for Mastering Dialogue - 22nd & 23rd January, 2024">
                       Crucial Conversations for Mastering Dialogue - 22nd & 23rd January, 2024
                     </option>
-                    <option value="Crucial Conversations for Mastering Dialogue - February 28th - 29th, 2023">
+                   {/* <option value="Crucial Conversations for Mastering Dialogue - February 28th - 29th, 2023">
                       Crucial Conversations for Mastering Dialogue - February
                       28th - 29th, 2024
-                    </option>
+                    </option>*/}
                     <option value="Crucial Conversations for Mastering Dialogue -  8th March, 2024">
                       Crucial Conversations for Mastering Dialogue - 8th March, 2024
                     </option>
@@ -347,7 +347,7 @@ export default function BrowseCourses() {
                             </div>
                         </div> */}
 
-            <div class="col-md-4 workshop-col">
+          {/*  <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content">
                   <img
@@ -373,9 +373,9 @@ export default function BrowseCourses() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div>*/}
 
-            <div class="col-md-4 workshop-col">
+            {/* <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content">
                   <img
@@ -401,7 +401,7 @@ export default function BrowseCourses() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content">
