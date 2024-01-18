@@ -229,43 +229,44 @@ export default function Gettingthingsdone() {
                                         <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 4:00 PM</h6>
                                     </div>
                                 </div> */}
+                                <div>
+                                    <h2>Workshop</h2>
+                                    <div class="workshop-date">
+                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> February 7th, 2024</h6>
+                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                                    </div>
+                                </div>
 
                                 <div>
                                     <h2>Virtual Course Preview</h2>
                                     <div class="workshop-date">
-                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> December 21st, 2023</h6>
-                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
+                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> March 18th, 2024</h6>
+                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM to 4:00 PM</h6>
                                     </div>
                                 </div>
-                                <div>
+                               {/* <div>
                                     <h2>Virtual Course Preview</h2>
                                     <div class="workshop-date">
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 5th, 2024</h6>
                                         <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
-                                    </div>
+                                    </div> */}
                                 </div>
-                                <div>
-                                    <h2>Workshop</h2>
-                                    <div class="workshop-date">
-                                        <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 11th, 2024</h6>
-                                        <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
-                                    </div>
-                                </div>
-                                <div>
+                               
+                                {/* <div>
                                     <h2>Workshop</h2>
                                     <div class="workshop-date">
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i>February 9th, 2024</h6>
                                         <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                                     </div>
-                                </div>
+                                </div>  */}
 
-                                <div>
+                               {/*  <div>
                                     <h2>Virtual Course Preview</h2>
                                     <div class="workshop-date">
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i>March 14th, 2024</h6>
                                         <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 11:00 AM to 12:00 PM</h6>
                                     </div>
-                                </div>
+                                </div> */}
                             </Slider>
                         </div>
                         <div class="col-md-6 form-area">
@@ -294,14 +295,12 @@ export default function Gettingthingsdone() {
                                         <option value="">Pick any Slot*</option>
                                             {/* <option value="Getting Things Done - November 6th to 8th, 2023">Getting Things Done - November 6th to 8th, 2023</option>
                                             <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option> */}
-                                            <option value="Getting Things Done, Virtual Course Preview -  December 21st, 2023">Getting Things Done, Virtual Course Preview - December 21st, 2023</option>
-                                            <option value="Getting Things Done, Virtual Course Preview -  January 5th, 2024">Getting Things Done, Virtual Course Preview - January 5th, 2024</option>
-                                            <option value="Getting Things Done - January 11th, 2024">Getting Things Done - January 11th, 2024</option>
+                                            
+                                            <option value="Getting Things Done, Workshop -  February 7th, 2024">Getting Things Done, Workshop - February 7th, 2024</option>
+                                            <option value="Getting Things Done, Virtual Course Preview -  March 18th, 2024">Getting Things Done, Virtual Course Preview - March 18th, 2024</option>
+                                           
 
-                                            <option value="Getting Things Done, Workshop -  February 9th, 2024">Getting Things Done, Workshop - February 9th, 2024</option>
-
-                                            <option value="Getting Things Done, Virtual Course Preview -  March 14th, 2024">Getting Things Done, Virtual Course Preview - March 14th, 2024</option>
-
+                                          
 
                                     </select>
                                 </div>
@@ -360,7 +359,7 @@ export default function Gettingthingsdone() {
                                 </div>
                                 <h5 className='eventt'>Workshop</h5>
                                 <div class="col-md-12 workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> February 7th, 2024</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                                     <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
                                 </div>
