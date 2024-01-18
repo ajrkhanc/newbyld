@@ -447,8 +447,8 @@ export default function BrowseCourses() {
                     , 2024
                   </h6>
                   <h6>
-                    <i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to
-                    5:00 PM
+                    <i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM to
+                    4:00 PM
                   </h6>
                   <a href="#registered">
                     <button class="register">REGISTER NOW</button>
