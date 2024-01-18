@@ -159,9 +159,9 @@ export default function BrowseCourses() {
                                     <select name='slot' required>
                                         <option value="">Pick any Slot*</option>                                        
                                          <!-- <option value="Virtual Course Preview – 30th January, 2024">Virtual Course Preview – 30th January, 2024</option>  -->
-                                        <option value="Workshop – 4th & 5th March, 2024">Workshop – 4th & 5th March, 2024</option>
+                                        <option value="Workshop–4th-&-5th-March,2024">Workshop– 4th & 5th March, 2024</option>
 
-                                        {/* <option value="Crucial Conversations for Accountability - January 30th - 31st, 2024">Crucial Conversations for Accountability - January 30th - 31st, 2024</option> */}
+                                        <!-- {/* <option value="Crucial Conversations for Accountability - January 30th - 31st, 2024">Crucial Conversations for Accountability - January 30th - 31st, 2024</option> */} -->
                                     </select>
                                 </div>
 
