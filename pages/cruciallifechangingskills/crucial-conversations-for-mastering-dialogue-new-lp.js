@@ -429,9 +429,7 @@ export default function BrowseCourses() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div class="col-md-4 workshop-col">
+                       <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content">
                   <img
@@ -458,6 +456,9 @@ export default function BrowseCourses() {
                 </div>
               </div>
             </div>
+          </div>
+
+         
         </div>
       </section>
     </>
