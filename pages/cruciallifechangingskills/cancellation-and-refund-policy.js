@@ -5,6 +5,7 @@ export default function Blog(){
         <>
         <Head>
             <title>Cancellation and Refund Policy - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/cancellation-and-refund-policy" />
             <meta name="description" content="C(1) General Leadership Consulting Private Limited, is committed to provide exceptional services in a timely manner. Unfortunately when a customer cancels without giving enough notice. It prevents another customer from... Read more"/> 
         </Head>
         <section class="">
