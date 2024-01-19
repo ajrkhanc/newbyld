@@ -352,7 +352,7 @@ export default function Workshops() {
                             </div>
                         </div> */}
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -366,23 +366,11 @@ export default function Workshops() {
                 </div>
               </div>
             </div>
+             */}
 
          
 
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop - January 11th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>The Power Of Habit Workshop</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
+           
 
             <div className="col-sm-4">
               <div className="eventsbox">
@@ -413,6 +401,21 @@ export default function Workshops() {
                 </div>
               </div>
             </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop - January 29th, 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>The Power Of Habit Workshop</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            
 
 {/*             
             <div className="col-sm-4">
@@ -480,7 +483,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 9th , 2024</span>
+                  <span>February 7th , 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Getting Things Done® Workshop</h3>
@@ -537,8 +540,39 @@ export default function Workshops() {
               </div>
             </div>
 
-            
             <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop - February 26th, 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>Crucial Influence Workshop</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+             <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop - March 4th - 5th, 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>Crucial Conversations for Accountability®</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+
+
+            
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -551,11 +585,11 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
           
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -568,7 +602,7 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             
 
@@ -606,7 +640,7 @@ export default function Workshops() {
 
 
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -619,7 +653,7 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
          
 
@@ -1016,7 +1050,7 @@ export default function Workshops() {
                           type="email"
                           className="borrr"
                           name="email"
-                          placeholder="Work Email/Email*"
+                          placeholder="Work Email*"
                           required
                         />
                       </div>
