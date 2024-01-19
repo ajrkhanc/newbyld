@@ -374,14 +374,18 @@ export default function BrowseCourses() {
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <input className='form-control' type="email" name="email" placeholder="Work Email/Email*" required />
+                                            <input className='form-control' type="email" name="email" placeholder="Work Email/ Personal Email*" required />
                                         </div>
+                                        
                                         <div className="col-sm-6 mb-12">
                                             <input className='form-control' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
                                         </div>
 
                                         <div className="col-sm-6 mb-12">
                                             <input className='form-control' type="text" name="organization" placeholder="Organization*" required />
+                                        </div>
+                                         <div className="col-sm-6 mb-12">
+                                            <input className='form-control' type="text" name="emailer" placeholder="Emailer"  disabled />
                                         </div>
                                         <div className='col-sm-12'>
                                             <input type="submit" value="Submit" id='submitbuttonform' class="assesmetmain" tabindex="201" />
