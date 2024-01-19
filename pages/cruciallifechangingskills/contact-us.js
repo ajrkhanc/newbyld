@@ -42,6 +42,7 @@ export default function ContactUs(){
         <>
         <Head>
             <title>Contact Us - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/contact-us" />
             <meta name="description" content="Tell us how we can help? Unit No. 629-634, 6th Floor, Vipul Trade Centre, Sohna Road, Sector – 48, Gurgaon – 122018, Haryana (India) Toll Free: 1800-102-1345 Phone: +91-124-2666030 cruciallearning.info@byldgroup.com"/> 
         </Head>
         <section class="about-section">
