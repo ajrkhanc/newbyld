@@ -136,6 +136,7 @@ export default function BrowseCourses() {
         <>
             <Head>
                 <title>Style Under Stress Assessment | Crucial Learning</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/assessment/style-under-stress-assessment" />
                 <meta name="description" content="Discover how well you handle Crucial Conversations and identify where you can improve with the Style Under Stress™ assessment." />
             </Head>
 
