@@ -38,6 +38,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>How to Lead Virtual Teams - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/ebook/how-to-lead-virtual-teams" />
             <meta name="description" content="A Crucial Learning survey of more than 1,300 people found that an incredible 9 out of 10 respondents have felt emotionally or physically unsafe to speak their mind more than once in the past 18 months."/> 
         </Head>
         <section class="about-section">
