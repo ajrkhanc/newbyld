@@ -38,6 +38,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>3 Skills to Manage Difficult Conversations with Parents - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/white-paper/3-skills-to-manage-difficult-conversations-with-parents" />
             <meta name="description" content="Next time you find yourself face-to-face with an emotional or angry parent, use these 3 skills to ensure the best result for yourself, the parent, and the student..."/> 
         </Head>
         <section class="about-section">
