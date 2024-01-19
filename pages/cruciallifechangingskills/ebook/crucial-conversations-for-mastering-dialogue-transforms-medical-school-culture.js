@@ -38,7 +38,8 @@ export default function Ebook(){
         <>
         <Head>
             <title>Crucial Conversations for Mastering Dialogue Transforms Medical School Culture - Crucial Life-Changing Skills - Crucial Life-Changing Skills</title>
-            <meta name="description" content="Working an oil rig in the Gulf of Mexico is physically demanding and potentially dangerous. Crews clock twelve-hour days for two weeks straight amid swinging iron equipment and heavy machinery."/> 
+          <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/ebook/crucial-conversations-for-mastering-dialogue-transforms-medical-school-culture" />
+        <meta name="description" content="Working an oil rig in the Gulf of Mexico is physically demanding and potentially dangerous. Crews clock twelve-hour days for two weeks straight amid swinging iron equipment and heavy machinery."/> 
         </Head>
         <section class="about-section">
             <div class="container">
