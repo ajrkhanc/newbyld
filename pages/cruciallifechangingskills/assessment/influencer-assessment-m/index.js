@@ -152,6 +152,7 @@ export default function BrowseCourses() {
     <>
       <Head>
         <title>Influencer Assessment | Crucial Learning</title>
+    <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/assessment/influencer-assessment-m" />
         <meta name="description" content="The Influencer Assessment is used to determine your influence skills. The questions examine methods you use to lead and help others change. Complete the quiz to see your level of influence." />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-5TDL6QRXQ5"></script>
         <script
