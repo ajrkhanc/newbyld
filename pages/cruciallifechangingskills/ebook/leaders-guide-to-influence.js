@@ -38,6 +38,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>Leaders Guide to Influence - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/ebook/leaders-guide-to-influence" />
             <meta name="description" content="Leaders Guide to Influence"/> 
         </Head>
         <section class="about-section">
