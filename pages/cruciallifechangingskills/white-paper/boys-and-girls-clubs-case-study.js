@@ -38,6 +38,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>Boys and Girls Clubs Case Study - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/white-paper/boys-and-girls-clubs-case-study" />
             <meta name="description" content="Working an oil rig in the Gulf of Mexico is physically demanding and potentially dangerous. Crews clock twelve-hour days for two weeks straight amid swinging iron equipment and heavy machinery."/> 
         </Head>
         <section class="about-section">
