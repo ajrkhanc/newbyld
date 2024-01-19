@@ -5,6 +5,7 @@ export default function Gettingthingsdone(){
         <>
         <Head>
             <title>Getting Things Done - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/getting-things-done" />
             <meta name="description" content="Productivity with Purpose Learn the skills that can help relieve the cognitive load, allow for increased focus, and even result in optimal experience and peak performance with Getting Things Done.... Read more"/> 
         </Head>
         <section class="about-section">
