@@ -38,6 +38,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>How to Speak up About Things that Matter</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/ebook/unafraid" />
             <meta name="description" content="Next time you find yourself face-to-face with an emotional or angry parent, use these 3 skills to ensure the best result for yourself, the parent, and the student..."/> 
         </Head>
         <section class="about-section">
