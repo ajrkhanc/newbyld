@@ -82,25 +82,25 @@ export default function WebinarsAndProgramExperience() {
                         
 
 
-                        <div className='col-sm-4'>
-                        <div className='eventsbox'>
-                            <div className='eventmiddle'>
-                                <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar January 5th, 2024</span>
+                        {/* <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar January 5th, 2024</span>
+                                </div>
+                                <div className='eventbottom'>
+                                <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
+                                    <h3>Getting Things Done®</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
                             </div>
-                            <div className='eventbottom'>
-                            <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
-                                <h3>Getting Things Done®</h3>
-                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                            </div>
-                        </div>
-                    </div>
+                        </div> */}
 
                         <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar January 5th, 2024</span>
+                                <span>Webinar January 19th, 2024</span>
                             </div>
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
@@ -128,7 +128,7 @@ export default function WebinarsAndProgramExperience() {
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>Webinar January 30th, 2024</span>
+                                <span>Webinar February 5th, 2024</span>
                             </div>
                             <div className='eventbottom'>
                             <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
@@ -137,6 +137,21 @@ export default function WebinarsAndProgramExperience() {
                             </div>
                         </div>
                     </div>
+
+
+                    {/* <div className='col-sm-4'>
+                        <div className='eventsbox'>
+                            <div className='eventmiddle'>
+                                <img src="/assets/img/events.jpg" alt="" />
+                                <span>Webinar January 30th, 2024</span>
+                            </div>
+                            <div className='eventbottom'>
+                            <h4 className="eventtitlec">Time: 03:00 PM - 04:00 PM</h4>
+                                <h3>Crucial Conversations for Accountability®</h3>
+                                <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                            </div>
+                        </div>
+                    </div> */}
 
                     <div className='col-sm-4'>
                             <div className='eventsbox'>
@@ -152,8 +167,8 @@ export default function WebinarsAndProgramExperience() {
                             </div>
                         </div>
 
-
-                        <div className='col-sm-4'>
+{/* 
+                    <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -165,7 +180,7 @@ export default function WebinarsAndProgramExperience() {
                                 <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
 
 
@@ -220,13 +235,25 @@ export default function WebinarsAndProgramExperience() {
                         
 
 
-                      
+                    <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar 18th March 2024</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4>
+                                    <h3>Getting Things Done®</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
 
                         
 
                         
 
-                        <div className='col-sm-4'>
+                        {/* <div className='col-sm-4'>
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
@@ -238,7 +265,7 @@ export default function WebinarsAndProgramExperience() {
                                     <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                       
                         {/* <div className='col-sm-4'>
@@ -380,7 +407,7 @@ export default function WebinarsAndProgramExperience() {
                                             <input type="text" className='borrr' name="name" placeholder="Your Name*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <input type="email" className='borrr' name="email" placeholder="Work Email/Email*" required />
+                                            <input type="email" className='borrr' name="email" placeholder="Work Email*" required />
                                         </div>
                                         <div className="col-sm-6 mb-12">
                                             <input type="text" className='borrr' name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No.*" required />
