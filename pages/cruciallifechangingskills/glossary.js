@@ -5,6 +5,7 @@ export default function Influencer() {
         <>
             <Head>
                 <title>The Crucial Learning Term Glossary - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/glossary" />
                 <meta name="description" content="Find definitions for the most common terminology found in Crucial Learning courses and bestselling books. Learn more about these common terms and phrases in our glossary." />
             </Head>
             <section class="">
