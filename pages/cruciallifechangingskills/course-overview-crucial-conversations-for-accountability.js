@@ -41,6 +41,7 @@ export default function Courseoverviewcrucialconversationsformasteringdialogue()
         <>
         <Head>
             <title>Course Overview - Crucial Conversations for Accountability - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/course-overview-crucial-conversations-for-accountability" />
             <meta name="description" content=""/> 
         </Head>
         <section class="about-section workshop-hero">
