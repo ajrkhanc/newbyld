@@ -4,7 +4,8 @@ export default function Books(){
     return(
         <>
         <Head>
-            <title>Books - Crucial Life-Changing Skills</title>            
+            <title>Books - Crucial Life-Changing Skills</title>  
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/books" />
         </Head>
         <section class="about-section workshop-hero">
             <div class="container">
