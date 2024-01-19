@@ -38,6 +38,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>The Heart Of The Matter - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/ebook/the-heart-of-the-matter" />
             <meta name="description" content="A Crucial Learning survey of more than 1,300 people found that an incredible 9 out of 10 respondents have felt emotionally or physically unsafe to speak their mind more than once in the past 18 months."/> 
         </Head>
         <section class="about-section">
