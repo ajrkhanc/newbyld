@@ -41,6 +41,7 @@ export default function Courseoverviewcrucialconversationsformasteringdialogue()
         <>
         <Head>
             <title>Course Overview - The Power of Habit - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/course-overview-the-power-of-habit" />
             <meta name="description" content=""/> 
         </Head>
         <section class="about-section workshop-hero">
