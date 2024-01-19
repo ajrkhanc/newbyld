@@ -126,6 +126,7 @@ export default function Home() {
         <>
             <Head>
                 <title>GTD Assessment | Crucial Learning</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/assessment/gtd-assessment-m" />
                 <meta name="description" content="The GTD Assessment is a twenty-question quiz that helps reveal some of your tendencies with managing workflow. See what you know and what you need to improve on." />
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FMDLS718VG"></script>
                 <script
