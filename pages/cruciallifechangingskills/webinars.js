@@ -43,6 +43,7 @@ export default function Webinars() {
         <>
             <Head>
                 <title>Webinars - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/webinars" />
                 <meta name="description" content="VIRTUAL LEARNING IS THE NEW NORMAL! Explore our complimentary webinar series get a quick essence of our online trainings. These sessions would help pave the way to the future. As... Read more" />
             </Head>
             <section class="about-section workshop-hero">
