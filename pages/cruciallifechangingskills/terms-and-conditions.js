@@ -5,6 +5,7 @@ export default function TermsandConditions(){
         <>
         <Head>
             <title>Terms and Conditions - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/terms-and-conditions" />
             <meta name="description" content="This document is an electronic record in terms of Information Technology Act, 2000 and rules there under as applicable and the amended provisions pertaining to electronic records in various statutes... Read more"/> 
         </Head>
         <section class="">
