@@ -5,6 +5,7 @@ export default function BrowseCourses() {
         <>
             <Head>
                 <title>The Power of Habit - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/browse-courses" />
                 <meta name="description" content="The Greatest Predictor of High Performance Habits can determine your success more than talent, intelligence, luck, or decision-making. Many are aware of this fact but still lack control over their... Read more" />
             </Head>
             <div className='desktopviewbrowse'>
