@@ -1253,16 +1253,18 @@ export default function BrowseCourses() {
 
                                 <div className='fcol1 lastinp ptt-20'>
                                     <div className='row inpuut'>
-                                        <div className="col-sm-4 mb-12">
+                                        <div className=" col-lg-6 col-sm-6 mb-12">
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                         </div>
-                                        <div className="col-sm-4 mb-12">
-                                            <input className='form-control' type="email" name="email" placeholder="Work Email/Email*" required />
+                                        <div className="col-lg-6 col-sm-4 mb-12">
+                                            <input className='form-control' type="email" name="email" placeholder="Work Email/ Personal Email*" required />
                                         </div>
-                                        <div className="col-sm-4 mb-12">
+                                        <div className=" col-lg-6 col-sm-6 mb-12">
                                             <input className='form-control' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No. (Optional)" />
                                         </div>
-
+                                       <div className=" col-lg-6 col-sm-6 mb-12">
+                                            <input className='form-control' type="text" name="emailer" placeholder="Emailer"  disabled />
+                                        </div>
 
                                         <div className='col-sm-12'>
                                             <input type="submit" value="Submit" id='submitbuttonform' class="assesmetmain" tabindex="201" />
