@@ -190,6 +190,7 @@ export default function BrowseCourses() {
         <>
             <Head>
                 <title>What Would You Do Assessment | Crucial Learning</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/assessment/what-would-you-do-assessment-m" />
                 <meta name="description" content="The What Would You Do assessment reveals your natural tendencies when confronted with a gap in expectation or performance. See where you stand by taking this assessment." />
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z80L406ZCP"></script>
                 <script
