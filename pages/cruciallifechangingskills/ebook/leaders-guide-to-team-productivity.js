@@ -38,6 +38,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>Leader's Guide to Team Productivity - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/ebook/leaders-guide-to-team-productivity" />
             <meta name="description" content="Leader's Guide to Team Productivity"/> 
         </Head>
         <section class="about-section">
