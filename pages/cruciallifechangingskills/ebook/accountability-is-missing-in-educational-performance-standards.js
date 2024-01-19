@@ -37,6 +37,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>Accountability is Missing in Educational Performance Standards - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/ebook/accountability-is-missing-in-educational-performance-standards" />
             <meta name="description" content="Odds are high you’ve heard one or more of these phrases from a coworker. Odds are high you’ve heard one from yourself!"/> 
         </Head>
         <section class="about-section">
