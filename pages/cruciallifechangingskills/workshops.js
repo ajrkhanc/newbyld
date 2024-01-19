@@ -43,6 +43,7 @@ export default function Workshops(){
         <>
         <Head>
             <title>Workshops - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/workshops" />
             <meta name="description" content="DO YOU THINK VIRTUAL INSTRUCTOR-LED TRAINING IS NOT ENGAGING? Then, probably you haven’t attended a real one. Join our upcoming online, on-demand, and virtual courses, and gain new insights to... Read more"/> 
         </Head>
         <section class="about-section workshop-hero">
