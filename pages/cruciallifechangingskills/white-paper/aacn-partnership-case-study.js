@@ -38,6 +38,7 @@ export default function Ebook(){
         <>
         <Head>
             <title>AACN Partnership Case Study - Crucial Life-Changing Skills</title>
+        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/white-paper/aacn-partnership-case-study" />
             <meta name="description" content="Odds are high you’ve heard one or more of these phrases from a coworker. Odds are high you’ve heard one from yourself!"/> 
         </Head>
         <section class="about-section">
