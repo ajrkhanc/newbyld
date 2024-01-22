@@ -7,7 +7,7 @@ const Custom404 = () => {
             <Head>
                 <meta name="robots" content="noindex,nofollow" />
                
-                <meta name="description" content="Performance Management Improved When it comes to creating healthy relationships amongst people and organizations, accountability becomes critical in nature. If people are able to hold each other accountable, they are... Read more" />
+                <meta name="description" content="" />
             </Head>
             <div className='container'>
 
