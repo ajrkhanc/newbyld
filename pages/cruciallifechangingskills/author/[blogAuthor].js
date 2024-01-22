@@ -28,8 +28,7 @@ export default function Blog({posts, posts5, cats}){
         <>
         <Head>
             <title>Crucial Life Changing Skills</title>
-          <meta name="robots" content="noindex">
-            <meta name="description" content=""/> 
+              <meta name="description" content=""/> 
         </Head>
         <div className="rs-inner-blog ptt-40 pbb-50">
                 <div className="container-fluid containerpading40">
