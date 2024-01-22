@@ -4,9 +4,9 @@ export default function crucialconversationsforaccountability(){
     return(
         <>
         <Head>
+           <meta name="robots" content="noindex,nofollow" />
             <title>Crucial Conversations for Accountability - Crucial Life-Changing Skills</title>
-           
-        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/crucial-conversations-for-accountability" />
+          <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/crucial-conversations-for-accountability" />
             <meta name="description" content="Performance Management Improved When it comes to creating healthy relationships amongst people and organizations, accountability becomes critical in nature. If people are able to hold each other accountable, they are... Read more"/> 
         </Head>
         <section class="about-section">
