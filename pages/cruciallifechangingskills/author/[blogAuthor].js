@@ -27,6 +27,7 @@ export default function Blog({posts, posts5, cats}){
     return(
         <>
         <Head>
+        <meta name="robots" content="noindex,nofollow" />
             <title>Crucial Life Changing Skills</title>
               <meta name="description" content=""/> 
         </Head>
