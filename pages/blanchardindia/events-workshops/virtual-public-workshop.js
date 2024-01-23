@@ -178,7 +178,7 @@ export default function VirtualPublicWorkshop() {
                           {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ - Virtual</h3>
+                                 <h3>SLII™ - Virtual</h3>
                                  <p>July 4th to 5th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -205,7 +205,7 @@ export default function VirtualPublicWorkshop() {
                            {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ - Virtual</h3>
+                                 <h3>SLII™ - Virtual</h3>
                                  <p>August 7th to 8th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -218,7 +218,7 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ - T4T</h3>
+                                 <h3>SLII™ - T4T</h3>
                                  <p>August 9th to 10th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -270,7 +270,7 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™</h3>
+                                 <h3>SLII™</h3>
                                  <p>September 25th, 2023</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -283,7 +283,7 @@ export default function VirtualPublicWorkshop() {
                            {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ - Virtual </h3>
+                                 <h3>SLII™ - Virtual </h3>
                                  <p> January 12th - 13th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -361,7 +361,7 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev6.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ T4T F2F</h3>
+                                 <h3>SLII™ T4T F2F</h3>
                                  <p>March 21st - 22nd, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -388,7 +388,7 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™</h3>
+                                 <h3>SLII™</h3>
                                  <p>April 4th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -427,7 +427,7 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ T4T F2F</h3>
+                                 <h3>SLII™ T4T F2F</h3>
                                  <p>May 16th - 17th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -529,8 +529,8 @@ export default function VirtualPublicWorkshop() {
                                     <label>Pick up any Slot*</label>
                                     <select name="leadsquared_mx_Showed_Interest_in" className="form-control" required>
                                        <option value="">---</option>
-                                       <option value="The SLII Experience™ - Virtual - January 23rd - 24th, 2023">The SLII Experience™ - Virtual - January 23rd - 24th, 2023</option>
-                                       <option value="The SLII Experience™ T4T - January 30th - 31st, 2023">The SLII Experience™ T4T - January 30th - 31st, 2023</option>
+                                       <option value="SLII™ - Virtual - January 23rd - 24th, 2023">SLII™ - Virtual - January 23rd - 24th, 2023</option>
+                                       <option value="SLII™ T4T - January 30th - 31st, 2023">SLII™ T4T - January 30th - 31st, 2023</option>
                                        <option value="Self Leadership - Virtual - January 31st, 2023">Self Leadership - Virtual - January 31st, 2023</option>
                                     </select>
                                  </div>
