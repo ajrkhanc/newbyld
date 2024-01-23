@@ -657,20 +657,20 @@ export default function Workshops() {
 
          
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
                   <span>Workshop - January 19th & 20th 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>The SLII Experience™ T4T F2F</h3>
+                  <h3>SLII™ T4T F2F</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             <div className="col-sm-4">
               <div className="eventsbox">
@@ -786,7 +786,7 @@ export default function Workshops() {
                   <span>March 13th & 14th, 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>The SLII Experience™ - Virtual</h3>
+                  <h3>SLII™ - Virtual</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -817,7 +817,7 @@ export default function Workshops() {
                   <span>March 21st and 22nd, 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>The SLII Experience™ T4T F2F</h3>
+                  <h3>SLII™ T4T F2F</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -850,7 +850,7 @@ export default function Workshops() {
                   <span>April 4th, 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>The SLII Experience™</h3>
+                  <h3>SLII™</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -882,7 +882,7 @@ export default function Workshops() {
                   <span>May 8th & 9th, 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>The SLII Experience™ - Virtual</h3>
+                  <h3>SLII™ - Virtual</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -897,7 +897,7 @@ export default function Workshops() {
                   <span>May 16th & 17th, 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>The SLII Experience™ T4T F2F</h3>
+                  <h3>SLII™ T4T F2F</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -1190,14 +1190,14 @@ export default function Workshops() {
 
                           {/* ------ */}
 
-                          <option value="The SLII Experience™ - Virtual -
+                          <option value="SLII™ - Virtual -
                           January 12th & 13th, 2024">
-                          The SLII Experience™ - Virtual -
+                          SLII™ - Virtual -
                           January 12th & 13th, 2024
                           </option>
 
-                          <option value=" The SLII Experience™ T4T F2F - January 19th & 20th, 2024">
-                          The SLII Experience™ T4T F2F - January 19th & 20th, 2024
+                          <option value="SLII™ T4T F2F - January 19th & 20th, 2024">
+                          SLII™ T4T F2F - January 19th & 20th, 2024
                           </option>
 
                           <option value="|Self Leadership - Virtual -
@@ -1219,15 +1219,15 @@ export default function Workshops() {
                           February 22nd, 2024
                           </option>
 
-                          <option value="  The SLII Experience™ - Virtual -
+                          <option value="SLII™ - Virtual -
                           March 13th & 14 th, 2024">
-                          The SLII Experience™ - Virtual -
+                          SLII™ - Virtual -
                           March 13th & 14th, 2024
                           </option>
 
-                          <option value="  The SLII Experience™ T4T F2F -
+                          <option value="SLII™ T4T F2F -
                           March 21st & 22nd, 2024">
-                          The SLII Experience™ T4T F2F -
+                          SLII™ T4T F2F -
                           March 21st & 22nd, 2024
                           </option>
 
@@ -1237,9 +1237,9 @@ export default function Workshops() {
                           March 21st, 2024
                           </option>
 
-                          <option value="  The SLII Experience™ -
+                          <option value="SLII™ -
                           April 4, 2024">
-                          The SLII Experience™ -
+                          SLII™ -
                           April 4th, 2024
                           </option>
 
@@ -1249,15 +1249,15 @@ export default function Workshops() {
                           April 18th & 19th, 2024
                           </option>
 
-                          <option value=" The SLII Experience™ - Virtual -
+                          <option value="SLII™ - Virtual -
                           May 8th & 9th, 2024">
-                          The SLII Experience™ - Virtual -
+                          SLII™ - Virtual -
                           May 8th & 9th, 2024
                           </option>
 
-                          <option value=" The SLII Experience™ T4T F2F -
+                          <option value="SLII™ T4T F2F -
                           May 16th & 17th, 2024">
-                          The SLII Experience™ T4T F2F -
+                          SLII™ T4T F2F -
                           May 16th & 17th, 2024
                           </option>
 
