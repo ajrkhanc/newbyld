@@ -112,18 +112,18 @@ export default function VirtualPublicWorkshop() {
                                        {/* <option value="Team Leadership - Virtual July 26th, 2023">Team Leadership - Virtual July 26th, 2023</option> */}
                                        {/* <option value="The SLII Experience™, Virtual - August 7th to 8th, 2023">The SLII Experience™, Virtual - August 7th to 8th, 2023</option>
                                        <option value="The SLII Experience™, T4T - August 9th to 10th, 2023">The SLII Experience™, T4T - August 9th to 10th, 2023</option> */}
-                                       <option value="The SLII Experience™ - Virtual - January 12th - 13th, 2024">The SLII Experience™ - Virtual - January 12th - 13th, 2024</option>
-                                       <option value="The SLII Experience™ T4T F2F - January 19th - 20th, 2024">The SLII Experience™ T4T F2F  - January 19th -20th, 2024</option>
+                                       {/* <option value="The SLII Experience™ - Virtual - January 12th - 13th, 2024">The SLII Experience™ - Virtual - January 12th - 13th, 2024</option>
+                                       <option value="The SLII Experience™ T4T F2F - January 19th - 20th, 2024">The SLII Experience™ T4T F2F  - January 19th -20th, 2024</option> */}
                                        <option value="Self Leadership - Virtual - February 1st, 2024">Self Leadership - Virtual - February 1st, 2024</option>
                                        <option value="Conversational Capacity - Virtual - February 10th, 2024">Conversational Capacity - Virtual - February 10th, 2024</option>
                                        <option value="Fearless Innovation - February 22nd, 2024">Fearless Innovation - February 22nd, 2024</option>
-                                       <option value="The SLII Experience™ - Virtual - March 13th -14th, 2024">The SLII Experience™ - Virtual - March 13th - 14th, 2024</option>
-                                       <option value="The SLII Experience™ T4T F2F - March 21st -22nd, 2024">The SLII Experience™ T4T F2F - March 21st - 22nd, 2024</option>
+                                       <option value="SLII™ - Virtual - March 13th -14th, 2024">SLII™ - Virtual - March 13th - 14th, 2024</option>
+                                       <option value="SLII™ T4T F2F - March 21st -22nd, 2024">SLII™ T4T F2F - March 21st - 22nd, 2024</option>
                                        <option value="Blanchard Management Essentials - Virtual - March 21st, 2024">Blanchard Management Essentials - Virtual - March 21st, 2024</option>
-                                       <option value="The SLII Experience™ - April 4th, 2024">The SLII Experience™ - April 4th, 2024</option>
+                                       <option value="SLII™ - April 4th, 2024">SLII™ - April 4th, 2024</option>
                                        <option value="Self Leadership - Virtual - April 18th - 19th, 2024">Self Leadership - Virtual - April 18th -19th, 2024</option>
-                                       <option value="The SLII Experience™ - Virtual - May 8th - 9th, 2024">The SLII Experience™ - Virtual - May 8th - 9th, 2024</option>
-                                       <option value="The SLII Experience™ T4T F2F - May 16th - 17th, 2024">The SLII Experience™ T4T F2F - May 16th -17th, 2024</option>
+                                       <option value="SLII™ - Virtual - May 8th - 9th, 2024">SLII™ - Virtual - May 8th - 9th, 2024</option>
+                                       <option value="SLII™ T4T F2F - May 16th - 17th, 2024">SLII™ T4T F2F - May 16th -17th, 2024</option>
                                        <option value="Essential Motivators - F2F - June 6th, 2024">Essential Motivators - F2F - June 6th, 2024</option>
                                        <option value="Leading People Through Change - June 13th, 2024">Leading People Through Change - June 13th, 2024</option>
 
@@ -280,7 +280,7 @@ export default function VirtualPublicWorkshop() {
                               </div>
                            </div>*/}
 
-                           <div className="col-sm-4">
+                           {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
                                  <h3>The SLII Experience™ - Virtual </h3>
@@ -291,12 +291,12 @@ export default function VirtualPublicWorkshop() {
                                     </div>
                                  </div>
                               </div>
-                           </div> 
+                           </div>  */}
 
-                           <div className="col-sm-4">
+                           {/* <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ T4T F2F</h3>
+                                 <h3>SLII™ T4T F2F</h3>
                                  <p>January 19th - 20th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -304,7 +304,7 @@ export default function VirtualPublicWorkshop() {
                                     </div>
                                  </div>
                               </div>
-                           </div>
+                           </div> */}
 
                            <div className="col-sm-4">
                               <div className="choose-card">
@@ -348,7 +348,7 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/ev5.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ - Virtual</h3>
+                                 <h3>SLII™ - Virtual</h3>
                                  <p>March 13th - 14th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
@@ -414,7 +414,7 @@ export default function VirtualPublicWorkshop() {
                            <div className="col-sm-4">
                               <div className="choose-card">
                                  <img src="/kbassets/img/workshopformain1.jpg" alt="Images" />
-                                 <h3>The SLII Experience™ - Virtual</h3>
+                                 <h3>SLII™ - Virtual</h3>
                                  <p>May 8th - 9th, 2024</p>
                                  <div className='row eventsbottomarea2 text-center'>
                                     <div className='col-sm-12'>
