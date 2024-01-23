@@ -115,7 +115,7 @@ export default function Header() {
                                                                     <li><a target="_blank" href="/everythingdisc">Everything DiSC (A Wiley Brand)</a> </li>
                                                                     <li><a target="_blank" href="/fivebehaviors">Five Behaviors</a> </li>
                                                                     <li><a href="/assessments/lumina-psychometric-assesments">Lumina Spark</a></li>
-                                                                    <li><a href="/assessments/talentsmart-eq-assesments">TalentSmart EQ</a></li>
+                                                                    {/* <li><a href="/assessments/talentsmart-eq-assesments">TalentSmart EQ</a></li> */}
                                                                     <li className='d-none'><a href="/assessments/assessments-and-development-centers">Assessments and Development Centers</a></li>
                                                                 </ul>
                                                             </li>
@@ -320,7 +320,7 @@ export default function Header() {
                                             <li><a target="_blank" href="/everythingdisc">Everything DiSC (A Wiley Brand)</a> </li>
                                             <li><a target="_blank" href="/fivebehaviors">Five Behaviors</a> </li>
                                             <li><a href="/assessments/lumina-psychometric-assesments">Lumina Spark</a></li>
-                                            <li><a href="/assessments/talentsmart-eq-assesments">TalentSmart EQ</a></li>
+                                             {/* <li><a href="/assessments/talentsmart-eq-assesments">TalentSmart EQ</a></li> */}
                                             <li className='d-none'><a href="/assessments/assessments-and-development-centers">Assessments and Development Centers</a></li>
                                         </ul>
                                     </li>
