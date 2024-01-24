@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Client Spotlights - HCL Technologies</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/hcl-technologies" />
                 <meta name="description" content="HCL's primary concern was to develop the ranks of internal leaders, so HCL sought the trusted, time-tested leadership model of SLII, primarily because of the program’s successful track record." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
