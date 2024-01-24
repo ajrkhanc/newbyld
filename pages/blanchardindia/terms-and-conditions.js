@@ -6,6 +6,7 @@ export default function TermsAndConditions() {
         <>
         <Head>
         <title>Terms And Conditions | Blanchard Research and Training India</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/terms-and-conditions" />
         <meta name="description" content="Blanchard has been training millions of world’s best managers who know how to ignite their people and bring out the best in them and deliver great results for their organizations."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
