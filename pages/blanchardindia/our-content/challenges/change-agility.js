@@ -46,6 +46,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Change & Agility| Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/challenges/change-agility" />
                 <meta name="description" content="Learn the core capabilities today’s leaders need to be successful and how Blanchard’s programs can develop your organization’s leadership capability." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
