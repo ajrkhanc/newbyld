@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Coaching Professionals | Blanchard International</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/who-we-help/coaching-professionals" />
                 <meta name="description" content="Learn more about Blanchard’s program certification program for business and executive coaches, including ICF certification." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
