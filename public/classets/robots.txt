@@ -1,3 +1,5 @@
 User-agent: *
-Allow: /
-Sitemap: https://byldgroup.com/cruciallifechangingskills/sitemap.xml
+Disallow: /cgi-bin/
+
+User-agent: *
+Allow: / Sitemap: https://byldgroup.com/cruciallifechangingskills/sitemap.xml
