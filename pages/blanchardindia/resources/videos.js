@@ -6,6 +6,7 @@ function CLIENTSPOTS() {
         <>
             <Head>
                 <title>Featured Videos - Blanchard International</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/videos" />
                 <meta name="description" content="Blanchard's videos are a great place to get started learning about developing leadership teams and setting businesses up for success. Get started here!" />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
