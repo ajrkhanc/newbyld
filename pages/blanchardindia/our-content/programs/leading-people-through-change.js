@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Leading People Through Change | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/leading-people-through-change" />
                 <meta name="description" content="Blanchard's Leading People Through Change training program teaches people how to successfully lead people through organizational change." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
