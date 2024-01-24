@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Monthly Newsletter | Blanchard International</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/newsletter" />
                 <meta name="description" content="Blanchard’s monthly newsletter can delivered to you with the touch of a button to keep you up-to-date with Blanchard's newest articles, webinars, podcasts, and research."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
