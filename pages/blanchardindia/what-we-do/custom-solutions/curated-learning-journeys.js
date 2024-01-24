@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Curated Learning Journeys | Blanchard International</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/custom-solutions/curated-learning-journeys" />
                 <meta name="description" content="Learn how Blanchard can help you create a curated learning journey to develop your leadership capability and deliver better organizational outcomes."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
