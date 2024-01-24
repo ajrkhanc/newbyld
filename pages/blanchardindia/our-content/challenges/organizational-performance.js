@@ -46,6 +46,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Enhancing Organizational Performance | Blanchard International</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/challenges/organizational-performance" />
                 <meta name="description" content="Learn how Blanchard can help leaders at all levels improve the skills that improve overall organizational performance and effectiveness." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
