@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>All Blanchard Leadership Training Programs | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/public-courses" />
                 <meta name="description" content="Get a summary of all the available Blanchard leadership training courses and links to more details." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
