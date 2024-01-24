@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>How We Help Students | Blanchard International</title>
+                    <link rel="canonical" href="https://byldgroup.com/blanchardindia/who-we-help/students" />
                 <meta name="description" content="How Blanchard courses can help students differentiate themselves in the job market and achieve their career goals more quickly." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
