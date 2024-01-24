@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.byldgroup.com/sitemap.xml
+Sitemap: https://byldgroup.com/cruciallifechangingskills/clsitemap.xml
