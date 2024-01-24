@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://byldgroup.com/cruciallifechangingskills/sitemap.xml
