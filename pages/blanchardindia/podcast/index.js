@@ -6,6 +6,7 @@ export default function PodCast() {
         <>
             <Head>
                 <title>Podcast - Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast" />
                 <meta name="description" content="High Performance Habits: How Extraordinary People Become That Way with Brendon Burchard Click to download or get access to podcast How to Lead With Emotional Courage Click to download or get access to podcast The Happiness Equation with Neil Pasricha Click to download or get access to podcast" />
                 <link rel="icon" href="/favicon.ico" />
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-92DL0L5P5Q"></script>
