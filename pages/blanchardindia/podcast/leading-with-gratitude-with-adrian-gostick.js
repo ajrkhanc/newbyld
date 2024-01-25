@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Leading with Gratitude with Adrian Gostick</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/leading-with-gratitude-with-adrian-gostick" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
