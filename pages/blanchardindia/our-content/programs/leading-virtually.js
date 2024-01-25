@@ -9,9 +9,9 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Leading Virtually | Blanchard International</title>
+                <title>Leading Virtually Program | Virtual Team Management Training Program</title>
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/leading-virtually" />
-                <meta name="description" content="Blanchard's Leading Virtually training program teaches people how to lead remote teams that thrive." />
+                <meta name="description" content="Blanchard's Leading Virtually training program teaches people how to lead remote teams that thrive. Train your leaders for virtual and hybrid teams to provide extra support, boundaries, and norms." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
