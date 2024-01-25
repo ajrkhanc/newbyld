@@ -46,6 +46,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Fostering Diversity and Inclusion | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/challenges/diversity-inclusion" />
                 <meta name="description" content="Gain understanding of how to foster diversity, equity, and inclusion in the workplace with the help of Blanchard’s programs." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
