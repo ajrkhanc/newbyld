@@ -6,6 +6,7 @@ export default function EventsAndWorkshop() {
       <>
          <Head>
             <title>Know More About Blanchard Events and Workshops</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/events-workshops" />
             <meta name="description" content="Blanchard's learning courses and webinars build business management and leadership skills required to increase team’s productivity and optimize organizational performance. Blanchard online learning empowers individuals and organizations." />
             <link rel="icon" href="/favicon.ico" />
          </Head>
