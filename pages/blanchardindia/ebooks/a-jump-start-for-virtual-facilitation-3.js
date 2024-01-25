@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>A Jump Start For Virtual Facilitation</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/a-jump-start-for-virtual-facilitation-3" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>  
   
