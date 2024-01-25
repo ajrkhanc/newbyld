@@ -6,6 +6,7 @@ export default function ThanYouLP() {
       <>
          <Head>
             <title>Learning Modalities for Organizational Training | Blanchard International</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/modalities" />
             <meta name="description" content="Get an overview of the modalities Blanchard uses for its management and leadership training programs." />
             <link rel="icon" href="/blanchardindia/favicon.ico" />
          </Head>
