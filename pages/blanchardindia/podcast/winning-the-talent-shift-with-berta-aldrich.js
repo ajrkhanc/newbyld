@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Winning the Talent Shift with Berta Aldrich</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/winning-the-talent-shift-with-berta-aldrich" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
