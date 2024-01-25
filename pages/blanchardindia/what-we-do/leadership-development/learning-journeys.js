@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Learning Journeys | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/leadership-development/learning-journeys" />
                 <meta name="description" content="Learn how Blanchard can help you create learning journeys that unfold over time into the flow of your leaders’ work and their workdays."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
