@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Leading Virtually | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/leading-virtually" />
                 <meta name="description" content="Blanchard's Leading Virtually training program teaches people how to lead remote teams that thrive." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
