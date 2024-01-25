@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>SLII Training for Trainers Certification | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/leadership-development/training-for-trainers" />
                 <meta name="description" content="We certify training professionals of all types to deliver SLII in-person and virtually so that all leaders can learn our situational approach to leading others."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
