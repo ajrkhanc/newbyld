@@ -6,7 +6,7 @@ export default function Elearning() {
         <>
              <Head>
                 <title>Research & Insights - Blanchard International</title>
-                <link rel="canonical" href=""https://byldgroup.com/blanchardindia/resources/research-insights />
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/research-insights"/>
                 <meta name="description" content="EXPLORE VALUABLE ARTICLES, VIDEOS, AND TOOLS TO ADDRESS YOUR LEADERSHIP AND MANAGEMENT CHALLENGES"/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
