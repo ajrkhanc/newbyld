@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - The No-Os of Leadership with Mike Easley</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/the-no-os-of-leadership-with-mike-easley" />
         <meta name="description" content="In this episode Amer Kaissi shares results of his extensive research into the traits that define strong, effective leaders from his new book"/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
