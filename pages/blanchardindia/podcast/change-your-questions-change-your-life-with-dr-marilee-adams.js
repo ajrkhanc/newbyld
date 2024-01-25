@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Change Your Questions, Change Your Life with Dr. Marilee Adams</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/change-your-questions-change-your-life-with-dr-marilee-adams" />
         <meta name="description" content="Hear Dr. Marilee Adams share powerful insights from her best-selling book Change Your Questions, Change Your Life"/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
