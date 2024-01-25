@@ -5,7 +5,8 @@ export default function Elearning() {
     return (
         <>
             <Head>
-            <title>White Paper - Blanchard International</title>
+                <title>White Paper - Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/white-paper" />
                 <meta name="description" content="Measuring the Impact and ROI of Leadership Training Read eBook 7 Ways Poor Leaders Are Costing Your Company Money Read eBook 3 Fatal Mistakes Managers Make When Coaching Their Teams Read eBook When It Comes to Customer Service, Is Your Business Flourishing or Failing? Read eBook 7 Warning Signs That Distrust Is Harming Your Organization" />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
