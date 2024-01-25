@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Learning Reinforcement and Sustainment  | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/services/reinforcement-sustainment" />
                 <meta name="description" content="Learn how Blanchard’s approach to learning sustainment and reinforcement keeps learners engaged and empowers them to apply critical concepts in the workplace." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
