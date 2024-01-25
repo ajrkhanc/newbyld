@@ -53,6 +53,33 @@ export default function ThanYouLP() {
             <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/slii" />
                 <meta name="description" content="SLII® - a Situational Approach to Leadership. Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
+        <meta property="og:url" content="https://byldgroup.com/blanchardindia/our-content/programs/slii">
+<meta property="og:type" content="website">
+<meta property="og:title" content="SLII® - a Situational Approach to Leadership | Blanchard International">
+<meta property="og:description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs.">
+<meta property="og:image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png">
+        <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@Blanchard_India"/>
+<meta name="twitter:title" content="SLII® - a Situational Approach to Leadership | Blanchard International/>
+<meta name="twitter:description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
+<meta name="twitter:image:src" content="https://pbs.twimg.com/profile_images/1729446806688333824/WrhGIYA-_400x400.jpg"/>
+<meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/slii"/>
+        <meta itemprop="title" content="SLII® - a Situational Approach to Leadership | Blanchard International"/>
+<meta itemprop="description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
+<meta itemprop="image" content="https://yomabusinesssolutions.com/assets/img/logo/yoma-logo.png"/>
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Blanchard India",
+  "url": "https://byldgroup.com/blanchardindia/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://byldgroup.com/blanchardindia/our-content/programs/slii{search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
  
             </Head>
 
