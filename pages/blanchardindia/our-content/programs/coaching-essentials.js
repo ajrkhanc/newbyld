@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Coaching Essentials | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/coaching-essentials" />
                 <meta name="description" content="Blanchard's Coaching Essentials training program teaches managers how to coach their employees to increase productivity and improve business results." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
