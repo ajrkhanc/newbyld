@@ -46,6 +46,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Leadership Training for Emerging Leaders | Blanchard International</title>
+               <link rel="canonical" href="https://byldgroup.com/blanchardindia/who-we-help/leaders-at-all-levels/emerging-leaders" />
                 <meta name="description" content="Support your high potential employees with leadership development training for emerging leaders from Blanchard." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
