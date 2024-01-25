@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Client Spotlights - Milltronics Client Spotlight</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/milltronics" />
                 <meta name="description" content="Partnering with The Ken Blanchard Companies, Milltronics incorporated SLII® and team-building training processes into the company, and identified five strategic areas to focus on."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
