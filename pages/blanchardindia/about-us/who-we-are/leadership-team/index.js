@@ -6,6 +6,7 @@ export default function MeetTheTeam() {
         <>
         <Head>
         <title>Leadership Team - Blanchard International</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/about-us/who-we-are/leadership-team" />
         <meta name="description" content="Meet the Blanchard executive leadership team and learn more about their backgrounds and responsibilities."/>
         <link rel="icon" href="/blanchardindia/favicon.ico" />
         </Head>
