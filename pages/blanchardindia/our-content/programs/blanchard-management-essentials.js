@@ -24,7 +24,7 @@ export default function ThanYouLP() {
                 <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/slii"/>
 
                 <meta itemprop="title" content="Blanchard Management Essentials | Blanchard International"/>
-                <meta itemprop="description" Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
+                <meta itemprop="description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
                 <meta itemprop="image" content="https://yomabusinesssolutions.com/assets/img/logo/yoma-logo.png"/>
                
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/blanchard-management-essentials" />
