@@ -10,70 +10,14 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Blanchard Management Essentials® Program | First Time Manager Program</title>
-                <meta property="og:url" content="https://byldgroup.com/blanchardindia/our-content/programs/blanchard-management-essentials">
-                <meta property="og:type" content="website">
-                <meta property="og:title" content="Blanchard Management Essentials | Blanchard International">
-                <meta property="og:description" content="Blanchard&#x27;s Management Essentials training program teaches new managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs.">
-                <meta property="og:image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png">
-
-                <meta name="twitter:card" content="summary_large_image"/>
-                <meta name="twitter:site" content="@Blanchard_India"/>
-                <meta name="twitter:title" content="Blanchard Management Essentials | Blanchard International"/>
-                <meta name="twitter:description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
-                <meta name="twitter:image:src" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png"/>
-                <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/slii"/>
-
-                <meta itemprop="title" content="Blanchard Management Essentials | Blanchard International"/>
-                <meta itemprop="description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
-                <meta itemprop="image" content="https://yomabusinesssolutions.com/assets/img/logo/yoma-logo.png"/>
-               
-                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/blanchard-management-essentials" />
+               <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/blanchard-management-essentials" />
                 <meta name="description" content="Train new managers with self-paced, video-based program Blanchard Management Essentials®. Transforms struggling first time managers into inspiring leaders. "/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
 
 
 
 
-            <script type="application/ld+json">
-            {
-              "@context": "https://schema.org/",
-              "@type": "WebSite",
-              "name": "Blanchard India",
-              "url": "https://byldgroup.com/blanchardindia/",
-              "potentialAction": {
-                "@type": "SearchAction",
-                "target": "https://byldgroup.com/blanchardindia/our-content/programs/blanchard-management-essentials "required name=search_term_string"
-              }
-            }
-            </script>
-
-                <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Blanchard Research and Training India",
-  "alternateName": "Blanchard India",
-  "url": "https://byldgroup.com/blanchardindia",
-  "logo": "https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "18001021345",
-    "contactType": "customer service",
-    "contactOption": "TollFree",
-    "areaServed": "IN",
-    "availableLanguage": "en"
-  },
-  "sameAs": [
-    "https://www.facebook.com/blanchardresearchandtrainingindia",
-    "https://twitter.com/blanchard_india",
-    "https://www.instagram.com/blanchard_research_india/",
-    "https://www.youtube.com/c/BlanchardinternationalIndia",
-    "https://www.linkedin.com/company/blanchard-research-and-training-india/",
-    "https://byldgroup.com/blanchardindia"
-  ]
-}
-</script>
-                
+          
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
