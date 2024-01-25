@@ -46,6 +46,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Increasing Personal Effectiveness | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/challenges/personal-effectiveness" />
                 <meta name="description" content="Learn how to be an effective individual contributor and increase your personal effectiveness in your role with Blanchard’s training programs."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
