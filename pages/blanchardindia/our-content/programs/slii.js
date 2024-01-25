@@ -67,19 +67,7 @@ export default function ThanYouLP() {
         <meta itemprop="title" content="SLII® - a Situational Approach to Leadership | Blanchard International"/>
 <meta itemprop="description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
 <meta itemprop="image" content="https://yomabusinesssolutions.com/assets/img/logo/yoma-logo.png"/>
-        <script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "WebSite",
-  "name": "Blanchard India",
-  "url": "https://byldgroup.com/blanchardindia/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://byldgroup.com/blanchardindia/our-content/programs/slii{search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
+
  
             </Head>
 
