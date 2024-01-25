@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Self Leadership | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/self-leadership" />
                 <meta name="description" content="Blanchard's Self Leadership training program teaches your individual contributors the skills to become empowered, proactive self leaders." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
