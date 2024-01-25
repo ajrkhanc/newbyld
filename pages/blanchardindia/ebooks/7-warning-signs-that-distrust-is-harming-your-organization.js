@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>7 Warning Signs That Distrust Is Harming Your Organization</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/7-warning-signs-that-distrust-is-harming-your-organization" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>
 
