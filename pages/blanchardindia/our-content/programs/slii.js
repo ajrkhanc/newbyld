@@ -48,14 +48,82 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-            <title>SLII® - Situational Leadership II Training Program | Blanchard</title>
-               
-            <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/slii" />
+                <meta name="robots" content="INDEX, FOLLOW"/>
+                <title>SLII® - Situational Leadership II Training Program | Blanchard</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/slii" />
                 <meta name="description" content="SLII® - a Situational Approach to Leadership. Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
-  
+                {/* OG TAG */}
+                <meta property="og:url" content="https://byldgroup.com/blanchardindia/our-content/programs/slii" />
+                <meta property="og:type" content="website" />
+                <meta property="og:title" content="SLII® - Situational Leadership II Training Program | Blanchard" />
+                <meta property="og:description" content="SLII® - a Situational Approach to Leadership. Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs." />
+                <meta property="og:image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+                {/* TWITTER TAG */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:site" content="@Blanchard_India" />
+                <meta name="twitter:title" content="SLII® - Situational Leadership II Training Program | Blanchard" />
+                <meta name="twitter:description" content="SLII® - a Situational Approach to Leadership. Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs." />
+                <meta name="twitter:image:src" content="https://pbs.twimg.com/profile_images/1729446806688333824/WrhGIYA-_400x400.jpg" />
+                <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/slii" />
+                {/* itemProp TAG */}
+                <meta itemProp="title" content="SLII® - Situational Leadership II Training Program | Blanchard" />
+                <meta itemProp="description" content="SLII® - a Situational Approach to Leadership. Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs." />
+                <meta itemProp="image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+                {/* script schema */}
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: `
+                        {
+                        "@context": "https://schema.org/",
+                        "@type": "WebSite",
+                        "name": "Blanchard India",
+                        "url": "https://byldgroup.com/blanchardindia/",
+                        "potentialAction": {
+                            "@type": "SearchAction",
+                            "target": "https://byldgroup.com/blanchardindia/our-content/programs/slii{search_term_string}",
+                            "query-input": "required name=search_term_string"
+                        }
+                        }
+                    `,
+                    }}
+                />
 
- 
+
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: `
+                        {
+                        "@context": "https://schema.org",
+                        "@type": "Organization",
+                        "name": "Blanchard Research and Training India",
+                        "alternateName": "Blanchard India",
+                        "url": "https://byldgroup.com/blanchardindia",
+                        "logo": "https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png",
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "telephone": "18001021345",
+                            "contactType": "customer service",
+                            "contactOption": "TollFree",
+                            "areaServed": "IN",
+                            "availableLanguage": "en"
+                        },
+                        "sameAs": [
+                            "https://www.facebook.com/blanchardresearchandtrainingindia",
+                            "https://twitter.com/blanchard_india",
+                            "https://www.instagram.com/blanchard_research_india/",
+                            "https://www.youtube.com/c/BlanchardinternationalIndia",
+                            "https://www.linkedin.com/company/blanchard-research-and-training-india/",
+                            "https://byldgroup.com/blanchardindia"
+                        ]
+                        }
+                    `,
+                    }}
+                />
+
+
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
@@ -340,7 +408,7 @@ export default function ThanYouLP() {
                             <div className='enablingbox greenboxc textccnn'>
                                 <h4>Research Driven</h4>
                                 <p>
-                                Building on more than 30 years of leadership and desire research, SLII<sup>®</sup> incorporates the latest advances in neuroscience and evolves with the ever-changing workplace.
+                                    Building on more than 30 years of leadership and desire research, SLII<sup>®</sup> incorporates the latest advances in neuroscience and evolves with the ever-changing workplace.
                                 </p>
                             </div>
                         </div>
@@ -349,7 +417,7 @@ export default function ThanYouLP() {
                             <div className='enablingbox darkblueboxc textccnn'>
                                 <h4>Proven Results</h4>
                                 <p>
-                                More than 10,000 companies use SLII<sup>®</sup> to increase productivity, reduce sales, and increase sales and profits.
+                                    More than 10,000 companies use SLII<sup>®</sup> to increase productivity, reduce sales, and increase sales and profits.
                                 </p>
                             </div>
                         </div>
@@ -358,7 +426,7 @@ export default function ThanYouLP() {
                             <div className='enablingbox blueboxc textccnn'>
                                 <h4>Develop Inspiring Leaders</h4>
                                 <p>
-                                SLII<sup>®</sup> addresses the need for competence, empowerment, and brain engagement by creating a safe workplace where employees can problem-solve, innovate, and collaborate.
+                                    SLII<sup>®</sup> addresses the need for competence, empowerment, and brain engagement by creating a safe workplace where employees can problem-solve, innovate, and collaborate.
                                 </p>
                             </div>
                         </div>
@@ -367,7 +435,7 @@ export default function ThanYouLP() {
                             <div className='enablingbox darkgeenboxc textccnn'>
                                 <h4>Universally Effective</h4>
                                 <p>
-                                SLII<sup>®</sup> is relevant to global leaders, regardless of industry, language, or job role. SLII<sup>®</sup> teaches leaders to give the right direction or support their people at the right time.
+                                    SLII<sup>®</sup> is relevant to global leaders, regardless of industry, language, or job role. SLII<sup>®</sup> teaches leaders to give the right direction or support their people at the right time.
                                 </p>
                             </div>
                         </div>
@@ -383,7 +451,7 @@ export default function ThanYouLP() {
             <section className='colortheme2bg'>
                 <div className='container-fluid ptt-5 pbb-60 borderedus0'>
                     <div className='row align-items-center'>
-                    <div className="col-sm-12 ptt-5 pbb-50">
+                        <div className="col-sm-12 ptt-5 pbb-50">
                             <hr></hr>
                         </div>
 
@@ -391,10 +459,10 @@ export default function ThanYouLP() {
                         <div className='col-sm-8 pbb-70'>
                             <div className="text-center">
                                 <h2 className="sectionh">
-                                SLII<sup>®</sup> enables leaders to build deeper relationships
+                                    SLII<sup>®</sup> enables leaders to build deeper relationships
                                 </h2>
                                 <p>
-                                With more inspired leaders, morale and cohesion will improve, team members will feel supported, and employees will become more creative and productive problem solvers.
+                                    With more inspired leaders, morale and cohesion will improve, team members will feel supported, and employees will become more creative and productive problem solvers.
                                 </p>
                             </div>
                         </div>
@@ -405,7 +473,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/accelerate-development.svg" alt="Images" />
                                 <h3 className="lineh34">Accelerated development</h3>
                                 <p>
-                                SLII<sup>®</sup> helps managers accelerate the development of their direct reports, from enthusiastic beginners to self-sufficient entrepreneurs.
+                                    SLII<sup>®</sup> helps managers accelerate the development of their direct reports, from enthusiastic beginners to self-sufficient entrepreneurs.
                                 </p>
                             </div>
                         </div>
@@ -415,7 +483,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/Common-Language.svg" alt="Images" />
                                 <h3 className="lineh34">Speak a common language</h3>
                                 <p>
-                                When managers and team members speak the same language, misunderstandings, micromanagement, and frustration disappear.
+                                    When managers and team members speak the same language, misunderstandings, micromanagement, and frustration disappear.
                                 </p>
                             </div>
                         </div>
@@ -425,7 +493,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/Retention.svg" alt="Images" />
                                 <h3 className="lineh34">Increase retention</h3>
                                 <p>
-                                Leaders who match their style to the needs of their employees improve morale, commitment, and engagement.
+                                    Leaders who match their style to the needs of their employees improve morale, commitment, and engagement.
                                 </p>
                             </div>
                         </div>
@@ -434,7 +502,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/Creativity.svg" alt="Images" />
                                 <h3 className="lineh34">Creative unlock</h3>
                                 <p>
-                                Research shows that employees who feel supported by their managers are more engaged, one of the cornerstones of innovation.
+                                    Research shows that employees who feel supported by their managers are more engaged, one of the cornerstones of innovation.
                                 </p>
                             </div>
                         </div>
@@ -443,7 +511,7 @@ export default function ThanYouLP() {
                 </div>
             </section>
 
-          
+
 
             <section className="ptt-90 ExploreCustom contanerbgc">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
@@ -452,7 +520,7 @@ export default function ThanYouLP() {
                         <div className="col-sm-6 text-center">
                             <h2 className="sectionh">Ready to get started?</h2>
                             <p className="headingp  pbb-10">
-                            SLII<sup>®</sup> can be taught face-to-face, virtually, online, or as a combination of learning modes. Contact us today to learn how SLII<sup>®</sup> can empower your leaders to make meaningful connections that create exponential impact.
+                                SLII<sup>®</sup> can be taught face-to-face, virtually, online, or as a combination of learning modes. Contact us today to learn how SLII<sup>®</sup> can empower your leaders to make meaningful connections that create exponential impact.
                             </p>
                             <a href='/blanchardindia/get-started' className='kbbtn kbbtn--orange  mtt-10'>Talk to an Expert</a>
                         </div>
