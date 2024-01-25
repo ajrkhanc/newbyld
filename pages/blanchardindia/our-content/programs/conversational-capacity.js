@@ -9,9 +9,9 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Conversational Capacity | Blanchard International</title>
+                <title>Conversational Capacity® Training Program for Employees | Blanchard India </title>
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/conversational-capacity" />
-                <meta name="description" content="Blanchard's Conversational Capacity training program teaches people how to engage in constructive, learning-focused conversations to address challenging topics or resolve conflict." />
+                <meta name="description" content="Blanchard offers Business communication skills training for employees to upgrade skills they need to handle difficult situations in the workplace. Enquire Now!" />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
