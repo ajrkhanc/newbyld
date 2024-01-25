@@ -6,6 +6,7 @@ export default function ThanYouLP() {
       <>
          <Head>
             <title>Content Integration | Blanchard International</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/custom-solutions/content-integration" />
             <meta name="description" content="Learn how Blanchard can help you create leadership development learning journeys that integrate with your existing LMS or incorporate your existing content kbassets." />
             <link rel="icon" href="/blanchardindia/favicon.ico" />
          </Head>
