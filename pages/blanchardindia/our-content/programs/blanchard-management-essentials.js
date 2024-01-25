@@ -18,7 +18,7 @@ export default function ThanYouLP() {
 
                 <meta name="twitter:card" content="summary_large_image"/>
                 <meta name="twitter:site" content="@Blanchard_India"/>
-                <meta name="twitter:title" content="Blanchard Management Essentials | Blanchard International/>
+                <meta name="twitter:title" content="Blanchard Management Essentials | Blanchard International"/>
                 <meta name="twitter:description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
                 <meta name="twitter:image:src" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png"/>
                 <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/slii"/>
