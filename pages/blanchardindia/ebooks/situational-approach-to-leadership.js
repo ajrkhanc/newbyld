@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>SLII. Why a Situational Approach to Leadership Makes All the Difference</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/situational-approach-to-leadership" />
             <meta name="description" content="SLII. Why a Situational Approach to Leadership Makes All the Difference" />            
          </Head>
             
