@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Legendary Service | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/legendary-service" />
                 <meta name="description" content="Blanchard's Legendary Service training program teaches people how to consistently deliver great service that keeps internal and external customers coming back for more." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
