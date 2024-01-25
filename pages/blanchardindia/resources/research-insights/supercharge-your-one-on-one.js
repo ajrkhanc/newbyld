@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Six Ways to Supercharge Your Next One-on-One with Your Boss</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/research-insights/supercharge-your-one-on-one" />
                 <meta name="description" content="Learn six ways you can supercharge your time with your leader"/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
