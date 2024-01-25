@@ -6,6 +6,7 @@ export default function ThanYouLP() {
       <>
          <Head>
             <title>Content Licensing | Blanchard International</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/leadership-development/content-licensing" />
             <meta name="description" content="Learn how Blanchard content licensing can complete your organization’s existing learning program." />
             <link rel="icon" href="/blanchardindia/favicon.ico" />
          </Head>
