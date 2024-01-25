@@ -46,6 +46,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Improving Employee Engagement and Retention | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/challenges/engagement-retention" />
                 <meta name="description" content="Learn how to improve your employee engagement and retention with Blanchard’s management training programs." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
