@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Client Spotlights - H&R Block Client Success Story</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/h-r-block" />
                 <meta name="description" content="The Ken Blanchard Companies' client, H&R Block, is making an investment in its leaders so they can unleash the potential in their associates."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
