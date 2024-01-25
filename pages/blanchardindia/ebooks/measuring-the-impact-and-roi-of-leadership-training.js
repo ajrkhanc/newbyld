@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>Measuring the Impact and ROI of Leadership Training</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/measuring-the-impact-and-roi-of-leadership-training" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>
             
