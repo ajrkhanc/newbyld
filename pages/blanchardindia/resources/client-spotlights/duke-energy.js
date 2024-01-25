@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Client Spotlights - Duke Energy Client Success Story </title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/duke-energy" />
                 <meta name="description" content="The Ken Blanchard Companies' client, Duke Energy, and its Leadership Academy track enrollment, graduation, effectiveness, and impact across the organization." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
