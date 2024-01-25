@@ -46,6 +46,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Enhancing Teaming & Collaboration | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/challenges/teaming-collaboration" />
                 <meta name="description" content="Learn how Blanchard can help leaders at all levels improve their teamwork and collaboration skills." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
