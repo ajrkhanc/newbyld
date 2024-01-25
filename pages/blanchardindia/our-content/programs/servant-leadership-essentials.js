@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Servant Leadership Essentials | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/servant-leadership-essentials" />
                 <meta name="description" content="Blanchard's Servant Leadership course teaches leaders how to think differently about leadership’s purpose and bring out the best in their people." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
