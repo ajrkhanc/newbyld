@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>An Unvarnished Look at Asking Employees to Return to the Office</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/research-insights/hybrid-work-pov" />
                 <meta name="description" content="Asking remote workers to return to the office is a complex issue. In this point-of-view, Blanchard examines the issue in detail and shares our perspective on successfully navigating the challenge." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
