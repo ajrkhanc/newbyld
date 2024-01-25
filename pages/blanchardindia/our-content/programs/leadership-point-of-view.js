@@ -9,9 +9,9 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Leadership Point of View | Blanchard International</title>
+                <title>Leadership Point of View (LPOV™) Training - A Leadership Vision Program</title>
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/leadership-point-of-view" />
-                <meta name="description" content="Blanchard's Leadership Point of View training program teaches people how to create a workplace where everyone feels seen, heard, and valued."/>
+                <meta name="description" content="Blanchard's Leadership Point of View training program teaches people how to create a workplace where everyone feels seen, heard, and valued. Develop a Vision for Your Team."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
