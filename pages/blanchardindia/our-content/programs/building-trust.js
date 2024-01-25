@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Building Trust | Blanchard International</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/building-trust" />
                 <meta name="description" content="Blanchard's Building Trust training program teaches managers how to build trust to increase engagement, creativity, and commitment."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
