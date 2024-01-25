@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Becoming an Impact Player with Liz Wiseman</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/becoming-an-impact-player-with-liz-wiseman" />
         <meta name="description" content="In this episode, hear Liz Wiseman reveal the secrets of stellar professionals who play the game at a higher level from her new book,"/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
