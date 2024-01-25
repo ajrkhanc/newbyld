@@ -9,9 +9,9 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Coaching Essentials | Blanchard International</title>
+                <title>Coaching Essentials® - Certified Coaching Program for Managers | Blanchard India</title>
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/coaching-essentials" />
-                <meta name="description" content="Blanchard's Coaching Essentials training program teaches managers how to coach their employees to increase productivity and improve business results." />
+                <meta name="description" content="Acquiring coaching skills allows a manager to pave a path for their employees that leads to progress through learning.Coaching Program for Managers makes them competent enough to perform." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
