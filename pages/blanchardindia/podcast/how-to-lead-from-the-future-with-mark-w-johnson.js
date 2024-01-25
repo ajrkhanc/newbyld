@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - How to Lead from the Future with Mark W. Johnson</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/how-to-lead-from-the-future-with-mark-w-johnson" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
