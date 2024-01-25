@@ -9,9 +9,9 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Legendary Service | Blanchard International</title>
+                <title>Legendary Service® Program | Customer Service Training For Employees</title>
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/legendary-service" />
-                <meta name="description" content="Blanchard's Legendary Service training program teaches people how to consistently deliver great service that keeps internal and external customers coming back for more." />
+                <meta name="description" content="Legendary Service training program by Blanchard includes Customer Experience training that teaches strategy, how to track, analyse and fully embed the customer experience within your business. Enroll today!" />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
