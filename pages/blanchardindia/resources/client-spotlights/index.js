@@ -6,6 +6,7 @@ function CLIENTSPOTS() {
         <>
             <Head>
                 <title>Client Spotlights - Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights" />
                 <meta name="description" content="Learn how we have worked with clients to build leadership strategies that empower them to succeed today and in the ever-increasing demands of the future."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
