@@ -9,9 +9,9 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Leading People Through Change | Blanchard International</title>
+                <title>Leading People Through Change® Program | Change Management Training</title>
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/leading-people-through-change" />
-                <meta name="description" content="Blanchard's Leading People Through Change training program teaches people how to successfully lead people through organizational change." />
+                <meta name="description" content="Leading People Through Change Program or Change Management Training teaches people how to implement strategies for effecting change, controlling change, and helping employees adapt to change." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
