@@ -48,9 +48,9 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Courageous Inclusion | Blanchard International</title>
+                <title>Courageous Inclusion™ - Diversity And Inclusion Leadership Program</title>
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/courageous-inclusion" />
-                <meta name="description" content="Help your senior leaders continue to grow their management skills with leadership development training from Blanchard." />
+                <meta name="description" content="Inclusive leadership lead with courageous vulnerability. Based on the proven developmental continuum "How to Be an Inclusive Leader"." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
