@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Best of 2022: Smart Growth with Whitney Johnson</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/smart-growth-with-whitney-johnson" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
