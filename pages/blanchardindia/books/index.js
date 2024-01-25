@@ -6,6 +6,7 @@ export default function Books() {
         <>
         <Head>
         <title>Books - Blanchard International</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/books" />
         <meta name="description" content="Lead the winning path with Leadership training programs in India. Acquiring Leadership training by the experts help in the development of the individuals."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
