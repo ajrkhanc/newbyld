@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Finding Your Dream Job with Alexa Shoen</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/finding-your-dream-job-with-alexa-shoen" />
         <meta name="description" content="Finding Your Dream Job with Alexa Shoen"/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
