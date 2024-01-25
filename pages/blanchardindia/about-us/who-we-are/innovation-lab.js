@@ -6,7 +6,7 @@ export default function ThanYouLP() {
       <>
          <Head>
             <title>Innovation Lab | Blanchard International</title>
-            <link rel="canonical" href="https://byldgroup.com/blanchardindia/who-we-help/teams" />
+          <link rel="canonical" href="https://byldgroup.com/blanchardindia/about-us/who-we-are/innovation-lab" />
             <meta name="description" content="Blanchard’s Innovation Lab harnesses the powers of creativity, curiosity, data, research, and play to develop the leadership development strategies of the future." />
             <link rel="icon" href="/blanchardindia/favicon.ico" />
          </Head>
