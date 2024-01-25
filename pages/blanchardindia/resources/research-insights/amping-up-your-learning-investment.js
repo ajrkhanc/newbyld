@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Amping Up the Value and Return of Your Learning Investment White Paper</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/research-insights/amping-up-your-learning-investment" />
                 <meta name="description" content="Read about a process for closing the learning–doing gap and providing measurable results" />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
