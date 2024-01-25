@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Leadership Content To Meet Business Challenges | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/challenges" />
                 <meta name="description" content="Blanchard’s leadership development content is designed to address today’s most common management challenges and enable business transformation." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
