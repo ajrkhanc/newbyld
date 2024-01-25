@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Client Spotlights - American Institutes for Research Client Success Story</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/american-institutes-for-research" />
                 <meta name="description" content="The Ken Blanchard Companies' client, American Institutes for Research, recently replaced the company’s existing performance review process with a new approach based on giving and receiving feedback." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
