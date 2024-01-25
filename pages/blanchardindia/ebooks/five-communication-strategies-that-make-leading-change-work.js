@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>Five Communication strategies that make leading change work in turbulent times</title>
+      <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/five-communication-strategies-that-make-leading-change-work" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>
             
