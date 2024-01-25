@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Leadership Keynotes | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/leadership-development/keynotes" />
                 <meta name="description" content="How Blanchard's keynotes can accelerate adoption of your leadership training program and inspire performance." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
