@@ -6,7 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Digital and Virtual Learning Experiences | Blanchard International</title>
-        <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/leadership-development/digital-virtual-learning-experiences" />
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/what-we-do/leadership-development/digital-virtual-learning-experiences" />
                 <meta name="description" content="An overview of Blanchard’s online learning experiences, including Degreed One-Click and other popular learning platforms. " />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
