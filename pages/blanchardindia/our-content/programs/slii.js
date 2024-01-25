@@ -48,9 +48,9 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>SLII® - a Situational Approach to Leadership | Blanchard International</title>
+                <title>SLII® - Situational Leadership II Training Program | Blanchard</title>
             <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/slii" />
-                <meta name="description" content="Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs." />
+                <meta name="description" content="SLII® - a Situational Approach to Leadership. Blanchard's SLII leadership training program teaches managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
 
