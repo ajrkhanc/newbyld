@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Client Spotlights - Aral (Germany) Client Success Story</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/aral-germany" />
                 <meta name="description" content="The Ken Blanchard Companies' client, Aral (Germany), nurtures special team skills, such as communication within the team, conflict solving, and making collective decisions." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
