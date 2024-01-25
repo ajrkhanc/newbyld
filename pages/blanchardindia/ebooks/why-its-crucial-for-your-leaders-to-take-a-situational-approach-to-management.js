@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>Taking a Situational Approach to Management</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/why-its-crucial-for-your-leaders-to-take-a-situational-approach-to-management" />
             <meta name="description" content="Taking a Situational Approach to Management" />            
          </Head>
 
