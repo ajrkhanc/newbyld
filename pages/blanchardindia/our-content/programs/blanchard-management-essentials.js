@@ -10,6 +10,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Blanchard Management Essentials | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/blanchard-management-essentials" />
                 <meta name="description" content="Blanchard's Management Essentials training program teaches new managers how to identify individuals’ needs and offer the appropriate leadership style to meet those needs."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
