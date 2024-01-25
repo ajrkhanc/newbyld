@@ -49,6 +49,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Essential Motivators | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/essential-motivators" />
                 <meta name="description" content="Blanchard's Essential Motivators training program teaches people how to improve their interpersonal dynamics to foster collaboration." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
