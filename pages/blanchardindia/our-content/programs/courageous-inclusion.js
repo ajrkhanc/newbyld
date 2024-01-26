@@ -49,9 +49,84 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Courageous Inclusion™ - Diversity And Inclusion Leadership Program</title>
+                <meta name="robots" content="INDEX, FOLLOW" />
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/courageous-inclusion" />
                 <meta name="description" content="Inclusive leadership lead with courageous vulnerability. Based on the proven developmental continuum 'How to Be an Inclusive Leader'." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
+
+                {/* og tag */}
+                <meta property="og:url" content="https://byldgroup.com/blanchardindia/our-content/programs/courageous-inclusion" />
+                <meta property="og:type" content="website" />
+                <meta property="og:title" content="Courageous Inclusion™ - Diversity And Inclusion Leadership Program" />
+                <meta property="og:description" content="Inclusive leadership lead with courageous vulnerability. Based on the proven developmental continuum 'How to Be an Inclusive Leader'." />
+                <link rel="icon" />
+                <meta property="og:image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+
+
+                {/* TWITTER TAG */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:site" content="@Blanchard_India" />
+                <meta name="twitter:title" content="Courageous Inclusion™ - Diversity And Inclusion Leadership Program" />
+                <meta name="twitter:description" content="Inclusive leadership lead with courageous vulnerability. Based on the proven developmental continuum 'How to Be an Inclusive Leader'." />
+                <link rel="icon" />
+                <meta name="twitter:image:src" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+                <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/courageous-inclusion" />
+
+
+                {/* itemProp TAG */}
+                <meta itemProp="title" content="Courageous Inclusion™ - Diversity And Inclusion Leadership Program" />
+                <meta itemProp="description" content="Inclusive leadership lead with courageous vulnerability. Based on the proven developmental continuum 'How to Be an Inclusive Leader'." />
+                <meta itemProp="image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+
+                {/* script schema */}
+
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org/",
+                            "@type": "WebSite",
+                            "name": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia/",
+                            "potentialAction": {
+                                "@type": "SearchAction",
+                                "target": "https://byldgroup.com/blanchardindia/our-content/programs/courageous-inclusion{search_term_string}",
+                                "query-input": "required name=search_term_string"
+                            }
+                        }),
+                    }}
+                />
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org",
+                            "@type": "Organization",
+                            "name": "Blanchard Research and Training India",
+                            "alternateName": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia",
+                            "logo": "https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png",
+                            "contactPoint": {
+                                "@type": "ContactPoint",
+                                "telephone": "18001021345",
+                                "contactType": "customer service",
+                                "contactOption": "TollFree",
+                                "areaServed": "IN",
+                                "availableLanguage": "en"
+                            },
+                            "sameAs": [
+                                "https://www.facebook.com/blanchardresearchandtrainingindia",
+                                "https://twitter.com/blanchard_india",
+                                "https://www.instagram.com/blanchard_research_india/",
+                                "https://www.youtube.com/c/BlanchardinternationalIndia",
+                                "https://www.linkedin.com/company/blanchard-research-and-training-india/",
+                                "https://byldgroup.com/blanchardindia"
+                            ]
+                        }),
+                    }}
+                />
+
+
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
@@ -80,10 +155,10 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Creating a workplace where everyone feels valued, heard, and seen</h2>
                             <p className="headingp">
-                            Blanchard believes everyone deserves a workplace environment where they truly can be themselves. Leaders need a plan and the right skills to implement it to achieve true diversity, equity, and inclusion (DEI).
+                                Blanchard believes everyone deserves a workplace environment where they truly can be themselves. Leaders need a plan and the right skills to implement it to achieve true diversity, equity, and inclusion (DEI).
                             </p>
                             <p className="headingp">
-                            As a result of Jennifer Brown's book, How to Be an Inclusive Leader, Courageous Inclusion™ cultivates an inclusive mindset. Through this course, participants will learn how to become more knowledgeable and active advocates of inclusion in the workplace.
+                                As a result of Jennifer Brown's book, How to Be an Inclusive Leader, Courageous Inclusion™ cultivates an inclusive mindset. Through this course, participants will learn how to become more knowledgeable and active advocates of inclusion in the workplace.
                             </p>
                             <a href='/blanchardindia/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
@@ -108,22 +183,22 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Create a road map for becoming a more inclusive workplace</h2>
                             <p className="headingp">
-                            With Blanchard's Courageous Inclusion program, you can empower your people to speak out and raise DEI issues confidently and safely.
+                                With Blanchard's Courageous Inclusion program, you can empower your people to speak out and raise DEI issues confidently and safely.
                             </p>
                             <p className="headingp">
-                            With Courageous Inclusion, you will teach your people a mindset that promotes diversity and inclusion and provide a proven process to help them become more knowledgeable and active proponents of inclusion.
+                                With Courageous Inclusion, you will teach your people a mindset that promotes diversity and inclusion and provide a proven process to help them become more knowledgeable and active proponents of inclusion.
                             </p>
                             <p className="headingp">
-                            You will teach your people how to diagnose themselves on the developmental continuum and how to progress to higher inclusion levels.
+                                You will teach your people how to diagnose themselves on the developmental continuum and how to progress to higher inclusion levels.
                             </p>
                             <p className="headingp">
-                            With Courageous Inclusion's road map approach, you can increase inclusivity within your organization and create a place where everyone feels welcomed.
+                                With Courageous Inclusion's road map approach, you can increase inclusivity within your organization and create a place where everyone feels welcomed.
                             </p>
                             <p className="headingp">
-                            The time has come to transform DEI from a business priority to a workplace reality
+                                The time has come to transform DEI from a business priority to a workplace reality
                             </p>
                             <p className="headingp">
-                            Diversity and inclusion are top priorities for 93% of leaders. Still, only 34% believe it is a strength in their workplace.
+                                Diversity and inclusion are top priorities for 93% of leaders. Still, only 34% believe it is a strength in their workplace.
                             </p>
 
                         </div>
@@ -406,7 +481,7 @@ export default function ThanYouLP() {
             <section className="ptt-90 ExploreCustom colortheme4bg">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
-                    <div className="col-sm-3"></div>
+                        <div className="col-sm-3"></div>
                         <div className="col-sm-6 text-center">
                             <h2 className="sectionh">Ready to Get Started?</h2>
                             <p className="headingp pbb-10">
