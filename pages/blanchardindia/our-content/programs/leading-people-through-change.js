@@ -10,9 +10,87 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Leading People Through Change® Program | Change Management Training</title>
+                <meta name="robots" content="INDEX, FOLLOW" />
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/leading-people-through-change" />
                 <meta name="description" content="Leading People Through Change Program or Change Management Training teaches people how to implement strategies for effecting change, controlling change, and helping employees adapt to change." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
+
+                {/* og tag */}
+                <meta property="og:url" content="https://byldgroup.com/blanchardindia/our-content/programs/leading-people-through-change" />
+                <meta property="og:type" content="website" />
+                <meta property="og:title" content="Leading People Through Change® Program | Change Management Training" />
+                <meta property="og:description" content="Leading People Through Change Program or Change Management Training teaches people how to implement strategies for effecting change, controlling change, and helping employees adapt to change." />
+                <meta property="og:image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+
+
+                {/* TWITTER TAG */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:site" content="@Blanchard_India" />
+                <meta name="twitter:title" content="Leading People Through Change® Program | Change Management Training" />
+                <meta name="twitter:description" content="Leading People Through Change Program or Change Management Training teaches people how to implement strategies for effecting change, controlling change, and helping employees adapt to change." />
+                <meta name="twitter:image:src" content="https://pbs.twimg.com/profile_images/1729446806688333824/WrhGIYA-_400x400.jpg" />
+                <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/leading-people-through-change" />
+
+
+                {/* itemProp TAG */}
+
+                <meta itemProp="title" content="Leading People Through Change® Program | Change Management Training" />
+                <meta itemProp="description" content="Leading People Through Change Program or Change Management Training teaches people how to implement strategies for effecting change, controlling change, and helping employees adapt to change." />
+                <meta itemProp="image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+
+                {/* script schema */}
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org/",
+                            "@type": "WebSite",
+                            "name": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia/",
+                            "potentialAction": {
+                                "@type": "SearchAction",
+                                "target": "https://byldgroup.com/blanchardindia/our-content/programs/leading-people-through-change{search_term_string}",
+                                "query-input": "required name=search_term_string"
+                            }
+                        }),
+                    }}
+                />
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org",
+                            "@type": "Organization",
+                            "name": "Blanchard Research and Training India",
+                            "alternateName": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia",
+                            "logo": "https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png",
+                            "contactPoint": {
+                                "@type": "ContactPoint",
+                                "telephone": "18001021345",
+                                "contactType": "customer service",
+                                "contactOption": "TollFree",
+                                "areaServed": "IN",
+                                "availableLanguage": "en"
+                            },
+                            "sameAs": [
+                                "https://www.facebook.com/blanchardresearchandtrainingindia",
+                                "https://twitter.com/blanchard_india",
+                                "https://www.instagram.com/blanchard_research_india/",
+                                "https://www.youtube.com/c/BlanchardinternationalIndia",
+                                "https://www.linkedin.com/company/blanchard-research-and-training-india/",
+                                "https://byldgroup.com/blanchardindia"
+                            ]
+                        }),
+                    }}
+                />
+
+
+
+
+
+
+
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
@@ -179,17 +257,17 @@ export default function ThanYouLP() {
                                                         Leadership Tendencies Tool: Allows participants to discover their natural strengths and opportunities for growth
                                                     </li>
                                                     <li>
-                                                    Interactive Exercises: Fun, engaging activities include videos, games, stories, case studies, and online discussions
+                                                        Interactive Exercises: Fun, engaging activities include videos, games, stories, case studies, and online discussions
                                                     </li>
                                                     <li>
-                                                    Manager-Led Debriefs: Optional manager-led debriefs for collaboration and discussion in a blended learning experience
+                                                        Manager-Led Debriefs: Optional manager-led debriefs for collaboration and discussion in a blended learning experience
                                                     </li>
                                                 </ul>
 
 
                                                 <h3>Digital kbassets</h3>
                                                 <p>
-                                                Set of micro-activities, including videos, interactions, and worksheets, that learners can access in moments of need to support ongoing learning, performance support, reinforcement, and custom learning journeys.
+                                                    Set of micro-activities, including videos, interactions, and worksheets, that learners can access in moments of need to support ongoing learning, performance support, reinforcement, and custom learning journeys.
                                                 </p>
                                             </div>
                                         </div>
@@ -212,10 +290,10 @@ export default function ThanYouLP() {
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                To succeed in the future, your organization must understand how to lead through change
+                                    To succeed in the future, your organization must understand how to lead through change
                                 </h2>
                                 <p className="themepbold pbb-10">
-                                Change initiatives that fail or stall waste time and money, lower productivity and engagement, and increase employee turnover.
+                                    Change initiatives that fail or stall waste time and money, lower productivity and engagement, and increase employee turnover.
                                 </p>
                             </div>
                         </div>
@@ -236,10 +314,10 @@ export default function ThanYouLP() {
                         <div className='col-sm-8 pbb-70'>
                             <div className="text-center">
                                 <h2 className="sectionh">
-                                Learn How To Lead People Through Organizational Change
+                                    Learn How To Lead People Through Organizational Change
                                 </h2>
                                 <p>
-                                Keeping up with the competition involves making change a part of a company's corporate culture. To move the entire organization forward, leaders who know how to lead organizational change surface, address employees' concerns, and involve them throughout the process.
+                                    Keeping up with the competition involves making change a part of a company's corporate culture. To move the entire organization forward, leaders who know how to lead organizational change surface, address employees' concerns, and involve them throughout the process.
                                 </p>
                             </div>
                         </div>
@@ -250,7 +328,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/build-change-leadership-capability.svg" alt="Images" />
                                 <h3 className="lineh34">Boost buy-in and resilience</h3>
                                 <p>
-                                The ability to uncover, diagnose, and address people's predictable concerns reduces resistance and increases commitment.
+                                    The ability to uncover, diagnose, and address people's predictable concerns reduces resistance and increases commitment.
                                 </p>
                             </div>
                         </div>
@@ -260,7 +338,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/get-results-faster.svg" alt="Images" />
                                 <h3 className="lineh34">Faster Results</h3>
                                 <p>
-                                Change initiatives that are led effectively are supported by employees and achieve results more quickly.
+                                    Change initiatives that are led effectively are supported by employees and achieve results more quickly.
                                 </p>
                             </div>
                         </div>
@@ -270,7 +348,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/increase-buy-in-and-resilience.svg" alt="Images" />
                                 <h3 className="lineh34">Enhance your ability to lead change</h3>
                                 <p>
-                                Successful companies champion the capacity to change as part of their culture and become more resilient and agile.
+                                    Successful companies champion the capacity to change as part of their culture and become more resilient and agile.
                                 </p>
                             </div>
                         </div>
@@ -283,11 +361,11 @@ export default function ThanYouLP() {
             <section className="ptt-90 ExploreCustom contanerbgc">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
-                    <div className="col-sm-3"></div>
+                        <div className="col-sm-3"></div>
                         <div className="col-sm-6 text-center">
                             <h2 className="sectionh">Are you ready to get started?</h2>
                             <p className="headingp pbb-10">
-                            Contact us today to learn how we can help your leaders lead successful organizational change.
+                                Contact us today to learn how we can help your leaders lead successful organizational change.
                             </p>
                             <a href='/blanchardindia/get-started' className='kbbtn kbbtn--orange  mtt-10'>Talk to an Expert</a>
                         </div>
