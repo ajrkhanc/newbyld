@@ -10,9 +10,80 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Conversational Capacity® Training Program for Employees | Blanchard India </title>
+                <meta name="robots" content="INDEX, FOLLOW" />
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/conversational-capacity" />
                 <meta name="description" content="Blanchard offers Business communication skills training for employees to upgrade skills they need to handle difficult situations in the workplace. Enquire Now!" />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
+                {/* og tag */}
+
+                <meta property="og:url" content="https://byldgroup.com/blanchardindia/our-content/programs/conversational-capacity" />
+                <meta property="og:type" content="website" />
+                <meta property="og:title" content="Conversational Capacity® Training Program for Employees | Blanchard India " />
+                <meta property="og:description" content="Blanchard offers Business communication skills training for employees to upgrade skills they need to handle difficult situations in the workplace. Enquire Now!" />
+                <meta property="og:image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+
+                {/* TWITTER TAG */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:site" content="@Blanchard_India" />
+                <meta name="twitter:title" content="Conversational Capacity® Training Program for Employees | Blanchard India " />
+                <meta name="twitter:description" content="Blanchard offers Business communication skills training for employees to upgrade skills they need to handle difficult situations in the workplace. Enquire Now!" />
+                <meta name="twitter:image:src" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+                <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/conversational-capacity" />
+
+
+                {/* itemProp TAG */}
+
+                <meta itemProp="title" content="Conversational Capacity® Training Program for Employees | Blanchard India" />
+                <meta itemProp="description" content="Blanchard offers Business communication skills training for employees to upgrade skills they need to handle difficult situations in the workplace. Enquire Now!" />
+                <meta itemProp="ihttps://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+                {/* script schema */}
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org/",
+                            "@type": "WebSite",
+                            "name": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia/",
+                            "potentialAction": {
+                                "@type": "SearchAction",
+                                "target": "https://byldgroup.com/blanchardindia/our-content/programs/conversational-capacity{search_term_string}",
+                                "query-input": "required name=search_term_string"
+                            }
+                        }),
+                    }}
+                />
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org",
+                            "@type": "Organization",
+                            "name": "Blanchard Research and Training India",
+                            "alternateName": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia",
+                            "logo": "https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png",
+                            "contactPoint": {
+                                "@type": "ContactPoint",
+                                "telephone": "18001021345",
+                                "contactType": "customer service",
+                                "contactOption": "TollFree",
+                                "areaServed": "IN",
+                                "availableLanguage": "en"
+                            },
+                            "sameAs": [
+                                "https://www.facebook.com/blanchardresearchandtrainingindia",
+                                "https://twitter.com/blanchard_india",
+                                "https://www.instagram.com/blanchard_research_india/",
+                                "https://www.youtube.com/c/BlanchardinternationalIndia",
+                                "https://www.linkedin.com/company/blanchard-research-and-training-india/",
+                                "https://byldgroup.com/blanchardindia"
+                            ]
+                        }),
+                    }}
+                />
+
+
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
@@ -157,11 +228,11 @@ export default function ThanYouLP() {
                                                     <li>
                                                         Participants receive a set of online tools to aid in mastering the content and using it with others
                                                     </li>
-                                                </ul>                                              
+                                                </ul>
 
                                                 <h3>Collaborative Online Course </h3>
                                                 <p>
-                                                Conversational Capacity can be delivered online in a collaborative, moderated class over five weeks, with assignments and cohort meetings once a week during one-hour live virtual inspire session. It is self-directed learning blended with discussions, exercises, reflection, and offline assignments. Participants gain skills for keeping conversations open, balanced, and productive, ways to maintain a learning-focused mindset, methods for overcoming obstacles to Conversational Capacity.
+                                                    Conversational Capacity can be delivered online in a collaborative, moderated class over five weeks, with assignments and cohort meetings once a week during one-hour live virtual inspire session. It is self-directed learning blended with discussions, exercises, reflection, and offline assignments. Participants gain skills for keeping conversations open, balanced, and productive, ways to maintain a learning-focused mindset, methods for overcoming obstacles to Conversational Capacity.
                                                 </p>
 
                                             </div>
@@ -172,11 +243,11 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>Online Overview</h3>
                                                 <p>
-                                                This 35-minute online overview teaches the core concepts of Conversational Capacity through micro-learning activities. Ideal for learners who need an overview of the content or a refresher, this course design can be used along with virtual and in-person sessions, or as part of a learning journey, to create more flexible learning experiences.
+                                                    This 35-minute online overview teaches the core concepts of Conversational Capacity through micro-learning activities. Ideal for learners who need an overview of the content or a refresher, this course design can be used along with virtual and in-person sessions, or as part of a learning journey, to create more flexible learning experiences.
                                                 </p>
                                                 <h3>Digital kbassets</h3>
                                                 <p>
-                                                Set of nine micro-activities ranging from one to five minutes that learners can use during moments of need. The playlist includes videos, activities, and worksheets on topics such as influencing up, tackling touchy topics, why arguing backfires, and leaning into difference.
+                                                    Set of nine micro-activities ranging from one to five minutes that learners can use during moments of need. The playlist includes videos, activities, and worksheets on topics such as influencing up, tackling touchy topics, why arguing backfires, and leaning into difference.
                                                 </p>
                                             </div>
                                         </div>
@@ -279,7 +350,7 @@ export default function ThanYouLP() {
             <section className="ptt-90 ExploreCustom contanerbgc">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
-                    <div className="col-sm-3"></div>
+                        <div className="col-sm-3"></div>
                         <div className="col-sm-6 text-center">
                             <h2 className="sectionh">Are you ready to get started?</h2>
                             <p className="headingp pbb-10">
