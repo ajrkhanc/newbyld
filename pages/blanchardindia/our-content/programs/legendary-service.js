@@ -10,9 +10,79 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Legendary Service® Program | Customer Service Training For Employees</title>
+                <meta name="robots" content="INDEX, FOLLOW" />
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/legendary-service" />
                 <meta name="description" content="Legendary Service training program by Blanchard includes Customer Experience training that teaches strategy, how to track, analyse and fully embed the customer experience within your business. Enroll today!" />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
+                {/* og tag */}
+                <meta property="og:url" content="https://byldgroup.com/blanchardindia/our-content/programs/legendary-service" />
+                <meta property="og:type" content="website" />
+                <meta property="og:title" content="Legendary Service® Program | Customer Service Training For Employees" />
+                <meta property="og:description" content="Legendary Service training program by Blanchard includes Customer Experience training that teaches strategy, how to track, analyse and fully embed the customer experience within your business. Enroll today!" />
+                <meta property="og:image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+
+                {/* TWITTER TAG */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:site" content="@Blanchard_India" />
+                <meta name="twitter:title" content="Legendary Service® Program | Customer Service Training For Employees" />
+                <meta name="twitter:description" content="Legendary Service training program by Blanchard includes Customer Experience training that teaches strategy, how to track, analyse and fully embed the customer experience within your business. Enroll today!" />
+                <meta name="twitter:image:src" content="https://pbs.twimg.com/profile_images/1729446806688333824/WrhGIYA-_400x400.jpg" />
+                <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/legendary-service" />
+
+                {/* itemProp TAG */}
+                <meta itemProp="title" content="Legendary Service® Program | Customer Service Training For Employees" />
+                <meta itemProp="description" content="Legendary Service training program by Blanchard includes Customer Experience training that teaches strategy, how to track, analyse and fully embed the customer experience within your business. Enroll today!" />
+                <meta itemProp="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+
+                {/* script schema */}
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org/",
+                            "@type": "WebSite",
+                            "name": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia/",
+                            "potentialAction": {
+                                "@type": "SearchAction",
+                                "target": "https://byldgroup.com/blanchardindia/our-content/programs/legendary-service{search_term_string}",
+                                "query-input": "required name=search_term_string"
+                            }
+                        }),
+                    }}
+                />
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org",
+                            "@type": "Organization",
+                            "name": "Blanchard Research and Training India",
+                            "alternateName": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia",
+                            "logo": "https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png",
+                            "contactPoint": {
+                                "@type": "ContactPoint",
+                                "telephone": "18001021345",
+                                "contactType": "customer service",
+                                "contactOption": "TollFree",
+                                "areaServed": "IN",
+                                "availableLanguage": "en"
+                            },
+                            "sameAs": [
+                                "https://www.facebook.com/blanchardresearchandtrainingindia",
+                                "https://twitter.com/blanchard_india",
+                                "https://www.instagram.com/blanchard_research_india/",
+                                "https://www.youtube.com/c/BlanchardinternationalIndia",
+                                "https://www.linkedin.com/company/blanchard-research-and-training-india/",
+                                "https://byldgroup.com/blanchardindia"
+                            ]
+                        }),
+                    }}
+                />
+
+
+
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
@@ -117,7 +187,7 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>1 Day Instructor-led Course</h3>
                                                 <p>
-                                                The Legendary Service in-person experience is a one-day course to define individuals’ personal service vision, identify customers’ needs and wants, learn and practice skills for building customer satisfaction and loyalty, and develop strategies to empower themselves and create an action plan.
+                                                    The Legendary Service in-person experience is a one-day course to define individuals’ personal service vision, identify customers’ needs and wants, learn and practice skills for building customer satisfaction and loyalty, and develop strategies to empower themselves and create an action plan.
                                                 </p>
                                                 <p><b>Prework: LAUNCH — </b>Engaging prework assignments, including an assessment, which explain key Legendary Service concepts</p>
                                                 <p><b>Day 1 Morning: LEARN —</b> Activities that guide participants as they develop a customer map and rate the level of service they provide</p>
@@ -133,22 +203,22 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>Virtual Instructor-led Course </h3>
                                                 <p>
-                                                Legendary Service can also be delivered as three two-hour virtual sessions.
+                                                    Legendary Service can also be delivered as three two-hour virtual sessions.
                                                 </p>
                                                 <p>
-                                                <b>Prework: LAUNCH —</b> Engaging prework assignments, including an assessment on Blanchard Exchange Learner Portal 
+                                                    <b>Prework: LAUNCH —</b> Engaging prework assignments, including an assessment on Blanchard Exchange Learner Portal
                                                 </p>
                                                 <p>
-                                                <b>Session 1: LEARN —</b> Activities that guide participants as they develop a customer map and rate the level of service they provide
+                                                    <b>Session 1: LEARN —</b> Activities that guide participants as they develop a customer map and rate the level of service they provide
                                                 </p>
                                                 <p>
-                                                <b>Session 2: PRACTICE —</b> Allows participants to reflect on their level of commitment to customers and has them record action plan ideas
+                                                    <b>Session 2: PRACTICE —</b> Allows participants to reflect on their level of commitment to customers and has them record action plan ideas
                                                 </p>
                                                 <p>
-                                                <b>Session 3: PRACTICE —</b> Explores the challenges to offering solutions and gaining agreement and strategies for overcoming those obstacles, and guides participants in crafting an expression of appreciation and practicing its delivery
+                                                    <b>Session 3: PRACTICE —</b> Explores the challenges to offering solutions and gaining agreement and strategies for overcoming those obstacles, and guides participants in crafting an expression of appreciation and practicing its delivery
                                                 </p>
                                                 <p>
-                                                <b>Post: APPLY —</b> Set of micro-activities, including videos, interactions, and worksheets, that learners can access in moments of need to support ongoing learning, performance support, reinforcement, and custom learning journeys
+                                                    <b>Post: APPLY —</b> Set of micro-activities, including videos, interactions, and worksheets, that learners can access in moments of need to support ongoing learning, performance support, reinforcement, and custom learning journeys
                                                 </p>
                                             </div>
                                         </div>
@@ -252,7 +322,7 @@ export default function ThanYouLP() {
             <section className="ptt-90 ExploreCustom contanerbgc">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
-                    <div className="col-sm-3"></div>
+                        <div className="col-sm-3"></div>
                         <div className="col-sm-6 text-center">
                             <h2 className="sectionh">Are you ready to get started?</h2>
                             <p className="headingp pbb-10">
