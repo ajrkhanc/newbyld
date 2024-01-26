@@ -10,9 +10,78 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Coaching Essentials® - Certified Coaching Program for Managers | Blanchard India</title>
+                <meta name="robots" content="INDEX, FOLLOW" />
                 <link rel="canonical" href="https://byldgroup.com/blanchardindia/our-content/programs/coaching-essentials" />
                 <meta name="description" content="Acquiring coaching skills allows a manager to pave a path for their employees that leads to progress through learning.Coaching Program for Managers makes them competent enough to perform." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
+                {/* og tag */}
+                <meta property="og:url" content="https://byldgroup.com/blanchardindia/our-content/programs/coaching-essentials" />
+                <meta property="og:type" content="website" />
+                <meta property="og:title" content="Coaching Essentials® - Certified Coaching Program for Managers | Blanchard India" />
+                <meta property="og:description" content="Acquiring coaching skills allows a manager to pave a path for their employees that leads to progress through learning.Coaching Program for Managers makes them competent enough to perform." />
+                <meta property="og:image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+                {/* TWITTER TAG */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:site" content="@Blanchard_India" />
+                <meta name="twitter:title" content="Coaching Essentials® - Certified Coaching Program for Managers | Blanchard India" />
+                <meta name="twitter:description" content="Acquiring coaching skills allows a manager to pave a path for their employees that leads to progress through learning.Coaching Program for Managers makes them competent enough to perform." />
+                <meta name="twitter:image:src" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+                <meta name="twitter:domain" content="https://byldgroup.com/blanchardindia/our-content/programs/coaching-essentials" />
+
+                {/* itemProp TAG */}
+                <meta itemProp="title" content="Coaching Essentials® - Certified Coaching Program for Managers | Blanchard India" />
+                <meta itemProp="description" content="Acquiring coaching skills allows a manager to pave a path for their employees that leads to progress through learning.Coaching Program for Managers makes them competent enough to perform." />
+                <meta itemProp="image" content="https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png" />
+
+                {/* script schema */}
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org/",
+                            "@type": "WebSite",
+                            "name": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia/",
+                            "potentialAction": {
+                                "@type": "SearchAction",
+                                "target": "https://byldgroup.com/blanchardindia/our-content/programs/coaching-essentials{search_term_string}",
+                                "query-input": "required name=search_term_string"
+                            }
+                        }),
+                    }}
+                />
+
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            "@context": "https://schema.org",
+                            "@type": "Organization",
+                            "name": "Blanchard Research and Training India",
+                            "alternateName": "Blanchard India",
+                            "url": "https://byldgroup.com/blanchardindia",
+                            "logo": "https://byldgroup.com/kbassets/img/Blanchard_Global%20Partner%20Logo_India-01.png",
+                            "contactPoint": {
+                                "@type": "ContactPoint",
+                                "telephone": "18001021345",
+                                "contactType": "customer service",
+                                "contactOption": "TollFree",
+                                "areaServed": "IN",
+                                "availableLanguage": "en"
+                            },
+                            "sameAs": [
+                                "https://www.facebook.com/blanchardresearchandtrainingindia",
+                                "https://twitter.com/blanchard_india",
+                                "https://www.instagram.com/blanchard_research_india/",
+                                "https://www.youtube.com/c/BlanchardinternationalIndia",
+                                "https://www.linkedin.com/company/blanchard-research-and-training-india/",
+                                "https://byldgroup.com/blanchardindia"
+                            ]
+                        }),
+                    }}
+                />
+
+
             </Head>
 
             <section className="bredkums2 colortheme4bg pbb-100 border-bottom-left-radius-70">
@@ -208,25 +277,25 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>Online Overview Program</h3>
                                                 <p>
-                                                Our Coaching Essentials Overview is a 35-minute online program that teaches the program’s core concepts anywhere, anytime.
+                                                    Our Coaching Essentials Overview is a 35-minute online program that teaches the program’s core concepts anywhere, anytime.
                                                 </p>
                                                 <p>
-                                                This online version of Coaching Essentials is designed to introduce learners to the core concepts of our four-step coaching process for creating focused conversations that result in clear agreements and action.
+                                                    This online version of Coaching Essentials is designed to introduce learners to the core concepts of our four-step coaching process for creating focused conversations that result in clear agreements and action.
                                                 </p>
                                                 <p>
-                                                Learners work their way through the sections, each including engaging and interactive activities.
+                                                    Learners work their way through the sections, each including engaging and interactive activities.
                                                 </p>
 
                                                 <h3>Digital kbassets</h3>
                                                 <p>
-                                                Coaching Essentials Clicks is a set of micro activities for applying coach-like behaviors that provide just-in-time learning through powerful tips and takeaways.
+                                                    Coaching Essentials Clicks is a set of micro activities for applying coach-like behaviors that provide just-in-time learning through powerful tips and takeaways.
                                                 </p>
-                                                
+
                                                 <p>
-                                                Coaching Essentials digital kbassets provide learners with tips for maintaining a coaching style of leadership that can be accessed just in time during moments of need or to refresh and reinforce skills after a training session.
+                                                    Coaching Essentials digital kbassets provide learners with tips for maintaining a coaching style of leadership that can be accessed just in time during moments of need or to refresh and reinforce skills after a training session.
                                                 </p>
                                                 <p>
-                                                Coaching Essentials Clicks includes a searchable playlist of 10 microlearning activities that take no longer than five minutes each to complete.
+                                                    Coaching Essentials Clicks includes a searchable playlist of 10 microlearning activities that take no longer than five minutes each to complete.
                                                 </p>
 
                                             </div>
@@ -250,13 +319,13 @@ export default function ThanYouLP() {
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Coaching is more than a talent - it's a vital management skill
+                                    Coaching is more than a talent - it's a vital management skill
                                 </h2>
                                 <p className="themepbold pbb-10">
-                                <b><span>70%</span></b> of those who receive coaching report improved job performance, interpersonal relationships, and more effective communication skills. 86% of companies report that they recoup their investment in coaching.<sup>1</sup>                                    
+                                    <b><span>70%</span></b> of those who receive coaching report improved job performance, interpersonal relationships, and more effective communication skills. 86% of companies report that they recoup their investment in coaching.<sup>1</sup>
                                 </p>
                                 <p className="themepbold pbb-10">
-                                1. The Institute of Coaching. Benefits of Coaching
+                                    1. The Institute of Coaching. Benefits of Coaching
                                 </p>
 
                             </div>
@@ -278,10 +347,10 @@ export default function ThanYouLP() {
                         <div className='col-sm-8 pbb-70'>
                             <div className="text-center">
                                 <h2 className="sectionh">
-                                Managerial Coaching Skills Promote Employee Excellence
+                                    Managerial Coaching Skills Promote Employee Excellence
                                 </h2>
                                 <p>
-                                You may produce highly effective managers by including coaching knowledge and skills in your management training. These managers can have effective coaching conversations that forge connections, build trust, and assist their team members in performing at their peak.
+                                    You may produce highly effective managers by including coaching knowledge and skills in your management training. These managers can have effective coaching conversations that forge connections, build trust, and assist their team members in performing at their peak.
                                 </p>
                             </div>
                         </div>
@@ -292,7 +361,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/Accelerate-Learning-Development.svg" alt="Images" />
                                 <h3 className="lineh34">Enhance Learning & Development</h3>
                                 <p>
-                                Coaching managers give their team members the proper guidance and encouragement, enabling them to develop more quickly.
+                                    Coaching managers give their team members the proper guidance and encouragement, enabling them to develop more quickly.
                                 </p>
                             </div>
                         </div>
@@ -302,7 +371,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/Create-Autonomous-Problem-Solvers.svg" alt="Images" />
                                 <h3 className="lineh34">Make autonomous Problem-solvers</h3>
                                 <p>
-                                The cornerstone of today's agile organizations is the development of team members' independence and problem-solving skills.
+                                    The cornerstone of today's agile organizations is the development of team members' independence and problem-solving skills.
                                 </p>
                             </div>
                         </div>
@@ -321,7 +390,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/kbassets/img/kbnew/icon/Build-Your-Leadership-Bench-Strength.svg" alt="Images" />
                                 <h3 className="lineh34">Build Your Leadership Bench Strength</h3>
                                 <p>
-                                Effective managers have coaching skills that help team members develop into competent, successful leaders.
+                                    Effective managers have coaching skills that help team members develop into competent, successful leaders.
                                 </p>
                             </div>
                         </div>
@@ -335,7 +404,7 @@ export default function ThanYouLP() {
             <section className="ptt-90 ExploreCustom contanerbgc">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
-                    <div className="col-sm-3"></div>
+                        <div className="col-sm-3"></div>
                         <div className="col-sm-6 text-center">
                             <h2 className="sectionh">Ready to get started?</h2>
                             <p className="headingp pbb-10">
