@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>ARE YOU A DIRECTIVE OR A SUPPORTIVE LEADER?</title>
+         <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/are-you-a-directive-or-a-supportive-leader" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>   
   
