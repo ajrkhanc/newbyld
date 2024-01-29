@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>Conversational Capacity</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/conversational-capacity" />
             <meta name="description" content="As our world grows more complex and unpredictable, the ability to work together effectively while under pressure is a pivotal competency. The more challenging the situation, the greater the need to communicate clearly and effectively." />
          </Head>
             
