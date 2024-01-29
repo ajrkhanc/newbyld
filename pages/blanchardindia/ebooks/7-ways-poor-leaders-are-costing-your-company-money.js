@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>7 Ways Poor Leaders Are Costing Your Company Money</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/ebooks/7-ways-poor-leaders-are-costing-your-company-money" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head> 
             
