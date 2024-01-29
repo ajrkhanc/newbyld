@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>Coaching Skills: The Missing Link for Leaders</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/white-paper/coaching-skills-the-missing-link-for-leaders" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>    
   
