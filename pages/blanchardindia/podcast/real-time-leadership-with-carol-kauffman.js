@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Real-Time Leadership with Carol Kauffman</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/real-time-leadership-with-carol-kauffman" />
         <meta name="description" content="Real-Time Leadership with Carol Kauffman"/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
