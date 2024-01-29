@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - How to Design Training for How People Learn with Julie Dirksen</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/how-to-design-training-for-how-people-learn-with-julie-dirksen" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
