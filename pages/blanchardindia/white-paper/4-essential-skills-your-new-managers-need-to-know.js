@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>4 Essential Skills Your New Managers Need to Know</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia/white-paper/4-essential-skills-your-new-managers-need-to-know" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>
 
