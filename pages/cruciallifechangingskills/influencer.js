@@ -4,9 +4,9 @@ export default function Influencer(){
     return(
         <>
         <Head>
-            <title>Crucial Influence - Crucial Life-Changing Skills</title>
+            <title>Crucial Influence | Influential Leadership Training Program</title>
         <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/influencer" />
-            <meta name="description" content="The Greatest Predictor of High Performance Habits can determine your success more than talent, intelligence, luck, or decision-making. Many are aware of this fact but still lack control over their... Read more"/> 
+            <meta name="description" content="Influence poeple skills training helps emerging leaders to reconstruct persuasion and perks with powerful influence strategies and skills that bring real-life changes. Ready to get started? "/> 
             <link rel="stylesheet" type="text/css" href="/classets/css/cl.css" />
         </Head>
         <section class="about-section">
