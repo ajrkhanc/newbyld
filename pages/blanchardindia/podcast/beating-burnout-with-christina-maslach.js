@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Beating Burnout with Christina Maslach</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/beating-burnout-with-christina-maslach" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
