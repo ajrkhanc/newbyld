@@ -4,9 +4,9 @@ export default function Gettingthingsdone(){
     return(
         <>
         <Head>
-            <title>Getting Things Done - Crucial Life-Changing Skills</title>
+            <title>Getting Things Done (GTD) Training Program | Getting Things Done Method</title>
         <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/getting-things-done" />
-            <meta name="description" content="Productivity with Purpose Learn the skills that can help relieve the cognitive load, allow for increased focus, and even result in optimal experience and peak performance with Getting Things Done.... Read more"/> 
+            <meta name="description" content="Explore Getting Things Done Method to know How to be more productive at workplace. Click here for Getting Things Done (GTD) training, it's available learning formats, and how to bring the course to your organization."/> 
         </Head>
         <section class="about-section">
             <div class="container">
