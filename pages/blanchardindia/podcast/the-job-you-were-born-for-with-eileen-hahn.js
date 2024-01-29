@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - The Job You Were Born For with Eileen Hahn</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/the-job-you-were-born-for-with-eileen-hahn" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
