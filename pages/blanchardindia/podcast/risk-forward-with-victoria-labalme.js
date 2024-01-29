@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Podcast - Risk Forward with Victoria Labalme podcast | The Ken Blanchard Companies</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/risk-forward-with-victoria-labalme" />
                 <meta name="description" content="Listen as performance coach Victoria Labalme share strategies from her new book, Risk Forward, for moving forward in times when your goals aren’t precisely clear." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
