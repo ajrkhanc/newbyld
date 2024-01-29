@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Eli Lilly Client Success Story - HCL Technologies</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/eli-lilly-and-company" />
                 <meta name="description" content="Leaders are able to deliver results by putting it all together with The Ken Blanchard Companies SLII Program."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
