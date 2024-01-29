@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Listening 2by2 with Tom Kaden and Michael Gingerich</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/listening-2by2-with-tom-kaden-and-michael-gingerich" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
