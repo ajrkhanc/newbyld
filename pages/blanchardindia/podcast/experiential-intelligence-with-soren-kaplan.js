@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Experiential Intelligence with Soren Kaplan</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/experiential-intelligence-with-soren-kaplan" />
         <meta name="description" content="Experiential Intelligence with Soren Kaplan"/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
