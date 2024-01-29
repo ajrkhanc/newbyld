@@ -45,6 +45,7 @@ function EbooksKB() {
       <>
          <Head>
             <title>Building Trust: The Critical Link to a High-Involvement, High-Energy Workplace Begins with a Common Language</title>
+      <link rel="canonical" href="https://byldgroup.com/blanchardindia/white-paper/building-trust-the-critical-link-to-a-high-involvement-high-energy-workplace-begins-with-a-common-language" />
             <meta name="description" content="Investing in learning and development of employees can be tough. Contact us for all general and non-sales enquiries and talk to our expert advisors and business counsellors to understand what program will suit your requirements best." />            
          </Head>
   
