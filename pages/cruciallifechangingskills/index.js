@@ -346,6 +346,9 @@ export default function Home() {
   return (
     <>
       <Head>
+    
+       <title>Crucial Leaning | Crucial Life-Changing Skills</title>
+      <meta name="description" content="We offer the best communication courses for leaders to ensure effective business communication through Influence skills training. To know more, check out the page." />
       <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills" />
         <link
           rel="stylesheet"
