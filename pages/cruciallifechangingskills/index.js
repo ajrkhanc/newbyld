@@ -348,6 +348,7 @@ export default function Home() {
       <Head>
     
        <title>Crucial Leaning | Crucial Life-Changing Skills</title>
+       <meta name="robots" content="INDEX, FOLLOW" />  
       <meta name="description" content="We offer the best communication courses for leaders to ensure effective business communication through Influence skills training. To know more, check out the page." />
       <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills" />
         <link
@@ -361,7 +362,74 @@ export default function Home() {
           type="text/css"
           href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
         />
-           <meta name="google-site-verification" content="OM6hSC8XO4ylFInFKwcHaWp5gFMt0Nn6aQ6A-eV7SWc" />
+        
+         <meta name="google-site-verification" content="OM6hSC8XO4ylFInFKwcHaWp5gFMt0Nn6aQ6A-eV7SWc" />
+         {/* og tag */}
+
+         <meta property="og:url" content="https://byldgroup.com/cruciallifechangingskills"/>
+          <meta property="og:type" content="website"/>
+          <meta property="og:title" content="Crucial Leaning | Crucial Life-Changing Skills"/>
+          <meta property="og:description" content="We offer the best communication courses for leaders to ensure effective business communication through Influence skills training. To know more, check out the page."/>
+          <meta property="og:image" content="https://byldgroup.com/classets/img/cruciallifechangingskills-logo.svg"/>
+        {/* TWITTER TAG */}
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:site" content="@crucial__skills"/>
+        <meta name="twitter:title" content="Crucial Leaning | Crucial Life-Changing Skills"/>
+        <meta name="twitter:description" content="We offer the best communication courses for leaders to ensure effective business communication through Influence skills training. To know more, check out the page."/>
+        <meta name="twitter:image:src" content="https://pbs.twimg.com/profile_images/1475415956583186432/v2nzALrw_400x400.jpg"/>
+        <meta name="twitter:domain" content="https://byldgroup.com/cruciallifechangingskills"/>
+        {/* itemProp TAG */}
+        <meta itemProp="title" content="Crucial Leaning | Crucial Life-Changing Skills"/>
+        <meta itemProp="description" content="We offer the best communication courses for leaders to ensure effective business communication through Influence skills training. To know more, check out the page."/>
+        <meta itemProp="image" content="https://byldgroup.com/classets/img/cruciallifechangingskills-logo.svg"/>
+        {/* script schema */}
+
+        <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org/",
+                "@type": "WebSite",
+                "name": "BYLD Crucial Skills",
+                "url": "https://byldgroup.com/cruciallifechangingskills",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": "https://byldgroup.com/cruciallifechangingskills/search?q={search_term_string}",
+                  "query-input": "required name=search_term_string"
+                }
+              }),
+            }}
+          />
+            <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "BYLD Crucial Skills",
+                "alternateName": "Crucial Learning",
+                "url": "https://byldgroup.com/cruciallifechangingskills",
+                "logo": "https://byldgroup.com/classets/img/cruciallifechangingskills-logo.svg",
+                "contactPoint": {
+                  "@type": "ContactPoint",
+                  "telephone": "18001021345",
+                  "contactType": "customer service",
+                  "contactOption": "TollFree",
+                  "areaServed": "IN",
+                  "availableLanguage": "en"
+                },
+                "sameAs": [
+                  "https://www.facebook.com/Cruciallifechangingskills",
+                  "https://twitter.com/crucial__skills",
+                  "https://www.instagram.com/cruciallifechangingskills/",
+                  "https://www.youtube.com/channel/UCwpwP8sH7YBIFs4xJeID9uA",
+                  "https://www.linkedin.com/company/crucial-life-changing-skills",
+                  "https://byldgroup.com/cruciallifechangingskills"
+                ]
+              }),
+            }}
+          />
+
       </Head>
 
       <Modal
