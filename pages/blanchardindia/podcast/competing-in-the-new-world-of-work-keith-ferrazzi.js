@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Best of 2022: Competing in the New World of Work with Keith Ferrazzi</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/competing-in-the-new-world-of-work-keith-ferrazzi" />
         <meta name="description" content="Hear Keith Ferrazzi explain how remaining competitive in the post-pandemic world requires a new model of leadership and radical adaptability on this episode of Blanchard LeaderChat."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
