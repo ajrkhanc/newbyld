@@ -4,9 +4,9 @@ export default function Thepowerofhabit(){
     return(
         <>
         <Head>
-            <title>The Power of Habit - Crucial Life-Changing Skills</title>
+            <title>The Power Of Habit Training Program</title>
         <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/the-power-of-habit" />
-            <meta name="description" content="The Greatest Predictor of High Performance Habits can determine your success more than talent, intelligence, luck, or decision-making. Many are aware of this fact but still lack control over their... Read more"/> 
+            <meta name="description" content="The bestseller by Charles Duhigg’s The Power of Habit Book and the latest science in habit formation has laid the foundation of this program. Habits can determine your workplace success. Enquire today to know more!"/> 
         </Head>
         <section class="about-section">
             <div class="container">
