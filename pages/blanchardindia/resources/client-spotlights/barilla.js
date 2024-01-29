@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Client Spotlights - Barilla America Client Success Story</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/barilla" />
                 <meta name="description" content="Barilla has seen huge results from focusing on values, training senior and mid-level managers in SLII®, and working with executive coaches to sharpen specific leadership skills." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
