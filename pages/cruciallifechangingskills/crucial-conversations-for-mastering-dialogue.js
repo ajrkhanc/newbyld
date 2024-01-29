@@ -4,9 +4,9 @@ export default function CrucialConversationsforMasteringDialogue(){
     return(
         <>
         <Head>
-            <title>Crucial Conversations for Mastering Dialogue - Crucial Life-Changing Skills</title>
-        <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/crucial-conversations-for-mastering-dialogue" />
-            <meta name="description" content="The Standard in Effective Communication With 30 years of research in social science, Crucial Conversations skills provide the standard to make effective dialogues in a conversation which marks as an... Read more"/> 
+            <title>Crucial Conversations for Mastering Dialogue Program | Corporate Communication Courses</title>
+            <link rel="canonical" href="https://byldgroup.com/cruciallifechangingskills/crucial-conversations-for-mastering-dialogue" />
+            <meta name="description" content="Crucial Learning provides interactive and engaging communication training for corporate employees which will hone your team's Crucial Conversations skills to make effective dialogues in a conversation. Enquire Today! "/> 
         </Head>
         <section class="about-section">
             <div class="container">
