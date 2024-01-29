@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
             <Head>
                 <title>Client Spotlights - Takeda Client Success Story</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/resources/client-spotlights/takeda" />
                 <meta name="description" content="The Ken Blanchard Companies' client, Takeda, realized their sales leaders needed more support as they coached their teams through a major change process."/>
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
