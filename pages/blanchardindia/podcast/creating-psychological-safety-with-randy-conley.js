@@ -6,6 +6,7 @@ export default function PodCastinner() {
         <>
         <Head>
         <title>Podcast - Creating Psychological Safety with Randy Conley</title>
+        <link rel="canonical" href="https://byldgroup.com/blanchardindia/podcast/building-high-performance-habits-with-brendon-burchard" />
         <meta name="description" content="Hear Christina Maslach talk about how to recognize the signs of employee burnout and how to combat the issue to promote increased productivity and health."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
