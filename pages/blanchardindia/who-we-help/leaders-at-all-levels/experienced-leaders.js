@@ -76,7 +76,7 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6 pa0000'>
                             <div className='prr-90'>
-                                <img src="/kbassets/img/kbnew/Unlock-Experienced-Leaders’-Growth.jpg" alt="Images" />
+                                <img src="/kbassets/img/kbnew/unlock-experienced-leaders-growth.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
