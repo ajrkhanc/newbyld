@@ -152,7 +152,7 @@ export default function ThanYouLP() {
                         </div>
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/kbassets/img/kbnew/SLII®-App.jpg" alt="Images" />
+                                <img className="" src="/kbassets/img/kbnew/slii-app.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
