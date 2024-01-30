@@ -150,7 +150,7 @@ export default function ThanYouLP() {
 
                         <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
-                                <img className="" src="/kbassets/img/kbnew/Don’t-wait-for-someone-else.jpg" alt="Images" />
+                                <img className="" src="/kbassets/img/kbnew/dont-wait-for-someone-else.jpg" alt="Images" />
                             </div>
                         </div>                
                     </div>
