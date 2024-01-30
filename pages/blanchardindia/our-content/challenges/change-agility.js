@@ -247,7 +247,7 @@ export default function ThanYouLP() {
                         
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/kbassets/img/kbnew/Increase-your-organization’s-capacity-for-change.jpg" alt="Images" />
+                                <img className="" src="/kbassets/img/kbnew/increase-your-organizations-capacity-for-change.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
