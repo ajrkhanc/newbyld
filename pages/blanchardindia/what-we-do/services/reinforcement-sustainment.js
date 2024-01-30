@@ -45,7 +45,7 @@ export default function ThanYouLP() {
                         </div>
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/kbassets/img/kbnew/Learning-doesn’t-stop.jpg" alt="Images" />
+                                <img className="" src="/kbassets/img/kbnew/learning-doesnt-stop.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
