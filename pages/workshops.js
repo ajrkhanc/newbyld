@@ -501,7 +501,7 @@ export default function Workshops() {
                   <span>February 22nd & 23rd , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>DiSC Certification In-Person Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
