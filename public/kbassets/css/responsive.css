@@ -2527,3 +2527,55 @@
         text-decoration: underline;
     }
 }
+
+
+
+
+@media only screen and (max-width: 360px) {
+    .new-heading {
+        font-size: 28px !important;
+        line-height: 35px !important;
+    }
+
+    .new-textsize {
+        font-size: 17px !important;
+        line-height: 27px;
+    }
+
+    .heading-text {
+        font-size: 1.9rem !important;
+        padding: unset !important;
+        line-height: 22px !important;
+    }
+
+    .new-text-innerp {
+        font-size: 15px !important;
+        line-height: 24px !important;
+    }
+
+    .heading-text {
+        font-size: 1.4rem !important;
+        padding: unset !important;
+        line-height: 27px !important;
+    }
+
+    .LeadershipSolutions .leadershipinner img {
+        width: 65px;
+        
+    }
+    .newfs-20 {
+        font-size: 17px !important;
+        line-height: 27px;
+    }
+
+    .flogoc img {
+        width: 178px;
+       
+    }
+
+    .LeadershipResources .reinner img {
+        width: 65px;
+    
+    }
+
+}
