@@ -83,7 +83,7 @@ export default function Trapologist(){
                                             <select name="anyslot" required>
                                                 <option value="">Pick up any Slot*</option>                                                
                                                 <option value="Virtual Course Previews: 13th February, 2024">Virtual Course Previews: 13th February, 2024</option>
-                                                <option value="Workshop: 15th February, 2024">Workshop: 15th February, 2024</option>
+                                               {/*   <option value="Workshop: 15th February, 2024">Workshop: 15th February, 2024</option> */}
                                                 <option value="Workshop: 18th March, 2024">Workshop: 18th March, 2024</option>
                                                 {/* <option value="Workshop: 26th October, 2023">Workshop: 26th October, 2023</option> */}
                                             </select>                                            
@@ -151,7 +151,7 @@ export default function Trapologist(){
                                         </div>
                                     </div>
 
-                                    <div className='eventslist'>
+                                   {/*   <div className='eventslist'>
                                         <div className='eventicon'>
                                             <i className='fa fa-calendar'></i>
                                         </div>
@@ -159,7 +159,7 @@ export default function Trapologist(){
                                             <h3>Trapologist at Work<sup>®</sup></h3>
                                             <h4>Workshop: 15th February, 2024</h4>
                                         </div>
-                                    </div>
+                                    </div> */}
 
                                     <div className='eventslist'>
                                         <div className='eventicon'>
