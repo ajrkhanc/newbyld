@@ -360,7 +360,7 @@ fbq('track', 'PageView');
 
 
 
-                  <div className='col-sm-12'>
+                  <div className=' col-lg-12 col-sm-12'>
                      <Slider {...settings2}>
                         <div className='slxpd30 p-10 h-530'>
                            <div className='slbox greenboxc forwhitec'>
