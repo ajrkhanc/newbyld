@@ -10,8 +10,7 @@ const cspHeader = `
     frame-ancestors 'none';
     block-all-mixed-content;
     upgrade-insecure-requests;
-
-
+`
 
 module.exports = {
   reactStrictMode: true,
