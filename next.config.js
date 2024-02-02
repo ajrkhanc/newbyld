@@ -23,10 +23,7 @@ module.exports = {
             key: 'Referrer-Policy',
             value: 'strict-origin-when-cross-origin',
           },
-          {
-              key: 'Content-Security-Policy',
-              value: "default-src 'self' byldgroup.com data: 'unsafe-inline'"
-          }
+        
         
         ],
       },
