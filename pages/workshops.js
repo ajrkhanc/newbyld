@@ -372,7 +372,7 @@ export default function Workshops() {
 
            
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -385,9 +385,9 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div>*/}
 
-            <div className="col-sm-4">
+               {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -400,8 +400,8 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
-            <div className="col-sm-4">
+            </div>*/}
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -414,7 +414,7 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div>>*/}
             
 
 {/*             
