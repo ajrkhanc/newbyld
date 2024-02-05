@@ -41,6 +41,29 @@ export default function PodCast() {
                             <div className="what-did-left-content">
                                 <div className="row row-eq-height eventsandworkshopbox">
 
+                                     <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/Podcast-blanchard1.jpg" alt="Images" />
+                                            <h3> Simple Truths of Leadership Playbook with Ken Blanchard and Randy Conley</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/simple-truths-of-leadership-playbook-with-ken-blanchard-and-randy-conley"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-sm-4">
+                                        <div className="choose-card">
+                                            <img src="/kbassets/img/podcast/Podcast-blanchard2.jpg" alt="Images" />
+                                            <h3>2024 HR/L&D Trends Survey: A Conversation about the Results</h3>
+                                            <div className='row text-center eventsbottomarea2'>
+                                                <div className='col-sm-12'>
+                                                    <Link href="/blanchardindia/podcast/2024hr-l&d-trends-survey-a-conversation-about-the-results"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                 <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/kbassets/img/podcast/podcast .png" alt="Images" />
@@ -64,28 +87,7 @@ export default function PodCast() {
                                             </div>
                                         </div>
                                     </div>
-                                 <div className="col-sm-4">
-                                        <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/Podcast-blanchard1.jpg" alt="Images" />
-                                            <h3> Simple Truths of Leadership Playbook with Ken Blanchard and Randy Conley</h3>
-                                            <div className='row text-center eventsbottomarea2'>
-                                                <div className='col-sm-12'>
-                                                    <Link href="/blanchardindia/podcast/simple-truths-of-leadership-playbook-with-ken-blanchard-and-randy-conley"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="col-sm-4">
-                                        <div className="choose-card">
-                                            <img src="/kbassets/img/podcast/Podcast-blanchard2.jpg" alt="Images" />
-                                            <h3>2024 HR/L&D Trends Survey: A Conversation about the Results</h3>
-                                            <div className='row text-center eventsbottomarea2'>
-                                                <div className='col-sm-12'>
-                                                    <Link href="/blanchardindia/podcast/2024hr-l&d-trends-survey-a-conversation-about-the-results"><a className="default-btn-two">LISTEN TO THE PODCAST<i className="bx bx-right-arrow-alt"></i></a></Link>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                
 
                                 <div className="col-sm-4">
                                         <div className="choose-card">
