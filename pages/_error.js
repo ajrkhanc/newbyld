@@ -1,15 +1,19 @@
 // pages/_error.js
 
 import Head from 'next/head'
+import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 const Error = ({ statusCode }) => 
 {
     const router = useRouter();
 
-  // Redirect to custom 404 page if status code is 404
-  if (statusCode === 404) {
-    router.push('/404');
-  }
+ useEffect(() => {
+    // Redirect to custom 404 page if status code is 404
+    if (statusCode === 404) {
+      router.push('/404');
+    }
+  }, [statusCode, router]);
+
     return (
         <>
             <Head>
@@ -38,8 +42,8 @@ const Error = ({ statusCode }) =>
 };
 
 Error.getInitialProps = ({ res, err }) => {
-    const statusCode = res ? res.statusCode : err ? err.statusCode : 404;
-    return { statusCode };
-  };
+  const statusCode = res ? res.statusCode : err ? err.statusCode : 404;
+  return { statusCode };
+};
   
 export default Error;
