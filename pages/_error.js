@@ -1,5 +1,5 @@
-// pages/_error.js
-
+// pages/error.js
+'use client'
 import Head from 'next/head'
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
