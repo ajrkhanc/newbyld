@@ -15,7 +15,7 @@ const Custom500 = () => {
                     <div className="col-12">
                         <div className="contact-title text-center">
                             <h1>500 - Internal Server Error</h1>
-                            <p>Sorry, the page you are looking for does not exist.</p>
+                            <p>Sorry, something went wrong on the server.</p>
                         </div>
                     </div>
 
