@@ -14,7 +14,14 @@ export default function Books(){
                         <h1>Welcome to Crucial Life-Changing Skills Learning Hub!</h1>                       
                      </div>
                      
-                     
+                      <div class="col-md-4 workshop-col"> 
+                       <div class="bookshd text-center">                            
+                            <img class="center-image mbb-15" src="/classets/img/overcoming-workplace-baggage.png" alt="books" />          
+                            <h6 className='bookprice elerningf'>Overcoming Workplace Baggage</h6>                           
+                            <a class="booksbtn" href='/cruciallifechangingskills/ebook/overcoming-workplace-baggage'>Read eBook</a>
+                       </div>
+                     </div>
+
 
                     <div class="col-md-4 workshop-col"> 
                        <div class="bookshd text-center">                            
@@ -161,14 +168,7 @@ export default function Books(){
                             <a class="booksbtn" href='/cruciallifechangingskills/ebook/leaders-guide-to-team-productivity'>Read eBook</a>
                        </div>
                     </div>
-                    <div class="col-md-4 workshop-col"> 
-                       <div class="bookshd text-center">                            
-                            <img class="center-image mbb-15" src="/classets/img/overcoming-workplace-baggage.png" alt="books" />          
-                            <h6 className='bookprice elerningf'>Overcoming Workplace Baggage</h6>                           
-                            <a class="booksbtn" href='/cruciallifechangingskills/ebook/overcoming-workplace-baggage'>Read eBook</a>
-                       </div>
-                     </div>
-
+                   
                     
 
                 </div>
