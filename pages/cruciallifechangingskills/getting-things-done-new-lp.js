@@ -229,13 +229,13 @@ export default function Gettingthingsdone() {
                                         <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 4:00 PM</h6>
                                     </div>
                                 </div> */}
-                                <div>
+                               {/*  <div>
                                     <h2>Workshop</h2>
                                     <div class="workshop-date">
                                         <h6><i class="fa fa-calendar" aria-hidden="true"></i> February 7th, 2024</h6>
                                         <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
                                     </div>
-                                </div>
+                                </div>  */}
 
                                 <div>
                                     <h2>Virtual Course Preview</h2>
