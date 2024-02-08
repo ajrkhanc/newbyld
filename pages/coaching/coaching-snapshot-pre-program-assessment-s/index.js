@@ -91,7 +91,7 @@ export default function BrowseCourses() {
             '&newnameurl=' + newnameurl
 
         );
-
+        logmaintane(name,phone,email,organization,"IOC-assessment",result);
         xhr.onreadystatechange = function () {
 
             if (xhr.status == 200) {
@@ -129,7 +129,31 @@ export default function BrowseCourses() {
             console.log('error');
         }
     };
-
+    function logmaintane(nameabc,phoneabc,emailabc,organizationabc,assessmentabc,resultabc){
+        var person = new Object();
+                     person.name = nameabc;
+                     person.phone =phoneabc;
+                     person.email =emailabc;
+                     person.organization = organizationabc;
+                     person.assesment = assessmentabc;
+                     person.result = resultabc;
+                     
+                     $.ajax({
+                         url: 'https://api.yoma.co.in/api/IOCAssesmentByld',
+                         type: 'POST',
+                         dataType: 'json',
+                         "crossDomain": true,
+                      "Access-Control-Allow-Origin": "*",
+    
+                         data: person,
+                         success: function (data, textStatus, xhr) {
+                             console.log(data);
+                         },
+                         error: function (xhr, textStatus, errorThrown) {
+                             console.log('Error in Operation');
+                         }
+                     });
+    }
     return (
         <>
             <Head>
@@ -1253,18 +1277,16 @@ export default function BrowseCourses() {
 
                                 <div className='fcol1 lastinp ptt-20'>
                                     <div className='row inpuut'>
-                                        <div className=" col-lg-6 col-sm-6 mb-12">
+                                        <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="text" name="name" placeholder="Your Name*" required />
                                         </div>
-                                        <div className="col-lg-6 col-sm-4 mb-12">
-                                            <input className='form-control' type="email" name="email" placeholder="Work Email/ Personal Email*" required />
+                                        <div className="col-sm-4 mb-12">
+                                            <input className='form-control' type="email" name="email" placeholder="Work Email/Email*" required />
                                         </div>
-                                        <div className=" col-lg-6 col-sm-6 mb-12">
+                                        <div className="col-sm-4 mb-12">
                                             <input className='form-control' type="text" name="phone" maxlength="10" minlength="10" pattern="[0-9]*" placeholder="Phone No. (Optional)" />
                                         </div>
-                                       <div className=" col-lg-6 col-sm-6 mb-12">
-                                            <input className='form-control' type="text" name="emailer" placeholder="Emailer"  disabled />
-                                        </div>
+
 
                                         <div className='col-sm-12'>
                                             <input type="submit" value="Submit" id='submitbuttonform' class="assesmetmain" tabindex="201" />
