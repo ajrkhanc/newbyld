@@ -1160,8 +1160,8 @@ export default function Workshops() {
                           Getting Things Done® Workshop -
                             February 9th, 2024
                           </option>
-                          <option value="DiSC Certification Virtual Workshop - February 15th & 16th , 2024">
-                          DiSC Certification Virtual Workshop -
+                          <option value="DiSC Certification In-Person Workshop - February 22nd & 23rd , 2024">
+                          DiSC Certification In-Person Workshop -
                             February 22nd & 23rd , 2024
                           </option>
                         
