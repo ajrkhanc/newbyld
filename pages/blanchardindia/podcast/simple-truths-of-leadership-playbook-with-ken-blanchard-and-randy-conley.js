@@ -23,10 +23,10 @@ export default function PodCastinner() {
                                 {/* <iframe allowfullscreen="" height="192" mozallowfullscreen="true" msallowfullscreen="true" oallowfullscreen="true" scrolling="no" src="https://play.libsyn.com/embed/episode/id/29263823/height/192/theme/modern/size/large/thumbnail/yes/custom-color/008264/time-start/00:00:00/playlist-height/200/direction/backward/download/yes/font-color/FFFFFF" style="border: none;" title="Embed Player" webkitallowfullscreen="true" width="100%"></iframe> */}
                                 <div>
                                     <p>
-                                    In this episode:
+                                  
                                     </p>
                                     <p>
-                                    <b></b>Ken Blanchard and Randy Conley discuss how they are helping leaders become servant leaders with the tips in their new book, Simple Truths of Leadership Playbook. They explain how to put learning into action with the structured exercises and thought-provoking questions from the book.
+                                    <b></b>In this episode:Ken Blanchard and Randy Conley discuss how they are helping leaders become servant leaders with the tips in their new book, Simple Truths of Leadership Playbook. They explain how to put learning into action with the structured exercises and thought-provoking questions from the book.
                                     </p>
                                     {/* <p>
                                     <b>.</b>Get your copy of Simple Truths of Leadership Playbook
