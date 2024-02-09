@@ -23,10 +23,10 @@ export default function PodCastinner() {
                                 {/* <iframe allowfullscreen="" height="192" mozallowfullscreen="true" msallowfullscreen="true" oallowfullscreen="true" scrolling="no" src="https://play.libsyn.com/embed/episode/id/29263823/height/192/theme/modern/size/large/thumbnail/yes/custom-color/008264/time-start/00:00:00/playlist-height/200/direction/backward/download/yes/font-color/FFFFFF" style="border: none;" title="Embed Player" webkitallowfullscreen="true" width="100%"></iframe> */}
                                 <div>
                                     <p>
-                                    In this episode:
+                                   
                                     </p>
                                     <p>
-                                    <b></b>hear Dr. Jay Campbell, Chief Products Office at Blanchard, and host Chad Gordon discuss the results of the Blanchard 2024 HR/L&D Trends Survey. You’ll learn about the eight specific focus areas identified in the survey that Human Resources and Learning & Development professionals will face as challenges, or opportunities, in the coming year.
+                                    <b></b> In this episode: Hear Dr. Jay Campbell, Chief Products Office at Blanchard, and host Chad Gordon discuss the results of the Blanchard 2024 HR/L&D Trends Survey. You’ll learn about the eight specific focus areas identified in the survey that Human Resources and Learning & Development professionals will face as challenges, or opportunities, in the coming year.
                                     </p>
                                     {/* <p>
                                     <b>.</b>Get your copy of Simple Truths of Leadership Playbook
