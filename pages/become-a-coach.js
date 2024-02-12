@@ -1096,7 +1096,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                             <div className="col-sm-12 mb-12">
                                                 <input type="email" name="email" placeholder="Work Email/Email*" required />
                                             </div>
-
+                                            <div className="col-sm-12 mb-12">
+                                                <label for="coupen">Coupon Code<span class="required">*</span></label>
+                                                <input id="coupen" type="text" name="coupon" placeholder="LI10" required />
+                                            </div>
 
                                             <div className="col-sm-6 mb-12">
                                                 <input type="text" name="organization" placeholder="Organization*" required />
