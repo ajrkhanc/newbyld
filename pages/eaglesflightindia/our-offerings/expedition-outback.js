@@ -10,7 +10,8 @@ export default function ExpeditionOutback(){
         <>
           <Head>
             <title>Expedition Outback - Eaglesflightinidia</title>
-            <meta name="description" content="THE EXPERIENCE Set in the outback of Australia, the annual Royal Exposition is about to begin. The Royals are looking for independent teams of Overlanders to bring to the Expo wealth of all kinds–in particular, Kangaroos. In Expedition OutbackTM, teams compete against each other to gain the most wealth for their team as they travel […]"/> 
+           <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/our-offerings/expedition-outback" />
+        <meta name="description" content="THE EXPERIENCE Set in the outback of Australia, the annual Royal Exposition is about to begin. The Royals are looking for independent teams of Overlanders to bring to the Expo wealth of all kinds–in particular, Kangaroos. In Expedition OutbackTM, teams compete against each other to gain the most wealth for their team as they travel […]"/> 
           </Head>
 
           <div className="rs-services">
