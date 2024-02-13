@@ -45,6 +45,7 @@ export default function GoldofthedesertKings(){
         <>
           <Head>
             <title>Best Virtual Employee Engagement Activity - Gold of the Desert Kings™</title>
+            <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/our-offerings/gold-of-the-desert-kings" />
             <meta name="description" content="When you treat teamwork as a skill, all you need is goal-setting team-building activities for employees to practice, plan, implement, and accomplish desired results."/> 
           </Head>
 
