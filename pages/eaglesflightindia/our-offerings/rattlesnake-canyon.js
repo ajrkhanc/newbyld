@@ -10,6 +10,7 @@ export default function RattlesnakeCanyon(){
         <>
           <Head>
             <title>Best Virtual and Fun Activities for Employees</title>
+               <link rel="canonical" href="https://byldgroup.com/eaglesflightindia/our-offerings/rattlesnake-canyon"/>
             <meta name="description" content="If you love a win-win situation, Rattlesnake Canyon for employees is the best. You’ll build effective relationships, through virtual learning."/> 
           </Head>
 
