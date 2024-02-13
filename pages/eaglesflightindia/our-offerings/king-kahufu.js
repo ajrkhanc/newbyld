@@ -45,6 +45,7 @@ export default function KingKahufu(){
         <>
           <Head>
             <title>King Kahufu - Eaglesflightinidia</title>
+            <link rel="canonical" href="https://byldgroup.com/eaglesflightindia/our-offerings/king-kahufu” />
             <meta name="description" content="The Experience: In the ancient Egypt-themed virtual experiential activity, King Kahufu, participants become agents representing major interest groups assembled to assess a newly discovered pyramid and propose a plan of action for opportunities that have emerged as a result of the discovery. The goal of the experience is to accomplish personal objectives as well as […]"/> 
           </Head>
 
