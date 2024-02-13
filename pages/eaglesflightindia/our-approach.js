@@ -10,6 +10,7 @@ export default function OurApproach(){
         <>
           <Head>
             <title>Our Approach at Eagle’s Flight India for an Immersive Learning</title>
+            <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/our-approach"/>
             <meta name="description" content="What differentiates us from others is our approach to Experiential Learning. Look us walk you through it."/> 
           </Head>
 
