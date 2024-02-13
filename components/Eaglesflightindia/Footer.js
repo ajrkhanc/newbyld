@@ -88,7 +88,7 @@ export default function Footer() {
                         <div className="col-lg-12">
                             <div className="copyright text-lg-start text-center ">
                                 <p className='text-center'>
-                                ©2023 EAGLES FLIGHT INDIA. All Rights Reserved. 
+                                ©2024-25 EAGLES FLIGHT INDIA. All Rights Reserved. 
                                 </p>
                             </div>
                         </div>
