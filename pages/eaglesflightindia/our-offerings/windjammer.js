@@ -10,6 +10,7 @@ export default function ExpeditionOutback(){
         <>
           <Head>
             <title>Windjammer - Eaglesflightinidia</title>
+            <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/our-offerings/windjammer" />
             <meta name="description" content="OVERVIEW Enter the competitive world of Windjammer™, where you and your fellow purveyors of high-end sailing products vie for an edge in an exceedingly active marketplace. The demand for your products is high, but market fluctuations will affect your value over time. In this highly animated learning experience, you must acquire raw materials from other […]"/> 
           </Head>
 
