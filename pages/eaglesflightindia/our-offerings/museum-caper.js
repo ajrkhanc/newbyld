@@ -45,6 +45,7 @@ export default function MuseumCaper(){
         <>
           <Head>
             <title>Best Team Activities Virtually for Communication- Museum Caper</title>
+            <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/our-offerings/museum-caper" />
             <meta name="description" content="If you want to develop your communication skills, then you need outdoor team-building activities. You’ll do great with these team activities virtually."/> 
           </Head>
 
