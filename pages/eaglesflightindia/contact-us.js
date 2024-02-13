@@ -41,6 +41,7 @@ export default function Blog(){
         <>
         <Head>
             <title>Get in Touch With Eagle’s Flight India</title>
+            <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/contact-us" />
             <meta name="description" content="You were awaited. Contact us for all your doubts and queries."/> 
         </Head>
         <div className="contactusbg">
