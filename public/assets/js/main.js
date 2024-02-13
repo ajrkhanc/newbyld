@@ -424,6 +424,9 @@ $(document).ready(function(){
     $('img').each(function(){
         var imageName = $(this).attr('src').split('/').pop().split('.')[0];
         $(this).attr('alt', imageName);
+	if (imageName.includes("pattern")) {
+            $(this).attr('loading', 'lazy');
+        }
     });
 });
 
