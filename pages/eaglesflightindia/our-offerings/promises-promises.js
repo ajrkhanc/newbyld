@@ -45,6 +45,7 @@ export default function PromisesPromises(){
         <>
           <Head>
             <title>Develop Effective Communication with Promises, Promises!</title>
+            <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/our-offerings/promises-promises" />
             <meta name="description" content="If you want to improve your communication skills, then you need team building activities to make it effective."/> 
           </Head>
 
