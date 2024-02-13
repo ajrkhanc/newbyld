@@ -10,6 +10,7 @@ export default function ExpeditionOutback(){
         <>
           <Head>
             <title>The Company - Eaglesflightinidia</title>
+            <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/the-company"/>
             <meta name="description" content="Eagle’s Flight is about sparking transformation. We’re about creating flash points where change happens, where people are inspired to do their jobs better and lead more effectively. The Spark that Kindled The Fire Eagle’s Flight™ began as a spark within the mind of our CEO Phil Geldart, a then young and up-and-coming corporate trainer, reflecting […]"/> 
           </Head>
 
