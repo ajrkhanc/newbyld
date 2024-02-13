@@ -424,7 +424,7 @@ $(document).ready(function(){
     $('img').each(function(){
         var imageName = $(this).attr('src').split('/').pop().split('.')[0];
         $(this).attr('alt', imageName);
-	if (imageName.includes("pattern")) {
+	  if (imageName.includes("lazy")) {
             $(this).attr('loading', 'lazy');
         }
     });
