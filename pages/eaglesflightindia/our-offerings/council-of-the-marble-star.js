@@ -10,6 +10,7 @@ export default function CouncilofTheMarbleStar(){
         <>
           <Head>
             <title>Best Team-Building Business Games - Council of the Marble Star</title>
+         <link rel="canonical"href="https://byldgroup.com/eaglesflightindia/our-offerings/council-of-the-marble-star" />  
             <meta name="description" content="If you feel hesitant to interact, business team-building activities are your need. Learn how to build effective relationships with people at work."/> 
           </Head>
 
