@@ -169,6 +169,7 @@ export default function Home() {
       <>
          <Head>
             <title>Eagle’s Flight | Experiential Learning | BYLD Group</title>
+            <link rel="canonical" href="https://byldgroup.com/eaglesflightindia" />
             <meta name="description" content="Eagle’s Flight offers corporate team building games in a virtual immersive learning environment for effective self-learning. To know more, check out the page." />
             
       <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
