@@ -30,7 +30,7 @@ export default function story(){
 
                     document.getElementById("showlabel").style.display = "block";
                     setTimeout(function() {
-                        window.open("/edassets/pdf/ed-wiley-ebook-keepyourpeople-partner.pdf", "_blank")
+                        window.open("/edassets/pdf/building-a-legacy-of-leadership.pdf", "_blank")
                      }, 3000);
 
                 } else {
