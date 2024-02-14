@@ -38,10 +38,11 @@ export default function story(){
                 }
             }
         };
-        xhttp.send("leadsquared-FirstName=" + event.target.name.value +
+         xhttp.send("leadsquared-FirstName=" + event.target.name.value +
             "&leadsquared-EmailAddress=" + event.target.email.value +
-            "&leadsquared-Mobile=" + event.target.phone.value +
+            // "&leadsquared-Mobile=" + event.target.phone.value +
             "&leadsquared-Company=" + event.target.organization.value +          
+            "&leadsquared-Designation=" + event.target.designation.value +          
             "&leadsquared-mx_Business_Entity=" + event.target.Business_Entity.value +
             "&formname=" + event.target.formname.value )
 
