@@ -14,7 +14,7 @@ export default function story(){
     const toggle = () => setModal(!modal);
 
 
-    const storyOneSubmit = async event => {
+    const EbookSubmit = async event => {
         event.preventDefault()
         document.getElementById("submitbuttonform").value = "Submitting form...."
         const xhttp = new XMLHttpRequest();
@@ -103,7 +103,7 @@ export default function story(){
                                 <h4 className="countertoph2 text-left font24">Download now</h4>
                                 <div className="heading-border-line left-style"></div>
                             </div>
-                            <form id="contact-form" className='clientcornner pbb-20' onSubmit={storyOneSubmit} >                                         
+                            <form id="contact-form" className='clientcornner pbb-20' onSubmit={EbookSubmit} >                                         
                                     <div className="row">
                                         <div className="col-sm-6 mb-12">
                                             <input type="text" name="name" placeholder="Your Name*" required />
