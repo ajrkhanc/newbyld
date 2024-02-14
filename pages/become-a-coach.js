@@ -1098,7 +1098,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                             </div>
                                             <div className="col-sm-12 mb-12">
                                                 <label for="coupen">Coupon Code<span class="required">*</span></label>
-                                                <input id="coupen" type="text" name="coupon" placeholder="LI10" required />
+                                                <input id="coupen" type="text" name="coupon" placeholder="LI10"  />
                                             </div>
 
                                             <div className="col-sm-6 mb-12">
