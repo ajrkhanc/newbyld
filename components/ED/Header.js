@@ -78,6 +78,7 @@ export default function Header() {
                                                     <ul className="sub-menu">
                                                     <li><a href="/everythingdisc/blog">Blog</a></li>
                                                     <li><a href="/everythingdisc/ebook">E-books</a></li>
+                                                     <li><a href="/everythingdisc/SuccessStory">Success Story</a></li>
                                                     </ul>
                                                 </li>
                                                 
