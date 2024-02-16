@@ -42,12 +42,15 @@ export default function Jenson8(){
           <Head>
             <title>BeSpoke - BYLD Group</title>
             <meta name="description" content="BYLD is a pioneering name in leadership development, corporate training, assessment, and staffing. Founded in 1998, the company is the largest group in South Asia offering HR and business productivity solutions for individuals, teams, and organizations. It has also served 300 of 500 Fortune companies."/> 
+         
+         
+         
           </Head>
 
           <section className='bespokebanner'>
             <div className='container'>
                 <div className='row'>
-                    <div className='col-lg-6 col-md-12 col-sm-12'>
+                    <div className='col-lg-6 col-sm-12 col-md-12'>
                         <div className='tailoring text-center'>
                             <h3>BeSpoke – Tailoring Learning Solutions For Your Workforce</h3>
                             <h5>The BeSpoke service line offers highly customized and outcome-driven learning solutions <br></br>to accelerate achieving desired business outcomes.</h5>
@@ -55,10 +58,12 @@ export default function Jenson8(){
                             <a href='#bespoke-lp'>Speak to our Expert</a>
                         </div>
                     </div>
-                   <div className='col-lg-6 col-md-12 col-sm-12'>
+                    <div className='col-lg-6 col-md-12 col-sm-12'>
                     <div className=" fvideoNew">
-                   
-                   <iframe src="https://www.youtube.com/embed/WMnNMMqK6ig?si=9s-Ye7fZNdJBa_vO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/WMnNMMqK6ig?si=9s-Ye7fZNdJBa_vO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+                            </iframe>
+                    </div>
+
                     </div>
                 </div>
             </div>
