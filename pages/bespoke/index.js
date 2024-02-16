@@ -47,13 +47,18 @@ export default function Jenson8(){
           <section className='bespokebanner'>
             <div className='container'>
                 <div className='row'>
-                    <div className='col-sm-12'>
+                    <div className='col-lg-6 col-md-12 col-sm-12'>
                         <div className='tailoring text-center'>
                             <h3>BeSpoke – Tailoring Learning Solutions For Your Workforce</h3>
                             <h5>The BeSpoke service line offers highly customized and outcome-driven learning solutions <br></br>to accelerate achieving desired business outcomes.</h5>
                             <p>The solutions offered are aimed at building business-relevant skills.</p>
                             <a href='#bespoke-lp'>Speak to our Expert</a>
                         </div>
+                    </div>
+                   <div className='col-lg-6 col-md-12 col-sm-12'>
+                    <div className=" fvideoNew">
+                        <iframe src="https://www.youtube.com/embed/WMnNMMqK6ig?si=9s-Ye7fZNdJBa_vO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+                            </iframe>
                     </div>
                 </div>
             </div>
