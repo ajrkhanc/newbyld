@@ -2516,6 +2516,9 @@ width: 84px;
   padding: 50px 0px;
   margin: 50px 0px;
 }
+.fvideoNew{
+  margin: 50px 0px; 
+}
 .fvideoNew iframe {
     width: 100%;
     height: 395px;
