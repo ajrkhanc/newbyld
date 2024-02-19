@@ -8930,3 +8930,628 @@ body .search-modal .close:hover {
     opacity: 0;
   }
 }
+
+/* assement section start */
+
+.assesmentbannnerbg {
+  background: #f7fbff;
+}
+.assesmentbannnerbg h2 {
+  font-size: 50px;
+  line-height: 65px;
+}
+
+.widd {
+  width: 270px;
+}
+
+.assesmentbannnerbg p {
+  font-size: 20px;
+}
+.assesmentimgbanner img {
+  border-radius: 50%;
+  padding: 50px;
+}
+
+.assesmentpart2 {
+  padding: 60px 0px;
+}
+.mform {
+  padding: 15px;
+}
+
+.odd1 {
+  background: #d2e4ed;
+}
+
+.gtda h4 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.gtda label {
+  font-size: 18px;
+  margin-right: 40px;
+  padding-left: 5px;
+}
+
+.even1 {
+  border: 1px solid #d2e4ed;
+}
+
+.inpuut input {
+  border: 2px solid #ea2640 !important;
+  margin-top: 20px;
+}
+
+
+.assesmetmain {
+  background: #000;
+  color: #fff !important;
+  border-radius: 30px;
+  padding: 7px 50px;
+  font-size: 18px;
+  font-family: "HelveticaNeueLT Pro 57 Cn" !important;
+  border: 2px solid #000 !important;
+  margin-left: 41px;
+  margin-top: 10px;
+}
+.assesmetmain:hover {
+  /* background-color: #F4812B; */
+  background-color: #ea2640;
+  border: 2px solid #ea2640 !important;
+}
+
+.formsbarassesment {
+  height: 580px;
+  overflow: auto;
+  overflow-y: scroll !important;
+  border-left: 1px solid #000;
+  padding: 0px 20px;
+}
+
+.formsbarassesment span {
+  width: 100%;
+  display: block;
+}
+
+input, select, textarea {
+  color: #000 !important;
+}
+
+.formsbarassesment span label {
+  padding-left: 10px;
+}
+
+.phoh2 {
+  font-size: 30px !important;
+  padding: 48px 0px 20px 0px;
+}
+
+.cacoh {
+	color: #2a6db5;
+	font-size: 30px;
+	padding-top: 32px;
+	margin-bottom: 5px;
+
+}
+
+.fh3 {
+	background: #1b6194;
+	padding: 0px 15px;
+}
+
+.mainlinec {
+  position: relative;
+}
+
+
+.sboxp {
+  display: flex;
+}
+
+
+.ajpoint .hrleft {
+  width: 38% !important;
+  float: right;
+}
+
+.sbox hr {
+  width: 100%;
+  display: block;
+  margin-bottom: -15px;
+  color: #2a6db5;
+  height: 2px;
+  opacity: 1;
+}
+
+.sbox span {
+  background: #3474af;
+  width: 28px;
+  height: 28px;
+  display: block;
+  color: #fff;
+  border-radius: 50px;
+  line-height: 28px;
+  margin: auto;
+}
+
+.hrleft {
+	width: 55% !important;
+	float: right;
+}
+
+.hrright {
+	width: 55% !important;
+	float: left;
+}
+
+.fh3 h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #fff;
+  margin: 0px;
+  padding: 10px 0px;
+}
+
+.fcol1:nth-child(odd) {
+  background: #f5f5f5;
+  border-left: 1px solid #2a6db5;
+  border-right: 1px solid #2a6db5;
+}
+
+.fcolmain {
+  display: inline-flex;
+  padding-right: 30px;
+}
+
+
+.mainlinec {
+	position: relative;
+}
+
+.sboxp {
+	display: flex;
+}
+
+.sbox {
+	width: 14.28%;
+}
+
+.sbox hr {
+	width: 100%;
+	display: block;
+	margin-bottom: -15px;
+	/* color: #2a6db5; */
+	color: #ea2640;
+	height: 2px;
+	opacity: 1;
+}
+
+.hrleft {
+	width: 55% !important;
+	float: right;
+}
+
+.hrright {
+	width: 55% !important;
+	float: left;
+}
+
+.sbox span {
+	/* background: #3474af; */
+	background: #ea2640;
+	width: 28px;
+	height: 28px;
+	display: block;
+	color: #fff;
+	border-radius: 50px;
+	line-height: 28px;
+	margin: auto;
+}
+
+.cacoh {
+	/* color: #2a6db5; */
+	color: #000;
+	font-size: 30px;
+	padding-top: 32px;
+	margin-bottom: 5px;
+}
+
+.fh3 {
+	/* background: #1b6194; */
+  	background: #ea2640;
+	padding: 0px 15px;
+}
+
+.fh3 h3 {
+	font-size: 20px;
+	font-weight: 500;
+	color: #fff;
+	margin: 0px;
+	padding: 10px 0px;
+}
+
+.fcolmain {
+	display: inline-flex;
+	padding-right: 30px;
+}
+
+.fcolmain label {
+	padding-left: 5px;
+}
+
+.fcolmain input {
+	accent-color: #3474af;
+	width: 18px;
+	height: 18px;
+	margin-top: 4px;
+}
+
+.fcol1 {
+	padding: 0px 15px 15px 15px;
+	border-bottom: 1px solid #ea2640;
+}
+
+.fcol1 h2 {
+	font-size: 19px;
+	font-weight: 500;
+	margin: 0px;
+	padding: 25px 0px 10px 0px;
+	/* color: #1b6194; */
+	color: #000;
+}
+
+.fcol1:nth-child(odd) {
+	background: #f5f5f5;
+	/* border-left: 1px solid #2a6db5; */
+  	border-left: 1px solid #ea2640;
+	border-right: 1px solid #ea2640;
+}
+
+.fcol1:nth-child(even) {
+	border-left: 1px solid #ea2640;
+	border-right: 1px solid #ea2640;
+}
+
+.lastinp input {
+	width: 100%;
+	border: 2px solid #3373ae;
+	padding: 6px;
+	border-radius: 3px;
+}
+
+.lastinp .assesmetmain {
+	width: 120px !important;
+	background: #000;
+	color: #fff !important;
+	border: 0px !important;
+	border-radius: 25px;
+	padding: 10px;
+}
+
+.lastinp .assesmetmain:hover {
+	/* background: #EB7B11;	 */
+  background: #ea2640;
+}
+
+.coachingresultinner {
+	width: 100%;
+	background-color: #2969B0;
+	border-bottom: 1px solid #F4812B;
+}
+
+.resultable table {
+	width: 100%;
+}
+
+.resultable table,
+table th,
+table td {
+	border: 1px solid #282A35;
+	border-collapse: collapse;
+	padding: 0px;
+
+}
+
+.resultable table th {
+	padding: 10px;
+}
+
+.firsttd {
+	padding: 10px;
+}
+
+.resultable table span {
+	padding: 10px;
+	min-height: 50px;
+}
+
+.resultable table span:last-child {
+	border-bottom: 0px;
+}
+
+
+
+.resultable span {
+	width: 100%;
+	display: block;
+	border-bottom: 1px solid #000;
+}
+
+
+.mlicss .mform {
+  font-size: 22px;
+}
+
+.mlicss .mform span {
+  display: inline-flex;
+  width: 100%;
+}
+
+.mlicss .mform input {
+  height: 26px;
+}
+
+.mlicss label {
+  padding-left: 7px;
+}
+label {
+  font-size: 18px;
+  color: #000;
+}
+
+.mform p {
+  font-size: 22px;
+  color: #000000;
+  font-weight: 500;
+
+}
+
+.gtda input {
+  height: auto !important;
+}
+
+.btnnewc {
+	padding: 8px 33px;
+	margin-top: 40px;
+}
+
+.btnnewc {
+  background: #2b70b3;
+  color: #fff !important;
+  border-radius: 30px;
+  padding: 5px 33px;
+  font-size: 18px;
+  font-family: "HelveticaNeueLT Pro 57 Cn" !important;
+  border: 2px solid #2B70B3;
+  margin-top: 30px;
+  margin-bottom: 21px;
+}
+
+.assessment-result-block h3 {
+  font-size: 29px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.assessment-result-block+.assessment-result-block {
+  padding-top: 25px;
+  margin-top: 25px;
+  border-top: 1px solid #b8b8b8;
+}
+
+
+.ptop {
+  padding: 0px;
+  margin: 0px;
+  font-size: 28px !important;
+  color: #2092cf;
+  line-height: 28px;
+  padding-right: 10px;
+  font-weight: 500;
+}
+.assessment-result-block h3 {
+  font-size: 29px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.assesmentpart2 p {
+  font-size: 18px;
+  color: #000000;
+  font-weight: 500;
+}
+.hcll {
+  color: #2092cf;
+}
+
+.ulBox{
+  padding-left: 40px;
+  margin-bottom: 1rem;
+
+}
+.ulBox li{
+list-style:  disc;
+}
+.newclp .assessment-result-block {
+  margin-bottom: 28px;
+}
+
+.newclp .assessment-result-block h3 span {
+  color: #eb8123;
+}
+.assessment-result-block .result-bar-wrapper {
+  height: 30px;
+  border-radius: 10px;
+  background: #efecec;
+}
+
+.assessment-result-block .result-bar-wrapper .result-bar {
+  width: 20px;
+  height: 100%;
+  background: #b8b8b8;
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-size: 30px 30px;
+  border-radius: 10px;
+}
+.result-bar-wrapper {
+  height: 15px;
+  border-radius: 10px;
+  background: #efecec;
+  border: 1px solid #9b9b9b;
+  margin-top: 6px;
+}
+
+.newclp .assessment-result-block h3 {
+  font-size: 22px !important;
+  color: #2092cf;
+}
+
+@media (min-width:1000px) {
+	.aacc {
+		width: 60% !important;
+	}
+
+}
+
+.colof {
+  font-size: 20px;
+  color: #eb8123;
+  padding-bottom: 9px;
+}
+
+.newh3 {
+  color: #eb8123;
+  padding-top: 10px;
+  margin-bottom: 5px;
+  font-size: 26px !important;
+}
+
+.ppdl {
+  padding-left: 15px;
+  border-left: 2px solid #eb8123;
+  margin-top: 20px;
+}
+
+.ppdr {
+  padding-right: 15px;
+  border-right: 2px solid #eb8123;
+  margin-top: 20px;
+}
+
+.displayassesmetc {
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+.displayassesmetc {
+	display: inline-flex;
+}
+
+.sameheighthw {
+	width: 50px;
+	height: 30px;
+	background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+	background-size: 30px 30px;
+	border-radius: 10px;
+}
+
+.assesmetrr span {
+	padding: 2px 10px 0px 6px;
+}
+
+
+.assesmetrr {
+	display: inline-flex;
+	padding-right: 15px;
+}
+
+.overloadedcolor {
+	background-color: #dc3545 !important;
+}
+
+.strugglingcolor {
+	background-color: #ffc107 !important;
+}
+
+.managingcolor {
+	background-color: #5bc0de !important;
+}
+
+.doingwellcolor {
+	background-color: #28a745 !important;
+}
+
+.skycolor {
+	background-color: #2196f3 !important;
+}
+
+.assessment-result-block+.assessment-result-block {
+	padding-top: 25px;
+	margin-top: 25px;
+	border-top: 1px solid #b8b8b8;
+}
+
+/* .assessment-result-block .result-bar-wrapper .result-bar {
+	width: 20px;
+	height: 100%;
+	background: #b8b8b8;
+	background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+	background-size: 30px 30px;
+	border-radius: 10px;
+} */
+
+.greenbg {
+  background-color: #28a745 !important;
+}
+
+.bgred {
+  background-color: #dc3545 !important;
+}
+
+.tablefbh {
+  background: #3373af;
+}
+
+.newtblc table tr th {
+  padding: 10px;
+}
+
+.tablefbh th {
+  color: #fff;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.resultable table, table th, table td {
+  border: 1px solid #282A35;
+  border-collapse: collapse;
+  padding: 0px;
+}
+.tblrr {
+  text-align: center !important;
+  color: #eb8123;
+  font-size: 36px;
+}
+.newtblc table td {
+  padding: 10px;
+
+}
+
+.resh{
+  color: #000 !important;
+  font-size: 28px !important;
+    padding: 15px 0px 0px 0px !important;
+    margin: 0px !important;
+    font-weight: 500;
+}
+
+/* assement section end */
+
+
+
+
+
+
+
