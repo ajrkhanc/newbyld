@@ -379,8 +379,8 @@ function callAPI() {
     }
 
     // Add an event listener for the DOMContentLoaded event
-    document.addEventListener('DOMContentLoaded', function() {
-        // Call the autoClick function after a delay (in milliseconds)
-        setTimeout(autoClick, 10000); // Clicks the button after 2000 milliseconds (2 seconds)
-    });
+ // document.addEventListener('DOMContentLoaded', function() {
+    //     // Call the autoClick function after a delay (in milliseconds)
+    //     setTimeout(autoClick, 10000); // Clicks the button after 2000 milliseconds (2 seconds)
+    // });
   
