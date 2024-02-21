@@ -89,7 +89,7 @@ export default function GoldofthedesertKings(){
                         <img src="/efassets/img/gold-of-the-desert-kings-logo.png" alt=""/>
                         </div>
                         <div class="btn-part ptt-10 pbb-30">
-                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/gold-of-the-desert-kings_WyD8lsjU-.pdf">
+                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/gold-of-the-desert-kings_WyD8lsjU-.pdf?updatedAt=1708510509478">
                                  DOWNLOAD BROCHURE
                                 <div class="btn-arrow"></div>
                             </a>
