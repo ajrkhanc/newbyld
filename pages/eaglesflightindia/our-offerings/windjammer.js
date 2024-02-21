@@ -42,7 +42,7 @@ export default function ExpeditionOutback(){
                         <img src="/efassets/img/windjammer-logo.png" alt=""/>
                         </div>
                         <div class="btn-part pbb-30 text-center">
-                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/Windjammer_Gdq9DT3RB.pdf">
+                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/end_XSBuEHsjtD.pdf?updatedAt=1708515763042">
                                  DOWNLOAD BROCHURE
                                 <div class="btn-arrow"></div>
                             </a>
