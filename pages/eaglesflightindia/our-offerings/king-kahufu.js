@@ -70,7 +70,7 @@ export default function KingKahufu(){
                         In the ancient Egypt-themed virtual experiential activity, King Kahufu, participants become agents representing major interest groups assembled to assess a newly discovered pyramid and propose a plan of action for opportunities that have emerged as a result of the discovery. The goal of the experience is to accomplish personal objectives as well as the team’s collective objectives via the virtual learning platform.
                         </p>  
                         <div class="btn-part ptt-10 pbb-30">
-                            <a class="readon2" target="_blank" href="/efassets/pdf/King-Kahafu-Brochure.pdf">
+                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/PAGERS_T29sCcp09.pdf?updatedAt=1708519086147">
                                  DOWNLOAD BROCHURE
                                 <div class="btn-arrow"></div>
                             </a>
