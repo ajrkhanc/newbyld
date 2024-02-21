@@ -73,7 +73,7 @@ export default function MuseumCaper(){
                         By cross-referencing the clues they receive, they eliminate suspects and identify the true criminals. Involve in a virtual world of Museum Caper™ to identify the three best practices to succeed by conducting outdoor team building activities.
                         </p>
                         <div class="btn-part ptt-10 pbb-30">
-                            <a class="readon2" target="_blank" href="/efassets/pdf/Museum-Caper-Brochure.pdf">
+                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/1%20again_uRYEZacKu.pdf?updatedAt=1708517913734">
                                  DOWNLOAD BROCHURE
                                 <div class="btn-arrow"></div>
                             </a>
