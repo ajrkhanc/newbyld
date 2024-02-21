@@ -58,7 +58,7 @@ export default function ExpeditionOutback(){
                         <img src="/efassets/img/expedition-outback-logo.png" alt=""/>
                         </div>
                         <div class="btn-part ptt-10 pbb-30">
-                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/expedition-outback_PJpyBmeTw.pdf">
+                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/expedition-outback_PJpyBmeTw_le1YUH_zmH.pdf?updatedAt=1708512284487">
                                  DOWNLOAD BROCHURE
                                 <div class="btn-arrow"></div>
                             </a>
