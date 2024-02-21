@@ -57,7 +57,7 @@ export default function RattlesnakeCanyon(){
                         <img src="/efassets/img/rattlesnake-canyon-logo.png" alt=""/>
                         </div>
                         <div class="btn-part ptt-10 pbb-30">
-                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/rattlesnake-canyon_KGQ6CFcZp.pdf">
+                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/rattlesnake-canyon_s6D3L8tif.pdf?updatedAt=1708512013290">
                                  DOWNLOAD BROCHURE
                                 <div class="btn-arrow"></div>
                             </a>
