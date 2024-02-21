@@ -89,7 +89,7 @@ export default function PromisesPromises(){
                         <img src="/efassets/img/promises-promises-logo.png" alt=""/>
                         </div>
                         <div class="btn-part ptt-10 pbb-30">
-                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/promises-promises_-4jmZAVk8.pdf">
+                            <a class="readon2" target="_blank" href="https://ik.imagekit.io/byld/EF/promises-promises_Liv8dJ949.pdf?updatedAt=1708511661143">
                                  DOWNLOAD BROCHURE
                                 <div class="btn-arrow"></div>
                             </a>
