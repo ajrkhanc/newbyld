@@ -227,9 +227,9 @@ export default function BrowseCourses() {
                     <option value="">Pick any Slot*</option>
 
                     {/* <option value="Virtual Course Preview - November 30th, 2023">Virtual Course Preview - November 30th, 2023</option> */}
-                    <option value="Virtual Course Preview - 19th January, 2024">
+                       {/*<option value="Virtual Course Preview - 19th January, 2024">
                       Virtual Course Preview - 19th Jan, 2024
-                    </option>
+                    </option>*/}
                     <option value="Workshop - 26th February, 2024">
                       Workshop - 26th Feb, 2024
                     </option>
@@ -356,7 +356,7 @@ export default function BrowseCourses() {
                             </div>
                         </div> */}
 
-            <div class="col-md-4 workshop-col">
+           {/*    <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content green-col">
                   <img
@@ -382,7 +382,7 @@ export default function BrowseCourses() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div>*/}
 {/* 
             <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
