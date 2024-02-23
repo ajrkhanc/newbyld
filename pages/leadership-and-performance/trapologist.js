@@ -82,7 +82,7 @@ export default function Trapologist(){
                                         <div className="col-sm-6 pppp8">
                                             <select name="anyslot" required>
                                                 <option value="">Pick up any Slot*</option>                                                
-                                                <option value="Virtual Course Previews: 13th February, 2024">Virtual Course Previews: 13th February, 2024</option>
+                                               {/* <option value="Virtual Course Previews: 13th February, 2024">Virtual Course Previews: 13th February, 2024</option> */}
                                                {/*   <option value="Workshop: 15th February, 2024">Workshop: 15th February, 2024</option> */}
                                                 <option value="Workshop: 18th March, 2024">Workshop: 18th March, 2024</option>
                                                 {/* <option value="Workshop: 26th October, 2023">Workshop: 26th October, 2023</option> */}
@@ -137,7 +137,7 @@ export default function Trapologist(){
                             </div>
                       </div>
                       <div className='col-sm-4'>                        
-                                <div className="clientcornnertest bgpurewhite ptt-0">                                    
+                               {/* <div className="clientcornnertest bgpurewhite ptt-0">                                    
                                     <div className="testi-information">
                                     <div className="testi-name textleftc orangecolor mbb-15">Explore Our Upcoming Events</div>
                                     </div>
@@ -149,7 +149,7 @@ export default function Trapologist(){
                                             <h3>Trapologist at Work<sup>®</sup></h3>
                                             <h4> Virtual Course Previews: 13th February, 2024</h4>
                                         </div>
-                                    </div>
+                                    </div>*/}
 
                                    {/*   <div className='eventslist'>
                                         <div className='eventicon'>
