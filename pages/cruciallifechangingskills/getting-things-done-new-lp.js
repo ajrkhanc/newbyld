@@ -296,7 +296,7 @@ export default function Gettingthingsdone() {
                                             {/* <option value="Getting Things Done - November 6th to 8th, 2023">Getting Things Done - November 6th to 8th, 2023</option>
                                             <option value="Getting Things Done - November 9th to 10th, 2023">Getting Things Done - November 9th to 10th, 2023</option> */}
                                             
-                                            <option value="Getting Things Done, Workshop -  February 7th, 2024">Getting Things Done, Workshop - February 7th, 2024</option>
+                                            {/* <option value="Getting Things Done, Workshop -  February 7th, 2024">Getting Things Done, Workshop - February 7th, 2024</option>*/}
                                             <option value="Getting Things Done, Virtual Course Preview -  March 18th, 2024">Getting Things Done, Virtual Course Preview - March 18th, 2024</option>
                                            
 
