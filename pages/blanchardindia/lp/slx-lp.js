@@ -101,8 +101,8 @@ export default function HybridWorkplaces() {
                            <label>Interested In*</label>
                            <select name="interest_in" className="form-control" required>
                               <option value="">---Select---</option>
-                             <option value="The SLII Experience™ - November 20th- 21st, 2023">The SLII Experience™ - November 20th - 21st 2023</option>
-                              <option value="The SLII Experience™ - T4T - November 22nd - 23rd, 2023">The SLII Experience™ - T4T - November 22nd - 23rd 2023</option>
+                             <option value="The SLII Experience™ - March 13th- 14th, 2024">The SLII Experience™ - March 13th- 14th, 2024</option>
+                              <option value="The SLII Experience™ - T4T - March 21st- 22nd, 2024">The SLII Experience™ - T4T - March 21st- 22nd, 2024</option>
                            </select>
                            <div className="help-block with-errors"></div>
                         </div>
