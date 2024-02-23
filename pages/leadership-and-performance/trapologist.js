@@ -141,7 +141,7 @@ export default function Trapologist(){
                                     <div className="testi-information">
                                     <div className="testi-name textleftc orangecolor mbb-15">Explore Our Upcoming Events</div>
                                     </div>
-                                    <div className='eventslist'>
+                                      {/*    <div className='eventslist'>
                                         <div className='eventicon'>
                                             <i className='fa fa-calendar'></i>
                                         </div>
@@ -149,7 +149,7 @@ export default function Trapologist(){
                                             <h3>Trapologist at Work<sup>®</sup></h3>
                                             <h4> Virtual Course Previews: 13th February, 2024</h4>
                                         </div>
-                                    </div>
+                                    </div>*/}
 
                                    {/*   <div className='eventslist'>
                                         <div className='eventicon'>
