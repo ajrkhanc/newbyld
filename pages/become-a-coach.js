@@ -1072,7 +1072,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                         <div className='col-sm-4'>
                             <div className='formhh'>
                                 <div className="bannerform msddd">
-                                   <h3>Enroll in our ICF Accredited Coach Certification Batch 44, 17 February 10:00 am to 4:00 pm</h3>
+                                   <h3>Enroll now for our complimentary experience session </h3>
                                     {/*<h3>ICF Coach Certification Program by BYLD Group, Sat, Dec 16, 2023, 11:00 AM - 12:00 PM</h3> */}
 
 
@@ -1096,6 +1096,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                             <div className="col-sm-12 mb-12">
                                                 <input type="email" name="email" placeholder="Work Email/Email*" required />
                                             </div>
+
                                           {/*   <div className="col-sm-12 mb-12">
                                                 <label for="coupen">Coupon Code<span class="required">*</span></label>
                                                 <input id="coupen" type="text" name="coupon" placeholder="LI10"  />
@@ -1107,6 +1108,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                             <div className="col-sm-6 mb-12">
                                                 <input type="text" name="designation" placeholder="Designation*" required />
                                             </div>
+                                            <div className="col-sm-12 mb-12">
+                                                <input type="email" name="email" placeholder="Email*" disabled />
+                                            </div>
 
                                             <div className="col-sm-12 mb-12">
                                                 <select name='slot' required>
@@ -1114,7 +1118,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                                     
 {/* 
                                                     <option value='06 January 2024'>06 January 2024</option> */}
-                                                    <option value='17 February 2024'>17 February 2024</option>
+                                                    <option value=' April 5th, 2024'>April 5th, 2024</option>
                                                 </select>
                                             </div>
 
