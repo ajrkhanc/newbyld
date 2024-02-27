@@ -7,7 +7,7 @@ export default function PodCastinner() {
         <Head>
         <title>Podcast -Building Emotional Intelligence Habits with Dr. Travis Bradberry
 </title>
-        <meta name="description" content="Dr. Keith Keating explains the importance of making learning initiatives a part of the overall corporate strategy and shares how to develop a proactive approach to L&amp;D."/>
+        <meta name="description" content="Dr. Travis Bradberry share strategies from his latest book, Emotional Intelligence Habits. He explains how to form good habits, break bad ones, and master the micro behaviors that will take your EQ to new heights. His insights will help you change your habits and change your life."/>
         <link rel="icon" href="/favicon.ico" />
         </Head>
          
