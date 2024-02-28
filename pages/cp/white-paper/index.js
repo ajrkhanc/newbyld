@@ -26,6 +26,16 @@ export default function Books() {
                                 </div>
                             </div>
                         </div>
+                         <div className="col-sm-4">
+                            <div className="innervideoshd ebookst text-center">
+                                <a href='/cp/white-paper/employee-well-being-wp'>
+                                <img src='/assets/img/white-paper/nuturing-employee-amarvjiay.jpg' alt="books" />
+                                    <h4 className=''>Employee well being WP</h4>
+                                    <h3 className='ebookbtn'>Read White Paper</h3>
+                                </a>
+                            </div>
+                        </div>
+
 
                         <div className="col-sm-4">
                             <div className="innervideoshd ebookst text-center">
