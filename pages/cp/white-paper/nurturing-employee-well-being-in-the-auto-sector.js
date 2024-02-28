@@ -38,7 +38,7 @@ export default function Ebookpage(){
     return(
         <>
           <Head>
-            <title>BYLD Group -NURTURING EMPLOYEE WELL-BEING IN THE AUTO SECTOR</title>
+            <title>BYLD Group -Nurturing Employee Well-Being in the Auto Sector</title>
             <meta name="description" content="What will spur BFSI industry"/> 
           </Head>
 
@@ -47,7 +47,7 @@ export default function Ebookpage(){
                 <div className="row y-middle">
                     <div className="col-lg-12">
                       <div className='sec-title3 ptt-30'>
-                      <h4 className="countertoph2 text-center font30">NURTURING EMPLOYEE WELL-BEING IN THE AUTO SECTOR</h4>
+                      <h4 className="countertoph2 text-center font30">Nurturing Employee Well-Being in the Auto Sector</h4>
                       <div className="heading-border-line left-center"></div>
                       </div>
                     </div>         
