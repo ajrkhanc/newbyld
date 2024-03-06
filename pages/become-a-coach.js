@@ -1116,10 +1116,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
 
                                             <div className="col-sm-12 mb-12">
                                                 <select name='emailslot' required>
-                                                    <option value=''>Email*</option>   
-                                                    
- 
-                                                    <option value='Email'>Email</option> 
+                                                    <option value=''>Source*</option>   
+                                                     <option value='Email'>Email</option> 
                                                     <option value='Linkedin'>Linkedin</option> 
                                                     <option value='Social Media'>Social Media</option> 
                                                     <option value='Website'>Website</option> 
