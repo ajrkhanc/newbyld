@@ -917,11 +917,11 @@ module.exports = {
         permanent: true,
       },
 
-      {
+       {/*  {
         source: '/effective-manpower-staffing-leads-to-innovation',
         destination: 'https://blog.byldgroup.com',
         permanent: true,
-      },
+      }, */}
 
       {
         source: '/develop-leadership-skills-with-bylds-coaching-and-mentoring-certifications',
