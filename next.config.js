@@ -419,12 +419,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/do-you-have-a-business-acumen-gap-in-your-company',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
-
+    
       {
         source: '/10-key-traits-of-a-gen-z-employee',
         destination: 'https://blog.byldgroup.com',
