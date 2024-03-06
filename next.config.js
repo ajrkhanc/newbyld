@@ -328,11 +328,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/leadership-training-for-women-can-increase-productivity',
-        destination: 'https://blog.byldgroup.com/leadership-training-for-women-can-increase-productivity/',
-        permanent: true,
-      },
+    
 
       {
         source: '/the-role-and-importance-of-motivation-in-an-organization',
@@ -524,11 +520,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/how-coaches-can-help-organizations-during-a-pandemic',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
       {
         source: '/latest-training-trends-for-remote-workforce',
@@ -728,11 +720,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/how-does-psychometric-assessment-help-in-organizational-development',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+   
 
       {
         source: '/best-corporate-training-companies',
@@ -1015,11 +1003,7 @@ module.exports = {
 
     
 
-      {
-        source: '/3-quarters-of-millennials-will-quit-their-jobs-in-2023-due-to-lack-of-skillbuilding-opportunities',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+  
 
       {
         source: '/a-roadmap-for-better-management',
@@ -1137,11 +1121,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/coaching-goals-for-2023-what-to-expect-and-more',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
       {
         source: '/7-detailed-ways-to-develop-worklife-integration-and-improve-employee-wellbeing',
