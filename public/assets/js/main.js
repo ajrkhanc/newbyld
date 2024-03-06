@@ -432,7 +432,7 @@ $(document).ready(function(){
 $(document).ready(function() {
 
 
-if (window.location.href === 'https://byldgroup.com/effective-manpower-staffing-leads-to-innovationl') {
+if (window.location.href === 'https://byldgroup.com/effective-manpower-staffing-leads-to-innovation') {
     // Select the meta tag with name="robots" and content="noindex,nofollow"
     var metaTag = $('meta[name="robots"][content="noindex,nofollow"]');
     
