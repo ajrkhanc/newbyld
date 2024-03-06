@@ -340,11 +340,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/digital-learning-and-development-in-2023-for-business-growth',
-        destination: 'https://blog.byldgroup.com/digital-learning-and-development-in-2023-for-business-growth/',
-        permanent: true,
-      },
+
 
       {
         source: '/leadership-training-for-women-in-2023-a-look-at-the-new-leaders',
