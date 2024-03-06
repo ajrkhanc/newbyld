@@ -948,11 +948,7 @@ module.exports = {
         permanent: true,
       },
 
-      // {
-      //   source: '/need-top-talent-for-your-company-know-how-to-hire-the-best-on-a-shoestring-budget',
-      //   destination: 'https://blog.byldgroup.com',
-      //   permanent: true,
-      // },
+      
 
       {
         source: '/recruit-and-retain-a-skilled-workforce-with-temporary-staffing-services',
