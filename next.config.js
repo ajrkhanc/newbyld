@@ -1088,11 +1088,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/quiet-firing-vs-quiet-quitting-impact-and-how-to-stop-it',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+ 
 
       {
         source: '/learning-to-lead-through-the-turbulence-with-the-help-of-a-new-alternative-to-vuca',
