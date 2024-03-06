@@ -430,17 +430,17 @@ $(document).ready(function(){
 });
 
 $(document).ready(function() {
-  // Check if the current URL matches the target URL
-  if (window.location.href === '/effective-manpower-staffing-leads-to-innovation') {
-    // Locate the meta tag with name="robots" in the document
-    var metaTag = $('meta[name="robots"]');
+
+
+if (window.location.href === 'https://byldgroup.com/effective-manpower-staffing-leads-to-innovationl') {
+    // Select the meta tag with name="robots" and content="noindex,nofollow"
+    var metaTag = $('meta[name="robots"][content="noindex,nofollow"]');
     
-    // Check if the meta tag exists
+    // Remove the meta tag if it exists
     if (metaTag.length > 0) {
-      // Update the content attribute of the meta tag to remove "noindex nofollow"
-      metaTag.attr('content', 'index, follow');
+        metaTag.remove();
     }
-  }
+}
 });
 
 
