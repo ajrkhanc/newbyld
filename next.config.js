@@ -1017,11 +1017,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/transforming-organizational-culture-by-upskilling-your-managers',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
       {
         source: '/3-quarters-of-millennials-will-quit-their-jobs-in-2023-due-to-lack-of-skillbuilding-opportunities',
