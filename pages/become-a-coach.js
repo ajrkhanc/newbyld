@@ -905,6 +905,7 @@ export default function Home({ country }) {
         var organization = event.target.organization.value;
         var designation = event.target.designation.value;
         var slot = event.target.slot.value;
+        var emailslot = event.target.emailslot.value;
         var Business_Entity = event.target.Business_Entity.value;
 
         event.preventDefault()
@@ -936,6 +937,7 @@ export default function Home({ country }) {
             "&leadsquared-Company=" + organization +
             "&leadsquared-JobTitle=" + designation +
             "&slot=" + slot +
+            "&emailslot=" + emailslot +
             "&leadsquared-mx_Business_Entity=" + Business_Entity)
     }
 
@@ -1108,17 +1110,32 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                             <div className="col-sm-6 mb-12">
                                                 <input type="text" name="designation" placeholder="Designation*" required />
                                             </div>
-                                            <div className="col-sm-12 mb-12">
+                                            {/* <div className="col-sm-12 mb-12">
                                                 <input type="email" name="email" placeholder="Email*" disabled />
+                                            </div> */}
+
+                                            <div className="col-sm-12 mb-12">
+                                                <select name='emailslot' required>
+                                                    <option value=''>Email*</option>   
+                                                    
+ 
+                                                    <option value='Email'>Email</option> 
+                                                    <option value='Linkedin'>Linkedin</option> 
+                                                    <option value='Social Media'>Social Media</option> 
+                                                    <option value='Website'>Website</option> 
+                                                    {/* <option value=' April 5th, 2024'>April 5th, 2024</option> */}
+                                                    {/* <option value=' ICF Certification batch 20th April 2024'>ICF Certification batch 20th April 2024</option> */}
+                                                </select>
                                             </div>
 
                                             <div className="col-sm-12 mb-12">
                                                 <select name='slot' required>
                                                     <option value=''>Pick up any Slot*</option>   
                                                     
-{/* 
-                                                    <option value='06 January 2024'>06 January 2024</option> */}
-                                                    <option value=' April 5th, 2024'>April 5th, 2024</option>
+ 
+                                                    <option value='Experience session 5th April 2024'>Experience session 5th April 2024</option> 
+                                                    {/* <option value=' April 5th, 2024'>April 5th, 2024</option> */}
+                                                    <option value=' ICF Certification batch 20th April 2024'>ICF Certification batch 20th April 2024</option>
                                                 </select>
                                             </div>
 
