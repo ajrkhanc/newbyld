@@ -496,11 +496,6 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/what-are-the-ways-to-create-a-strong-company-culture',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
 
       {
         source: '/reasons-why-ld-is-vital-in-change-management-during-a-crisis',
@@ -708,12 +703,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/train-the-trainer',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
-
+   
       {
         source: '/how-to-shift-employees-learning-mindset-from-must-do-to-want-to',
         destination: 'https://blog.byldgroup.com',
@@ -836,11 +826,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/psychometric-assessment-improves-the-scope-of-learning-of-your-employees',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+   
 
       {
         source: '/profitability-of-training-companies-providing-business-productivity-solutions',
@@ -915,11 +901,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/how-is-the-psychometric-assessment-test-crucial-for-an-organization',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+   
 
       {
         source: '/why-does-a-corporate-organization-need-a-leadership-management-course',
@@ -929,17 +911,7 @@ module.exports = {
 
    
 
-      {
-        source: '/recruit-and-retain-a-skilled-workforce-with-temporary-staffing-services',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
-
-      {
-        source: '/become-a-frontline-leader-in-the-times-of-crisis-with-tips-from-industry-experts',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
       {
         source: '/facing-increasing-employee-resentment-heres-a-quick-guide-to-address-the-core-issues',
@@ -953,17 +925,9 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/infusing-a-learning-culture-into-an-organization-ensures-growth-and-viability--heres-how',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
-      {
-        source: '/global-hr-technology-market-at-31-billion-in-20212022-care-to-invest',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+   
 
       {
         source: '/soft-skills-training-yields-250-roi-in-factories-applicable-for-it-employees',
@@ -971,17 +935,9 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/leadership-training-contributes-to-a-28-improvement-in-onthejob-leadership-behaviors',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
-      {
-        source: '/coaching-training-for-managers-helps-unlock-the-potential-within-the-team',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
       {
         source: '/the-corporate-leadership-training-market-yoy-growth-rate-in-2022-stands-at-787',
@@ -989,11 +945,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/the-global-investment-in-leadership-training-is-expected-to-be-over-50-billion',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+     
 
       {
         source: '/training-and-development-to-combat-recession',
@@ -1023,11 +975,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/2023-is-all-about-motivation-performance-and-reliability',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
       {
         source: '/combining-change-management-with-training-to-ensure-better-adjustment',
@@ -1085,11 +1033,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/experiential-learning-and-virtual-reality-are-reshaping-the-future-in-ld',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+     
 
       {
         source: '/improving-your-employees-time-management-skills-to-increase-performance',
@@ -1103,12 +1047,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/understanding-the-pros-and-cons-of-the-democratic-leadership-style',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
-
+   
       {
         source: '/the-power-of-immersive-learning-on-workforce-productivity',
         destination: 'https://blog.byldgroup.com',
@@ -1165,11 +1104,7 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/talent-disruption-quiet-hiring-and-other-workplace-trends-transforming-the-indian-business-sector',
-        destination: 'https://blog.byldgroup.com',
-        permanent: true,
-      },
+    
 
       {
         source: '/setting-goals-together-with-leadership-development-are-the-pillars-of-long-time-success',
