@@ -59,6 +59,7 @@ export default function Workshops() {
     <>
       <Head>
         <title>Workshops - BYLD Group</title>
+        <link rel="canonical" href="https://byldgroup.com/workshops" />
         <meta
           name="description"
           content="April 29th, 2022Trapologist at WorkTM Workshop Virtual Public Workshop: April 29th, 2022 Learn More & Register April 26th – 29th, 2022DISC Train-the-Trainer (TTT) Virtual Public Workshop: April 26th – 29th, 2022 Learn More & Register May 9th – 12th, 2022Blanchard India Online Workshop Virtual Public Workshop: May 9th – 12th, 2022 Reserve Your Seat May… Continue reading Workshops"
