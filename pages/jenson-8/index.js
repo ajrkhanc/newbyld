@@ -87,6 +87,7 @@ export default function Jenson8() {
         <>
             <Head>
                 <title>Jenson8 | Experiential Learning | BYLD Group</title>
+                <link rel="canonical" href="https://byldgroup.com/jenson-8" />
                 <meta name="description" content="BYLD Group, in partnership with Jenson8, offers the best VR games and virtual games for employees for effective leadership development and training. To know more, check out the page." />
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7PQH69WDV"></script>
                 <script
