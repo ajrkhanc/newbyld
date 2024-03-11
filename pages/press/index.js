@@ -17,6 +17,7 @@ export default function Press({ posts }) {
     <>
       <Head>
         <title>News Feed</title>
+    <link rel="canonical" href="https://byldgroup.com/press" />
         <meta name="description" content="" />
         <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
       </Head>
