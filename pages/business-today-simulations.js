@@ -7,6 +7,7 @@ export default function BusinessTodaySimulations() {
         <>
             <Head>
                 <title>Business Today Simulations | Experiential Learning | BYLD Group</title>
+                <link rel="canonical" href="https://byldgroup.com/business-today-simulations" />
                 <meta name="description" content="Business Today Simulations offer leadership development training through a “learning by doing” approach to ensure people performance and organizational development. To know more, check out the page." />
             </Head>
             <div className="rs-services">
