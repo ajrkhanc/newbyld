@@ -303,6 +303,7 @@ export default function JoinOurPartnerNetworkLP() {
         <>
             <Head>
                 <title>Consulting Practice - BYLD Group</title>
+                <link rel="canonical" href="https://byldgroup.com/cp" />
                 <meta name="description" content="Welcome to BYLD Group! Join the BYLD Group Partner network, and become our business partner to maximize your growth opportunities. We are the largest group in South Asia offering HR and business productivity solutions for individuals, teams and organizations. Served 300 of 500 Fortune companies. Founded in 1998, backed by 1000+ years of accumulated professional… Continue reading Join our Partner network LP Ab Testing" />
                 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet"></link>
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
