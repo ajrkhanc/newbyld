@@ -156,6 +156,7 @@ export default function ClientCorner() {
         <>
             <Head>
                 <title>Client Corner - BYLD Group</title>
+                <link rel="canonical" href="https://byldgroup.com/client-corner" />
                 <meta name="description" content="Continuously adding value to our customer’s businesses! Continuously adding value to our customer’s businesses! Let us help you find the best resource for your company. Highly effective, employee screening process for hiring of blue-collared and entry-level staff. Highly effective, employee screening process for hiring of blue-collared and entry-level staff. Business Enquiry Submit Your Query Our… Continue reading Client Corner" />
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
