@@ -85,6 +85,7 @@ export default function Home() {
       <>
          <Head>
             <title>Leadership Training and Development Programs in India</title>
+            <link rel="canonical" href="https://byldgroup.com/blanchardindia" />
             <meta name="description" content="Explore Corporate Leadership Training Programs by Blanchard India. We offer strategic organizational leadership and management development programs. Enquire today!" />
             <script
                dangerouslySetInnerHTML={{
