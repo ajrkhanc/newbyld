@@ -8,6 +8,7 @@ export default function ExperientialLearning(){
         <>
           <Head>
             <title>Experiential Learning | Our Solutions | BYLD Group</title>
+            <link rel="canonical" href="https://byldgroup.com/our-solutions/experiential-learning" />
             <meta name="description" content="Experiential Learning helps in developing leadership skills by offering leadership development programs that promote self-learning and improvement. To know more, check out the page."/> 
           </Head>
             <div className="rs-services">
