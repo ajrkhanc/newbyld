@@ -6,6 +6,7 @@ export default function AwardsAccolades() {
         <>
             <Head>
                 <title>Awards & Accolades - BYLD Group</title>
+                <link rel="canonical" href="https://byldgroup.com/awards-accolades" />
                 <meta name="description" content="" />
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
