@@ -480,7 +480,7 @@ export default function Workshops() {
 
            
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -493,9 +493,9 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -508,7 +508,7 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             
             {/* <div className="col-sm-4">
@@ -526,7 +526,7 @@ export default function Workshops() {
               </div>
             </div> */}
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -539,9 +539,9 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -554,9 +554,9 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-             <div className="col-sm-4">
+             {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -569,7 +569,7 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
 
             
@@ -673,7 +673,7 @@ export default function Workshops() {
               </div>
             </div> */}
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -686,9 +686,9 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -701,7 +701,7 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
 {/*             
             <div className="col-sm-4">
@@ -765,7 +765,7 @@ export default function Workshops() {
 
            
 
-            <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -778,7 +778,7 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             <div className="col-sm-4">
               <div className="eventsbox">
@@ -869,6 +869,20 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   <h3>Self Leadership - Virtual</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span> April 23rd, 24th, 25th & 26th,2024 </span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -1138,47 +1152,47 @@ export default function Workshops() {
                             Crucial Life Changing Skills, Crucial Conversations
                             for Mastering Dialogue - December 14th - 15th, 2023
                           </option> */}
-                               <option value="DCA BAtch 43  - January 6th, 2024">
+                               {/* <option value="DCA BAtch 43  - January 6th, 2024">
                            DCA BAtch 43 -
                             January 6th, 2024
-                          </option>
-                          <option value="DCA BAtch 43  - January 6th, 2024">
+                          </option> */}
+                          {/* <option value="DCA BAtch 43  - January 6th, 2024">
                            The Power Of Habit -
                             January 11th, 2024
-                          </option>
+                          </option> */}
                          
-                          <option value="Crucial Conversations® For Mastering Dialogue Workshop - January 22nd-23rd, 2024">
+                          {/* <option value="Crucial Conversations® For Mastering Dialogue Workshop - January 22nd-23rd, 2024">
                           Crucial Conversations® For Mastering Dialogue Workshop -
                             January 22nd -23rd, 2024
-                          </option>
-                          <option value="DiSC Certification Virtual Workshop - 22nd, 23rd, 24th, 25th January, 2024">
+                          </option> */}
+                          {/* <option value="DiSC Certification Virtual Workshop - 22nd, 23rd, 24th, 25th January, 2024">
                           DiSC Certification Virtual Workshop -
                           22nd, 23rd, 24th, 25th January, 2024
-                          </option>
+                          </option> */}
 
                             
-                          <option value="Getting Things Done®Workshop - February 9th, 2024">
+                          {/* <option value="Getting Things Done®Workshop - February 9th, 2024">
                           Getting Things Done® Workshop -
                             February 9th, 2024
-                          </option>
-                          <option value="DiSC Certification In-Person Workshop - February 22nd & 23rd , 2024">
+                          </option> */}
+                          {/* <option value="DiSC Certification In-Person Workshop - February 22nd & 23rd , 2024">
                           DiSC Certification In-Person Workshop -
                             February 22nd & 23rd , 2024
-                          </option>
+                          </option> */}
                         
-                          <option value="DCA BAtch 43 - February 17th, 2024">
+                          {/* <option value="DCA BAtch 43 - February 17th, 2024">
                           DCA BAtch 43 - February
                             17th, 2024
-                          </option>
-                          <option value="Crucial Conversations for Accountability®- February 22nd-23rd, 2024">
+                          </option> */}
+                          {/* <option value="Crucial Conversations for Accountability®- February 22nd-23rd, 2024">
                           Crucial Conversations for Accountability®
                           February 22nd - 23rd, 2024
-                          </option>
+                          </option> */}
                         
-                          <option value="Crucial Influence - March 7th, 2024">
+                          {/* <option value="Crucial Influence - March 7th, 2024">
                           Crucial Influence -
                             March 7th, 2024
-                          </option>
+                          </option> */}
                          
                           <option value="Trapologist at Work® - March 18th, 2024">
                           Trapologist at Work® -
@@ -1191,34 +1205,34 @@ export default function Workshops() {
 
                           {/* ------ */}
 
-                          <option value="SLII™ - Virtual -
+                          {/* <option value="SLII™ - Virtual -
                           January 12th & 13th, 2024">
                           SLII™ - Virtual -
                           January 12th & 13th, 2024
-                          </option>
+                          </option> */}
 
-                          <option value="SLII™ T4T F2F - January 19th & 20th, 2024">
+                          {/* <option value="SLII™ T4T F2F - January 19th & 20th, 2024">
                           SLII™ T4T F2F - January 19th & 20th, 2024
-                          </option>
+                          </option> */}
 
-                          <option value="|Self Leadership - Virtual -
+                          {/* <option value="|Self Leadership - Virtual -
                           February 1, 2024">
                           Self Leadership - Virtual -
                           February 1st, 2024
-                          </option>
+                          </option> */}
 
-                          <option value="Conversational Capacity - Virtual -
+                          {/* <option value="Conversational Capacity - Virtual -
                           February 10, 2024">
                           Conversational Capacity - Virtual -
                           February 10th, 2024
-                          </option>
+                          </option> */}
 
-
+{/* 
                           <option value=" Fearless Innovation -
                           February 22, 2024">
                           Fearless Innovation -
                           February 22nd, 2024
-                          </option>
+                          </option> */}
 
                           <option value="SLII™ - Virtual -
                           March 13th & 14 th, 2024">
@@ -1248,6 +1262,10 @@ export default function Workshops() {
                           April 18th & 19th, 2024">
                           Self Leadership - Virtual -
                           April 18th & 19th, 2024
+                          </option>
+
+                          <option value="DiSC Certification Virtual Workshop April 23rd, 24th, 25th & 26th,2024 ">
+                          DiSC Certification Virtual Workshop April 23rd, 24th, 25th & 26th,2024 
                           </option>
 
                           <option value="SLII™ - Virtual -
