@@ -12,6 +12,7 @@ export default function Books(){
         <>
           <Head>
             <title>Books - BYLD Group</title>
+            <link rel="canonical" href="https://byldgroup.com/books" />
             <meta name="description" content="Explore Our Library Crucial Conversations First Chapter Crucial Accountability First Chapter Influencer First Chapter The Power of Habit Book Online Management and Leadership Resources Measuring the Impact and ROI of Leadership Training 7 Ways Poor Leaders Are Costing Your Company Money 3 Fatal Mistakes Managers Make When Coaching Their Teams When It Comes to Customer… Continue reading Books"/> 
           </Head>
             
