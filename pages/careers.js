@@ -92,6 +92,7 @@ export default function Home() {
 
             <Head>
                 <title>Careers | BYLD Group</title>
+                <link rel="canonical" href="https://byldgroup.com/contact-us" />
                 <meta name="description" content="Willing to know about our E-learning portal? You can find various options for In house training as well. Connect today to know about it and also get to know about the Train The Trainer training for organizational development." />
                 <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
                 <script
