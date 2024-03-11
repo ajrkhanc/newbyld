@@ -12,6 +12,7 @@ export default function Books(){
         <>
           <Head>
             <title>White Paper - BYLD Group</title>
+            <link rel="canonical" href="https://byldgroup.com/white-paper" />
             <meta name="description" content="White Paper"/> 
           </Head>
             
