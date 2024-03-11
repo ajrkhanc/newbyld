@@ -6,6 +6,7 @@ export default function ThanYouLP() {
         <>
             <Head>
                 <title>Teams | Blanchard International</title>
+                <link rel="canonical" href="https://byldgroup.com/blanchardindia/who-we-help/teams" />
                 <meta name="description" content="How Blanchard’s training and resources can help team leaders and high-performance team members learn the skills to meet their business goals, together." />
                 <link rel="icon" href="/blanchardindia/favicon.ico" />
             </Head>
