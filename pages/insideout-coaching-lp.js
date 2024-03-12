@@ -235,8 +235,8 @@ export default function CoachCertificationLP(){
                                 <h3>Time: 4:00 AM 5:00 PM</h3>
                                 <a className="eventbtn" href='#REGISTER'>REGISTER NOW</a>
                             </div>
-                        </div> */}
-                    </div>
+                        </div> 
+                    </div> */}
 
                 </div>
             </div>
