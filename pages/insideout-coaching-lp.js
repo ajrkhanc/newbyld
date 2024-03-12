@@ -191,8 +191,10 @@ export default function CoachCertificationLP(){
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
                                 <span>20th March, 2024</span>
-                                <br>
-                                <p>Manager as Coach Open Workshop</p>
+                                  <div>
+                                    <p>Manager as Coach Open Workshop</p>
+                                    </div>
+                                
                             </div>
                             <div className='eventbottom'>
                                 <h3>Time:9:30 AM to 4:30 PM</h3>
