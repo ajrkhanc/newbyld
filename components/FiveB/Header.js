@@ -67,9 +67,14 @@ export default function Header() {
                                                         <li><a href="/fivebehaviors/the-five-behaviors-for-virtual-teams">The Five Behaviors for Virtual Teams</a></li>
                                                     </ul>
                                                 </li>
-                                                <li>
-                                                    <a href="/fivebehaviors/blog">Blog</a>
-                                                </li>
+                                               <li className="menu-item-has-children">
+                                                    <a href="#">RESOURCES</a>
+                                                    <ul className="sub-menu">
+                                                        <li><a href="/fivebehaviors/blog">Blog</a></li>
+                                                        <li><a href="/fivebehaviors/SuccessStory">Success Story</a></li>
+                                                     
+                                                    </ul>
+                                                </li>       
                                                 <li>
                                                     <a href="/fivebehaviors/contact-us">Contact Us</a>
                                                 </li>
