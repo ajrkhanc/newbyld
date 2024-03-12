@@ -196,7 +196,7 @@ export default function CoachCertificationLP(){
                             </div>
                             <div className='eventbottom'>
                                     <div>
-                                    <p>Manager as Coach Open Workshop</p>
+                                    <h6>Manager as Coach Open Workshop</h6>
                                     </div>
                                 <h3>Time:9:30 AM to 4:30 PM</h3>
                                 <a className="eventbtn" href='#REGISTER'>REGISTER NOW</a>
