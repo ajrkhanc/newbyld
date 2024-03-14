@@ -152,7 +152,7 @@ export default function CoachCertificationLP(){
                                         <div className="col-sm-6 mb-12">
                                             <select name="slot" required>
                                                 <option value="">Interested In*</option>                                                
-                                                <option value="21th March, 2024">21th March, 2024</option>
+                                                <option value="21st March, 2024">21th March, 2024</option>
                                                  {/* <option value="12th October 2023">12th October 2023</option> */}
                                                  {/* <option value="7th December 2023">7th December 2023</option> */}
                                                  {/* <option value="27th December 2023">27th December 2023</option> */}
@@ -190,7 +190,7 @@ export default function CoachCertificationLP(){
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
-                                <span>21th March, 2024</span>
+                                <span>21st March, 2024</span>
                                  
                                 
                             </div>
