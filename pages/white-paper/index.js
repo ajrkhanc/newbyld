@@ -12,7 +12,6 @@ export default function Books(){
         <>
           <Head>
             <title>White Paper - BYLD Group</title>
-            <link rel="canonical" href="https://byldgroup.com/white-paper" />
             <meta name="description" content="White Paper"/> 
           </Head>
             
@@ -28,7 +27,26 @@ export default function Books(){
                             </div>
                         </div>
 
-                        <div className="col-sm-4">
+                        <div className="col-sm-4 mb-10">
+                           <div className="innervideoshd ebookst text-center">
+                               <a href='/white-paper/empower-your-dealer-sales-teams-for-the-ev-revolution'>
+                               <img src='/assets/img/white-paper/wp_AmarWhiteprImg.webp' alt="books"/>
+                               <h4 className=''>Empower Your Dealer Sales Teams For The Ev Revolution</h4>
+                               <h3 className='ebookbtn'>Read White Paper</h3>
+                               </a>
+                            </div>
+                        </div>
+                        <div className="col-sm-4 mb-10">
+                           <div className="innervideoshd ebookst text-center">
+                               <a href='/white-paper/total-cost-of-ownership-(tco)-analysis'>
+                               <img src='/assets/img/white-paper/v1_totalImg.webp' alt="books"/>
+                               <h4 className=''>Total cost of Ownership (tco) Analysis</h4>
+                               <h3 className='ebookbtn'>Read White Paper</h3>
+                               </a>
+                            </div>
+                        </div>
+
+                        <div className="col-sm-4 mb-10">
                            <div className="innervideoshd ebookst text-center">
                                <a href='/white-paper/creating-agile-leadership-teams'>
                                <img src='/assets/img/white-paper/creating-agile-leadership-teams.jpg' alt="books"/>
@@ -38,7 +56,7 @@ export default function Books(){
                             </div>
                         </div>
                         
-                        <div className="col-sm-4">
+                        <div className="col-sm-4 mb-10">
                            <div className="innervideoshd ebookst text-center">
                                <a href='/white-paper/what-it-means-to-be-an-ambidextrous-innovation-leader'>
                                <img src='/assets/img/white-paper/what-it-means-to-be-an-ambidextrous-innovation-leader.jpg' alt="books"/>
@@ -48,7 +66,7 @@ export default function Books(){
                             </div>
                         </div>
 
-                        <div className="col-sm-4">
+                        <div className="col-sm-4 mb-10">
                            <div className="innervideoshd ebookst text-center">
                                <a href='/white-paper/alignment-through-purpose-driven-innovation'>
                                <img src='/assets/img/white-paper/alignment-through-purpose-driven-innovation.jpg' alt="books"/>
