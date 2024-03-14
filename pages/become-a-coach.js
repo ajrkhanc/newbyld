@@ -906,6 +906,7 @@ export default function Home({ country }) {
         var designation = event.target.designation.value;
         var slot = event.target.slot.value;
         var emailslot = event.target.emailslot.value;
+        var location = event.target.location.value;
         var Business_Entity = event.target.Business_Entity.value;
 
         event.preventDefault()
@@ -938,6 +939,7 @@ export default function Home({ country }) {
             "&leadsquared-JobTitle=" + designation +
             "&slot=" + slot +
             "&emailslot=" + emailslot +
+            "&location=" + location +
             "&leadsquared-mx_Business_Entity=" + Business_Entity)
     }
 
