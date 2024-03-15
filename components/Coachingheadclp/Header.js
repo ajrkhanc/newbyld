@@ -120,7 +120,7 @@ export default function Header() {
                                                             <li className="last-item menu-item-has-children">
                                                                 <a href="/our-solutions/staffing">Staffing & Search</a>
                                                                 <ul className="sub-menu">
-                                                                    <li><a target="_blank" href="https://www.yomabusinesssolutions.com/">YOMA Business Solutions</a> </li>
+                                                                    <li><a target="_blank" href="https://yomabusinesssolutions.com/">YOMA Business Solutions</a> </li>
                                                                     <li className=''><a target="_blank" href="https://www.yomatechnologies.in/">YOMA Technologies</a></li>
                                                                 </ul>
                                                             </li>
@@ -313,7 +313,7 @@ export default function Header() {
                                     <li className="last-item menu-item-has-children">
                                         <a href="/our-solutions/staffing">Staffing & Search</a>
                                         <ul className="sub-menu">
-                                            <li><a target="_blank" href="https://www.yomabusinesssolutions.com/">YOMA Business Solutions</a> </li>
+                                            <li><a target="_blank" href="https://yomabusinesssolutions.com/">YOMA Business Solutions</a> </li>
                                             <li className=''><a target="_blank" href="https://www.yomatechnologies.in/">YOMA Technologies</a></li>
                                         </ul>
                                     </li>
