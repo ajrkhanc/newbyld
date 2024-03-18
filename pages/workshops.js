@@ -780,7 +780,7 @@ export default function Workshops() {
               </div>
             </div> */}
 
-            <div className="col-sm-4">
+          {/*   <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -793,7 +793,7 @@ export default function Workshops() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div>*/}
 
             
             {/* <div className="col-sm-4">
@@ -1234,11 +1234,11 @@ export default function Workshops() {
                           February 22nd, 2024
                           </option> */}
 
-                          <option value="SLII™ - Virtual -
+                         {/*  <option value="SLII™ - Virtual -
                           March 13th & 14 th, 2024">
                           SLII™ - Virtual -
                           March 13th & 14th, 2024
-                          </option>
+                          </option>*/}
 
                           <option value="SLII™ T4T F2F -
                           March 21st & 22nd, 2024">
