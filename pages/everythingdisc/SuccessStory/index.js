@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import React, { useState } from 'react';
 import { Modal, ModalHeader, ModalBody } from 'reactstrap';
+import StoryONe from './StoryONe';
 
 export default function Story() {
     const [modal, setModal] = useState(false);
@@ -68,6 +69,9 @@ export default function Story() {
                                 <h3 className='booktitlerow1' onClick={toggle} style={{ cursor: 'pointer' }}>Download</h3>
                             </div>
                         </div>
+                        <div className="col-sm-4">
+                            <StoryONe />
+                        </div>
 
                         <Modal className='modal-dialog-centered' isOpen={modal} toggle={toggle}>
                             <ModalHeader toggle={toggle}>Success Story</ModalHeader>
@@ -110,6 +114,7 @@ export default function Story() {
                                 </div>
                             </ModalBody>
                         </Modal>
+
                     </div>
                 </div>
             </div>
