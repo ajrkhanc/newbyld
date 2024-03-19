@@ -72,7 +72,7 @@ export default function Header() {
                                                     <ul className="sub-menu">
                                                         <li><a href="/fivebehaviors/blog">Blog</a></li>
                                                         <li><a href="/fivebehaviors/SuccessStory">Success Story</a></li>
-                                                        <li><a href="#">Research Reports</a></li>
+                                                        <li><a href="/fivebehaviors/research-reports">Research Reports</a></li>
                                                      
                                                     </ul>
                                                 </li>       
