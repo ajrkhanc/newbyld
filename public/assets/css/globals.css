@@ -4769,4 +4769,62 @@ text-align: center;
   color: #fff;
 }
 
+.join55 {
+  background: url(/assets/img/banner/img99.png);
+  background-position: center center;
+  background-size: cover;
+  object-fit: fill;
+  height: 450px;
+  background-repeat: no-repeat;
+}
+
+.BossBtn{
+  margin-top: 242px;
+} 
+
+@media (max-width:768px){
+  .join55 {
+    background: url(/assets/img/banner/img99.png);
+    background-position: left;
+    background-size: cover;
+    object-fit: fill;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+/* .BossBtn {
+  margin-top: 90px;
+  margin-left: 104px;
+  padding: 14px;
+} */
+
+
+
+}
+
+
+@media (max-width:360px){
+  .BossBtn {
+    margin-top: 0;
+}
+
+.BossBtn {
+  margin-top: 0;
+  position: relative;
+  left: 234px;
+  top: 39px;
+}
+
+.BossBtn a {
+  background: #3373ae;
+  color: #fff !important;
+  border: 0px !important;
+  border-radius: 25px;
+  padding: 8px 12px;
+  transition: background-color 0.4s ease-out 100ms;
+  font-size: 12px;
+}
+
+}
+
+
 
