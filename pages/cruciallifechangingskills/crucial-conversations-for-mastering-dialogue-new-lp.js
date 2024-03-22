@@ -237,9 +237,9 @@ export default function BrowseCourses() {
                       Crucial Conversations for Mastering Dialogue - February
                       28th - 29th, 2024
                     </option>*/}
-                    <option value="Crucial Conversations for Mastering Dialogue -  8th March, 2024">
+                    {/* <option value="Crucial Conversations for Mastering Dialogue -  8th March, 2024">
                       Crucial Conversations for Mastering Dialogue - 8th March, 2024
-                    </option>
+                    </option>*/}
                        <option value="Crucial Conversations for Mastering Dialogue - 18th & 19th April">
                       Crucial Conversations for Mastering Dialogue - 18th & 19th April
                     </option>
@@ -432,7 +432,7 @@ export default function BrowseCourses() {
                 </div>
               </div>
             </div> */}
-            <div class="col-md-4 workshop-col">
+             {/*<div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content">
                   <img
@@ -458,7 +458,7 @@ export default function BrowseCourses() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div>*/}
             <div class="col-md-4 workshop-col">
               <div class="row workshop-row">
                 <div class="col-md-12 workshop-content">
