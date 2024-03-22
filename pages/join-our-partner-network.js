@@ -44,30 +44,40 @@ export default function JoinOurPartnerNetworkLP() {
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
-            <section className='jopn1 ptt-50 pbb-50 joinfont positionrelative'>
+            <section className='join55 jopn1 ptt-50 pbb-50 joinfont positionrelative'>
                 <div className='container'>
                     <div className='row align-items-center zindx'>
-                        <div className='col-sm-6'>
+                        <div className='col-sm-6 '>
+                            <div className='BossBtn'>
+                                {/* <h1>Become a BYLD Partner</h1>
+                                <p>Join our Partner Community for Lucrative <br></br>Business Opportunities!</p> */}
+                                <a href='https://us06web.zoom.us/meeting/register/tZEqcu-ppzsrH9eU9m-CWelLlBXNVTL3fJ-i#/registration'>Be Your Own Boss</a>
+                            </div>
+                        </div>
+                        {/* <div className='col-sm-6'>
+                            <div>
+                                <img src="/assets/img/img3.png" />
+                            </div>
+                        </div> */}
+                        {/* <div className='col-sm-6'>
                             <div>
                                 <h1>Become a BYLD Partner</h1>
                                 <p>Join our Partner Community for Lucrative <br></br>Business Opportunities!</p>
                                 <a href='#GetinTouch'>Be Your Own Boss</a>
                             </div>
-                        </div>
-                        <div className='col-sm-6'>
-                            <div>
-                                <img src="/assets/img/img3.png" />
-                            </div>
-                        </div>
+                        </div> */}
+                        {/* <div className='BossBtn'>
+                        <a href='#GetinTouch'>Be Your Own Boss</a>
+                        </div> */}
                     </div>
 
                     <div className='clearfix'></div>
-                    <div className='solutionarrowbox1'>
-                        <img src="/assets/img/homeb/orangearrow.png" />
-                    </div>
-                    <div className='solutionarrowbox2'>
+                    {/* <div className='solutionarrowbox1'>
+                        <img src="/assets/img/homeb/img99.png" />
+                    </div> */}
+                    {/* <div className='solutionarrowbox2'>
                         <img src="/assets/img/homeb/bluearrow1.png" />
-                    </div>
+                    </div> */}
                 </div>
             </section>
 
