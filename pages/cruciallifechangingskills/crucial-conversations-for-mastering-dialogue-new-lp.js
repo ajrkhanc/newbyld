@@ -240,6 +240,9 @@ export default function BrowseCourses() {
                     <option value="Crucial Conversations for Mastering Dialogue -  8th March, 2024">
                       Crucial Conversations for Mastering Dialogue - 8th March, 2024
                     </option>
+                       <option value="Crucial Conversations for Mastering Dialogue - 18th & 19th April">
+                      Crucial Conversations for Mastering Dialogue - 18th & 19th April
+                    </option>
                     
                   </select>
                 </div>
