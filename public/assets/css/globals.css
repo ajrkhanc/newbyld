@@ -4801,6 +4801,17 @@ text-align: center;
 
 
 }
+
+@media (max-width:500px){
+.BossBtn {
+  margin-top: 0;
+  position: relative;
+  left: 234px;
+  top: 39px;
+}
+
+	
+}
 @media (min-width:1500px){
 	.BossBtn {
     margin-top: 396px;
