@@ -4801,7 +4801,17 @@ text-align: center;
 
 
 }
-
+@media (min-width:1500px){
+	.BossBtn {
+    margin-top: 396px;
+    right: 154px;
+    position: relative;
+}
+	.join55 {
+ 
+    height: 618px;
+}
+}
 
 @media (max-width:360px){
   .BossBtn {
