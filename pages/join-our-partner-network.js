@@ -44,7 +44,7 @@ export default function JoinOurPartnerNetworkLP() {
                 <link rel="stylesheet" type="text/css" href="/assets/css/homemodule.css" />
             </Head>
 
-            <section className='join55 jopn1 ptt-50 pbb-50 joinfont positionrelative'>
+            <section className='join55 jopn1 pbb-50 joinfont positionrelative'>
                 <div className='container'>
                     <div className='row align-items-center zindx'>
                         <div className='col-sm-6 '>
