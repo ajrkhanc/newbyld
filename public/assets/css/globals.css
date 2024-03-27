@@ -4772,10 +4772,9 @@ text-align: center;
 .join55 {
   background: url(/assets/img/banner/img99.png);
   background-position: center center;
-  background-size: cover;
+  background-size: 100% 100%;
   object-fit: fill;
-  height: 450px;
-  background-repeat: no-repeat;
+	 background-repeat: no-repeat;
 }
 
 .BossBtn{
