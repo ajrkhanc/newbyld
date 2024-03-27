@@ -4775,10 +4775,12 @@ text-align: center;
   background-size: 100% 100%;
   object-fit: fill;
 	 background-repeat: no-repeat;
+	    height: 500px;
+
 }
 
 .BossBtn{
-  margin-top: 242px;
+     margin-top: 317px;
 } 
 
 @media (max-width:768px){
