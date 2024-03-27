@@ -51,7 +51,7 @@ export default function JoinOurPartnerNetworkLP() {
                             <div className='BossBtn'>
                                 {/* <h1>Become a BYLD Partner</h1>
                                 <p>Join our Partner Community for Lucrative <br></br>Business Opportunities!</p> */}
-                                <a href='https://us06web.zoom.us/meeting/register/tZEqcu-ppzsrH9eU9m-CWelLlBXNVTL3fJ-i#/registration'>Be Your Own Boss</a>
+                                <a href='https://us06web.zoom.us/meeting/register/tZEqcu-ppzsrH9eU9m-CWelLlBXNVTL3fJ-i#/registration'>Register Now</a>
                             </div>
                         </div>
                         {/* <div className='col-sm-6'>
@@ -63,7 +63,7 @@ export default function JoinOurPartnerNetworkLP() {
                             <div>
                                 <h1>Become a BYLD Partner</h1>
                                 <p>Join our Partner Community for Lucrative <br></br>Business Opportunities!</p>
-                                <a href='#GetinTouch'>Be Your Own Boss</a>
+                                <a href='#GetinTouch'>Register Now</a>
                             </div>
                         </div> */}
                         {/* <div className='BossBtn'>
