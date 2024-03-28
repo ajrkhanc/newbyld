@@ -80,7 +80,51 @@ export default function JoinOurPartnerNetworkLP() {
                     </div> */}
                 </div>
             </section>
+            <section className='ptt-60 pbb-60 positionrelative'>
+                <div className='container'>
+                <div className='row mb--10'>
+                    <div className='col-sm-12'>
+                        <div class="sec-title3 text-center mb-30">
+                            <h2 class="title color2 ncc">Our Upcoming Events</h2>
+                            <div class="heading-border-line center-style"></div>
+                        </div>
+                    </div>
+                </div>
+                    <div className='row zindx'>
 
+
+                         <div className='col-lg-12 col-md-6'>
+                            <div className='eventsbox1'>
+                                <div className='eventmiddle1'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Event 30th April 2024</span>
+                                </div>
+                                <div className='eventbottom1 mb-100'>
+                                    <h4 className="eventtitlec">Time: 12:00 PM - 1:00 PM</h4>
+                                    <h3 className=''>Why Data Integrity problems in Pharma and Healthcare Sectors are leadership and accountability issues?</h3>
+                                    <h4 className="eventtitlec1">Speaker- MR. Sandeep Budhiraja</h4>
+
+                                    <a className="eventbtn" href='#GetinTouch'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+                    </div>
+                    <div className='clearfix'></div>
+                    <div className='solutionarrowbox1'>
+                        <img src="/assets/img/homeb/orangearrow.png" />
+                    </div>
+                    <div className='solutionarrowbox2'>
+                        <img src="/assets/img/homeb/bluearrow1.png" />
+                    </div>
+                </div>
+            </section>
             <section className='join2 ptt-50 pbb-50 joinfont'>
                 <div className='container'>
                     <div className='row'>
@@ -110,6 +154,8 @@ export default function JoinOurPartnerNetworkLP() {
                     </div>
                 </div>
             </section>
+       
+
 
             <section id='GetinTouch' className='jopn1 ptt-50 pbb-50 jooo5 joinfont homecon positionrelative'>
                 <div className='container'>
@@ -166,7 +212,7 @@ export default function JoinOurPartnerNetworkLP() {
                                             <div className="col-lg-12 mb-12">
                                                 <select name="intrestedin" required>
                                                     <option value="">Pick up any Slot*</option>                                                    
-                                                    
+                                                    <option value="Event – 30th April 2024">Event – 30th April 2024</option> 
                                                 </select>
                                             </div>
 
