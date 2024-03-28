@@ -4848,7 +4848,10 @@ text-align: center;
   padding: 14px;
 } */
 
-
+.eventsbox1 {
+ 
+  flex-direction: column;
+}
 
 }
 
@@ -4858,11 +4861,6 @@ text-align: center;
   position: relative;
   left: 234px;
   top: 39px;
-}
-
-	.eventsbox1 {
-   
-    flex-direction: column;
 }
 
 	
@@ -4887,7 +4885,7 @@ text-align: center;
 .BossBtn {
   margin-top: 0;
   position: relative;
-  left: 234px;
+  left: 211px;
   top: 39px;
 }
 
@@ -4899,6 +4897,16 @@ text-align: center;
   padding: 8px 12px;
   transition: background-color 0.4s ease-out 100ms;
   font-size: 12px;
+}
+
+.join55 {
+  background: url(/assets/img/banner/img99.png);
+  background-position: left;
+  background-size: cover;
+  object-fit: fill;
+  height: 100%;
+  background-repeat: no-repeat;
+  padding: 45px;
 }
 
 }
