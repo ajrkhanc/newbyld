@@ -292,7 +292,7 @@ export default function Workshops(){
                        </div>
                     </div> */}
 
-                    {/* <div class="col-md-4 workshop-col"> 
+                 <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
@@ -301,12 +301,12 @@ export default function Workshops(){
                             </div>
                             <h5 className='eventt'>Workshop</h5>
                              <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> December 14th - 15th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>18th & 19th April ,2024</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 9:00 AM - 5:30 PM</h6>
                             <a href='#registered'><button class="register">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div> */}
+                    </div> 
                           {/* <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content green-col">
@@ -322,7 +322,7 @@ export default function Workshops(){
                                 </div>
                             </div>
                         </div> */}
-                    {/* <div class="col-md-4 workshop-col"> 
+                    <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content gtdcolor"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
@@ -330,12 +330,12 @@ export default function Workshops(){
                             </div>
                             <h5 className='eventt'>Workshop</h5>
                              <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> January 11th, 2024</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> 18th April</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 9:00 AM - 5:30 PM </h6>
                             <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div> */}
+                    </div> 
 
                     {/* <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
@@ -467,7 +467,7 @@ export default function Workshops(){
                             </div>
                        </div>
                     </div> */}
-                    <div class="col-md-4 workshop-col"> 
+                  {/*   <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content gtdcolor"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
@@ -480,7 +480,7 @@ export default function Workshops(){
                             <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div>
+                    </div> */}
 
 
 
@@ -562,16 +562,12 @@ export default function Workshops(){
                                     <div class="col-md-6 col-6">                                        
                                         <select name='slot' required>
                                             <option value="">Pick any Slot*</option>
-                                            <option value="Influencer - December 14th - 15th, 2023">Influencer - December 14th - 15th, 2023</option> 
-                                            <option value="The Power of Habit - January 11th, 2024">The Power of Habit - January 11th, 2024</option>
-                                            <option value="Getting Things Done - January 11th, 2023">Getting Things Done - January 11th, 2023</option>
-                                            <option value="Crucial Conversations for Mastering Dialogue - February 22nd - 23rd, 2024">Crucial Conversations for Mastering Dialogue - January 22th - 23rd, 2024</option>                                            
-                                            <option value="Getting Things Done - February 9th , 2024">Getting Things Done - February 9th, 2024</option>
-                                            <option value="Crucial Conversations for Accountability - February 22th - 23th, 2024">Crucial Conversations for Accountability - February 22th - 23th, 2024</option>     
-                                            <option value="Crucial Conversations for Accountability - February 28th - 29th, 2024">Crucial Conversations for Mastering Dialogue - February 28th - 29th, 2024</option>                                            
-                                            <option value="Influencer - March 7th, 2024">INFLUENCER - March 7th, 2024</option>
-                                            <option value="The Power of Habit - March 14th, 2024">The Power of Habit - March 14th, 2024</option>
-
+                                              <option value="Crucial Conversations for Mastering Dialogue - 18th & 19th April , 2024">Crucial Conversations for Mastering Dialogue - 18th & 19th April 2024</option>                                            
+                                           
+                                               <option value="Getting Things Done - 18th April , 2024">Getting Things Done - 18th April , 2024</option>                                            
+                                           
+                                            
+                                           
                                            
                                         </select>
                                     </div>
