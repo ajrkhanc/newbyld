@@ -2,7 +2,7 @@ import Head from 'next/head';
 import React, { useState } from 'react';
 import { Modal, ModalHeader, ModalBody } from 'reactstrap';
 import StoryONe from './StoryONe';
-
+import StoryTwo from './StoryTwo';
 export default function Story() {
     const [modal, setModal] = useState(false);
 
@@ -71,6 +71,9 @@ export default function Story() {
                         </div>
                         <div className="col-sm-4">
                             <StoryONe />
+                        </div>
+                      <div className="col-sm-4">
+                            <StoryTwo />
                         </div>
 
                         <Modal className='modal-dialog-centered' isOpen={modal} toggle={toggle}>
