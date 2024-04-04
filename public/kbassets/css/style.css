@@ -7815,15 +7815,15 @@ img {
     height: 40px;
     line-height: 42px;
     text-align: center;
-    color: #008065;
-    border: 1px solid #008065;
+    color: #E55300;
+    border: 1px solid #E55300;
     font-size: 20px;
     border-radius: 5px;
 }
 
 .footer-widget .social-link-content .social-footer-link li a:hover {
-    background-color: #008065;
-    border-color: #008065;
+    background-color: #E55300;
+    border-color: #E55300;
     color: #fff;
 }
 
