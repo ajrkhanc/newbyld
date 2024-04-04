@@ -411,13 +411,7 @@
         format: "multitoggle"
         });
     });
-	 $(document).ready(function() {
-        // Select all anchor tags and add rel="noopener"
-        $('a').attr({
-            'rel': 'noopener',
-            'target': '_blank'
-          });
-      });
+	
 
 $(document).ready(function(){
     // Select all img tags and set alt attribute dynamically
