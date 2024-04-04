@@ -76,7 +76,7 @@ function Footer() {
                               <li>
                                  <a href="https://twitter.com/blanchard_india" target="_blank">
                                  {/*  <i className='bx bxl-twitter'></i> */}
-                                     <i className='bx prime--twitter'>&#xF8DB;</i>
+                                     <i className=''>&#xF8DB;</i>
                                  </a>
                               </li>
                               <li>
