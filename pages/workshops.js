@@ -10,7 +10,7 @@ export default function Workshops() {
     };
     xhttp.open(
       "Post",
-      "https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/17/feedback"
+      "https://byldgroup.in/byldgroup/wp-json/contact-form-7/v1/contact-forms/17/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
