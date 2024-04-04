@@ -11,7 +11,7 @@ export default function BrowseCourses() {
     };
     xhttp.open(
       "Post",
-      "https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/21/feedback"
+      "https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/21/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
