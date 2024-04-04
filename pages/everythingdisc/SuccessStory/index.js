@@ -12,7 +12,7 @@ export default function Story() {
         event.preventDefault();
 
         try {
-            const response = await fetch('https://ajrkhan.xyz/everythingdisc/wp-json/contact-form-7/v1/contact-forms/5/feedback', {
+            const response = await fetch('https://byldgroup.in/everythingdisc/wp-json/contact-form-7/v1/contact-forms/5/feedback', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/x-www-form-urlencoded'
