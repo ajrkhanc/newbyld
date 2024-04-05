@@ -11,7 +11,7 @@ export default function HybridWorkplaces() {
       xhttp.onload = function () {
          // console.log(this.responseText.status);
       }
-      xhttp.open("Post", 'https://bmelectrician.com/blanchard/wp-json/contact-form-7/v1/contact-forms/29822/feedback');
+      xhttp.open("Post", 'https://byldgroup.com/blanchardindia/podcast/how-to-design-training-for-how-people-learn-with-julie-dirksen');
       xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
       xhttp.onreadystatechange = function () {
          if (xhttp.readyState == 4) {
