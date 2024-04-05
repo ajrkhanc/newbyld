@@ -11,7 +11,7 @@ export default function VirtualPublicWorkshop() {
       xhttp.onload = function () {
          // console.log(this.responseText.status);
       }
-      xhttp.open("Post", 'https://ajrkhan.xyz/blanchardinternational/wp-json/contact-form-7/v1/contact-forms/10/feedback');
+      xhttp.open("Post", 'https://byldgroup.in/blanchardinternational/wp-json/contact-form-7/v1/contact-forms/10/feedback');
       xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
       xhttp.onreadystatechange = function () {
          if (xhttp.readyState == 4) {
@@ -122,8 +122,8 @@ export default function VirtualPublicWorkshop() {
                                        <option value="Blanchard Management Essentials - Virtual - March 21st, 2024">Blanchard Management Essentials - Virtual - March 21st, 2024</option>
                                        <option value="SLII™ - April 4th, 2024">SLII™ - April 4th, 2024</option>
                                        <option value="Self Leadership - Virtual - April 18th - 19th, 2024">Self Leadership - Virtual - April 18th -19th, 2024</option>
-                                       <option value="SLII™ - Virtual - May 8th - 9th, 2024">SLII™ - Virtual - May 8th - 9th, 2024</option>
-                                       <option value="SLII™ T4T F2F - May 16th - 17th, 2024">SLII™ T4T F2F - May 16th -17th, 2024</option>
+                                       <option value="SLII™ - Virtual - May 7th - 8th, 2024">SLII™ - Virtual - May 7th - 8th, 2024</option>
+                                       <option value="SLII™ T4T F2F - May 9th - 10th, 2024">SLII™ T4T F2F - May 9th -10th, 2024</option>
                                        <option value="Essential Motivators - F2F - June 6th, 2024">Essential Motivators - F2F - June 6th, 2024</option>
                                        <option value="Leading People Through Change - June 13th, 2024">Leading People Through Change - June 13th, 2024</option>
 
