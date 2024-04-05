@@ -322,7 +322,7 @@ export default function Workshops(){
                                 </div>
                             </div>
                         </div> */}
-                    <div class="col-md-4 workshop-col"> 
+                    {/*  <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content gtdcolor"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
@@ -335,7 +335,7 @@ export default function Workshops(){
                             <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div> 
+                    </div> */}
 
                     {/* <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
@@ -564,7 +564,7 @@ export default function Workshops(){
                                             <option value="">Pick any Slot*</option>
                                               <option value="Crucial Conversations for Mastering Dialogue - 18th & 19th April , 2024">Crucial Conversations for Mastering Dialogue - 18th & 19th April 2024</option>                                            
                                            
-                                               <option value="Getting Things Done - 18th April , 2024">Getting Things Done - 18th April , 2024</option>                                            
+                                              {/*     <option value="Getting Things Done - 18th April , 2024">Getting Things Done - 18th April , 2024</option>   */}                                         
                                            
                                             
                                            
