@@ -98,7 +98,7 @@ export default function Home() {
     };
     xhttp.open(
       "Post",
-      "https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/5/feedback"
+      "https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/5/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
@@ -143,7 +143,7 @@ export default function Home() {
     };
     xhttp.open(
       "Post",
-      "https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
+      "https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
@@ -185,7 +185,7 @@ export default function Home() {
     };
     xhttp.open(
       "Post",
-      "https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
+      "https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
@@ -227,7 +227,7 @@ export default function Home() {
     };
     xhttp.open(
       "Post",
-      "https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
+      "https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
@@ -269,7 +269,7 @@ export default function Home() {
     };
     xhttp.open(
       "Post",
-      "https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
+      "https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
@@ -311,7 +311,7 @@ export default function Home() {
     };
     xhttp.open(
       "Post",
-      "https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
+      "https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/115/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
