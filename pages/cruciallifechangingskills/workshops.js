@@ -292,7 +292,7 @@ export default function Workshops(){
                        </div>
                     </div> */}
 
-                    <div class="col-md-4 workshop-col"> 
+                 <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
