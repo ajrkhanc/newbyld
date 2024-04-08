@@ -9,7 +9,7 @@ export default function Workshops(){
         xhttp.onload = function () {
             console.log(this.responseText);
         }
-        xhttp.open("Post", 'https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/14/feedback');
+        xhttp.open("Post", 'https://ajrkhan.xyz/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/14/feedback');
         xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
         xhttp.onreadystatechange = function () {
             if (xhttp.readyState == 4) {
@@ -292,7 +292,7 @@ export default function Workshops(){
                        </div>
                     </div> */}
 
-                 <div class="col-md-4 workshop-col"> 
+                    <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
