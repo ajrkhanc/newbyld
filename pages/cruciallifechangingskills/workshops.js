@@ -195,7 +195,7 @@ export default function Workshops(){
                             <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div>
+                    </div>*/}
 
                     <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
@@ -211,7 +211,7 @@ export default function Workshops(){
                             <a href='#registered'><button class="register">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div> */}
+                    </div> 
 
                     
                     {/* <div class="col-md-4 workshop-col">
