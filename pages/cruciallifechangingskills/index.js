@@ -97,8 +97,7 @@ export default function Home() {
       console.log(this.responseText);
     };
     xhttp.open(
-      "Post",
-      "https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/5/feedback"
+      "Post","https://byldgroup.in/cruciallifechangingskills/wp-json/contact-form-7/v1/contact-forms/5/feedback"
     );
     xhttp.setRequestHeader(
       "Content-Type",
