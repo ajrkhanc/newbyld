@@ -565,10 +565,10 @@ export default function Workshops(){
                                               <option value="Crucial Conversations for Mastering Dialogue - 18th & 19th April , 2024">Crucial Conversations for Mastering Dialogue - 18th & 19th April 2024</option>                                            
                                            
                                               <option value="Crucial Influence - 9th May , 2024">Crucial Influence - 9th May , 2024</option>  
-                                              <option value="Crucial conversation for Accountability  16th May, 2024">Crucial conversation for Accountability  16th May, 2024</option>    
+                                              {/* <option value="Crucial conversation for Accountability  16th May, 2024">Crucial conversation for Accountability  16th May, 2024</option>    
                                            
                                              <option value="Trapologist At work  31st May, 2024">Trapologist At work  31st May, 2024</option>    
-                                           
+                                            */}
                                            
                                            
                                         </select>
