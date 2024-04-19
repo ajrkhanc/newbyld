@@ -327,11 +327,12 @@ export default function Webinars() {
                                            <option value="Power of Habit- 25th April, 2024">Power of Habit- 25th April, 2024</option>
                                               {/* <option value="Getting Things Done - March 8th, 2024">Getting Things Done - March 8th, 2024</option>*/}
 
-                                               {/*<option value="Crucial Conversations for Accountability - January 30th, 2024">Crucial Conversations for Accountability - January 30th, 2024</option>  */}   
+                                                <option value="Crucial Conversations for Accountability - May 16th, 2024">Crucial Conversations for Accountability - May 16th, 2024</option>   
+       <option value="Trapologist At work - May 31st, 2024">Trapologist At work - May 31st, 2024</option>   
 
                                            <option value="Influencer - 10th April, 2024">Influencer - 10th April, 2024</option> 
                                              {/* <option value="Crucial Conversations for Mastering Dialogue - March 8th, 2024">Crucial Conversations for Mastering Dialogue - March 8th, 2024</option>    */}                                        
-
+                                       
                                     </select>
                                 </div>
                                 <div class="col-md-6 col-6">
