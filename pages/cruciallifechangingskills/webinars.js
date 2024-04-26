@@ -111,7 +111,7 @@ export default function Webinars() {
                             </div>
                        </div>
                     </div> 
-                    <div class="col-md-4 workshop-col"> 
+                    {/* <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content gtdcolor"> 
                             <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
@@ -124,7 +124,7 @@ export default function Webinars() {
                             <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
                             </div>
                        </div>
-                    </div> 
+                    </div>  */}
                        
                         <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
@@ -384,7 +384,7 @@ export default function Webinars() {
                                               {/* <option value="Getting Things Done - March 8th, 2024">Getting Things Done - March 8th, 2024</option>*/}
 
                                                <option value="Crucial Conversations for Accountability - 16th May, 2024">Crucial Conversations for Accountability - 16th May, 2024</option>    
-                                               <option value="Trapologist At work - 31th May, 2024">Trapologist At work - 31th May, 2024</option>  
+                                               {/* <option value="Trapologist At work - 31th May, 2024">Trapologist At work - 31th May, 2024</option>   */}
                                                <option value="Crucial Influence - 5th June, 2024">Crucial Influence - 5th June, 2024</option>   
                                            {/* <option value="Influencer - 10th April, 2024">Influencer - 10th April, 2024</option>  */}
                                              <option value="Crucial Conversations for Mastering Dialogue - 17th June, 2024">Crucial Conversations for Mastering Dialogue - 17th June, 2024</option>                                           
