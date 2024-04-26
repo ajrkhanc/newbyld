@@ -919,6 +919,34 @@ export default function Workshops() {
                 </div>
               </div>
             </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>May 16th & 17th , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification F2F Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>June 4th - 7th , 2024</span>
+                </div>
+                <div className="eventbottom">
+                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <a target="_blank" className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
 
             <div className="col-sm-4">
               <div className="eventsbox">
@@ -1297,8 +1325,16 @@ export default function Workshops() {
                           Building Trust -
                           June 20th, 2024
                           </option>
-
-                         
+                          <option value="DiSC Certification F2F Workshop -
+                          May 16th & 17th , 2024">
+                          DiSC Certification F2F Workshop -
+                          May 16th & 17th , 2024
+                          </option>
+                          <option value="DiSC Certification Virtual Workshop -
+                          June 4th & 7th , 2024">
+                          DiSC Certification Virtual Workshop -
+                          June 4th & 7th , 2024
+                          </option>
                          
                         </select>
                       </div>
