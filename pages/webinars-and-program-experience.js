@@ -250,6 +250,19 @@ export default function WebinarsAndProgramExperience() {
                         </div>
 
 
+                        <div className='col-sm-4'>
+                            <div className='eventsbox'>
+                                <div className='eventmiddle'>
+                                    <img src="/assets/img/events.jpg" alt="" />
+                                    <span>Webinar May 31st, 2024</span>
+                                </div>
+                                <div className='eventbottom'>
+                                    <h4 className="eventtitlec">Time: 3:00 PM - 4:00 PM</h4>
+                                    <h3>Trapologist at Work®</h3>
+                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                </div>
+                            </div>
+                        </div>
 
 
 
@@ -436,7 +449,7 @@ export default function WebinarsAndProgramExperience() {
                                                     <option value="Crucial Conversations® For Mastering Dialogue – March 8th, 2024">Crucial Conversations® For Mastering Dialogue – March 8th, 2024</option>
                                                     <option value="Getting Things Done® – March 14th, 2024">Getting Things Done® – March 14th, 2024</option>
                                                     <option value="Trapologist at Work® – February 13th, 2024">Trapologist at Work® – February 13th, 2024</option>
-
+                                                    <option value="Trapologist at Work® – May 31st, 2024">Trapologist at Work® – May 31st, 2024</option>
                                                 </select>
                                             </div>
                                             <div className="col-sm-6 mb-12">
