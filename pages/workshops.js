@@ -937,7 +937,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>June 4th - 7th , 2024</span>
+                  <span>June 4th & 7th , 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>DiSC Certification Virtual Workshop</h3>
