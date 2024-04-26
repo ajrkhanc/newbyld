@@ -82,6 +82,20 @@ export default function Webinars() {
                                 </div>
                             </div>
                         </div> */}
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content phothemecolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                                    <h4 className='pbb-20'>THE POWER OF HABIT</h4>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> 25th April, 2024</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM - 4:00 PM</h6>
+                                    <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div> 
                         <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content"> 
@@ -111,6 +125,37 @@ export default function Webinars() {
                             </div>
                        </div>
                     </div> 
+                       
+                        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content phothemecolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-influencer.svg" alt="" />
+                                    <h4 className='pbb-20'>Crucial Influence</h4>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> 5th June, 2024</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM - 4:00 PM</h6>
+                                    <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div> 
+        <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-conversations.svg" alt="" />
+                                    <h4>Crucial Conversations </h4>
+                                    <p>for Mastering Dialogue</p>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> 17th June, 2024</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3.00 PM to 4.00 PM</h6>
+                                    <a href='#registered'><button class="register">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
                                 <div class="col-md-12 workshop-content phothemecolor">
@@ -119,15 +164,26 @@ export default function Webinars() {
                                 </div>
                                 <h5 className='eventt'>Virtual Course Preview</h5>
                                 <div class="col-md-12 workshop-date">
-                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> 25th April, 2024</h6>
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i> 4th July, 2024</h6>
                                     <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3:00 PM - 4:00 PM</h6>
                                     <a href='#registered'><button class="register phothemecolor">REGISTER NOW</button></a>
                                 </div>
                             </div>
                         </div> 
-
-
-
+   <div class="col-md-4 workshop-col">
+                            <div class="row workshop-row">
+                                <div class="col-md-12 workshop-content gtdcolor">
+                                    <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                                    <h4 className='pbb-20'>Getting Things Done</h4>
+                                </div>
+                                <h5 className='eventt'>Virtual Course Preview</h5>
+                                <div class="col-md-12 workshop-date">
+                                    <h6><i class="fa fa-calendar" aria-hidden="true"></i>  19th July, 2024</h6>
+                                    <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 3.00 PM to 4:00 PM</h6>
+                                    <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
                     
                         {/* <div class="col-md-4 workshop-col">
                             <div class="row workshop-row">
@@ -327,14 +383,13 @@ export default function Webinars() {
                                            <option value="Power of Habit- 25th April, 2024">Power of Habit- 25th April, 2024</option>
                                               {/* <option value="Getting Things Done - March 8th, 2024">Getting Things Done - March 8th, 2024</option>*/}
 
-                                               {/*<option value="Crucial Conversations for Accountability - January 30th, 2024">Crucial Conversations for Accountability - January 30th, 2024</option>  */}   
-                                           <option value="Crucial conversation for Accountability  16th May, 2024">Crucial conversation for Accountability  16th May, 2024</option>    
-                                           
-                                             <option value="Trapologist At work  31st May, 2024">Trapologist At work  31st May, 2024</option>    
-                                        
+                                               <option value="Crucial Conversations for Accountability - 16th May, 2024">Crucial Conversations for Accountability - 16th May, 2024</option>    
+                                               <option value="Trapologist At work - 31th May, 2024">Trapologist At work - 31th May, 2024</option>  
+                                               <option value="Crucial Influence - 5th June, 2024">Crucial Influence - 5th June, 2024</option>   
                                            {/* <option value="Influencer - 10th April, 2024">Influencer - 10th April, 2024</option>  */}
-                                             {/* <option value="Crucial Conversations for Mastering Dialogue - March 8th, 2024">Crucial Conversations for Mastering Dialogue - March 8th, 2024</option>    */}                                        
-
+                                             <option value="Crucial Conversations for Mastering Dialogue - 17th June, 2024">Crucial Conversations for Mastering Dialogue - 17th June, 2024</option>                                           
+                                             <option value="Power of Habit- 4th July, 2024">Power of Habit- 4th July, 2024</option>
+                                             <option value="Getting Things Done- 19th July, 2024">Getting Things Done- 19th July, 2024</option>
                                     </select>
                                 </div>
                                 <div class="col-md-6 col-6">
