@@ -84,7 +84,7 @@ export default function Trapologist(){
                                                 <option value="">Pick up any Slot*</option>                                                
                                                {/* <option value="Virtual Course Previews: 13th February, 2024">Virtual Course Previews: 13th February, 2024</option> */}
                                                {/*   <option value="Workshop: 15th February, 2024">Workshop: 15th February, 2024</option> */}
-                                                <option value="Workshop: 18th March, 2024">Workshop: 18th March, 2024</option>
+                                                {/* <option value="Workshop: 18th March, 2024">Workshop: 18th March, 2024</option> */}
                                                 {/* <option value="Workshop: 26th October, 2023">Workshop: 26th October, 2023</option> */}
                                             </select>                                            
                                         </div>
