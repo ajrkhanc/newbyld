@@ -235,9 +235,8 @@ export default function Home({ country }) {
                             <div className="col-sm-12 mb-12">
                                 <select className='borrr' name='slot' required>
                                     <option value=''>Pick up any Slot*</option>                                    
-                                    <option value='28 October 2023'>28 October 2023</option>
-                                    <option value='06 January 2024'>06 January 2024</option>
-                                    <option value='17 February 2024'>17 February 2024</option>
+                                    <option value='ICF Certification batch 1st June 2024 '>ICF Certification batch 1st June 2024 </option>
+                                  
                                 </select>
                             </div>
 
@@ -679,7 +678,7 @@ export default function Home({ country }) {
                                     </div>
                                     <div className='timed'>
                                         <ul>
-                                            <li><i className='fa fa-th-large'>DCA Batch 40</i></li>
+                                            <li><i className='fa fa-th-large'>DCA Batch 46</i></li>
                                             <li><i className='fa fa-clock-o'>10:00 am to 4:00 pm</i></li>
                                         </ul>
                                     </div>
@@ -768,7 +767,7 @@ export default function Home({ country }) {
                             <div className='innerca' onClick={() => setModalOpen(!modalOpen)}>
                                 <div className='dateside'>
                                     <div className='datefont'>
-                                    17<br></br> Feb
+                                    1st<br></br> June 2024 
                                     </div>
                                 </div>
                                 <div className='textsidec'>
@@ -777,7 +776,7 @@ export default function Home({ country }) {
                                     </div>
                                     <div className='timed'>
                                         <ul>
-                                            <li><i className='fa fa-th-large'>DCA Batch 45</i></li>
+                                            <li><i className='fa fa-th-large'>DCA Batch 46</i></li>
                                             <li><i className='fa fa-clock-o'>10:00 am to 4:00 pm</i></li>
                                         </ul>
                                     </div>
