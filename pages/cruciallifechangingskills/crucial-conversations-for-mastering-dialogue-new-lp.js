@@ -223,8 +223,8 @@ export default function BrowseCourses() {
                   />
                 </div>
 
-                  {/*   <div class="col-md-6 col-6">
-                  <select name="slot" required>
+                  <div class="col-md-6 col-6">
+                     {/*  <select name="slot" required>
                     <option value="">Pick any Slot*</option>
                     {/* <option value="Workshop - September 13th - 14th, 2023">Workshop - September 13th - 14th, 2023</option> */}
                    {/* <option value="Crucial Conversations for Mastering Dialogue - 21st December,2023">
@@ -244,8 +244,8 @@ export default function BrowseCourses() {
                       Crucial Conversations for Mastering Dialogue - 18th & 19th April
                     </option>*/}
                     
-                  </select>
-                </div>*/}
+                  </select>*/}
+                </div>
 
                 <div class="col-md-12">
                   <textarea
