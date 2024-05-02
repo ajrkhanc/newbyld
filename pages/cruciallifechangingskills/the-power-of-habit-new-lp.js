@@ -166,8 +166,8 @@ export default function BrowseCourses(){
                                         <option value="Workshop – November 29th, 2023">Workshop – November 29th, 2023</option>
                                         <option value="Virtual Course Preview – December 5th, 2023">Virtual Course Preview – December 5th, 2023</option>
                                         <option value="The Power of Habit - March 14th, 2024">The Power of Habit - March 14th, 2024</option>*/}
-                        </select>*/}
-                        </div>
+                        </select>
+                        </div> */}
 
                         
                         <div class="col-md-12">                                         
