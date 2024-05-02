@@ -161,7 +161,7 @@ export default function BrowseCourses(){
                         <select name='slot' required>
                             <option value="">Pick any Slot*</option> 
                                               
-                              <option value="Virtual Course Preview 25th April, 2024">Virtual Course Preview 25th April, 2024 </option>
+                              {/* <option value="Virtual Course Preview 25th April, 2024">Virtual Course Preview 25th April, 2024 </option>*/}
                                         {/* <option value="Workshop - March 14th, 2024">Workshop - March 14th, 2024</option>
                                         <option value="Workshop – November 29th, 2023">Workshop – November 29th, 2023</option>
                                         <option value="Virtual Course Preview – December 5th, 2023">Virtual Course Preview – December 5th, 2023</option>
