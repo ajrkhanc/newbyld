@@ -157,7 +157,7 @@ export default function BrowseCourses(){
 
                         
 
-                        <div class="col-md-6 col-6">
+                           {/*  <div class="col-md-6 col-6">
                         <select name='slot' required>
                             <option value="">Pick any Slot*</option> 
                                               
@@ -166,7 +166,7 @@ export default function BrowseCourses(){
                                         <option value="Workshop – November 29th, 2023">Workshop – November 29th, 2023</option>
                                         <option value="Virtual Course Preview – December 5th, 2023">Virtual Course Preview – December 5th, 2023</option>
                                         <option value="The Power of Habit - March 14th, 2024">The Power of Habit - March 14th, 2024</option>*/}
-                        </select>
+                        </select>*/}
                         </div>
 
                         
