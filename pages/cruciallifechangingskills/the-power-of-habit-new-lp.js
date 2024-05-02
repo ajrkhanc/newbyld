@@ -157,17 +157,7 @@ export default function BrowseCourses(){
 
                         
 
-                           {/*  <div class="col-md-6 col-6">
-                        <select name='slot' required>
-                            <option value="">Pick any Slot*</option> 
-                                              
-                              {/* <option value="Virtual Course Preview 25th April, 2024">Virtual Course Preview 25th April, 2024 </option>*/}
-                                        {/* <option value="Workshop - March 14th, 2024">Workshop - March 14th, 2024</option>
-                                        <option value="Workshop – November 29th, 2023">Workshop – November 29th, 2023</option>
-                                        <option value="Virtual Course Preview – December 5th, 2023">Virtual Course Preview – December 5th, 2023</option>
-                                        <option value="The Power of Habit - March 14th, 2024">The Power of Habit - March 14th, 2024</option>*/}
-                        </select>
-                        </div> */}
+                       
 
                         
                         <div class="col-md-12">                                         
