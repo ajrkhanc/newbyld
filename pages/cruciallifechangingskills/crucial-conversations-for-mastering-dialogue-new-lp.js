@@ -223,9 +223,16 @@ export default function BrowseCourses() {
                   />
                 </div>
 
-                <div class="col-md-6 col-6">
-                  
-                </div>
+         
+                                {/* <div class="col-md-6 col-6">
+                                    <select name='slot' required>
+                                        <option value="">Pick any Slot*</option>                                        
+                                   
+                                        <option value="Workshop–4th-&-5th-March,2024">Workshop– 4th & 5th March, 2024</option>
+
+                                    
+                                    </select>
+                                </div> */}
 
                 <div class="col-md-12">
                   <textarea
