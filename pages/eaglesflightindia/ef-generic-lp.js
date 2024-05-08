@@ -130,9 +130,9 @@ export default function CoachCertificationLP(){
                                             <input type="text" name="designation" placeholder="Designation*" required />
                                         </div>
                                         <div className="col-sm-12 mb-12 d-none">
-                                            <select name="slot" required>
+                                         <select name="slot" required>
                                                 <option value="Select">Pick up any Slot*</option>                                                
-                                                {/* <option value="Eagle's Flight Executive Briefing: January 11th, 2023">Eagle's Flight Executive Briefing: January 11th, 2023</option> */}
+                                                 <option value="Council of the Marble star: June 5th, 2024">Council of the Marble star: June 5th, 2024</option> 
                                                 {/* <option value="Eagle's Flight Executive Briefing: March 8th, 2023">Eagle's Flight Executive Briefing: March 8th, 2023</option> */}
                                             </select>
                                         </div>
