@@ -129,7 +129,7 @@ export default function CoachCertificationLP(){
                                         <div className="col-lg-12 mb-12">
                                             <input type="text" name="designation" placeholder="Designation*" required />
                                         </div>
-                                        <div className="col-sm-12 mb-12 d-none">
+                                        <div className="col-sm-12 mb-12">
                                          <select name="slot" required>
                                                 <option value="Select">Pick up any Slot*</option>                                                
                                                  <option value="Council of the Marble star: June 5th, 2024">Council of the Marble star: June 5th, 2024</option> 
