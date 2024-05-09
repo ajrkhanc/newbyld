@@ -3,38 +3,50 @@ import Slider from "react-slick";
 
 export default function CoachCertificationLP(){
 
-    const EFgenericLP = async event => {
-        event.preventDefault()
-        document.getElementById("submitbuttonform").value = "Submitting form...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://byldgroup.in/eaglesflightindia/wp-json/contact-form-7/v1/contact-forms/22/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 48 working hours.";
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function() {
-                       window.location.href = "/eaglesflightindia/thank-you"
-                    }, 3000);
-  
-                } else {
-                    alert('There was a problem with the request.');
-                }
+const EFgenericLP = async event => {
+    event.preventDefault();
+    document.getElementById("submitbuttonform").value = "Submitting form....";
+
+    const xhttp = new XMLHttpRequest();
+    xhttp.onload = function () {
+        console.log(this.responseText);
+    };
+
+    xhttp.open("POST", 'https://byldgroup.in/eaglesflightindia/wp-json/contact-form-7/v1/contact-forms/22/feedback');
+    xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4) {
+            if (xhttp.status == 200) {
+                // Show success message
+                document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 48 working hours.";
+                document.getElementById("showlabel").style.display = "block";
+
+                // Redirect after 3 seconds
+                window.setTimeout(function() {
+                    const formData = new FormData(event.target);
+                    const name = formData.get('name');
+                    const email = formData.get('email');
+                    const phone = formData.get('phone');
+                    // Construct URL with form data
+                    const redirectURL = `https://payments.byldgroup.com/Razorpay/PaymentPage?name=${name}&email=${email}&contact=${phone}&Amount=1000&addressn=`;
+                    window.location.href = redirectURL;
+                }, 3000);
+            } else {
+                alert('There was a problem with the request.');
             }
-        };
-        xhttp.send("leadsquared-FirstName=" + event.target.name.value +
-            "&leadsquared-EmailAddress=" + event.target.email.value +
-            "&leadsquared-Mobile=" + event.target.phone.value +            
-            "&leadsquared-Company=" + event.target.organization.value +
-            "&leadsquared-JobTitle=" + event.target.designation.value +
-            "&slot=" + event.target.slot.value +                    
-            "&leadsquared-mx_Business_Entity=" + event.target.Business_Entity.value )
-  
-    }
+        }
+    };
+
+    const formData = new FormData(event.target);
+    xhttp.send("leadsquared-FirstName=" + formData.get('name') +
+        "&leadsquared-EmailAddress=" + formData.get('email') +
+        "&leadsquared-Mobile=" + formData.get('phone') +            
+        "&leadsquared-Company=" + formData.get('organization') +
+        "&leadsquared-JobTitle=" + formData.get('designation') +
+        "&slot=" + formData.get('slot') +                    
+        "&leadsquared-mx_Business_Entity=" + formData.get('Business_Entity'));
+}
+
     
     var settings = {
         dots: true,
