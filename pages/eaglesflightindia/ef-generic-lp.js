@@ -142,8 +142,8 @@ const handleChange = (event) => {
                 <div className='container'>
                     <div className='row y-middle'>                        
                         <div className='col-md-7'>
-                            <h3 className='icfemih3'>Team building and time management are crucial components in a corporate environment. However, instilling the same in senior leaders is a daunting task.</h3>
-                            <h4 className='icfemih4'>Eagle’s Flight offers various corporate team building games to boost productivity, behavioral change, and team work in a fun learning way.</h4>
+                             <h3 className='icfemih3'>{changetext.heading}</h3>
+                            <h4 className='icfemih4'>{changetext.subheading}</h4>
                         </div>
                         <div className='col-md-5'>
                             <div className='ptt-10'>
