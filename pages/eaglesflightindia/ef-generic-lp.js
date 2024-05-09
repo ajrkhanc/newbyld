@@ -47,6 +47,31 @@ const EFgenericLP = async event => {
         "&leadsquared-mx_Business_Entity=" + formData.get('Business_Entity'));
 }
 
+
+const [changetext,setText] = useState(
+    {
+        heading: "Team building and time management are crucial components in a corporate environment. However, instilling the same in senior leaders is a daunting task.",
+        subheading: "Eagle’s Flight offers various corporate team building games to boost productivity, behavioral change, and team work in a fun learning way."
+      }
+)
+
+
+const handleChange = (event) => {
+    const selectedOption = event.target.value;
+    if (selectedOption === "Council of the Marble star: June 5th, 2024") {
+      setText({
+        heading: "How often do your managers struggle to strike the right balance between achieving results and upholding organizational values?",
+        subheading: "Join us at the 'COUNCIL OF THE MARBLE START™️' game-based Experience session where together we will experience and reflect on these critical issues."
+      });
+    } else {
+      // Handle other options if needed
+      setText({
+        heading: "Team building and time management are crucial components in a corporate environment. However, instilling the same in senior leaders is a daunting task.",
+        subheading: "Eagle’s Flight offers various corporate team building games to boost productivity, behavioral change, and team work in a fun learning way."
+      });
+    }
+  };
+    
     
     var settings = {
         dots: true,
@@ -142,7 +167,7 @@ const EFgenericLP = async event => {
                                             <input type="text" name="designation" placeholder="Designation*" required />
                                         </div>
                                         <div className="col-sm-12 mb-12">
-                                         <select name="slot" required>
+                                         <select name="slot" required onChange={handleChange}>
                                                 <option value="Select">Pick up any Slot*</option>                                                
                                                  <option value="Council of the Marble star: June 5th, 2024">Council of the Marble star: June 5th, 2024</option> 
                                                 {/* <option value="Eagle's Flight Executive Briefing: March 8th, 2023">Eagle's Flight Executive Briefing: March 8th, 2023</option> */}
