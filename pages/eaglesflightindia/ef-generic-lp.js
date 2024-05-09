@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Slider from "react-slick";
-
+import { useState  } from 'react';
 export default function CoachCertificationLP(){
 
 const EFgenericLP = async event => {
