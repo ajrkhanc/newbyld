@@ -28,7 +28,7 @@ const EFgenericLP = async event => {
                     const email = formData.get('email');
                     const phone = formData.get('phone');
                     // Construct URL with form data
-                    const redirectURL = `https://payments.byldgroup.com/Razorpay/PaymentPage?name=${name}&email=${email}&contact=${phone}&Amount=1000&addressn=`;
+                    const redirectURL = `https://payments.byldgroup.com/Razorpay/EagleFlight?name=${name}&email=${email}&contact=${phone}&Amount=1000&addressn=`;
                     window.location.href = redirectURL;
                 }, 3000);
             } else {
