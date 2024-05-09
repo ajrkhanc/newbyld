@@ -18,7 +18,7 @@ const EFgenericLP = async event => {
         if (xhttp.readyState == 4) {
             if (xhttp.status == 200) {
                 // Show success message
-                document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 48 working hours.";
+                document.getElementById("showlabel").innerHTML = "Thank you for submitting your details.";
                 document.getElementById("showlabel").style.display = "block";
 
                 // Redirect after 3 seconds
