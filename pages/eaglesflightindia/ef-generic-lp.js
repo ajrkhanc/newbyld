@@ -170,6 +170,7 @@ const handleChange = (event) => {
                                          <select name="slot" required onChange={handleChange}>
                                                 <option value="Select">Pick up any Slot*</option>                                                
                                                  <option value="Council of the Marble star: June 5th, 2024">Council of the Marble star: June 5th, 2024</option> 
+    
                                                 {/* <option value="Eagle's Flight Executive Briefing: March 8th, 2023">Eagle's Flight Executive Briefing: March 8th, 2023</option> */}
                                             </select>
                                         </div>
