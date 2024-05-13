@@ -170,6 +170,9 @@ const handleChange = (event) => {
                                          <select name="slot" required onChange={handleChange}>
                                                 <option value="Select">Pick up any Slot*</option>                                                
                                                  <option value="Council of the Marble star: June 5th, 2024">Council of the Marble star: June 5th, 2024</option> 
+                                                    <option value="Council of Marble star : July 25th,2024, Bangalore">Council of Marble star : July 25th,2024, Bangalore </option> 
+                                                    <option value="Council of Marble star : Sept 12th,2024 Mumbai">Council of Marble star : Sept 12th,2024 Mumbai </option> 
+                                                    <option value="Council of Marble star : Nov  12th ,2024 Hyderabad">Council of Marble star : Nov  12th ,2024 Hyderabad </option> 
     
                                                 {/* <option value="Eagle's Flight Executive Briefing: March 8th, 2023">Eagle's Flight Executive Briefing: March 8th, 2023</option> */}
                                             </select>
