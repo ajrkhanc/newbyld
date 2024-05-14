@@ -1076,7 +1076,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                         <div className='col-sm-4'>
                             <div className='formhh'>
                                 <div className="bannerform msddd">
-                                   <h3>Enroll now for our complimentary experience session </h3>
+                                   <h3>Enroll now </h3>
                                     {/*<h3>ICF Coach Certification Program by BYLD Group, Sat, Dec 16, 2023, 11:00 AM - 12:00 PM</h3> */}
 
 
