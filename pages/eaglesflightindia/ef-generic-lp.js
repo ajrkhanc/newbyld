@@ -27,8 +27,13 @@ export default function CoachCertificationLP() {
                         const name = formData.get('name');
                         const email = formData.get('email');
                         const phone = formData.get('phone');
+                        const gst_number = formData.get('gst_number');
+                        const entity_name = formData.get('entity_name');
+                        const address = formData.get('address');
+                        const pan_number = formData.get('pan_number');
+                        const gst = formData.get('gst');
                         // Construct URL with form data
-                        const redirectURL = `https://payments.byldgroup.com/Razorpay/EagleFlight?name=${name}&email=${email}&contact=${phone}&Amount=1000&addressn=`;
+                        const redirectURL = `https://payments.byldgroup.com/Razorpay/EagleFlight?name=${name}&email=${email}&contact=${phone}&GstNumber=${gst_number}&EntityName=${entity_name}&Amount=1000&Address=${address}&PanNumber=${pan_number}&gst=${gst}`;
                         window.location.href = redirectURL;
                     }, 3000);
                 } else {
