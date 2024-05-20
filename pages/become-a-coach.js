@@ -1123,8 +1123,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                                     <option value='Linkedin'>Linkedin</option> 
                                                     <option value='Social Media'>Social Media</option> 
                                                     <option value='Website'>Website</option> 
-                                                    {/* <option value=' April 5th, 2024'>April 5th, 2024</option> */}
-                                                    {/* <option value=' ICF Certification batch 20th April 2024'>ICF Certification batch 20th April 2024</option> */}
+                                                  
                                                 </select>
                                             </div>
 
@@ -1134,8 +1133,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                                     
  
                                                     <option value='ICF Certification batch 1st June 2024 '>ICF Certification batch 1st June 2024</option> 
-                                                    {/* <option value=' April 5th, 2024'>April 5th, 2024</option> */}
-                                                   {/* <option value=' ICF Certification batch 20th April 2024'>ICF Certification batch 20th April 2024</option> */}
+                                                   
                                                 </select>
                                             </div>
                                             <div className="col-sm-12 mb-12">
