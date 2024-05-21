@@ -897,51 +897,58 @@ export default function Home({ country }) {
 
     const [modalOpen1, setModalOpen1] = React.useState(false);
 
-    const submit = async event => {
-        var name = event.target.name.value;
-        var email = event.target.email.value;
-        var phone = event.target.phone.value;
-        var cocode = event.target.cocode.value;
-        var organization = event.target.organization.value;
-        var designation = event.target.designation.value;
-        var slot = event.target.slot.value;
-        var emailslot = event.target.emailslot.value;
-        var location = event.target.location.value;
-        var Business_Entity = event.target.Business_Entity.value;
+   const submit = async event => {
+    event.preventDefault();
 
-        event.preventDefault()
-        document.getElementById("submitbuttonform").value = "Submitting...."
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function () {
-            console.log(this.responseText);
-        }
-        xhttp.open("Post", 'https://byldgroup.in/byldgroup/wp-json/contact-form-7/v1/contact-forms/141/feedback');
-        xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
-        xhttp.onreadystatechange = function () {
-            if (xhttp.readyState == 4) {
-                if (xhttp.status == 200) {
-                    document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
-                    document.getElementById("contactForm").reset();
-                    document.getElementById("showlabel").style.display = "block";
-                    window.setTimeout(function () {
-                        window.location.href = "/thank-you"
-                    });
+    var name = event.target.name.value;
+    var email = event.target.email.value;
+    var phone = event.target.phone.value;
+    var cocode = event.target.cocode.value;
+    var organization = event.target.organization.value;
+    var designation = event.target.designation.value;
+    var slot = event.target.slot.value;
+    var emailslot = event.target.emailslot.value;
+    var location = event.target.location.value;
+    var Business_Entity = event.target.Business_Entity.value;
 
-                } else {
-                    alert('There was a problem with the request.');
-                }
-            }
-        };
-        xhttp.send("leadsquared-FirstName=" + name +
-            "&leadsquared-EmailAddress=" + email +
-            "&leadsquared-Mobile=" + cocode + '-' + phone +
-            "&leadsquared-Company=" + organization +
-            "&leadsquared-JobTitle=" + designation +
-            "&slot=" + slot +
-            "&emailslot=" + emailslot +
-            "&location=" + location +
-            "&leadsquared-mx_Business_Entity=" + Business_Entity)
+    document.getElementById("submitbuttonform").value = "Submitting...."
+
+    const xhttp = new XMLHttpRequest();
+    xhttp.onload = function () {
+        console.log(this.responseText);
     }
+    xhttp.open("POST", 'https://byldgroup.in/byldgroup/wp-json/contact-form-7/v1/contact-forms/141/feedback');
+    xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4) {
+            if (xhttp.status == 200) {
+                document.getElementById("showlabel").innerHTML = "Thank you for submitting your details. Our subject matter experts will connect you within 24 working hours.";
+                document.getElementById("contactForm").reset();
+                document.getElementById("showlabel").style.display = "block";
+                window.setTimeout(function () {
+                    window.location.href = "/thank-you"
+                }, 3000); // Add a delay before redirecting
+            } else {
+                alert('There was a problem with the request.');
+            }
+        }
+    };
+
+    const params = new URLSearchParams({
+        "leadsquared-FirstName": name,
+        "leadsquared-EmailAddress": email,
+        "leadsquared-Mobile": `${cocode}-${phone}`,
+        "leadsquared-Company": organization,
+        "leadsquared-JobTitle": designation,
+        "slot": slot,
+        "emailslot": emailslot,
+        "location": location,
+        "leadsquared-mx_Business_Entity": Business_Entity
+    }).toString();
+
+    xhttp.send(params);
+}
 
     const FooregisterUser = async event => {
         event.preventDefault()
