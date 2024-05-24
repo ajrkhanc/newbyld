@@ -249,9 +249,9 @@ export default function CoachCertificationLP() {
                                                 {showGSTFieldsOne ? (
                                                     <div id="gst_fields">
                                                     {/* Address */}
-                                                    <div className="col-lg-12 mb-12">
+                                                   {/* <div className="col-lg-12 mb-12">
                                                         <input type="text" name="address" placeholder="Address*" required />
-                                                    </div>
+                                                    </div> */}
                                                     {/* PAN Number */}
                                                     <div className="col-lg-12 mb-12">
                                                         <input type="text" name="pan_number" placeholder="PAN Number*" value={panGST} onChange={handlePanGSTChange} required />
