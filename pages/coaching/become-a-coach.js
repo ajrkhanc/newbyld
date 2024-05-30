@@ -897,8 +897,8 @@ export default function Home({ country }) {
                                                     <div className="col-sm-6 mb-12">
                                                         <input className='borrr' type="text" name="designation" placeholder="Designation*" required />
                                                     </div>
-                                                    <div className="col-sm-6 mb-12">
-                                                        <input className='borrr' type="text" name="coupon" placeholder="coupon[LD10]" disable  />
+                                                    <div className="col-sm-12 mb-12">
+                                                        <input className='borrr' type="text" name="coupon" placeholder="coupon[LD10]" disabled  />
                                                     </div>
 
                                                     <div className="col-lg-12 mb-12">
