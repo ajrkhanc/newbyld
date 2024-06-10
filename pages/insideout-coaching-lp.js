@@ -150,13 +150,11 @@ export default function CoachCertificationLP(){
                                             </select>
                                         </div>
                                         <div className="col-sm-6 mb-12">
-                                            <select name="slot" required>
+                                           {/*    <select name="slot" required>
                                                 <option value="">Interested In*</option>                                                
                                                 <option value="21st March, 2024">21st March, 2024</option>
-                                                 {/* <option value="12th October 2023">12th October 2023</option> */}
-                                                 {/* <option value="7th December 2023">7th December 2023</option> */}
-                                                 {/* <option value="27th December 2023">27th December 2023</option> */}
-                                            </select>
+                                               
+                                                </select> */}
                                         </div>
                                         <div className="col-lg-12 mb-12 d-none">
                                             <input type="text" name="leadsquared_mx_Business_Entity" placeholder="BYLD Group" value="BYLD Group" required />
@@ -186,7 +184,7 @@ export default function CoachCertificationLP(){
                     </div>
                     <div className='clearfix'></div>
 
-                    <div className='col-sm-4'>
+                    {/*   <div className='col-sm-4'>
                         <div className='eventsbox'>
                             <div className='eventmiddle'>
                                 <img src="/assets/img/events.jpg" alt="" />
@@ -202,7 +200,7 @@ export default function CoachCertificationLP(){
                                 <a className="eventbtn" href='#REGISTER'>REGISTER NOW</a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                       {/* <div className='col-sm-4'>
                         <div className='eventsbox'>
