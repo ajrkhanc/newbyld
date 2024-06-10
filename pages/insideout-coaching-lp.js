@@ -143,7 +143,7 @@ export default function CoachCertificationLP(){
                                         <div className="col-lg-12 mb-12">
                                             <input type="text" name="designation" placeholder="Designation*" required />
                                         </div>
-                                        <div className="col-sm-6 mb-12">
+                                        <div className="col-sm-12 mb-12">
                                             <select name="wheredidyoucome" required>
                                                 <option value="">Referred By*</option>
                                                 <option value="Email">Email</option>                                                
