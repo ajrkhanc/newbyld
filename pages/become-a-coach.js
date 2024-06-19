@@ -1139,7 +1139,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                                     <option value=''>Pick up any Slot*</option>   
                                                     
  
-                                                    <option value='ICF Certification batch 1st June 2024 '>ICF Certification batch 1st June 2024</option> 
+                                                    <option value='ICF Certification batch 1st June 2024 '>ICF Certification batch 13 July 2024</option> 
                                                    
                                                 </select>
                                             </div>
