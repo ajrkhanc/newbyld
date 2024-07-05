@@ -500,7 +500,7 @@ export default function EdgeManagerAssessment() {
 
                                        <div className='fcol1'>
                                           <h2>
-                                             06. How well (Comfortable) are young (or First time) managers in terms of giving negative or Constructive Constructive feedback?
+                                             06. How well (Comfortable) are young (or First time) managers in terms of giving negative or Constructive feedback?
                                           </h2>
                                           <div className='fcolmain'>
                                              <input type="radio" name="bmeq6" value="0" id="bmeq6a" required />
