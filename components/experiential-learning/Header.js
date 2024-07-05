@@ -104,7 +104,7 @@ export default function Header() {
                                                                 <a href="/bespoke">BeSpoke</a>
                                                                 <ul className="sub-menu">
                                                                     <li><a href="/bespoke/persona-global">Persona Global<sup>®</sup></a> </li>
-                                                                    <li><a target='_blank' href="/bespoke/persona-global">Custom Solutions</a></li>
+                                                                    <li><a target='_blank' href="https://doortraining.co.in/">Custom Solutions</a></li>
                                                                     <li className='d-none'><a href="#">Large Projects</a></li>
                                                                 </ul>
                                                             </li>
@@ -297,7 +297,7 @@ export default function Header() {
                                         <a href="/bespoke">BeSpoke</a>
                                         <ul className="sub-menu">
                                             <li><a href="/bespoke/persona-global">Persona Global<sup>®</sup></a> </li>
-                                            <li><a target='_blank' href="/bespoke/persona-global">Custom Solutions</a></li>
+                                            <li><a target='_blank' href="https://doortraining.co.in/">Custom Solutions</a></li>
                                             <li className='d-none'><a href="#">Large Projects</a></li>
                                         </ul>
                                     </li>
