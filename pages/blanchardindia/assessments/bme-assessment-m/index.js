@@ -376,7 +376,7 @@ export default function EdgeManagerAssessment() {
 
                                        <div className='fcol1'>
                                           <h2>
-                                             04. How well the team chemistry being worked upon by young (or First time) managers?
+                                             04. How will Team Chemistry be worked upon by Young ( Or First Time) Managers?
                                           </h2>
                                           <div className='fcolmain'>
                                              <input type="radio" name="bmeq4" value="0" id="bmeq4a" required />
@@ -438,7 +438,7 @@ export default function EdgeManagerAssessment() {
 
                                        <div className='fcol1'>
                                           <h2>
-                                             05. How well  the young (or First time) managers inspire and motivate their team members to exceed expections?
+                                             05.How will the Young ( Or First Time) managers inspire and motivate their team members to exceed expectations?
                                           </h2>
                                           <div className='fcolmain'>
                                              <input type="radio" name="bmeq5" value="0" id="bmeq5a" required />
@@ -500,7 +500,7 @@ export default function EdgeManagerAssessment() {
 
                                        <div className='fcol1'>
                                           <h2>
-                                             06. How well (Comfortable) are young (or First time) managers in terms of giving negative or consttuctive feedback?
+                                             06. How well (Comfortable) are young (or First time) managers in terms of giving negative or Constructive  Spelling of “Constructive”. feedback?
                                           </h2>
                                           <div className='fcolmain'>
                                              <input type="radio" name="bmeq6" value="0" id="bmeq6a" required />
@@ -562,7 +562,7 @@ export default function EdgeManagerAssessment() {
 
                                        <div className='fcol1'>
                                           <h2>
-                                             07. How well are the young (or First time) managers in holding coaching conversations?
+                                             07.  How well are the Young ( Or First Time) managers at having Coaching Conversations?
                                           </h2>
                                           <div className='fcolmain'>
                                              <input type="radio" name="bmeq7" value="0" id="bmeq7a" required />
@@ -748,7 +748,7 @@ export default function EdgeManagerAssessment() {
 
                                        <div className='fcol1'>
                                           <h2>
-                                             10. How effectively the young (or First time) managers are in managing competing priorities?
+                                             10. How effective are Young ( Or First Time) managers in managing competing priorities?
                                           </h2>
                                           <div className='fcolmain'>
                                              <input type="radio" name="bmeq10" value="0" id="bmeq10a" required />
