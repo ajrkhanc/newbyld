@@ -109,13 +109,14 @@ export default function Header() {
                                                             </li>
 
                                                             <li className="last-item menu-item-has-children">
-                                                                <a href="/our-solutions/coaching">Coaching</a>
-                                                                <ul className="sub-menu">
+                                                               {/* <a href="/our-solutions/coaching">Coaching</a>*/}
+                                                                 <a href="https://byldcoaching.co.in/">Coaching</a>
+                                                                {/*<ul className="sub-menu">
                                                                     <li><a href='/coaching/become-a-coach'>Become A Coach (ICF Certification)</a></li>
                                                                     <li><a href="/coaching/insideout-coaching">InsideOut™ Coaching</a></li>
                                                                     <li><a href='/coaching/breakthroughs'>Breakthroughs</a></li>
                                                                     <li><a href='/coaching/executive-coaching'>Executive Coaching</a></li>
-                                                                </ul>
+                                                                </ul>*/}
                                                             </li>
 
                                                             <li className="last-item menu-item-has-children">
@@ -305,13 +306,14 @@ export default function Header() {
                                     </li>
 
                                     <li className="last-item menu-item-has-children">
-                                        <a href="/our-solutions/coaching">Coaching</a>
-                                        <ul className="sub-menu">
+                                         {/* <a href="/our-solutions/coaching">Coaching</a>*/}
+                                         <a href="https://byldcoaching.co.in/">Coaching</a>
+                                        {/*<ul className="sub-menu">
                                             <li><a href='/coaching/become-a-coach'>Become A Coach (ICF Certification)</a></li>
                                             <li><a href="/coaching/insideout-coaching">InsideOut™ Coaching</a></li>
                                             <li><a href='/coaching/breakthroughs'>Breakthroughs</a></li>
                                             <li><a href='/coaching/executive-coaching'>Executive Coaching</a></li>
-                                        </ul>
+                                        </ul>*/}
                                     </li>
 
                                     <li className="last-item menu-item-has-children">
