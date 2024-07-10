@@ -136,8 +136,8 @@ export default function Header() {
                                                                     <li><a href="/coaching/insideout-coaching">InsideOut™ Coaching</a></li>
                                                                     <li><a href='/coaching/breakthroughs'>Breakthroughs</a></li>
                                                                     <li><a href='/coaching/executive-coaching'>Executive Coaching</a></li>
-                                                                </ul>
-                                                            </li>*/}
+                                                                </ul>*/}
+                                                            </li>
 
                                                             <li className="last-item menu-item-has-children">
                                                                 <a href="/our-solutions/staffing">Staffing & Search</a>
