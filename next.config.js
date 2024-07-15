@@ -51,7 +51,7 @@ module.exports = {
         permanent: false,
       },
      {
-        source: 'our-solutions/coaching',
+        source: '/our-solutions/coaching',
         destination: '/404',
         permanent: false,
       },
