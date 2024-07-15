@@ -45,6 +45,11 @@ module.exports = {
         destination: '/coaching/become-a-professional-coach-marketing',
         permanent: true,
       },
+       {
+        source: '/coaching/become-a-coach',
+        destination: '/404',
+        permanent: false,
+      },
 
       {
         source: '/coaching/become-a-professional-coach-marketing',
