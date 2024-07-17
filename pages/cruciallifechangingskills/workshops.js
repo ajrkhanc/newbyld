@@ -158,20 +158,6 @@ export default function Workshops() {
                        </div>
                     </div> */}
 
-            {/* <div class="col-md-4 workshop-col"> 
-                       <div class="row workshop-row"> 
-                            <div class="col-md-12 workshop-content gtdcolor"> 
-                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
-                            <h4 className='pbb-20'>Getting Things Done</h4>                            
-                            </div>
-                            <h5 className='eventt'>Workshop</h5>
-                             <div class="col-md-12 workshop-date"> 
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> July 27th, 2023</h6>
-                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
-                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
-                            </div>
-                       </div>
-                    </div> */}
 
             {/* <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
@@ -381,6 +367,21 @@ export default function Workshops() {
                 </div>
               </div>
             </div>
+                      
+            <div class="col-md-4 workshop-col"> 
+                       <div class="row workshop-row"> 
+                            <div class="col-md-12 workshop-content gtdcolor"> 
+                            <img class="left-image img100px mbb-30" src="/classets/img/logo-gtd.svg" alt="" />
+                            <h4 className='pbb-20'>Getting Things Done</h4>                            
+                            </div>
+                            <h5 className='eventt'>Workshop</h5>
+                             <div class="col-md-12 workshop-date"> 
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i> 23rd August, 2024</h6>
+                            <h6><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 AM to 5:00 PM</h6>
+                            <a href='#registered'><button class="register gtdcolor">REGISTER NOW</button></a>
+                            </div>
+                       </div>
+              </div> 
             <div class="col-md-4 workshop-col"> 
                        <div class="row workshop-row"> 
                             <div class="col-md-12 workshop-content"> 
