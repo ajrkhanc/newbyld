@@ -368,7 +368,7 @@ export default function Workshops() {
                 <h5 className="eventt">Workshop</h5>
                 <div class="col-md-12 workshop-date green-col">
                   <h6>
-                    <i class="fa fa-calendar" aria-hidden="true"></i> 24th May
+                    <i class="fa fa-calendar" aria-hidden="true"></i> 13th August
                     2024
                   </h6>
                   <h6>
