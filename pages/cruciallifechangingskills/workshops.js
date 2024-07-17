@@ -805,23 +805,53 @@ export default function Workshops() {
                       April 2024
                     </option> */}
 
-                    <option value="Crucial Influence - 9th May , 2024">
-                      Crucial Influence - 9th May , 2024
+                    <option value="The Power of Habit-13th-August-2024">
+                     The Power of Habit-13th-August,2024
                     </option>
-                    <option value="The Power of Habit - 24th May , 2024">
-                      The Power of Habit - 24th May , 2024
+                    <option value="Getting Things Done - 26rd-August-2024">
+                     Getting Things Done - 26rd-August,2024
                     </option>
-                    <option value="Crucial Conversations for Mastering Dialogue - 29th & 30th May , 2024">
-                      Crucial Conversations for Mastering Dialogue - 29th & 30th May , 2024
+                    <option value="Crucial Conversations for Accountibility-12th& 13t -September-2024">
+                     Crucial Conversations for Accountibility-12th& 13t -September,2024
                     </option>
-                    <option value="Crucial Conversations for Accountability - 10th & 11th June , 2024">
-                      Crucial Conversations for Accountability - 10th & 11th June , 2024
+                    <option value="Trapologist At work-26th-September-2024	">
+                      Trapologist At work-26th-September,2024	
                     </option>
-                    <option value="Trapologist At work - 28th June , 2024">
-                    Trapologist At work - 28th June , 2024
+                    <option value="Crucial Conversations for Mastering Dialogue-7th & 8th-October-2024">
+                   Crucial Conversations for Mastering Dialogue-7th & 8th-October,2024
                     </option>
-                    <option value="Crucial Influence - 11th July , 2024">
-                      Crucial Influence - 11th July , 2024
+                    <option value="The Power of Habit-24th-October-2024">
+                      The Power of Habit-24th-October,2024
+                    </option>
+                    <option value="Crucial Influence-12th-Nov-2024	">
+                      Crucial Influence-12th-Nov,2024	
+                    </option>
+                    <option value="Getting Things Done-27th-Nov-2024	">
+                     Getting Things Done-27th-Nov,2024
+                    </option>
+                    <option value="Trapologist At work-11th-December-2024">
+                    Trapologist At work-11th-December,2024
+                    </option>
+                    <option value="Crucial Conversations for Accountibility-19th & 20th-December-2024">
+                     Crucial Conversations for Accountibility-19th & 20th-December,2024
+                    </option>
+                    <option value="The Power of Habit-10th-January-2025	">
+                     The Power of Habit-10th-January,2025	
+                    </option>
+                    <option value="Getting Things Done-24th-January-2025		">
+                      Getting Things Done-24th-January,2025	
+                    </option>
+                    <option value="Trapologist At work-7th-Feb-2025">
+                     Trapologist At work-7th-Feb,2025
+                    </option>
+                    <option value="Crucial Influence-20th Feb-2025">
+                       Crucial Influence-20th Feb,2025	
+                    </option>
+                    <option value="Crucial Conversations for Mastering Dialogue-6th & 7th-March-2025">
+                     Crucial Conversations for Mastering Dialogue-6th & 7th-March,2025
+                    </option>
+                    <option value="Crucial Conversations for Accountibility-19th & 20th-March-2025	">
+                    Crucial Conversations for Accountibility-19th & 20th-March-2025	
                     </option>
                   </select>
                 </div>
