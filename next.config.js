@@ -71,12 +71,12 @@ module.exports = {
         permanent: true,
       },
         {
-        source: '/inside-out-coaching-lp',
+        source: 'inside-out-coaching-lp',
         destination: '/404',
         permanent: true,
       },
       {
-        source: '/coach-certification-lp',
+        source: 'coach-certification-lp',
         destination: '/404',
         permanent: ture,
       },
