@@ -48,17 +48,37 @@ module.exports = {
        {
         source: '/coaching/become-a-coach',
         destination: '/404',
-        permanent: false,
+        permanent: true,
       },
      {
         source: '/our-solutions/coaching',
         destination: '/404',
-        permanent: false,
+        permanent: true,
+      },
+       {
+        source: '/coaching/dtci-coaching-academy',
+        destination: '/404',
+        permanent: true,
+      },
+       {
+        source: '/coaching/insideout-coaching',
+        destination: '/404',
+        permanent: true,
+      },
+      {
+        source: '/coaching/executive-coaching',
+        destination: '/404',
+        permanent: true,
+      },
+        {
+        source: '/inside-out-coaching-lp',
+        destination: '/404',
+        permanent: true,
       },
       {
         source: '/coach-certification-lp',
         destination: '/404',
-        permanent: false,
+        permanent: ture,
       },
       {
         source: '/coaching/become-a-professional-coach-marketing',
