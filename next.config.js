@@ -75,6 +75,11 @@ module.exports = {
         destination: '/404',
         permanent: true,
       },
+       {
+        source: '/coach-certification-lp',
+        destination: '/404',
+        permanent: true,
+      },
       {
         source: '/coaching/become-a-professional-coach-marketing',
         destination: '/coaching/become-a-professional-coach-assessment-m',
