@@ -68,7 +68,7 @@ export default function BylDLp(){
                         <div className="borderall">
                         <div className="bannerform formshd">
                             <div className="sec-title3 mbb-35 text-left">                                
-                                <h4 className="countertoph2 text-left font24">Fill out the form to download the PPT. ( PFA)</h4>
+                                <h4 className="countertoph2 text-left font24">Fill out the form to download the Deck.</h4>
                                 <div className="heading-border-line left-style"></div>
                             </div>
                             <form id="contact-form" className='clientcornner pbb-20' onSubmit={EbookSubmit}>                                         
