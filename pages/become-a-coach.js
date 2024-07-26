@@ -1139,8 +1139,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                                     <option value=''>Pick up any Slot*</option>   
                                                     
  
-                                                    <option value='ICF Certification batch 1st June 2024 '>ICF Certification batch 13 July 2024</option> 
-                                                    <option value='ICF Educational  Session 5th July 2024 '>ICF Educational  Session 5th July 2024 </option> 
+                                                    <option value='batch 47 13 august 2024'>batch 47 13 august 2024</option> 
+                                                    
                                                 </select>
                                             </div>
                                             <div className="col-sm-12 mb-12">
