@@ -29,7 +29,7 @@ export default function BylDLp(){
         xhttp.send("leadsquared-FirstName=" + event.target.name.value +
             "&leadsquared-EmailAddress=" + event.target.email.value +
             "&leadsquared-Mobile=" + event.target.phone.value +
-            "&leadsquared-Company=" + event.target.organization.value +          
+            "&leadsquared-Company=" + event.target.location.value +          
             "&leadsquared-mx_Business_Entity=" + event.target.Business_Entity.value +
             "&formname=" + event.target.formname.value )
 
@@ -84,7 +84,7 @@ export default function BylDLp(){
                                         </div> 
                                         
                                         <div className="col-sm-12 mb-12">
-                                            <input type="text" name="organization" placeholder="Location*" required/>
+                                            <input type="text" name="location" placeholder="Location*" required/>
                                         </div>                                       
                                         <div className="col-sm-12 mb-12 d-none">
                                             <input type="text" name="formname" value="Meeting the Quota Challenge: Critical Skills Every Sales Manager Needs to Excel"/>
