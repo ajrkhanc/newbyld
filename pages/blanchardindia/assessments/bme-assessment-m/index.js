@@ -71,7 +71,7 @@ export default function EdgeManagerAssessment() {
                   '&assessment=' + Assessment)
 
                window.setTimeout(function () {
-                  window.location.href = `/assessments/bme-assessment-m/${newnameurl}`
+                  window.location.href = `https://byldgroup.com/blanchardindia/assessments/bme-assessment-m/${newnameurl}`
                }, 2500);
 
             }
