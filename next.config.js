@@ -52,7 +52,7 @@ module.exports = {
       },
      {
         source: '/our-solutions/coaching',
-        destination: '/404',
+        destination: 'https://byldcoaching.co.in',
         permanent: true,
       },
       {
