@@ -47,7 +47,7 @@ module.exports = {
       },
        {
         source: '/coaching/become-a-coach',
-        destination: '/404',
+        destination: 'https://byldcoaching.co.in/become-a-coach-icf-certification',
         permanent: true,
       },
      {
