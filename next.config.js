@@ -71,7 +71,11 @@ module.exports = {
         destination: '/coaching/become-a-professional-coach-pre-program-assessment-s',
         permanent: true,
       },
-
+      {
+        source: '/coaching/insideout-coaching',
+        destination: 'https://byldcoaching.co.in/insideout-coaching',
+        permanent: true,
+      },
       {
         source: '/cruciallifechangingskills/assessment/gtd-assessment',
         destination: '/cruciallifechangingskills/assessment/gtd-assessment-marketing',
