@@ -76,6 +76,11 @@ module.exports = {
         destination: 'https://byldcoaching.co.in/insideout-coaching',
         permanent: true,
       },
+        {
+        source: 'coaching/executive-coaching',
+        destination: 'https://byldcoaching.co.in/executive-coaching/',
+        permanent: true,
+      },
       {
         source: '/cruciallifechangingskills/assessment/gtd-assessment',
         destination: '/cruciallifechangingskills/assessment/gtd-assessment-marketing',
