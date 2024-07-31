@@ -70,6 +70,16 @@ module.exports = {
         destination: '/404',
         permanent: true,
       },
+       {
+        source: '/dtci',
+        destination: '/404',
+        permanent: true,
+      },
+        {
+        source: '/who-we-are',
+        destination: '/404',
+        permanent: true,
+      },
         {
         source: '/inside-out-coaching-lp',
         destination: '/404',
