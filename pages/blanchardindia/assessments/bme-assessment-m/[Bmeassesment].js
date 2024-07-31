@@ -34,7 +34,7 @@ export default function result({ result }) {
                         Please Submit You Asessement Before.
                     </p>
                     <h6>
-                        <a class="submit" href='https://byldgroup.com/blanchardindia/assessments/bme-assessment'> Go Back </a>
+                        <a class="submit" href='/assessments/bme-assessment'> Go Back </a>
                     </h6>
                 </div>
             </div>
