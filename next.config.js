@@ -77,7 +77,7 @@ module.exports = {
         permanent: true,
       },
         {
-        source: 'coaching/executive-coaching',
+        source: '/coaching/executive-coaching',
         destination: 'https://byldcoaching.co.in/executive-coaching/',
         permanent: true,
       },
