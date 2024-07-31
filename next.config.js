@@ -65,6 +65,16 @@ module.exports = {
         destination: '/404',
         permanent: true,
       },
+        {
+        source: '/coaching/dtci-coaching-academy',
+        destination: '/404',
+        permanent: true,
+      },
+        {
+        source: '/inside-out-coaching-lp',
+        destination: '/404',
+        permanent: true,
+      },
       {
         source: '/coaching/become-a-professional-coach-marketing',
         destination: '/coaching/become-a-professional-coach-assessment-m',
