@@ -81,7 +81,7 @@ export default function BrowseCourses() {
 
                  window.setTimeout(function () {
                     // window.location.href = '/cruciallifechangingskills/thank-you'
-                    window.location.href = '/cruciallifechangingskills/assessment/the-power-of-habit-assessment-s/${newnameurl}'
+                    window.location.href = `/cruciallifechangingskills/assessment/the-power-of-habit-assessment-s/${newnameurl}`
                 }, 1000);
 
 
