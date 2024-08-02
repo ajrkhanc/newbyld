@@ -35,7 +35,7 @@ export default function BrowseCourses() {
         xhttp.onload = function () {
             console.log(this.responseText);
         }
-        xhttp.open("Post", 'https://ajrkhan.xyz/byldgroup/wp-json/contact-form-7/v1/contact-forms/32/feedback');
+        xhttp.open("Post", 'https://byldgroup.in/byldgroup/wp-json/contact-form-7/v1/contact-forms/32/feedback');
         xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
         xhttp.onreadystatechange = function () {
             if (xhttp.readyState == 4) {
