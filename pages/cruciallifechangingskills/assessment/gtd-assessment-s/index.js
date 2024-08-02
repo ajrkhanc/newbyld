@@ -111,7 +111,8 @@ export default function Home() {
                 document.getElementById("response").innerHTML = "View Assessment"
 
                 window.setTimeout(function () {
-                    window.location.href = '/cruciallifechangingskills/thank-you'
+                     //window.location.href = '/cruciallifechangingskills/thank-you'
+                     window.location.href = `/cruciallifechangingskills/assessment/gtd-assessment-s/${newnameurl}`
                 }, 1000);
 
             }
