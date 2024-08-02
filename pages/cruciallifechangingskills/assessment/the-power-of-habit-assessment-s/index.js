@@ -79,9 +79,11 @@ export default function BrowseCourses() {
                 // document.getElementById("formreset").reset()
                 document.getElementById("response").innerHTML = "Assessment Result"
 
-                window.setTimeout(function () {
-                    window.location.href = '/cruciallifechangingskills/thank-you'
+                 window.setTimeout(function () {
+                    // window.location.href = '/cruciallifechangingskills/thank-you'
+                    window.location.href = '/cruciallifechangingskills/assessment/the-power-of-habit-assessment-s'
                 }, 1000);
+
 
             }
             else {
