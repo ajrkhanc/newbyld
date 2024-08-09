@@ -405,7 +405,7 @@ export default function Workshops() {
                   <span>Workshop - January 29th, 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>The Power Of Habit Workshop</h3>
+                  <h3>The Power of Habit™ Workshop</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -675,7 +675,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>The Power of Habit </h3>
+                  <h3>The Power of Habit™ </h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -1077,8 +1077,8 @@ export default function Workshops() {
                             &11th,Oct-2024
                           </option>
 
-                          <option value="The Power of Habit-17th,Oct-2024">
-                            The Power of Habit-17th,Oct-2024
+                          <option value="The Power of Habit™-17th,Oct-2024">
+                            The Power of Habit™-17th,Oct-2024
                           </option>
 
                           <option value="BME - Virtual-18th,Oct-2024">
