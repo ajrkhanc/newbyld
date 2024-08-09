@@ -656,7 +656,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 10th &11th,Oct-2024</span>
+                  <span>Workshop 10th &11th,  Oct-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -671,7 +671,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 17th,Oct-2024</span>
+                  <span>Workshop 17th,  Oct-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -686,7 +686,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 18th,Oct-2024</span>
+                  <span>Workshop 18th,  Oct-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -1072,17 +1072,17 @@ export default function Workshops() {
                             Disc Certification®-24th 25th 26th 27th,  Sep-2024
                           </option>
 
-                          <option value="Crucial Conversations® For Mastering Dialogue-10th &11th,Oct-2024">
+                          <option value="Crucial Conversations® For Mastering Dialogue-10th &11th,  Oct-2024">
                             Crucial Conversations® For Mastering Dialogue-10th
-                            &11th,Oct-2024
+                            &11th,  Oct-2024
                           </option>
 
-                          <option value="The Power of Habit™-17th,Oct-2024">
-                            The Power of Habit™-17th,Oct-2024
+                          <option value="The Power of Habit™-17th,  Oct-2024">
+                            The Power of Habit™-17th,  Oct-2024
                           </option>
 
-                          <option value="BME - Virtual-18th,Oct-2024">
-                            BME - Virtual-18th,Oct-2024
+                          <option value="BME - Virtual-18th,  Oct-2024">
+                            BME - Virtual-18th,  Oct-2024
                           </option>
 
                           <option value="  Crucial Influence-12th,Nov-2024	">
