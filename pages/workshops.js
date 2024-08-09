@@ -595,7 +595,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 12th & 13th,Sep-2024</span>
+                  <span>Workshop 12th & 13th,  Sep-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -610,7 +610,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 17th-18th,Sep-2024</span>
+                  <span>Workshop 17th-18th,  Sep-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -626,7 +626,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 19th-20th,Sep-2024</span>
+                  <span>Workshop 19th-20th,  Sep-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -641,7 +641,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 24th 25th 26th 27th,Sep-2024</span>
+                  <span>Workshop 24th 25th 26th 27th,  Sep-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -1055,21 +1055,21 @@ export default function Workshops() {
                         >
                           <option value="">Pick up any Slot*</option>
 
-                          <option value="Crucial Conversations® For Mastering Dialogue-12th & 13th,Sep-2024">
+                          <option value="Crucial Conversations® For Mastering Dialogue-12th & 13th,  Sep-2024">
                             Crucial Conversations® For Mastering Dialogue-12th &
-                            13th,Sep-2024
+                            13th,  Sep-2024
                           </option>
 
-                          <option value="  BThe SLII Experience™-17th-18th,Sep-2024 ">
-                            The SLII Experience™-17th-18th,Sep-2024
+                          <option value="  BThe SLII Experience™-17th-18th,  Sep-2024 ">
+                            The SLII Experience™-17th-18th,  Sep-2024
                           </option>
 
-                          <option value="The SLII Experience™ T4T F2F-19th-20th,Sep-2024">
-                            The SLII Experience™ T4T F2F-19th-20th,Sep-2024
+                          <option value="The SLII Experience™ T4T F2F-19th-20th,  Sep-2024">
+                            The SLII Experience™ T4T F2F-19th-20th,  Sep-2024
                           </option>
 
-                          <option value="Disc Certification®-24th 25th 26th 27th,Sep-2024">
-                            Disc Certification®-24th 25th 26th 27th,Sep-2024
+                          <option value="Disc Certification®-24th 25th 26th 27th,  Sep-2024">
+                            Disc Certification®-24th 25th 26th 27th,  Sep-2024
                           </option>
 
                           <option value="Crucial Conversations® For Mastering Dialogue-10th &11th,Oct-2024">
