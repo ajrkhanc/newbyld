@@ -62,7 +62,7 @@ export default function Workshops() {
         <link rel="canonical" href="https://byldgroup.com/workshops" />
         <meta
           name="description"
-          content="April 29th, 2022Trapologist at WorkTM Workshop Virtual Public Workshop: April 29th, 2022 Learn More & Register April 26th – 29th, 2022DISC Train-the-Trainer (TTT) Virtual Public Workshop: April 26th – 29th, 2022 Learn More & Register May 9th – 12th, 2022Blanchard India Online Workshop Virtual Public Workshop: May 9th – 12th, 2022 Reserve Your Seat May… Continue reading Workshops"
+          content="April 29th, 2022Trapologist At Work™TM Workshop Virtual Public Workshop: April 29th, 2022 Learn More & Register April 26th – 29th, 2022DISC Train-the-Trainer (TTT) Virtual Public Workshop: April 26th – 29th, 2022 Learn More & Register May 9th – 12th, 2022Blanchard India Online Workshop Virtual Public Workshop: May 9th – 12th, 2022 Reserve Your Seat May… Continue reading Workshops"
         />
         <link
           rel="stylesheet"
@@ -737,7 +737,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Trapologist At work</h3>
+                  <h3>Trapologist At Work™</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -1093,8 +1093,8 @@ export default function Workshops() {
                             Getting Things Done®®-20th,, Dec-2024
                           </option>
 
-                          <option value="Trapologist At work-11th,, Dec-2024">
-                            Trapologist At work-11th,, Dec-2024
+                          <option value="Trapologist At Work™-11th,, Dec-2024">
+                            Trapologist At Work™-11th,, Dec-2024
                           </option>
                           <option value="Disc Certification®-10th 11th 12th 13th,, Dec-2024	">
                             Disc Certification®-10th 11th 12th 13th,, Dec-2024
