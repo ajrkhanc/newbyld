@@ -868,7 +868,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 6th-7th March-2025</span>
+                  <span>Workshop 6th-7th , Mar-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -883,7 +883,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 18th-19th March-2025</span>
+                  <span>Workshop 18th-19th , Mar-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -898,7 +898,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 20th-21st March-2025</span>
+                  <span>Workshop 20th-21st , Mar-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
