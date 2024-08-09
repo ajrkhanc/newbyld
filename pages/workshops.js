@@ -189,7 +189,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - September 13th - 14th, 2023</span>
+                                    <span>Workshop - Sep 13th - 14th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>Crucial Life Changing Skills Online Workshop</h3>
@@ -202,7 +202,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>September 19th - 22nd, 2023</span>
+                                    <span>Sep 19th - 22nd, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
@@ -215,7 +215,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - September 25th to 26th, 2023</span>
+                                    <span>Workshop - Sep 25th to 26th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>The SLII Experience™ - Virtual</h3>
@@ -227,7 +227,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - September 27th to 28th, 2023</span>
+                                    <span>Workshop - Sep 27th to 28th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>The SLII Experience™ - T4T</h3>
@@ -240,7 +240,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - September 28th, 2023</span>
+                                    <span>Workshop - Sep 28th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>Crucial Life Changing Skills Online Workshop</h3>
@@ -253,7 +253,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>October 3rd – 6th, 2023</span>
+                                    <span>Oct 3rd – 6th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
@@ -266,7 +266,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - October 5th - 6th, 2023</span>
+                                    <span>Workshop - Oct 5th - 6th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>Crucial Life Changing Skills Online Workshop</h3>
@@ -279,7 +279,7 @@ export default function Workshops() {
                             <div className='eventsbox'>
                                 <div className='eventmiddle'>
                                     <img src="/assets/img/events.jpg" alt="" />
-                                    <span>October 17th - 20th, 2023</span>
+                                    <span>Oct 17th - 20th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
@@ -369,10 +369,6 @@ export default function Workshops() {
             </div>
              */}
 
-         
-
-           
-
             {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
@@ -388,7 +384,7 @@ export default function Workshops() {
               </div>
             </div>*/}
 
-               {/* <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -416,9 +412,8 @@ export default function Workshops() {
                 </div>
               </div>
             </div>>*/}
-            
 
-{/*             
+            {/*             
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
@@ -476,10 +471,6 @@ export default function Workshops() {
                             </div>
                         </div> */}
 
- 
-
-           
-
             {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
@@ -510,7 +501,6 @@ export default function Workshops() {
               </div>
             </div> */}
 
-            
             {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
@@ -556,7 +546,7 @@ export default function Workshops() {
               </div>
             </div> */}
 
-             {/* <div className="col-sm-4">
+            {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
@@ -571,8 +561,6 @@ export default function Workshops() {
               </div>
             </div> */}
 
-
-            
             {/* <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
@@ -587,8 +575,6 @@ export default function Workshops() {
                 </div>
               </div>
             </div> */}
-
-          
 
             {/* <div className="col-sm-4">
               <div className="eventsbox">
@@ -605,16 +591,30 @@ export default function Workshops() {
               </div>
             </div> */}
 
-            
-
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop - March 18th, 2024</span>
+                  <span>Workshop 12th & 13th,Sep-2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>Trapologist at Work® Workshop</h3>
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Crucial Conversations for Mastering Dialogue </h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 17th-18th,Sep-2024</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>The SLII Experience™ </h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -626,249 +626,11 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>March 19th,20th,21st & 22nd , 2024</span>
+                  <span>Workshop 19th-20th,Sep-2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
-
-
-
-
-
-            {/* <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 12th & 13th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>The SLII Experience™ - Virtual</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div> */}
-
-         
-
-            {/* <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop - January 19th & 20th 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>SLII™ T4T F2F</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div> */}
-
-            {/* <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 1st, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Self Leadership - Virtual</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div> */}
-
-            {/* <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 10th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Conversational Capacity - Virtual</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div> */}
-
-{/*             
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 23rd , 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 24th , 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 25th , 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div> */}
-            {/* <div className='col-sm-4'>
-                            <div className='eventsbox'>
-                                <div className='eventmiddle'>
-                                    <img src="/assets/img/events.jpg" alt="" />
-                                    <span>Workshop - December 14th - 15th, 2023</span>
-                                </div>
-                                <div className='eventbottom'>
-                                    <h3>Crucial Life Changing Skills Online Workshop</h3>
-                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
-                                </div>
-                            </div>
-                        </div> */}
-
- 
-
-           
-
-            {/* <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 22nd, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Fearless Innovation</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div> */}
-
-          {/*   <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>March 13th & 14th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>SLII™ - Virtual</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>*/}
-
-            
-            {/* <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 16th , 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div> */}
-
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>March 21st and 22nd, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>SLII™ T4T F2F</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>March 21st, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Blanchard Management Essentials - Virtual</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
-
-          
-
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>April 4th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>SLII™</h3>
-                  <a className="eventbtn" href="#Register">
-                    Reserve Your Seat
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            
-
-            <div className="col-sm-4">
-              <div className="eventsbox">
-                <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
-                  <span>April 18th & 19th, 2024</span>
-                </div>
-                <div className="eventbottom">
-                  <h3>Self Leadership - Virtual</h3>
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>The SLII Experience™ T4T F2F </h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -879,10 +641,56 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span> April 23rd, 24th, 25th & 26th,2024 </span>
+                  <span>Workshop 24th 25th 26th 27th,Sep-2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Disc Certification </h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 10th &11th,Oct-2024</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Crucial Conversations for Mastering Dialogue </h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 17th,Oct-2024</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>The Power of Habit </h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 18th,Oct-2024</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>BME - Virtual </h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -894,11 +702,27 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>May 8th & 9th, 2024</span>
+                  <span>Workshop 12th Nov-2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>SLII™ - Virtual</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Crucial Influence </h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 20th Dec-2024</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Getting Things Done </h3>
+                  <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
@@ -909,11 +733,12 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>May 16th & 17th, 2024</span>
+                  <span>Workshop 11th Dec-2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>SLII™ T4T F2F</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Trapologist At work</h3>
+                  <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
@@ -923,11 +748,12 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>May 16th & 17th , 2024</span>
+                  <span>Workshop 10th 11th 12th 13th Dec-2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification F2F Workshop</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Disc Certification</h3>
+                  <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
@@ -937,64 +763,152 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>June 4th & 7th , 2024</span>
+                  <span>Workshop 10th Dec-2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Self Leadership</h3>
+                  <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
               </div>
             </div>
-
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>June 6th, 2024</span>
+                  <span>Workshop 24th jan-2025</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>Essential Motivators - F2F</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Getting Things Done</h3>
+                  <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
               </div>
             </div>
-
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>June 13th, 2024</span>
+                  <span>Workshop 20th jan-2025</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>Leading People Through Change </h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>The SLII Experience™</h3>
+                  <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
               </div>
             </div>
-
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>June 20th, 2024</span>
+                  <span>Workshop 22nd-23rd jan-2025</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>Building Trust</h3>
-                  <a target="_blank" className="eventbtn" href="#Register">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>The SLII Experience™ T4T F2F</h3>
+                  <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
                 </div>
               </div>
             </div>
-
-
-
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 7th feb-2025</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Getting Things Done</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 24th & 25th feb-2025</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Disc Certification</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 20th-21st feb-2025</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Crucial Influence</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 6th-7th March-2025</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>Crucial Conversations for Mastering Dialogue</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 18th-19th March-2025</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>The SLII Experience™</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-4">
+              <div className="eventsbox">
+                <div className="eventmiddle">
+                  <img src="/assets/img/events.jpg" alt="" />
+                  <span>Workshop 20th-21st March-2025</span>
+                </div>
+                <div className="eventbottom">
+                  {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
+                  <h3>The SLII Experience™ T4T F2F</h3>
+                  <a className="eventbtn" href="#Register">
+                    Reserve Your Seat
+                  </a>
+                </div>
+              </div>
+            </div>
 
             {/* <div className="col-sm-4">
               <div className="eventsbox">
@@ -1040,17 +954,15 @@ export default function Workshops() {
                 </div>
               </div>
             </div> */}
-
           </div>
-
-          </div>
-          <div className="clearfix"></div>
-          <div className="solutionarrowbox1">
-            <img src="/assets/img/homeb/orangearrow.png" />
-          </div>
-          <div className="solutionarrowbox2">
-            <img src="/assets/img/homeb/bluearrow1.png" />
-          </div>
+        </div>
+        <div className="clearfix"></div>
+        <div className="solutionarrowbox1">
+          <img src="/assets/img/homeb/orangearrow.png" />
+        </div>
+        <div className="solutionarrowbox2">
+          <img src="/assets/img/homeb/bluearrow1.png" />
+        </div>
       </section>
 
       <div id="Register" class="homecon ptt-60">
@@ -1142,200 +1054,82 @@ export default function Workshops() {
                           required
                         >
                           <option value="">Pick up any Slot*</option>
-                          {/* <option value="Team Leadership - Virtual July 26th, 2023">Team Leadership - Virtual July 26th, 2023</option>
-                                                <option value="Crucial Life Changing Skills, Getting Things Done - July 27th, 2023">Crucial Life Changing Skills, Getting Things Done - July 27th, 2023</option> */}
-                          {/* 
-                                                <option value="August 17th - 18th, 2023 - DISC Certification (TTT)">August 17th - 18th, 2023 - DISC Certification (TTT)</option>*/}
 
-                          {/* <option value="Conversational Capacity - Virtual - August 23rd, 2023">Conversational Capacity - Virtual - August 23rd, 2023</option>
-                                                <option value="Crucial Life Changing Skills, The Power of Habit - August 24th, 2023">Crucial Life Changing Skills, The Power of Habit - August 24th, 2023</option>
-                                                <option value="Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023">Crucial Life Changing Skills, Influencer - August 24th - 25th, 2023</option> */}
-                          {/* <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023">Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - September 13th - 14th, 2023</option>
-                                                <option value="September 19th - 22nd, 2023 - DiSC Certification Virtual Workshop">September 19th - 22nd, 2023 - DiSC Certification Virtual Workshop</option>                                                
-                                                <option value="The SLII Experience™ - September 25th, 2023">The SLII Experience™ - September 25th, 2023</option>
-                                                <option value="The SLII Experience™ T4T F2F - September 27th, 2023">The SLII Experience™ T4T F2F - September 27th, 2023</option>
-                                                <option value="Crucial Life Changing Skills, Getting Things Done - September 28th, 2023">Crucial Life Changing Skills, Getting Things Done - September 28th, 2023</option>
-                                                <option value="October 3rd - 6th, 2023 - DiSC Certification Virtual Workshop">October 3rd - 6th, 2023 - DiSC Certification Virtual Workshop</option>
-                                                <option value="Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023">Crucial Life Changing Skills, Crucial Conversations for Accountability - October 5th - 6th, 2023</option> */}
-                          {/* <option value="October 17th - 20th, 2023 - DiSC Certification Virtual Workshop">October 17th - 20th, 2023 - DiSC Certification Virtual Workshop</option> */}
-                          {/* <option value="Getting Things Done - November 6th to 8th, 2023">
-                            Getting Things Done - November 6th to 8th, 2023
-                          </option>
-                          <option value="Getting Things Done - November 9th to 10th, 2023">
-                            Getting Things Done - November 9th to 10th, 2023
-                          </option>
-                          <option value="November 20th - 24th, 2023 - DiSC Certification Virtual Workshop">
-                            November 20th - 24th, 2023 - DiSC Certification
-                            Virtual Workshop
-                          </option>
-                          <option value="Crucial Life Changing Skills, The Power of Habit - November 29th, 2023">
-                            Crucial Life Changing Skills, The Power of Habit -
-                            November 29th, 2023
-                          </option>
-                          <option value="December 5th - 8th, 2023 - DiSC Certification Virtual Workshop">
-                            December 5th - 8th, 2023 - DiSC Certification
-                            Virtual Workshop
-                          </option>
-                          <option value="Crucial Life Changing Skills, Crucial Conversations for Mastering Dialogue - December 14th - 15th, 2023">
-                            Crucial Life Changing Skills, Crucial Conversations
-                            for Mastering Dialogue - December 14th - 15th, 2023
-                          </option> */}
-                               {/* <option value="DCA BAtch 43  - January 6th, 2024">
-                           DCA BAtch 43 -
-                            January 6th, 2024
-                          </option> */}
-                          {/* <option value="DCA BAtch 43  - January 6th, 2024">
-                           The Power Of Habit -
-                            January 11th, 2024
-                          </option> */}
-                         
-                          {/* <option value="Crucial Conversations® For Mastering Dialogue Workshop - January 22nd-23rd, 2024">
-                          Crucial Conversations® For Mastering Dialogue Workshop -
-                            January 22nd -23rd, 2024
-                          </option> */}
-                          {/* <option value="DiSC Certification Virtual Workshop - 22nd, 23rd, 24th, 25th January, 2024">
-                          DiSC Certification Virtual Workshop -
-                          22nd, 23rd, 24th, 25th January, 2024
-                          </option> */}
-
-                            
-                          {/* <option value="Getting Things Done®Workshop - February 9th, 2024">
-                          Getting Things Done® Workshop -
-                            February 9th, 2024
-                          </option> */}
-                          {/* <option value="DiSC Certification In-Person Workshop - February 22nd & 23rd , 2024">
-                          DiSC Certification In-Person Workshop -
-                            February 22nd & 23rd , 2024
-                          </option> */}
-                        
-                          {/* <option value="DCA BAtch 43 - February 17th, 2024">
-                          DCA BAtch 43 - February
-                            17th, 2024
-                          </option> */}
-                          {/* <option value="Crucial Conversations for Accountability®- February 22nd-23rd, 2024">
-                          Crucial Conversations for Accountability®
-                          February 22nd - 23rd, 2024
-                          </option> */}
-                        
-                          {/* <option value="Crucial Influence - March 7th, 2024">
-                          Crucial Influence -
-                            March 7th, 2024
-                          </option> */}
-                         
-                          <option value="Trapologist at Work® - March 18th, 2024">
-                          Trapologist at Work® -
-                            March 18th, 2024
-                          </option>
-                          <option value="DiSC Certification Virtual Workshop - March 19th,20th,21st & 22nd , 2024">
-                          DiSC Certification Virtual Workshop -
-                            March 19th,20th,21st & 22nd , 2024
+                          <option value="Crucial Conversations for Mastering Dialogue-12th & 13th,Sep-2024">
+                            Crucial Conversations for Mastering Dialogue-12th &
+                            13th,Sep-2024
                           </option>
 
-                          {/* ------ */}
-
-                          {/* <option value="SLII™ - Virtual -
-                          January 12th & 13th, 2024">
-                          SLII™ - Virtual -
-                          January 12th & 13th, 2024
-                          </option> */}
-
-                          {/* <option value="SLII™ T4T F2F - January 19th & 20th, 2024">
-                          SLII™ T4T F2F - January 19th & 20th, 2024
-                          </option> */}
-
-                          {/* <option value="|Self Leadership - Virtual -
-                          February 1, 2024">
-                          Self Leadership - Virtual -
-                          February 1st, 2024
-                          </option> */}
-
-                          {/* <option value="Conversational Capacity - Virtual -
-                          February 10, 2024">
-                          Conversational Capacity - Virtual -
-                          February 10th, 2024
-                          </option> */}
-
-{/* 
-                          <option value=" Fearless Innovation -
-                          February 22, 2024">
-                          Fearless Innovation -
-                          February 22nd, 2024
-                          </option> */}
-
-                         {/*  <option value="SLII™ - Virtual -
-                          March 13th & 14 th, 2024">
-                          SLII™ - Virtual -
-                          March 13th & 14th, 2024
-                          </option>*/}
-
-                          <option value="SLII™ T4T F2F -
-                          March 21st & 22nd, 2024">
-                          SLII™ T4T F2F -
-                          March 21st & 22nd, 2024
+                          <option value="  BThe SLII Experience™-17th-18th,Sep-2024 ">
+                            The SLII Experience™-17th-18th,Sep-2024
                           </option>
 
-                          <option value="  Blanchard Management Essentials - Virtual-
-                          March 21, 2024">
-                          Blanchard Management Essentials - Virtual-
-                          March 21st, 2024
+                          <option value="The SLII Experience™ T4T F2F-19th-20th,Sep-2024">
+                            The SLII Experience™ T4T F2F-19th-20th,Sep-2024
                           </option>
 
-                          <option value="SLII™ -
-                          April 4, 2024">
-                          SLII™ -
-                          April 4th, 2024
+                          <option value="Disc Certification-24th 25th 26th 27th,Sep-2024">
+                            Disc Certification-24th 25th 26th 27th,Sep-2024
                           </option>
 
-                          <option value="Self Leadership - Virtual -
-                          April 18th & 19th, 2024">
-                          Self Leadership - Virtual -
-                          April 18th & 19th, 2024
+                          <option value="Crucial Conversations for Mastering Dialogue-10th &11th,Oct-2024">
+                            Crucial Conversations for Mastering Dialogue-10th
+                            &11th,Oct-2024
                           </option>
 
-                          <option value="DiSC Certification Virtual Workshop April 23rd, 24th, 25th & 26th,2024 ">
-                          DiSC Certification Virtual Workshop April 23rd, 24th, 25th & 26th,2024 
+                          <option value="The Power of Habit-17th,Oct-2024">
+                            The Power of Habit-17th,Oct-2024
                           </option>
 
-                          <option value="SLII™ - Virtual -
-                          May 8th & 9th, 2024">
-                          SLII™ - Virtual -
-                          May 8th & 9th, 2024
+                          <option value="BME - Virtual-18th,Oct-2024">
+                            BME - Virtual-18th,Oct-2024
                           </option>
 
-                          <option value="SLII™ T4T F2F -
-                          May 16th & 17th, 2024">
-                          SLII™ T4T F2F -
-                          May 16th & 17th, 2024
+                          <option value="  Crucial Influence-12th,Nov-2024	">
+                            Crucial Influence-12th,Nov-2024
                           </option>
 
-                          <option value="  Essential Motivators - F2F -
-                          June 6, 2024">
-                          Essential Motivators - F2F -
-                          June 6th, 2024
+                          <option value="Getting Things Done-20th,Dec-2024">
+                            Getting Things Done-20th,Dec-2024
                           </option>
 
-                          <option value="Leading People Through Change  -
-                          June 13, 2024">
-                          Leading People Through Change  -
-                          June 13th, 2024
+                          <option value="Trapologist At work-11th,Dec-2024">
+                            Trapologist At work-11th,Dec-2024
                           </option>
-
-                          <option value="Building Trust -
-                          June 20, 2024">
-                          Building Trust -
-                          June 20th, 2024
+                          <option value="Disc Certification-10th 11th 12th 13th,Dec-2024	">
+                            Disc Certification-10th 11th 12th 13th,Dec-2024
                           </option>
-                          <option value="DiSC Certification F2F Workshop -
-                          May 16th & 17th , 2024">
-                          DiSC Certification F2F Workshop -
-                          May 16th & 17th , 2024
+                          <option value="Self Leadership-10th,Dec-2024	">
+                            Self Leadership-10th,Dec-2024
                           </option>
-                          <option value="DiSC Certification Virtual Workshop -
-                          June 4th & 7th , 2024">
-                          DiSC Certification Virtual Workshop -
-                          June 4th & 7th , 2024
+                          <option value="Getting Things Done-24th,Jan-2025	">
+                            Getting Things Done-24th,Jan-2025
                           </option>
-                         
+                          <option value="The SLII Experience™- Virtual-20th-21st,Jan-2025		">
+                            The SLII Experience™- Virtual-20th-21st,Jan-2025
+                          </option>
+                          <option value="The SLII Experience™ T4T F2F-22nd-23rd,Jan-2025">
+                            The SLII Experience™ T4T F2F-22nd-23rd,Jan-2025
+                          </option>
+                          <option value="Getting Things Done-7th,feb-2025">
+                            Getting Things Done-7th,feb-2025
+                          </option>
+                          <option value="Disc Certification-24th & 25th,feb-2025	">
+                            Disc Certification-24th & 25th,feb-2025
+                          </option>
+                          <option value="Crucial Influence-20th-21st,feb-2025		">
+                            Crucial Influence-20th-21st,feb-2025
+                          </option>
+                          <option value="Crucial Conversations for Mastering Dialogue-6th-7th,March-2025">
+                            Crucial Conversations for Mastering
+                            Dialogue-6th-7th,March-2025
+                          </option>
+                          <option value="The SLII Experience™-18th-19th,March-2025">
+                            The SLII Experience™-18th-19th,March-2025
+                          </option>
+                          <option value=" The SLII Experience™ T4T F2F-20th-21st,March-2025">
+                            The SLII Experience™ T4T F2F-20th-21st,March-2025
+                          </option>
                         </select>
                       </div>
                       <div className="col-sm-6 mb-12">
