@@ -1140,22 +1140,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                                     
  
                                                     <option value='48th Cohort, 24th August 2024'>48th Cohort, 24th August 2024</option> 
-                                                    <option value='48th Cohort, 31st august 2024'>48th Cohort, 31st august 2024</option> 
-                                                    <option value='48th Cohort, 14th september 2024'>48th Cohort, 14th september 2024</option> 
-                                                    <option value='48th Cohort, 21st september 2024'>48th Cohort, 21st september 2024</option> 
-                                                    <option value='48th Cohort, 28th september 2024'>48th Cohort, 28th september 2024</option> 
-                                                    <option value='48th Cohort, 05 october 2024'>48th Cohort, 05 october 2024</option> 
+                                                   
                                                     <option value='49th Cohort, 19th october 2024'>49th Cohort, 19th october 2024</option> 
-                                                    <option value='49th Cohort, 26th october 2024'>49th Cohort, 26th october 2024</option> 
-                                                    <option value='49th Cohort, 16th november 2024'>49th Cohort, 16th november 2024</option> 
-                                                    <option value='49th Cohort, 23th november 2024'>49th Cohort, 23th november 2024</option> 
-                                                    <option value='49th Cohort, 30 november 2024'>49th Cohort, 30 november 2024</option> 
-                                                    <option value='49th Cohort, 7th december 2024'>49th Cohort, 7th december 2024</option> 
+                                                  
                                                     <option value='50th Cohort, 14th december 2024'>50th Cohort, 14th december 2024</option> 
-                                                    <option value='50th Cohort, 04th january 2025'>50th Cohort, 04th january 2025</option> 
-                                                    <option value='50th Cohort, 11th january 2025'>50th Cohort, 11th january 2025</option> 
-                                                    <option value='50th Cohort, 18th january 2025'>50th Cohort, 18th january 2025</option> 
-                                                    <option value='50th Cohort, 25th january 2025'>50th Cohort, 25th january 2025</option> 
+                                                   
                                                     
                                                 </select>
                                             </div>
