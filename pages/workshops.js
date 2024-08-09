@@ -206,7 +206,7 @@ export default function Workshops() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                   <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
@@ -257,7 +257,7 @@ export default function Workshops() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                   <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
@@ -283,7 +283,7 @@ export default function Workshops() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                   <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div> */}
@@ -296,7 +296,7 @@ export default function Workshops() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>Getting Things Done Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                   <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
@@ -309,7 +309,7 @@ export default function Workshops() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>Getting Things Done (TTT) - Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                   <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
@@ -323,7 +323,7 @@ export default function Workshops() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                   <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
@@ -335,7 +335,7 @@ export default function Workshops() {
                                 </div>
                                 <div className='eventbottom'>
                                     <h3>DiSC Certification Virtual Workshop</h3>
-                                    <a target="_blank" className="eventbtn" href='#Register'>Reserve Your Seat</a>
+                                   <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
                         </div>
