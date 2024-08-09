@@ -778,7 +778,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 24th jan-2025</span>
+                  <span>Workshop 24th ,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -793,7 +793,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 20th jan-2025</span>
+                  <span>Workshop 20th ,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -808,7 +808,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 22nd-23rd jan-2025</span>
+                  <span>Workshop 22nd-23rd ,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -1102,14 +1102,14 @@ export default function Workshops() {
                           <option value="Self Leadership-10th,, Dec-2024	">
                             Self Leadership-10th,, Dec-2024
                           </option>
-                          <option value="Getting Things Done®®-24th,Jan-2025	">
-                            Getting Things Done®®-24th,Jan-2025
+                          <option value="Getting Things Done®®-24th,,  Jan-2025	">
+                            Getting Things Done®®-24th,,  Jan-2025
                           </option>
-                          <option value="The SLII Experience™- Virtual-20th-21st,Jan-2025		">
-                            The SLII Experience™- Virtual-20th-21st,Jan-2025
+                          <option value="The SLII Experience™- Virtual-20th-21st,,  Jan-2025		">
+                            The SLII Experience™- Virtual-20th-21st,,  Jan-2025
                           </option>
-                          <option value="The SLII Experience™ T4T F2F-22nd-23rd,Jan-2025">
-                            The SLII Experience™ T4T F2F-22nd-23rd,Jan-2025
+                          <option value="The SLII Experience™ T4T F2F-22nd-23rd,,  Jan-2025">
+                            The SLII Experience™ T4T F2F-22nd-23rd,,  Jan-2025
                           </option>
                           <option value="Getting Things Done®-7th,feb-2025">
                             Getting Things Done®-7th,feb-2025
