@@ -599,7 +599,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Crucial Conversations for Mastering Dialogue </h3>
+                  <h3>Crucial Conversations® For Mastering Dialogue </h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -660,7 +660,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Crucial Conversations for Mastering Dialogue </h3>
+                  <h3>Crucial Conversations® For Mastering Dialogue </h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -872,7 +872,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Crucial Conversations for Mastering Dialogue</h3>
+                  <h3>Crucial Conversations® For Mastering Dialogue</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -1055,8 +1055,8 @@ export default function Workshops() {
                         >
                           <option value="">Pick up any Slot*</option>
 
-                          <option value="Crucial Conversations for Mastering Dialogue-12th & 13th,Sep-2024">
-                            Crucial Conversations for Mastering Dialogue-12th &
+                          <option value="Crucial Conversations® For Mastering Dialogue-12th & 13th,Sep-2024">
+                            Crucial Conversations® For Mastering Dialogue-12th &
                             13th,Sep-2024
                           </option>
 
@@ -1072,8 +1072,8 @@ export default function Workshops() {
                             Disc Certification®-24th 25th 26th 27th,Sep-2024
                           </option>
 
-                          <option value="Crucial Conversations for Mastering Dialogue-10th &11th,Oct-2024">
-                            Crucial Conversations for Mastering Dialogue-10th
+                          <option value="Crucial Conversations® For Mastering Dialogue-10th &11th,Oct-2024">
+                            Crucial Conversations® For Mastering Dialogue-10th
                             &11th,Oct-2024
                           </option>
 
@@ -1120,7 +1120,7 @@ export default function Workshops() {
                           <option value="Crucial Influence-20th-21st,feb-2025		">
                             Crucial Influence-20th-21st,feb-2025
                           </option>
-                          <option value="Crucial Conversations for Mastering Dialogue-6th-7th,March-2025">
+                          <option value="Crucial Conversations® For Mastering Dialogue-6th-7th,March-2025">
                             Crucial Conversations for Mastering
                             Dialogue-6th-7th,March-2025
                           </option>
