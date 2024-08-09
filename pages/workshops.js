@@ -478,7 +478,7 @@ export default function Workshops() {
                   <span>February 7th , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>Getting Things Done®® Workshop</h3>
+                  <h3>Getting Things Done® Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -721,7 +721,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Getting Things Done®® </h3>
+                  <h3>Getting Things Done® </h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -782,7 +782,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Getting Things Done®®</h3>
+                  <h3>Getting Things Done®</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -827,7 +827,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Getting Things Done®®</h3>
+                  <h3>Getting Things Done®</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -1089,8 +1089,8 @@ export default function Workshops() {
                             Crucial Influence-12th,Nov-2024
                           </option>
 
-                          <option value="Getting Things Done®®-20th,, Dec-2024">
-                            Getting Things Done®®-20th,, Dec-2024
+                          <option value="Getting Things Done®-20th,, Dec-2024">
+                            Getting Things Done®-20th,, Dec-2024
                           </option>
 
                           <option value="Trapologist At Work™-11th,, Dec-2024">
@@ -1102,8 +1102,8 @@ export default function Workshops() {
                           <option value="Self Leadership-10th,, Dec-2024	">
                             Self Leadership-10th,, Dec-2024
                           </option>
-                          <option value="Getting Things Done®®-24th,,  Jan-2025	">
-                            Getting Things Done®®-24th,,  Jan-2025
+                          <option value="Getting Things Done®-24th,,  Jan-2025	">
+                            Getting Things Done®-24th,,  Jan-2025
                           </option>
                           <option value="The SLII Experience™- Virtual-20th-21st,,  Jan-2025		">
                             The SLII Experience™- Virtual-20th-21st,,  Jan-2025
