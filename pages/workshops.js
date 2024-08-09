@@ -717,7 +717,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 20th Dec-2024</span>
+                  <span>Workshop 20th , Dec-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -733,7 +733,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 11th Dec-2024</span>
+                  <span>Workshop 11th , Dec-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -748,7 +748,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 10th 11th 12th 13th Dec-2024</span>
+                  <span>Workshop 10th 11th 12th 13th , Dec-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -763,7 +763,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 10th Dec-2024</span>
+                  <span>Workshop 10th , Dec-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -1089,18 +1089,18 @@ export default function Workshops() {
                             Crucial Influence-12th,Nov-2024
                           </option>
 
-                          <option value="Getting Things Done®®-20th,Dec-2024">
-                            Getting Things Done®®-20th,Dec-2024
+                          <option value="Getting Things Done®®-20th,, Dec-2024">
+                            Getting Things Done®®-20th,, Dec-2024
                           </option>
 
-                          <option value="Trapologist At work-11th,Dec-2024">
-                            Trapologist At work-11th,Dec-2024
+                          <option value="Trapologist At work-11th,, Dec-2024">
+                            Trapologist At work-11th,, Dec-2024
                           </option>
-                          <option value="Disc Certification®-10th 11th 12th 13th,Dec-2024	">
-                            Disc Certification®-10th 11th 12th 13th,Dec-2024
+                          <option value="Disc Certification®-10th 11th 12th 13th,, Dec-2024	">
+                            Disc Certification®-10th 11th 12th 13th,, Dec-2024
                           </option>
-                          <option value="Self Leadership-10th,Dec-2024	">
-                            Self Leadership-10th,Dec-2024
+                          <option value="Self Leadership-10th,, Dec-2024	">
+                            Self Leadership-10th,, Dec-2024
                           </option>
                           <option value="Getting Things Done®®-24th,Jan-2025	">
                             Getting Things Done®®-24th,Jan-2025
