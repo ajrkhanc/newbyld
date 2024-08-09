@@ -137,7 +137,7 @@ export default function Workshops() {
                                     <span>August 17th - 18th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
-                                    <h3>DISC Certification (TTT)</h3>
+                                    <h3>Disc Certification®® (TTT)</h3>
                                     <a target="_blank" className="eventbtn" href='/everythingdisc/everything-disc-ttt-vt-lp/'>Reserve Your Seat</a>
                                 </div>
                             </div>
@@ -205,7 +205,7 @@ export default function Workshops() {
                                     <span>Sep 19th - 22nd, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
-                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <h3>Disc Certification®® Virtual Workshop</h3>
                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
@@ -256,7 +256,7 @@ export default function Workshops() {
                                     <span>Oct 3rd – 6th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
-                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <h3>Disc Certification®® Virtual Workshop</h3>
                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
@@ -282,7 +282,7 @@ export default function Workshops() {
                                     <span>Oct 17th - 20th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
-                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <h3>Disc Certification®® Virtual Workshop</h3>
                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
@@ -322,7 +322,7 @@ export default function Workshops() {
                                     <span>November 20th - 24th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
-                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <h3>Disc Certification®® Virtual Workshop</h3>
                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
@@ -334,7 +334,7 @@ export default function Workshops() {
                                     <span>December 12th - 15th, 2023</span>
                                 </div>
                                 <div className='eventbottom'>
-                                    <h3>DiSC Certification Virtual Workshop</h3>
+                                    <h3>Disc Certification®® Virtual Workshop</h3>
                                    <a className="eventbtn" href='#Register'>Reserve Your Seat</a>
                                 </div>
                             </div>
@@ -391,7 +391,7 @@ export default function Workshops() {
                   <span>January 22nd, 23rd, 24th, 25th , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>Disc Certification®® Virtual Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -421,7 +421,7 @@ export default function Workshops() {
                   <span>January 23rd , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>Disc Certification®® Virtual Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -436,7 +436,7 @@ export default function Workshops() {
                   <span>January 24th , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>Disc Certification®® Virtual Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -451,7 +451,7 @@ export default function Workshops() {
                   <span>January 25th , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>Disc Certification®® Virtual Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -493,7 +493,7 @@ export default function Workshops() {
                   <span>February 22nd & 23rd , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification In-Person Workshop</h3>
+                  <h3>Disc Certification®® In-Person Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -508,7 +508,7 @@ export default function Workshops() {
                   <span>February 16th , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>Disc Certification® Virtual Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -645,7 +645,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Disc Certification </h3>
+                  <h3>Disc Certification® </h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -752,7 +752,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Disc Certification</h3>
+                  <h3>Disc Certification®</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -842,7 +842,7 @@ export default function Workshops() {
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
-                  <h3>Disc Certification</h3>
+                  <h3>Disc Certification®</h3>
                   <a className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -917,7 +917,7 @@ export default function Workshops() {
                   <span>March 20th , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>Disc Certification® Virtual Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -932,7 +932,7 @@ export default function Workshops() {
                   <span>March 21st , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>Disc Certification® Virtual Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -947,7 +947,7 @@ export default function Workshops() {
                   <span>March 22nd , 2024</span>
                 </div>
                 <div className="eventbottom">
-                  <h3>DiSC Certification Virtual Workshop</h3>
+                  <h3>Disc Certification® Virtual Workshop</h3>
                   <a target="_blank" className="eventbtn" href="#Register">
                     Reserve Your Seat
                   </a>
@@ -1068,8 +1068,8 @@ export default function Workshops() {
                             The SLII Experience™ T4T F2F-19th-20th,Sep-2024
                           </option>
 
-                          <option value="Disc Certification-24th 25th 26th 27th,Sep-2024">
-                            Disc Certification-24th 25th 26th 27th,Sep-2024
+                          <option value="Disc Certification®-24th 25th 26th 27th,Sep-2024">
+                            Disc Certification®-24th 25th 26th 27th,Sep-2024
                           </option>
 
                           <option value="Crucial Conversations for Mastering Dialogue-10th &11th,Oct-2024">
@@ -1096,8 +1096,8 @@ export default function Workshops() {
                           <option value="Trapologist At work-11th,Dec-2024">
                             Trapologist At work-11th,Dec-2024
                           </option>
-                          <option value="Disc Certification-10th 11th 12th 13th,Dec-2024	">
-                            Disc Certification-10th 11th 12th 13th,Dec-2024
+                          <option value="Disc Certification®-10th 11th 12th 13th,Dec-2024	">
+                            Disc Certification®-10th 11th 12th 13th,Dec-2024
                           </option>
                           <option value="Self Leadership-10th,Dec-2024	">
                             Self Leadership-10th,Dec-2024
@@ -1114,8 +1114,8 @@ export default function Workshops() {
                           <option value="Getting Things Done®-7th,feb-2025">
                             Getting Things Done®-7th,feb-2025
                           </option>
-                          <option value="Disc Certification-24th & 25th,feb-2025	">
-                            Disc Certification-24th & 25th,feb-2025
+                          <option value="Disc Certification®-24th & 25th,feb-2025	">
+                            Disc Certification®-24th & 25th,feb-2025
                           </option>
                           <option value="Crucial Influence-20th-21st,feb-2025		">
                             Crucial Influence-20th-21st,feb-2025
