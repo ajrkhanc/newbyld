@@ -823,7 +823,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 7th feb-2025</span>
+                  <span>Workshop 7th , Feb-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -838,7 +838,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 24th & 25th feb-2025</span>
+                  <span>Workshop 24th & 25th , Feb-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -853,7 +853,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>Workshop 20th-21st feb-2025</span>
+                  <span>Workshop 20th-21st , Feb-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -1111,14 +1111,14 @@ export default function Workshops() {
                           <option value="The SLII Experience™ T4T F2F-22nd-23rd,,  Jan-2025">
                             The SLII Experience™ T4T F2F-22nd-23rd,,  Jan-2025
                           </option>
-                          <option value="Getting Things Done®-7th,feb-2025">
-                            Getting Things Done®-7th,feb-2025
+                          <option value="Getting Things Done®-7th,, Feb-2025">
+                            Getting Things Done®-7th,, Feb-2025
                           </option>
-                          <option value="Disc Certification®-24th & 25th,feb-2025	">
-                            Disc Certification®-24th & 25th,feb-2025
+                          <option value="Disc Certification®-24th & 25th,, Feb-2025	">
+                            Disc Certification®-24th & 25th,, Feb-2025
                           </option>
-                          <option value="Crucial Influence-20th-21st,feb-2025		">
-                            Crucial Influence-20th-21st,feb-2025
+                          <option value="Crucial Influence-20th-21st,, Feb-2025		">
+                            Crucial Influence-20th-21st,, Feb-2025
                           </option>
                           <option value="Crucial Conversations® For Mastering Dialogue-6th-7th,March-2025">
                             Crucial Conversations for Mastering
