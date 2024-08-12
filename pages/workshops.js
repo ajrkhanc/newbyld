@@ -594,7 +594,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/1.webp" alt="" />
                   <span>Workshop 12th & 13th,  Sep-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -609,7 +609,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/2.webp" alt="" />
                   <span>Workshop 17th-18th,  Sep-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -625,7 +625,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/3.webp" alt="" />
                   <span>Workshop 19th-20th,  Sep-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -640,7 +640,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/4.webp" alt="" />
                   <span>Workshop 24th 25th 26th 27th,  Sep-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -655,7 +655,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/5.webp" alt="" />
                   <span>Workshop 10th &11th,  Oct-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -670,7 +670,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/6.webp" alt="" />
                   <span>Workshop 17th,  Oct-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -685,7 +685,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/7.webp" alt="" />
                   <span>Workshop 18th,  Oct-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -701,7 +701,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/8.webp" alt="" />
                   <span>Workshop 12th ,  Nov-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -716,7 +716,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/9.webp" alt="" />
                   <span>Workshop 20th , Dec-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -732,7 +732,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/10.webp" alt="" />
                   <span>Workshop 11th , Dec-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -747,7 +747,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/11.webp" alt="" />
                   <span>Workshop 10th 11th 12th 13th , Dec-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -762,7 +762,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/12.webp" alt="" />
                   <span>Workshop 10th , Dec-2024</span>
                 </div>
                 <div className="eventbottom">
@@ -777,7 +777,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/13.webp" alt="" />
                   <span>Workshop 24th ,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
@@ -792,7 +792,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/14.webp" alt="" />
                   <span>Workshop 20th ,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
@@ -807,7 +807,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/15.webp" alt="" />
                   <span>Workshop 22nd-23rd ,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
@@ -822,7 +822,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/16.webp" alt="" />
                   <span>Workshop 7th , Feb-2025</span>
                 </div>
                 <div className="eventbottom">
@@ -837,7 +837,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/17.webp" alt="" />
                   <span>Workshop 24th & 25th , Feb-2025</span>
                 </div>
                 <div className="eventbottom">
@@ -852,7 +852,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/18.webp" alt="" />
                   <span>Workshop 20th-21st , Feb-2025</span>
                 </div>
                 <div className="eventbottom">
@@ -867,7 +867,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/19.webp" alt="" />
                   <span>Workshop 6th-7th , Mar-2025</span>
                 </div>
                 <div className="eventbottom">
@@ -882,7 +882,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/20.webp" alt="" />
                   <span>Workshop 18th-19th , Mar-2025</span>
                 </div>
                 <div className="eventbottom">
@@ -897,7 +897,7 @@ export default function Workshops() {
             <div className="col-sm-4">
               <div className="eventsbox">
                 <div className="eventmiddle">
-                  <img src="/assets/img/events.jpg" alt="" />
+                  <img src="/assets/img/21.webp" alt="" />
                   <span>Workshop 20th-21st , Mar-2025</span>
                 </div>
                 <div className="eventbottom">
