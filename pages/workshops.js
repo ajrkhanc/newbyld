@@ -373,7 +373,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 22nd -23rd , 2024</span>
+                  <span>January 22nd -23rd, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Crucial Conversations® For Mastering Dialogue Workshop</h3>
@@ -388,7 +388,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 22nd, 23rd, 24th, 25th , 2024</span>
+                  <span>January 22nd, 23rd, 24th, 25th, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification®® Virtual Workshop</h3>
@@ -418,7 +418,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 23rd , 2024</span>
+                  <span>January 23rd, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification®® Virtual Workshop</h3>
@@ -433,7 +433,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 24th , 2024</span>
+                  <span>January 24th, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification®® Virtual Workshop</h3>
@@ -448,7 +448,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>January 25th , 2024</span>
+                  <span>January 25th, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification®® Virtual Workshop</h3>
@@ -475,7 +475,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 7th , 2024</span>
+                  <span>February 7th, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Getting Things Done® Workshop</h3>
@@ -490,7 +490,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 22nd & 23rd , 2024</span>
+                  <span>February 22nd & 23rd, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification®® In-Person Workshop</h3>
@@ -505,7 +505,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>February 16th , 2024</span>
+                  <span>February 16th, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification® Virtual Workshop</h3>
@@ -702,7 +702,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/8.webp" alt="" />
-                  <span>Workshop 12th ,  Nov-2024</span>
+                  <span>Workshop 12th,  Nov-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -717,7 +717,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/9.webp" alt="" />
-                  <span>Workshop 20th , Dec-2024</span>
+                  <span>Workshop 20th, Dec-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -733,7 +733,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/10.webp" alt="" />
-                  <span>Workshop 11th , Dec-2024</span>
+                  <span>Workshop 11th, Dec-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -748,7 +748,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/11.webp" alt="" />
-                  <span>Workshop 10th 11th 12th 13th , Dec-2024</span>
+                  <span>Workshop 10th 11th 12th 13th, Dec-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -763,7 +763,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/12.webp" alt="" />
-                  <span>Workshop 10th , Dec-2024</span>
+                  <span>Workshop 10th, Dec-2024</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -778,7 +778,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/13.webp" alt="" />
-                  <span>Workshop 24th ,  Jan-2025</span>
+                  <span>Workshop 24th,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -793,7 +793,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/14.webp" alt="" />
-                  <span>Workshop 20th ,  Jan-2025</span>
+                  <span>Workshop 20th,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -808,7 +808,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/15.webp" alt="" />
-                  <span>Workshop 22nd-23rd ,  Jan-2025</span>
+                  <span>Workshop 22nd-23rd,  Jan-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -823,7 +823,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/16.webp" alt="" />
-                  <span>Workshop 7th , Feb-2025</span>
+                  <span>Workshop 7th, Feb-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -838,7 +838,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/17.webp" alt="" />
-                  <span>Workshop 24th & 25th , Feb-2025</span>
+                  <span>Workshop 24th & 25th, Feb-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -853,7 +853,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/18.webp" alt="" />
-                  <span>Workshop 20th-21st , Feb-2025</span>
+                  <span>Workshop 20th-21st, Feb-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -868,7 +868,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/19.webp" alt="" />
-                  <span>Workshop 6th-7th , Mar-2025</span>
+                  <span>Workshop 6th-7th, Mar-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -883,7 +883,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/20.webp" alt="" />
-                  <span>Workshop 18th-19th , Mar-2025</span>
+                  <span>Workshop 18th-19th, Mar-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -898,7 +898,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/21.webp" alt="" />
-                  <span>Workshop 20th-21st , Mar-2025</span>
+                  <span>Workshop 20th-21st, Mar-2025</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
@@ -914,7 +914,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>March 20th , 2024</span>
+                  <span>March 20th, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification® Virtual Workshop</h3>
@@ -929,7 +929,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>March 21st , 2024</span>
+                  <span>March 21st, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification® Virtual Workshop</h3>
@@ -944,7 +944,7 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/events.jpg" alt="" />
-                  <span>March 22nd , 2024</span>
+                  <span>March 22nd, 2024</span>
                 </div>
                 <div className="eventbottom">
                   <h3>Disc Certification® Virtual Workshop</h3>
