@@ -793,7 +793,8 @@ export default function Workshops() {
               <div className="eventsbox">
                 <div className="eventmiddle">
                   <img src="/assets/img/14.webp" alt="" />
-                  <span>Workshop 20th,  Jan-2025</span>
+                  <span>Workshop 20th-21st, Jan-2025
+</span>
                 </div>
                 <div className="eventbottom">
                   {/* <h4 className="eventtitlec">Time: 4:00 PM - 5:00 PM</h4> */}
