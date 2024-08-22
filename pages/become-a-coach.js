@@ -1139,12 +1139,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa
                                                     <option value=''>Pick up any Slot*</option>   
                                                     
  
-                                                    <option value='48th Cohort, 24th August 2024'>48th Cohort, 24th August 2024</option> 
-                                                   
-                                                    <option value='49th Cohort, 19th october 2024'>49th Cohort, 19th october 2024</option> 
-                                                  
-                                                    <option value='50th Cohort, 14th december 2024'>50th Cohort, 14th december 2024</option> 
-                                                   
+                                                    <option value='batch 47 13 august 2024'>batch 47 13 august 2024</option> 
                                                     
                                                 </select>
                                             </div>
